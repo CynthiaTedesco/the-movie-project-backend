@@ -1,12 +1,13 @@
 'use strict';
-const {Client} = require('pg');
+import {Client} from 'pg';
+import 'dotenv/config';
 
 const client = new Client({
-    user: "postgres",
-    password: "root",
-    host: 'localhost',
-    port: 5433,
-    database: 'mp1'
+    user: process.env.DB_USER,
+    password: process.env.DB_PASSWORD,
+    host: process.env.DB_HOST,
+    port: process.env.DB_PORT,
+    database: process.env.DB_NAME,
 });
 
 export async function connectDB() {
