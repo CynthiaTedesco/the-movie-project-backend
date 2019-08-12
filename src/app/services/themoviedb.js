@@ -96,36 +96,39 @@ theMovieDb.common = {
 export async function data(qty=50, successCB, errorCB) {
     const blockbusters = await discoverMovies({quantity: qty}, successCB, errorCB);
     if (blockbusters.length){
-        blockbusters.map(async (b,i) => {
-            let details = await getMovieDetails({id: b.id}, successCB, errorCB);
+        const details = await Promise.all(blockbusters.map(async (b,i) => {
+            return getMovieDetails({id: b.id}, successCB, errorCB);
+        }));
+
+        return blockbusters.map(b=>{
             if (details){
-                const movie = {
-                    imdb_id: details.imdb_id,
-                    api_id: b.id,
-                    api_name: 'themoviedb',
-                    title: b.title,
-                    original_title: b.original_title,
-                    genres: details.genres,
-                    release_date: b.release_date,
-                    unlikely: b.unlikely,
-                    budget: details.budget,
-                    website: details.homepage,
-                    production_companies: details.production_companies,
-                    revenue: details.revenue,
-                    length: details.runtime,
-                    original_language: b.original_language,
-                    spoken_languages: details.spoken_languages,
-                    status: details.status,
-                    overview: b.overview,
-                    tagline: details.tagline,
-                };
-                // console.log('-------------data. CONSOLIDATED', movie);
-                return movie;
+                let detail = details.find(d=>d.id===b.id);
+                if (detail){
+                    return {
+                        imdb_id: detail.imdb_id,
+                        api_id: b.id,
+                        api_name: 'themoviedb',
+                        title: b.title,
+                        original_title: b.original_title,
+                        genres: detail.genres,
+                        release_date: b.release_date,
+                        unlikely: b.unlikely,
+                        budget: detail.budget,
+                        website: detail.homepage,
+                        production_companies: detail.production_companies,
+                        revenue: detail.revenue,
+                        length: detail.runtime,
+                        original_language: b.original_language,
+                        spoken_languages: detail.spoken_languages,
+                        status: detail.status,
+                        overview: b.overview,
+                        tagline: detail.tagline,
+                    };
+                }
             }
             return b;
         });
     }
-    // console.log('RETURNING BLOCKBUSTERS', blockbusters.length);
     return blockbusters;
 }
 
