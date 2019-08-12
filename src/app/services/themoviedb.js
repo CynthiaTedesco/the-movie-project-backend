@@ -16,7 +16,8 @@ theMovieDb.common = {
         var myOptions, query, option;
 
         myOptions = options || {};
-        query = "?api_key=" + theMovieDb.common.api_key + "&language=" + theMovieDb.common.language;
+        // query = "?api_key=" + theMovieDb.common.api_key + "&language=" + theMovieDb.common.language;
+        query = "?api_key=" + theMovieDb.common.api_key;
 
         if (Object.keys(myOptions).length > 0) {
             for (option in myOptions) {
@@ -78,48 +79,99 @@ theMovieDb.common = {
             )
             .catch((e) => {
                 if (e.response) {
-                    if (e.response.status === 401) {
-                        error('{"status_code":401,"status_message":"Unauthorized"}');
+                    switch (e.response.status) {
+                        case 401: error('{"status_code":401,"status_message":"Unauthorized"}'); break;
+                        case 429: error('{"status_code":429,"status_message":"Too many requests"}'); break;
+                        default: error('{"status_code":' + e.response.status + ',"status_message":'+e.response.statusText);
                     }
+                } else if (e.code) {
+                    if (e.code === 'ECONNABORTED') { error('{"status_code":408,"status_message":"Request timed out"}'); }
+                } else {
+                    error('{"status_code":' + e.code + ',"status_message":"Unhandled error"}');
                 }
-                if (e.code) {
-                    if (e.code === 'ECONNABORTED') {
-                        error('{"status_code":408,"status_message":"Request timed out"}');
-                    }
-                }
-                error('{"status_code":' + e.code + ',"status_message":"Unhandled error"}');
             });
     }
 };
 
-let quantity = 20;
+export async function data(qty=50, successCB, errorCB) {
+    const blockbusters = await discoverMovies({quantity: qty}, successCB, errorCB);
+    if (blockbusters.length){
+        blockbusters.map(async (b,i) => {
+            let details = await getMovieDetails({id: b.id}, successCB, errorCB);
+            if (details){
+                const movie = {
+                    imdb_id: details.imdb_id,
+                    api_id: b.id,
+                    api_name: 'themoviedb',
+                    title: b.title,
+                    original_title: b.original_title,
+                    genres: details.genres,
+                    release_date: b.release_date,
+                    unlikely: b.unlikely,
+                    budget: details.budget,
+                    website: details.homepage,
+                    production_companies: details.production_companies,
+                    revenue: details.revenue,
+                    length: details.runtime,
+                    original_language: b.original_language,
+                    spoken_languages: details.spoken_languages,
+                    status: details.status,
+                    overview: b.overview,
+                    tagline: details.tagline,
+                };
+                // console.log('-------------data. CONSOLIDATED', movie);
+                return movie;
+            }
+            return b;
+        });
+    }
+    // console.log('RETURNING BLOCKBUSTERS', blockbusters.length);
+    return blockbusters;
+}
 
-export async function data(qty, successCB, errorCB) {
-    quantity = qty;
-    const discoveredMovies = await discoverMovies({}, successCB, errorCB);
-    return discoveredMovies;
+async function getMovieDetails(options, success, error) {
+    'use strict';
+    theMovieDb.common.validateRequired(arguments, 3, options, ["id"]);
+    theMovieDb.common.validateCallbacks(success, error);
+
+    const response = await theMovieDb.common.client({
+            url: "movie/" + options.id + theMovieDb.common.generateQuery(options)
+        },
+        success,
+        error
+    );
+
+    return response && response.data ? response.data : {};
+}
+function markUnlikelyMovies(initial){
+    return initial.map(mm=>{
+        mm.unlikely = !mm.release_date || mm.vote_count<1000;
+        return mm;
+    });
 }
 
 async function discoverMovies(options, success, error) {
     theMovieDb.common.validateRequired(arguments, 3, "", "", true);
     theMovieDb.common.validateCallbacks(success, error);
 
-    const baseURL = "discover/movie" + theMovieDb.common.generateQuery(options);
+    const baseURL = "discover/movie" + theMovieDb.common.generateQuery(options) + '&sort_by=revenue.desc';
 
     const response = await theMovieDb.common.client({url: baseURL}, success, error);
 
     if (response) {
         const {total_results, total_pages, results} = response.data;
 
-        let movies = results;
-        if (total_pages > 1 && movies.length < quantity && quantity <= total_results) {
+        let movies = markUnlikelyMovies(results);
+        if (total_pages > 1 && movies.length < options.quantity && options.quantity <= total_results) {
             let page = 2;
             do {
-                let moreMovies = await theMovieDb.common.client({url: baseURL + '&page=' + page++}, success, error);
-                movies = movies.concat(moreMovies.data.results);
-            } while (movies.length < quantity)
+                let response = await theMovieDb.common.client({url: baseURL + '&page=' + page++}, success, error);
+                if(response && response.data){
+                    movies = movies.concat(markUnlikelyMovies(response.data.results));
+                }
+            } while (movies.length < quantity/2)
         }
-        // console.log('Success from themoviedb service!. Movies length', movies.length);
+        console.log('Success from themoviedb service!. Movies length', movies.length);
 
         return movies;
     }
