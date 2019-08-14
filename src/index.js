@@ -5,7 +5,9 @@ execute();
 
 async function execute() {
     console.log('executing index.js and about to call movies.list');
-    movies.list();
+    const allTheMovies = movies.list();
+
+    createDatabaseTables();
     // try {
     //     const client = await connectDB();
     //
@@ -19,3 +21,5 @@ async function execute() {
     //     await disconnectDB();
     // }
 }
+
+function createDatabaseTables(){}
