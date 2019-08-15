@@ -1,7 +1,7 @@
 import moment from 'moment';
 import uuid from 'uuid';
 
-class Movie {
+class Movie1 {
     /**
      * class constructor
      * @param {object} data
@@ -59,4 +59,4 @@ class Movie {
         return {};
     }
 }
-export default new Movie();
+export default new Movie1();
