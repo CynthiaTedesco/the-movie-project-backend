@@ -12,10 +12,13 @@ module.exports = (sequelize, type) => {
         director: type.INTEGER,
         writer: type.INTEGER,
         overview: type.STRING,
-        plot: type.INTEGER,
+        plot_line: type.INTEGER,
         budget: type.FLOAT,
         cast_quantity: type.INTEGER,
         poster: type.INTEGER,
         website: type.STRING,
+        word_count: type.INTEGER,
+    }, {
+        underscored: true
     })
 };
