@@ -12,5 +12,6 @@ function errorCB(data) {
 
 export async function list(){
     const theMovieDB_data = await themoviedb.data(movieQty, successCB, errorCB);
+    return theMovieDB_data;
 }
 
