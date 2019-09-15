@@ -12,7 +12,10 @@ import ProductionModel from './models/production';
 import RestrictionModel from './models/restriction';
 import PosterModel from './models/poster';
 import PosterTypeModel from './models/posterType';
+import StoryOriginModel from './models/storyOrigin'
+import CharacterModel from './models/character';
 
+import MovieGenreModel from './models/movieGenre';
 import MovieLanguageModel from './models/movieLanguage';
 import MovieProductionModel from './models/movieProduction';
 import MovieRestrictionModel from './models/movieRestrictions';
@@ -38,8 +41,10 @@ const Production = ProductionModel(sequelize, Sequelize);
 const Restriction = RestrictionModel(sequelize, Sequelize);
 const Poster = PosterModel(sequelize, Sequelize);
 const PosterType = PosterTypeModel(sequelize, Sequelize);
+const StoryOrigin = StoryOriginModel(sequelize, Sequelize);
+const Character = CharacterModel(sequelize, Sequelize);
 
-const MovieGenre = sequelize.define('movie_genre', {});
+const MovieGenre = MovieGenreModel(sequelize, Sequelize);
 const MovieLanguage = MovieLanguageModel(sequelize, Sequelize);
 const MovieProduction = MovieProductionModel(sequelize, Sequelize);
 const MovieRestriction = MovieRestrictionModel(sequelize, Sequelize);
@@ -58,6 +63,8 @@ Restriction.belongsToMany(Movie, {through: MovieRestriction});
 
 PosterType.hasOne(Poster);
 Poster.hasOne(Movie, {underscored: true});
+StoryOrigin.hasOne(Movie);
+Character.hasOne(Movie, {as: 'main_character'});
 
 //sequelize.sync() will create all of the tables in the specified database. If you pass {force: true} as a parameter to sync method, it will remove tables on every startup and create new ones. Needless to say, this is a viable option only for development.
 sequelize.sync({ force: true })

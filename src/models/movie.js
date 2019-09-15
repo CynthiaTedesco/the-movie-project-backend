@@ -17,7 +17,7 @@ module.exports = (sequelize, type) => {
         cast_quantity: type.INTEGER,
         poster: type.INTEGER,
         website: type.STRING,
-        word_count: type.INTEGER,
+        word_count: type.INTEGER
     }, {
         underscored: true
     })
