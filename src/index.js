@@ -1,12 +1,17 @@
-import {connectDB, disconnectDB} from './connection';
 import * as movies from './services/movies';
+import {closeConnection, syncModels} from "./sequelize";
+import {disconnectDB} from "./connection";
 
 execute();
 
 async function execute() {
     console.log('executing index.js and about to call movies.list');
     const allTheMovies = await movies.list();
-    createDatabaseTables(allTheMovies);
+
+    await syncModels();
+    populateTables(allTheMovies);
+
+    await closeConnection();
     // try {
     //     const client = await connectDB();
     //
@@ -21,6 +26,6 @@ async function execute() {
     // }
 }
 
-function createDatabaseTables(data){
-    console.log(data.length);
+function populateTables(data) {
+    console.log('populating data. with e.g. ----> ', data[0]);
 }

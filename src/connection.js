@@ -1,24 +1,28 @@
 'use strict';
-import {Client} from 'pg';
+import Sequelize from 'sequelize';
+
 import 'dotenv/config';
 
-const client = new Client({
-    user: process.env.DB_USERNAME,
-    password: process.env.DB_PASSWORD,
-    host: process.env.DB_HOST,
-    port: process.env.DB_PORT,
-    database: process.env.DB_NAME,
-});
+let db;
 
 export async function connectDB() {
+    db = new Sequelize(process.env.DB_NAME, process.env.DB_USERNAME, process.env.DB_PASSWORD, {
+        host: process.env.DB_HOST,
+        port: process.env.DB_PORT,
+        dialect: process.env.DB_DIALECT,
+        logging: false,
+        pool: {
+            max: 10,
+            min: 0,
+            acquire: 30000,
+            idle: 10000
+        }
+    });
 
-    await client.connect();
-    console.log('Client connected successfully');
-
-    return client;
+    return db;
 }
 
 export async function disconnectDB() {
-    client.end();
+    await db.close();
     console.log('Client disconnected successfully');
 }

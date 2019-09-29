@@ -4,8 +4,9 @@
   "main": "src/index.js",
   "license": "MIT",
   "scripts": {
-    "build": "nodemon --exec babel-node server.js --out-dir build",
-    "populate": "nodemon --exec babel-node src/index.js",
+    "build": "echo \"nodemon --exec babel-node build.js --out-dir build\" && exit 1",
+    "server": "nodemon --exec babel-node server.js",
+    "seed": "nodemon --exec babel-node src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {

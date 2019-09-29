@@ -19,8 +19,9 @@ import MovieGenreModel from './models/movieGenre';
 import MovieLanguageModel from './models/movieLanguage';
 import MovieProductionModel from './models/movieProduction';
 import MovieRestrictionModel from './models/movieRestrictions';
+import {connectDB, disconnectDB} from "./connection";
 
-const sequelize = new Sequelize('mp1', 'postgres', 'root', {
+const db = new Sequelize('mp1', 'postgres', 'root', {
     host: 'localhost',
     port: 5433,
     dialect: 'postgres',
@@ -34,23 +35,23 @@ const sequelize = new Sequelize('mp1', 'postgres', 'root', {
 
 // MovieGenre will be our way of tracking relationship between Movie and Genre models
 // each Movie can have multiple Genres and each Genre can belong to multiple movies
-const Movie = MovieModel(sequelize, Sequelize);
-const Genre = GenreModel(sequelize, Sequelize);
-const Language = LanguageModel(sequelize, Sequelize);
-const Production = ProductionModel(sequelize, Sequelize);
-const Restriction = RestrictionModel(sequelize, Sequelize);
-const Poster = PosterModel(sequelize, Sequelize);
-const PosterType = PosterTypeModel(sequelize, Sequelize);
-const StoryOrigin = StoryOriginModel(sequelize, Sequelize);
-const Character = CharacterModel(sequelize, Sequelize);
+export const Movie = MovieModel(db, Sequelize);
+export const Genre = GenreModel(db, Sequelize);
+const Language = LanguageModel(db, Sequelize);
+const Production = ProductionModel(db, Sequelize);
+const Restriction = RestrictionModel(db, Sequelize);
+const Poster = PosterModel(db, Sequelize);
+const PosterType = PosterTypeModel(db, Sequelize);
+const StoryOrigin = StoryOriginModel(db, Sequelize);
+const Character = CharacterModel(db, Sequelize);
 
-const MovieGenre = MovieGenreModel(sequelize, Sequelize);
-const MovieLanguage = MovieLanguageModel(sequelize, Sequelize);
-const MovieProduction = MovieProductionModel(sequelize, Sequelize);
-const MovieRestriction = MovieRestrictionModel(sequelize, Sequelize);
+const MovieGenre = MovieGenreModel(db, Sequelize);
+const MovieLanguage = MovieLanguageModel(db, Sequelize);
+const MovieProduction = MovieProductionModel(db, Sequelize);
+const MovieRestriction = MovieRestrictionModel(db, Sequelize);
 
-Movie.belongsToMany(Genre, { through: MovieGenre, unique: false });
-Genre.belongsToMany(Movie, { through: MovieGenre, unique: false });
+Movie.belongsToMany(Genre, {through: MovieGenre, unique: false});
+Genre.belongsToMany(Movie, {through: MovieGenre, unique: false});
 
 Movie.belongsToMany(Language, {through: MovieLanguage});
 Language.belongsToMany(Movie, {through: MovieLanguage});
@@ -66,13 +67,19 @@ Poster.hasOne(Movie, {underscored: true});
 StoryOrigin.hasOne(Movie);
 Character.hasOne(Movie, {as: 'main_character'});
 
-//sequelize.sync() will create all of the tables in the specified database. If you pass {force: true} as a parameter to sync method, it will remove tables on every startup and create new ones. Needless to say, this is a viable option only for development.
-sequelize.sync({ force: true })
-    .then(() => {
-        console.log(`Database & tables created!`)
-    });
+export async function syncModels() {
+    await connectDB();
 
-module.exports = {
-    Movie,
-    Genre,
-};
+    console.log('Synchronizing...');
+    //db.sync() will create all of the tables in the specified database.
+    // If you pass {force: true} , it will drop tables on every startup and create new ones.
+    // Needless to say, this is a viable option only for development.
+    db.sync({force: false})
+        .then(() => {
+            console.log('Tables have synced!');
+        });
+}
+
+export async function closeConnection() {
+    await disconnectDB();
+}

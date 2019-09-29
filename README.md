@@ -7,8 +7,8 @@ This project uses sequelize, express, dotenv and nodejs
 - express is a light-weight web application framework to help organize your web application into an MVC architecture on the server side
 - sequelize is a promise-based Node.js ORM for Postgres, MySQL, MariaDB, SQLite and Microsoft SQL Server. 
 
-The database tables creation is done by the function sync() inside sequelize.js file. This file is executed from server.js when we build the project by using:
+The database tables creation is done by the function sync() inside sequelize.js file. This file is executed from index.js when we start the seeder by using:
 ```
-yarn run build
+yarn seed
 ```
 
