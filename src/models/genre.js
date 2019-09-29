@@ -5,7 +5,11 @@ module.exports = (sequelize, type) => {
             primaryKey: true,
             autoIncrement: true
         },
-        name: type.STRING
+        name: {
+            type: type.STRING,
+            allowNull: false,
+            unique: true
+        }
     }, {
         underscored: true
     })

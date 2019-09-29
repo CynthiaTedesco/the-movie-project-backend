@@ -1,6 +1,6 @@
 import * as movies from './services/movies';
 import {closeConnection, syncModels} from "./sequelize";
-import {disconnectDB} from "./connection";
+import populate from "./seed";
 
 execute();
 
@@ -8,8 +8,8 @@ async function execute() {
     console.log('executing index.js and about to call movies.list');
     const allTheMovies = await movies.list();
 
-    await syncModels();
-    populateTables(allTheMovies);
+    const db = await syncModels();
+    await populate(allTheMovies, db);
 
     await closeConnection();
     // try {
@@ -24,8 +24,4 @@ async function execute() {
     // } finally {
     //     await disconnectDB();
     // }
-}
-
-function populateTables(data) {
-    console.log('populating data. with e.g. ----> ', data[0]);
 }

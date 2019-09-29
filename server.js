@@ -2,8 +2,6 @@
 
 // server.js
 import express from 'express';
-// import Movie from './src/controllers/Movie';
-import {Movie, Genre} from './src/sequelize'
 
 const app = express();
 app.use(express.json());
