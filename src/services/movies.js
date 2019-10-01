@@ -1,6 +1,6 @@
 import * as themoviedb from './themoviedb';
 
-const movieQty = 5;
+const movieQty = 200;
 
 function successCB(data) {
     // console.log("Success callback: ", data);

@@ -5,8 +5,14 @@ module.exports = (sequelize, type) => {
             primaryKey: true,
             autoIncrement: true
         },
-        imdb_id: type.STRING,
-        title: type.STRING,
+        imdb_id: {
+            type: type.STRING,
+            unique: true
+        },
+        title: {
+            type: type.STRING,
+            unique: true
+        },
         release_date: type.STRING,
         length: type.INTEGER,
         director: type.INTEGER,

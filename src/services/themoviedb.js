@@ -137,14 +137,16 @@ async function getMovieDetails(options, success, error) {
     theMovieDb.common.validateRequired(arguments, 3, options, ["id"]);
     theMovieDb.common.validateCallbacks(success, error);
 
-    const response = await theMovieDb.common.client({
+    const theMovieDbResponse = await theMovieDb.common.client({
             url: "movie/" + options.id + theMovieDb.common.generateQuery(options)
         },
         success,
         error
     );
 
-    return response && response.data ? response.data : {};
+    //TODO add another API to get the writer, actors, poster and so on.
+
+    return theMovieDbResponse && theMovieDbResponse.data ? theMovieDbResponse.data : {};
 }
 function markUnlikelyMovies(initial){
     return initial.map(mm=>{
@@ -172,7 +174,7 @@ async function discoverMovies(options, success, error) {
                 if(response && response.data){
                     movies = movies.concat(markUnlikelyMovies(response.data.results));
                 }
-            } while (movies.length < quantity/2)
+            } while (movies.length < options.quantity/2)
         }
         console.log('Success from themoviedb service!. Movies length', movies.length);
 

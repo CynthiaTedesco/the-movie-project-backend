@@ -66,7 +66,7 @@ export async function syncModels() {
     //db.sync() will create all of the tables in the specified database.
     // If you pass {force: true} , it will drop tables on every startup and create new ones.
     // Needless to say, this is a viable option only for development.
-    db.sync({force: true})
+    db.sync({force: false})
         .then(() => {
             console.log('Tables have synced!');
         });
