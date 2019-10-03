@@ -5,23 +5,10 @@ import populate from "./seed";
 execute();
 
 async function execute() {
-    console.log('executing index.js and about to call movies.list');
-    const allTheMovies = await movies.list();
+    movies.list().then(async allTheMovies => {
+        const db = await syncModels();
+        await populate(allTheMovies, db);
 
-    const db = await syncModels();
-    await populate(allTheMovies, db);
-
-    await closeConnection();
-    // try {
-    //     const client = await connectDB();
-    //
-    //     const results =
-    //         await client.query('select * from mp1_test_table');
-    //     console.table(results.rows);
-    //
-    // } catch (ex) {
-    //     console.log(`Something wrong happened ${ex}`);
-    // } finally {
-    //     await disconnectDB();
-    // }
+        await closeConnection();
+    });
 }

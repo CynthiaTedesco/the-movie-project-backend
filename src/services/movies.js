@@ -11,7 +11,8 @@ function errorCB(data) {
 }
 
 export async function list(){
-    const theMovieDB_data = await themoviedb.data(movieQty, successCB, errorCB);
-    return theMovieDB_data;
+    return themoviedb.data(movieQty, successCB, errorCB).then(theMovieDB_data => {
+        return theMovieDB_data;
+    });
 }
 

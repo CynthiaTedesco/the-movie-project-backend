@@ -68,7 +68,7 @@ export async function syncModels() {
     // Needless to say, this is a viable option only for development.
     db.sync({force: false})
         .then(() => {
-            console.log('Tables have synced!');
+            console.log('Tables have been synced!');
         });
 
     return db;

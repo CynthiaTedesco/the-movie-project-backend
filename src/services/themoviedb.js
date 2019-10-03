@@ -80,12 +80,19 @@ theMovieDb.common = {
             .catch((e) => {
                 if (e.response) {
                     switch (e.response.status) {
-                        case 401: error('{"status_code":401,"status_message":"Unauthorized"}'); break;
-                        case 429: error('{"status_code":429,"status_message":"Too many requests"}'); break;
-                        default: error('{"status_code":' + e.response.status + ',"status_message":'+e.response.statusText);
+                        case 401:
+                            error('{"status_code":401,"status_message":"Unauthorized"}');
+                            break;
+                        case 429:
+                            error('{"status_code":429,"status_message":"Too many requests"}');
+                            break;
+                        default:
+                            error('{"status_code":' + e.response.status + ',"status_message":' + e.response.statusText);
                     }
                 } else if (e.code) {
-                    if (e.code === 'ECONNABORTED') { error('{"status_code":408,"status_message":"Request timed out"}'); }
+                    if (e.code === 'ECONNABORTED') {
+                        error('{"status_code":408,"status_message":"Request timed out"}');
+                    }
                 } else {
                     error('{"status_code":' + e.code + ',"status_message":"Unhandled error"}');
                 }
@@ -93,43 +100,77 @@ theMovieDb.common = {
     }
 };
 
-export async function data(qty=50, successCB, errorCB) {
-    const blockbusters = await discoverMovies({quantity: qty}, successCB, errorCB);
-    if (blockbusters.length){
-        const details = await Promise.all(blockbusters.map(async (b,i) => {
-            return getMovieDetails({id: b.id}, successCB, errorCB);
-        }));
+const THE_MOVIE_DB_X_RATE = 40;
+const THE_MOVIE_DB_X_RATE_TIMEOUT = 10 * 1000;
 
-        return blockbusters.map(b=>{
-            if (details){
-                let detail = details.find(d=>d.id===b.id);
-                if (detail){
-                    return {
-                        imdb_id: detail.imdb_id,
-                        api_id: b.id,
-                        api_name: 'themoviedb',
-                        title: b.title,
-                        original_title: b.original_title,
-                        genres: detail.genres,
-                        release_date: b.release_date,
-                        unlikely: b.unlikely,
-                        budget: detail.budget,
-                        website: detail.homepage,
-                        production_companies: detail.production_companies,
-                        revenue: detail.revenue,
-                        length: detail.runtime,
-                        original_language: b.original_language,
-                        spoken_languages: detail.spoken_languages,
-                        status: detail.status,
-                        overview: b.overview,
-                        tagline: detail.tagline,
-                    };
-                }
-            }
-            return b;
+async function getMoviesDetails(blockbusters, successCB, errorCB) {
+    console.log('starting to get details...');
+
+    if (blockbusters.length) {
+        const chunks = getChunks(blockbusters);
+
+        const mappedChunksPromises = chunks.map(async chunk => {
+            const chunkMoviesPromises = chunk.map(movie => {
+                return getMovieDetails({id: movie.id}, successCB, errorCB)
+            });
+            return await Promise.all(chunkMoviesPromises);
         });
+        const resolvedPromisesArray = await Promise.all(mappedChunksPromises);
+        const merged = [].concat.apply([], resolvedPromisesArray);
+        return await merged;
+
+    } else {
+        return blockbusters;
     }
-    return blockbusters;
+
+}
+
+function getChunks(blockbusters) {
+    let i;
+    let j;
+    let chunks = [];
+    let chunk = 10; //THE_MOVIE_DB_X_RATE;
+
+    for (i = 0, j = blockbusters.length; i < j; i += chunk) {
+        chunks.push(blockbusters.slice(i, i + chunk));
+    }
+
+    return chunks;
+}
+
+export async function data(qty = 50, successCB, errorCB) {
+    const blockbusters = await discoverMovies({quantity: qty}, successCB, errorCB);
+
+    const details = await getMoviesDetails(blockbusters.slice(60, 90), successCB, errorCB);
+
+    return blockbusters.map(b => {
+        if (details) {
+            let detail = details.find(d => d.title === b.title);
+            if (detail) {
+                return {
+                    imdb_id: detail.imdb_id,
+                    api_id: b.id,
+                    api_name: 'themoviedb',
+                    title: b.title,
+                    original_title: b.original_title,
+                    genres: detail.genres,
+                    release_date: b.release_date,
+                    unlikely: b.unlikely,
+                    budget: detail.budget,
+                    website: detail.homepage,
+                    production_companies: detail.production_companies,
+                    revenue: detail.revenue,
+                    length: detail.runtime,
+                    original_language: b.original_language,
+                    spoken_languages: detail.spoken_languages,
+                    status: detail.status,
+                    overview: b.overview,
+                    tagline: detail.tagline,
+                };
+            }
+        }
+        return b;
+    });
 }
 
 async function getMovieDetails(options, success, error) {
@@ -148,9 +189,10 @@ async function getMovieDetails(options, success, error) {
 
     return theMovieDbResponse && theMovieDbResponse.data ? theMovieDbResponse.data : {};
 }
-function markUnlikelyMovies(initial){
-    return initial.map(mm=>{
-        mm.unlikely = !mm.release_date || mm.vote_count<1000;
+
+function markUnlikelyMovies(initial) {
+    return initial.map(mm => {
+        mm.unlikely = !mm.release_date || mm.vote_count < 1000;
         return mm;
     });
 }
@@ -161,7 +203,9 @@ async function discoverMovies(options, success, error) {
 
     const baseURL = "discover/movie" + theMovieDb.common.generateQuery(options) + '&sort_by=revenue.desc';
 
+    let requestCount = 0;
     const response = await theMovieDb.common.client({url: baseURL}, success, error);
+    requestCount++;
 
     if (response) {
         const {total_results, total_pages, results} = response.data;
@@ -171,12 +215,13 @@ async function discoverMovies(options, success, error) {
             let page = 2;
             do {
                 let response = await theMovieDb.common.client({url: baseURL + '&page=' + page++}, success, error);
-                if(response && response.data){
+                requestCount++;
+                if (response && response.data) {
                     movies = movies.concat(markUnlikelyMovies(response.data.results));
                 }
-            } while (movies.length < options.quantity/2)
+            } while (movies.length < options.quantity)
         }
-        console.log('Success from themoviedb service!. Movies length', movies.length);
+        console.log('Success from themoviedb discover service!. Movies length', movies.length);
 
         return movies;
     }
