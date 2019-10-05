@@ -3,7 +3,7 @@ import * as themoviedb from './themoviedb';
 const movieQty = 200;
 
 function successCB(data) {
-    // console.log("Success callback: ", data);
+    console.log("Success callback: ", data);
 }
 
 function errorCB(data) {

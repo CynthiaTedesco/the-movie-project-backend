@@ -101,23 +101,31 @@ theMovieDb.common = {
 };
 
 const THE_MOVIE_DB_X_RATE = 40;
-const THE_MOVIE_DB_X_RATE_TIMEOUT = 10 * 1000;
+const THE_MOVIE_DB_X_RATE_TIMEOUT = 12* 1000;
 
 async function getMoviesDetails(blockbusters, successCB, errorCB) {
-    console.log('starting to get details...');
 
     if (blockbusters.length) {
         const chunks = getChunks(blockbusters);
 
-        const mappedChunksPromises = chunks.map(async chunk => {
-            const chunkMoviesPromises = chunk.map(movie => {
-                return getMovieDetails({id: movie.id}, successCB, errorCB)
-            });
-            return await Promise.all(chunkMoviesPromises);
+        let results = [];
+        return new Promise(resolve=> {
+            for (let i = 0; i< chunks.length; i++){
+                setTimeout(async()=>{
+                    const chunk = chunks[i];
+
+                    const chunkMoviesPromises = chunk.map(movie => {
+                        return getMovieDetails({id: movie.id}, successCB, errorCB)
+                    });
+                    const chunkResults = await Promise.all(chunkMoviesPromises);
+                    results = results.concat(chunkResults);
+
+                    if(i === chunks.length-1){
+                        resolve(results);
+                    }
+                }, (i+1) * THE_MOVIE_DB_X_RATE_TIMEOUT);
+            }
         });
-        const resolvedPromisesArray = await Promise.all(mappedChunksPromises);
-        const merged = [].concat.apply([], resolvedPromisesArray);
-        return await merged;
 
     } else {
         return blockbusters;
@@ -129,7 +137,7 @@ function getChunks(blockbusters) {
     let i;
     let j;
     let chunks = [];
-    let chunk = 10; //THE_MOVIE_DB_X_RATE;
+    let chunk = THE_MOVIE_DB_X_RATE;
 
     for (i = 0, j = blockbusters.length; i < j; i += chunk) {
         chunks.push(blockbusters.slice(i, i + chunk));
@@ -141,7 +149,7 @@ function getChunks(blockbusters) {
 export async function data(qty = 50, successCB, errorCB) {
     const blockbusters = await discoverMovies({quantity: qty}, successCB, errorCB);
 
-    const details = await getMoviesDetails(blockbusters.slice(60, 90), successCB, errorCB);
+    const details = await getMoviesDetails(blockbusters, successCB, errorCB);
 
     return blockbusters.map(b => {
         if (details) {
