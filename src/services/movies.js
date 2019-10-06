@@ -1,4 +1,6 @@
-import * as themoviedb from './themoviedb';
+// import Movie from "../controllers/Movie";
+import MovieModel from "../models/movie";
+import Sequelize from "sequelize";
 
 const movieQty = 200;
 
@@ -10,18 +12,23 @@ function errorCB(data) {
     console.log("Error callback: " + data);
 }
 
-export async function list(){
-    const theMovieDB_data = await themoviedb.data(movieQty, successCB, errorCB);
+export async function list(db) {
+    // const theMovieDB_data = await themoviedb.data(movieQty, successCB, errorCB);
+
+    const Movie = MovieModel(db, Sequelize);
+    const localMovies = await Movie.findAll();
+
     const omdb_data = [];//await omdb.data(theMovieDB_data, successCB, errorCB);
 
     //TODO poster schema
-    //TODO add to model: actors; awards, type, boxOffice, imdbRating
     //TODO look at theMovieDB restrictions
     //TODO look for
 
-    const consolidated = theMovieDB_data.map(movie => {
+    const consolidated = localMovies.map(lm => {
+        let movie = lm.dataValues;
         const omdb_movie = omdb_data.find(om => movie.imdb_id ? om.imdbID === movie.imdb_id : om.title === movie.title);
-        if(omdb_movie){
+
+        if (omdb_movie) {
             movie.type = omdb_movie.type;
             movie.rated = omdb_movie.rated;
             movie.director = omdb_movie.director;

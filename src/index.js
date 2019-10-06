@@ -5,10 +5,9 @@ import populate from "./seed";
 execute();
 
 async function execute() {
-    movies.list().then(async allTheMovies => {
-        const db = await syncModels();
+    const db = await syncModels();
+    movies.list(db).then(async allTheMovies => {
         await populate(allTheMovies, db);
-
         await closeConnection();
     });
 }
