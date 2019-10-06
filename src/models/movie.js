@@ -15,8 +15,6 @@ module.exports = (sequelize, type) => {
         },
         release_date: type.STRING,
         length: type.INTEGER,
-        director: type.INTEGER,
-        writer: type.INTEGER,
         overview: type.TEXT,
         plot_line: type.STRING,
         budget: type.BIGINT,

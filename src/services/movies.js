@@ -1,4 +1,5 @@
-// import Movie from "../controllers/Movie";
+import * as themoviedb from './themoviedb';
+import * as omdb from './omdb';
 import MovieModel from "../models/movie";
 import Sequelize from "sequelize";
 
@@ -18,34 +19,32 @@ export async function list(db) {
     const Movie = MovieModel(db, Sequelize);
     const localMovies = await Movie.findAll();
 
-    const omdb_data = [];//await omdb.data(theMovieDB_data, successCB, errorCB);
+    const omdb_data = await
+        omdb.data(localMovies, successCB, errorCB);
 
     //TODO poster schema
     //TODO look at theMovieDB restrictions
-    //TODO look for
+    //TODO create writers schemas (manyToMany) and same for directors
 
     const consolidated = localMovies.map(lm => {
         let movie = lm.dataValues;
         const omdb_movie = omdb_data.find(om => movie.imdb_id ? om.imdbID === movie.imdb_id : om.title === movie.title);
 
         if (omdb_movie) {
-            movie.type = omdb_movie.type;
-            movie.rated = omdb_movie.rated;
-            movie.director = omdb_movie.director;
-            movie.writer = omdb_movie.writer;
-            movie.actors = omdb_movie.actors;
-            movie.awards = omdb_movie.awards;
-            movie.poster = omdb_movie.poster;
-            movie.imdbRating = omdb_movie.imdbRating;
-            movie.boxOffice = omdb_movie.BoxOffice;
+            movie.restrictions =[].push(omdb_movie.Rated);
+            movie.directors = omdb_movie.Director.split(', ');
+            movie.writers = omdb_movie.Writer.split(', ');
+            movie.actors = omdb_movie.Actors.split(', ');
+            movie.awards = omdb_movie.Awards;
+            movie.poster = omdb_movie.Poster;
+            movie.imdb_rating = omdb_movie.imdbRating;
+            movie.type = omdb_movie.Type;
+            movie.box_offfice = omdb_movie.BoxOffice !== 'N/A' ? omdb_movie.BoxOffice : '';
         }
 
         return movie;
     });
 
     return consolidated;
-    // return .then(theMovieDB_data => {
-    //     return theMovieDB_data;
-    // });
 }
 
