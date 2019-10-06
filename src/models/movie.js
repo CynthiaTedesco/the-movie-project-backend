@@ -21,7 +21,6 @@ module.exports = (sequelize, type) => {
         plot_line: type.STRING,
         budget: type.BIGINT,
         cast_quantity: type.INTEGER,
-        poster: type.INTEGER,
         website: type.STRING,
         word_count: type.INTEGER,
         revenue: type.BIGINT,

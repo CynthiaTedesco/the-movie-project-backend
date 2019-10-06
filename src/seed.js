@@ -38,7 +38,6 @@ export default async function populate(list, db) {
     await persistGenres(list, Genre);
     await persistProductions(list, Production);
     await persistLanguages(list, Language);
-    // await persistMovies(list, Movie);
 
     const allGenres = await Genre.findAll();
     const allMovies = await Movie.findAll();
@@ -65,35 +64,50 @@ export default async function populate(list, db) {
                     }
                 });
                 dbMovie = updatedResult[1][0];
-                console.log('');
             } else {
                 console.log('CREATING:', e.id, e.imdb_id, e.title);
                 dbMovie = await Movie.create(movieObj, {returning: true});
-                console.log('');
             }
 
-            // movie genre associations
-            if (e.genres && e.genres.length){
-                e.genres.forEach((movieGenre, i) => {
-                    const index = allGenres.findIndex(({dataValues}) => dataValues.name === movieGenre.name);
-                    if (index > -1){
-                        const genre_id = allGenres[index].dataValues.id;
-                        const movie_id = dbMovie.dataValues.id;
-                        MovieGenre.upsert({
-                            movie_id,
-                            genre_id,
-                            primary: i === 0
-                        });
+            // movie associations
+            setAssociations(e.genres, allGenres, dbMovie, MovieGenre, 'genre_id');
+            setAssociations(e.production_companies, allProducers, dbMovie, MovieProduction, 'production_id');
 
-                        // movie.addGenre(allGenres[index]);
-                    }
-                });
-            }
-
-            // console.log('sfsdsfsdf');
+            setMovieLanguageAssoc(e.original_language, allLanguages, dbMovie, MovieLanguage);
         })
     );
     // console.log('OP-------------------------------------------------------------------------------------------> ', Op);
+}
+
+function setMovieLanguageAssoc(language, dbAssociationsList, dbMovie, model){
+
+        if (language){
+            const index = dbAssociationsList.findIndex(({dataValues}) => dataValues.name === language);
+            if (index > -1){
+                let data = {};
+                data['movie_id'] = dbMovie.dataValues.id;
+                data['language_id'] = dbAssociationsList[index].dataValues.id;
+                data['primary'] = true;
+
+                model.upsert(data);
+            }
+        }
+}
+
+function setAssociations(toAssociateList, dbAssociationsList, dbMovie, model, assocKey){
+    if (toAssociateList && toAssociateList.length){
+        toAssociateList.forEach((assoc, i) => {
+            const index = dbAssociationsList.findIndex(({dataValues}) => dataValues.name === assoc.name);
+            if (index > -1){
+                let data = {};
+                data['movie_id'] = dbMovie.dataValues.id;
+                data[assocKey] = dbAssociationsList[index].dataValues.id;;
+                data['primary'] = i === 0;
+
+                model.upsert(data);
+            }
+        });
+    }
 }
 
 async function persistGenres(movies, model) {
@@ -104,11 +118,10 @@ async function persistGenres(movies, model) {
         });
 
     genresToSave.forEach(genre => model.upsert(genre));
-    // return model.bulkCreate(genresToSave,{ returning: true });
 }
 
 async function persistProductions(movies, model) {
-    const productionsToSave = getListWithoutDuplicates('production_companies', movies)
+    getListWithoutDuplicates('production_companies', movies)
         .map(production => {
             return {name: production.name, country: production.origin_country}
         })
@@ -124,7 +137,7 @@ async function persistProductions(movies, model) {
 }
 
 async function persistLanguages(movies, model) {
-    const languagesToSave = [...new Set([].concat.apply([], movies.map(movie => movie["original_language"])))]
+    [...new Set([].concat.apply([], movies.map(movie => movie["original_language"])))]
         .sort()
         .map(item => {
             return {code: item, name: item}

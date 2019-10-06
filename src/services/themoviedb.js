@@ -103,6 +103,25 @@ theMovieDb.common = {
 const THE_MOVIE_DB_X_RATE = 40;
 const THE_MOVIE_DB_X_RATE_TIMEOUT = 12* 1000;
 
+function markUnlikelyMovies(initial) {
+    return initial.map(mm => {
+        mm.unlikely = !mm.release_date || mm.vote_count < 1000;
+        return mm;
+    });
+}
+function getChunks(blockbusters) {
+    let i;
+    let j;
+    let chunks = [];
+    let chunk = THE_MOVIE_DB_X_RATE;
+
+    for (i = 0, j = blockbusters.length; i < j; i += chunk) {
+        chunks.push(blockbusters.slice(i, i + chunk));
+    }
+
+    return chunks;
+}
+
 async function getMoviesDetails(blockbusters, successCB, errorCB) {
 
     if (blockbusters.length) {
@@ -132,18 +151,53 @@ async function getMoviesDetails(blockbusters, successCB, errorCB) {
     }
 
 }
+async function getMovieDetails(options, success, error) {
+    'use strict';
+    theMovieDb.common.validateRequired(arguments, 3, options, ["id"]);
+    theMovieDb.common.validateCallbacks(success, error);
 
-function getChunks(blockbusters) {
-    let i;
-    let j;
-    let chunks = [];
-    let chunk = THE_MOVIE_DB_X_RATE;
+    const theMovieDbResponse = await theMovieDb.common.client({
+            url: "movie/" + options.id + theMovieDb.common.generateQuery(options)
+        },
+        success,
+        error
+    );
 
-    for (i = 0, j = blockbusters.length; i < j; i += chunk) {
-        chunks.push(blockbusters.slice(i, i + chunk));
+    //TODO add another API to get the writer, actors, poster and so on.
+
+    return theMovieDbResponse && theMovieDbResponse.data ? theMovieDbResponse.data : {};
+}
+async function discoverMovies(options, success, error) {
+    theMovieDb.common.validateRequired(arguments, 3, "", "", true);
+    theMovieDb.common.validateCallbacks(success, error);
+
+    const baseURL = "discover/movie" + theMovieDb.common.generateQuery(options) + '&sort_by=revenue.desc';
+
+    let requestCount = 0;
+    const response = await theMovieDb.common.client({url: baseURL}, success, error);
+    requestCount++;
+
+    if (response) {
+        const {total_results, total_pages, results} = response.data;
+
+        let movies = markUnlikelyMovies(results);
+        if (total_pages > 1 && movies.length < options.quantity && options.quantity <= total_results) {
+            let page = 2;
+            do {
+                let response = await theMovieDb.common.client({url: baseURL + '&page=' + page++}, success, error);
+                requestCount++;
+                if (response && response.data) {
+                    movies = movies.concat(markUnlikelyMovies(response.data.results));
+                }
+            } while (movies.length < options.quantity)
+        }
+        console.log('Success from themoviedb discover service!. Movies length', movies.length);
+
+        return movies;
     }
 
-    return chunks;
+    return [];
+
 }
 
 export async function data(qty = 50, successCB, errorCB) {
@@ -179,61 +233,4 @@ export async function data(qty = 50, successCB, errorCB) {
         }
         return b;
     });
-}
-
-async function getMovieDetails(options, success, error) {
-    'use strict';
-    theMovieDb.common.validateRequired(arguments, 3, options, ["id"]);
-    theMovieDb.common.validateCallbacks(success, error);
-
-    const theMovieDbResponse = await theMovieDb.common.client({
-            url: "movie/" + options.id + theMovieDb.common.generateQuery(options)
-        },
-        success,
-        error
-    );
-
-    //TODO add another API to get the writer, actors, poster and so on.
-
-    return theMovieDbResponse && theMovieDbResponse.data ? theMovieDbResponse.data : {};
-}
-
-function markUnlikelyMovies(initial) {
-    return initial.map(mm => {
-        mm.unlikely = !mm.release_date || mm.vote_count < 1000;
-        return mm;
-    });
-}
-
-async function discoverMovies(options, success, error) {
-    theMovieDb.common.validateRequired(arguments, 3, "", "", true);
-    theMovieDb.common.validateCallbacks(success, error);
-
-    const baseURL = "discover/movie" + theMovieDb.common.generateQuery(options) + '&sort_by=revenue.desc';
-
-    let requestCount = 0;
-    const response = await theMovieDb.common.client({url: baseURL}, success, error);
-    requestCount++;
-
-    if (response) {
-        const {total_results, total_pages, results} = response.data;
-
-        let movies = markUnlikelyMovies(results);
-        if (total_pages > 1 && movies.length < options.quantity && options.quantity <= total_results) {
-            let page = 2;
-            do {
-                let response = await theMovieDb.common.client({url: baseURL + '&page=' + page++}, success, error);
-                requestCount++;
-                if (response && response.data) {
-                    movies = movies.concat(markUnlikelyMovies(response.data.results));
-                }
-            } while (movies.length < options.quantity)
-        }
-        console.log('Success from themoviedb discover service!. Movies length', movies.length);
-
-        return movies;
-    }
-
-    return [];
-
 }
