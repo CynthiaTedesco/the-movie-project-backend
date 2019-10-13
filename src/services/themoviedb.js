@@ -105,7 +105,7 @@ const THE_MOVIE_DB_X_RATE_TIMEOUT = 12* 1000;
 
 function markUnlikelyMovies(initial) {
     return initial.map(mm => {
-        mm.unlikely = !mm.release_date || mm.vote_count < 1000;
+        mm.valid = !(!mm.release_date || mm.vote_count < 1000);
         return mm;
     });
 }
@@ -217,7 +217,7 @@ export async function data(qty = 50, successCB, errorCB) {
                     original_title: b.original_title,
                     genres: detail.genres,
                     release_date: b.release_date,
-                    unlikely: b.unlikely,
+                    valid: b.valid,
                     budget: detail.budget,
                     website: detail.homepage,
                     production_companies: detail.production_companies,

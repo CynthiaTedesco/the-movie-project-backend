@@ -5,6 +5,15 @@ module.exports = (sequelize, type) => {
             primaryKey: true,
             autoIncrement: true
         },
+        awards: type.STRING,
+        type: {
+            type: type.BIGINT
+        },
+        box_office: type.BIGINT,
+        imdb_rating: type.STRING,
+        poster: {
+            type: type.BIGINT
+        },
         imdb_id: {
             type: type.STRING,
             unique: true
@@ -22,8 +31,9 @@ module.exports = (sequelize, type) => {
         website: type.STRING,
         word_count: type.INTEGER,
         revenue: type.BIGINT,
-        unlikely: type.BOOLEAN
+        story_origin: type.BIGINT,
+        valid: type.BOOLEAN
     }, {
         underscored: true
     })
-};
+ };

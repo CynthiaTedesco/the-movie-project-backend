@@ -19,19 +19,44 @@ function findByTitle(title) {
                 console.log('returning data of "', title, '"');
                 return result.data;
             } else {
-                debugger;
+                console.log('not 200 status result');
+                return null;
             }
         })
         .catch(error => {
-            debugger;
+            console.log(error);
         })
 
 }
+function findByIMDB(imdb_id){
+    const url = 'http://www.omdbapi.com/?i=' + imdb_id + '&apikey=' + API_KEY;
+    console.log('Request URL = ', url);
 
-export function data(moviesList) {
-    const mapped = Promise.all(moviesList.map(localMovie => {
-        return findByTitle(localMovie.dataValues.title);
+    return axios.get(url)
+        .then(result => {
+            if (result.status === 200) {
+                console.log('returning data of "', imdb_id, '"');
+                return result.data;
+            } else {
+                console.log('not 200 status result');
+                return null;
+            }
+        })
+        .catch(error => {
+            console.log(error);
+        })
+}
+
+export async function data(moviesList) {
+    const mapped = await Promise.all(moviesList.map(localMovie => {
+        return findByTitle(localMovie.dataValues ? localMovie.dataValues.title : localMovie.title)
+            .then(foundByTitle => {
+                if (!foundByTitle){
+                    return findByIMDB(localMovie.dataValues ? localMovie.dataValues.imdb_id : localMovie.imdb_id)
+                }
+                return foundByTitle;
+            });
     }));
-    debugger;
+
     return mapped;
 }

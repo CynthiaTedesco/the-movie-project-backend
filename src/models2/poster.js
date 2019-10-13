@@ -5,7 +5,10 @@ module.exports = (sequelize, type) => {
             primaryKey: true,
             autoIncrement: true
         },
-        url: type.STRING
+        url: type.STRING,
+        type: {
+            type: type.BIGINT
+        }
     }, {
         underscored: true
     })
