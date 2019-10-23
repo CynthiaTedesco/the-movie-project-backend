@@ -4,8 +4,5 @@ module.exports = (sequelize, DataTypes) => {
     url: DataTypes.STRING,
     poster_type_id: DataTypes.INTEGER
   }, {});
-  poster.associate = function(models) {
-    poster.belongsTo(models.movies);
-  };
   return poster;
 };

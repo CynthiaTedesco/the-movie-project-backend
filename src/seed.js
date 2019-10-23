@@ -85,6 +85,7 @@ export default async function populate(list, db) {
             setAssociations(e.restrictions, allRestrictions, dbMovie, MovieRestriction, 'restriction_id');
             setPeopleAssociations(e, allPeople, dbMovie, {MovieWriter, MovieCharacter, MovieDirector}, 'person_id');
 
+            //TODO here is being mess up!!! zh??? Every association is true!!!
             setMovieLanguageAssoc(e.original_language, allLanguages, dbMovie, MovieLanguage);
         })
     );
@@ -203,6 +204,7 @@ async function persistProducers(movies, model) {
 }
 
 async function persistLanguages(movies, model) {
+    //TODO solve repeated values!
     [...new Set([].concat.apply([], movies.map(movie => movie["original_language"])))]
         .sort()
         .map(item => {

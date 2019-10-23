@@ -46,17 +46,17 @@ module.exports = (sequelize, DataTypes) => {
             as: 'restrictions',
             foreignKey: 'movie_id'
         });
-        movie.belongsToMany(models.character, {
+        movie.belongsToMany(models.person, {
             through: 'movies_characters',
             as: 'characters',
             foreignKey: 'movie_id'
         });
-        movie.belongsToMany(models.writer, {
+        movie.belongsToMany(models.person, {
             through: 'movies_writers',
             as: 'writers',
             foreignKey: 'movie_id'
         });
-        movie.belongsToMany(models.director, {
+        movie.belongsToMany(models.person, {
             through: 'movies_directors',
             as: 'directors',
             foreignKey: 'movie_id'
