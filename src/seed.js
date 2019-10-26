@@ -84,8 +84,6 @@ export default async function populate(list, db) {
             setAssociations(e.production_companies, allProducers, dbMovie, MovieProducer, 'producer_id');
             setAssociations(e.restrictions, allRestrictions, dbMovie, MovieRestriction, 'restriction_id');
             setPeopleAssociations(e, allPeople, dbMovie, {MovieWriter, MovieCharacter, MovieDirector}, 'person_id');
-
-            //TODO here is being mess up!!! zh??? Every association is true!!!
             setMovieLanguageAssoc(e.original_language, allLanguages, dbMovie, MovieLanguage);
         })
     );
@@ -188,6 +186,7 @@ async function persistGenres(movies, model) {
 }
 
 async function persistProducers(movies, model) {
+    //TODO fix repeated! get producers countries from m.production_countries
     getListWithoutDuplicates('production_companies', movies)
         .map(producer => {
             return {name: producer.name, country: producer.origin_country}
@@ -204,8 +203,9 @@ async function persistProducers(movies, model) {
 }
 
 async function persistLanguages(movies, model) {
-    //TODO solve repeated values!
-    [...new Set([].concat.apply([], movies.map(movie => movie["original_language"])))]
+    const unrepeated = [...new Set([].concat.apply([], movies.map(movie => movie["original_language"])))];
+
+    unrepeated
         .sort()
         .map(item => {
             return {code: item, name: item}

@@ -1,7 +1,10 @@
 'use strict';
 module.exports = (sequelize, DataTypes) => {
   const language = sequelize.define('language', {
-    name: DataTypes.STRING,
+    name: {
+      type: DataTypes.STRING,
+      unique:true
+    },
     code: {
       type: DataTypes.STRING,
       unique:true

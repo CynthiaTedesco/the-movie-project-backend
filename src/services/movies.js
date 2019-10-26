@@ -16,6 +16,7 @@ function errorCB(data) {
 
 export async function list(db) {
     // const theMovieDB_data = await themoviedb.data(movieQty, successCB, errorCB);
+    // fs.writeFileSync('./movies.json', JSON.stringify(theMovieDB_data));
 
 const data = fs.readFileSync('movies.json');
 const theMovieDB_data = JSON.parse(data);

@@ -34,7 +34,12 @@ app.get('/', (req, res) => {
 // });
 // get all movies
 app.get('/api/movies', (req, res) => {
-    models.movie.findAll().then(movies =>
+    models.movie.findAll( {
+        include: [{
+            model: models.language,
+            as: 'languages'
+        }]
+    }).then(movies =>
         res.status(200).send(movies)
     );
 });
