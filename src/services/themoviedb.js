@@ -221,6 +221,7 @@ export async function data(qty = 50, successCB, errorCB) {
                     budget: detail.budget,
                     website: detail.homepage,
                     production_companies: detail.production_companies,
+                    production_countries: detail.production_countries,
                     revenue: detail.revenue,
                     length: detail.runtime,
                     original_language: b.original_language,

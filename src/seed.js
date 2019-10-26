@@ -68,8 +68,8 @@ export default async function populate(list, db) {
                     returning: true,
                     where: {
                         [Op.or]: [
-                            e.imdb_id ? { imdb_id: e.imdb_id } : true,
-                            { title: e.title }
+                            e.imdb_id ? {imdb_id: e.imdb_id} : true,
+                            {title: e.title}
                         ]
                     }
                 });
@@ -90,26 +90,26 @@ export default async function populate(list, db) {
     // console.log('OP-------------------------------------------------------------------------------------------> ', Op);
 }
 
-function setMovieLanguageAssoc(language, dbAssociationsList, dbMovie, model){
+function setMovieLanguageAssoc(language, dbAssociationsList, dbMovie, model) {
 
-        if (language){
-            const index = dbAssociationsList.findIndex(({dataValues}) => dataValues.name === language);
-            if (index > -1){
-                let data = {};
-                data['movie_id'] = dbMovie.dataValues.id;
-                data['language_id'] = dbAssociationsList[index].dataValues.id;
-                data['primary'] = true;
+    if (language) {
+        const index = dbAssociationsList.findIndex(({dataValues}) => dataValues.name === language);
+        if (index > -1) {
+            let data = {};
+            data['movie_id'] = dbMovie.dataValues.id;
+            data['language_id'] = dbAssociationsList[index].dataValues.id;
+            data['primary'] = true;
 
-                model.upsert(data);
-            }
+            model.upsert(data);
         }
+    }
 }
 
-function setAssociations(toAssociateList, dbAssociationsList, dbMovie, model, assocKey){
-    if (toAssociateList && toAssociateList.length){
-        toAssociateList.filter(a=>a).forEach((assoc, i) => {
-            const index = dbAssociationsList.findIndex(({dataValues}) => dataValues.name === assoc.name || assoc);
-            if (index > -1){
+function setAssociations(toAssociateList, dbAssociationsList, dbMovie, model, assocKey) {
+    if (toAssociateList && toAssociateList.length) {
+        toAssociateList.filter(a => a).forEach((assoc, i) => {
+            const index = dbAssociationsList.findIndex(({dataValues}) => dataValues.name === assoc.name);
+            if (index > -1) {
                 let data = {};
                 data['movie_id'] = dbMovie.dataValues.id;
                 data[assocKey] = dbAssociationsList[index].dataValues.id;
@@ -121,15 +121,15 @@ function setAssociations(toAssociateList, dbAssociationsList, dbMovie, model, as
     }
 }
 
-function setPeopleAssociations(movie, dbPeopleList, dbMovie, models){
+function setPeopleAssociations(movie, dbPeopleList, dbMovie, models) {
     //writers
-    if (movie.writers && movie.writers.length){
-        movie.writers.filter(a=>a).forEach(mw => {
-            const writerName = mw.substring(0, mw.indexOf('(')>-1 ? mw.indexOf('(') : mw.length).trim();
-            const writerDetail = mw.indexOf('(')>-1 ? mw.substring(mw.indexOf('('), mw.length).trim() : '';
+    if (movie.writers && movie.writers.length) {
+        movie.writers.filter(a => a).forEach(mw => {
+            const writerName = mw.substring(0, mw.indexOf('(') > -1 ? mw.indexOf('(') : mw.length).trim();
+            const writerDetail = mw.indexOf('(') > -1 ? mw.substring(mw.indexOf('('), mw.length).trim() : '';
 
             const index = dbPeopleList.findIndex(({dataValues}) => dataValues.name === writerName);
-            if (index > -1){
+            if (index > -1) {
                 let data = {};
                 data['movie_id'] = dbMovie.dataValues.id;
                 data['person_id'] = dbPeopleList[index].dataValues.id;
@@ -141,10 +141,10 @@ function setPeopleAssociations(movie, dbPeopleList, dbMovie, models){
     }
 
     //actors
-    if (movie.actors && movie.actors.length){
-        movie.actors.filter(a=>a).forEach((ma, i) => {
+    if (movie.actors && movie.actors.length) {
+        movie.actors.filter(a => a).forEach((ma, i) => {
             const index = dbPeopleList.findIndex(({dataValues}) => dataValues.name === ma);
-            if (index > -1){
+            if (index > -1) {
                 let data = {};
                 data['movie_id'] = dbMovie.dataValues.id;
                 data['person_id'] = dbPeopleList[index].dataValues.id;
@@ -156,13 +156,13 @@ function setPeopleAssociations(movie, dbPeopleList, dbMovie, models){
     }
 
     //directors
-    if (movie.directors && movie.directors.length){
-        movie.directors.filter(a=>a).forEach((md,i)=>{
-            const directorName = md.substring(0, md.indexOf('(')>-1 ? md.indexOf('(') : md.length).trim();
-            const directorDetail = md.indexOf('(')>-1 ? md.substring(md.indexOf('('), md.length).trim() : '';
+    if (movie.directors && movie.directors.length) {
+        movie.directors.filter(a => a).forEach((md, i) => {
+            const directorName = md.substring(0, md.indexOf('(') > -1 ? md.indexOf('(') : md.length).trim();
+            const directorDetail = md.indexOf('(') > -1 ? md.substring(md.indexOf('('), md.length).trim() : '';
 
             const index = dbPeopleList.findIndex(({dataValues}) => dataValues.name === directorName);
-            if (index > -1){
+            if (index > -1) {
                 let data = {};
                 data['movie_id'] = dbMovie.dataValues.id;
                 data['person_id'] = dbPeopleList[index].dataValues.id;
@@ -186,11 +186,20 @@ async function persistGenres(movies, model) {
 }
 
 async function persistProducers(movies, model) {
-    //TODO fix repeated! get producers countries from m.production_countries
-    getListWithoutDuplicates('production_companies', movies)
-        .map(producer => {
-            return {name: producer.name, country: producer.origin_country}
-        })
+    const producersArray = movies.map(m => {
+        const production_countries = m['production_countries'] || [];
+        return (m['production_companies'] || []).map(pc => {
+            return {
+                name: pc.name,
+                country: pc.origin_country || (production_countries.length === 1 ? production_countries[0].iso_3166_1 : '')
+            }
+        });
+    });
+    const producers = [].concat.apply([], producersArray);
+    const unrepeated = producers.filter((thing, index, self) => thing &&
+        index === self.findIndex((t) => (t.name === thing.name)));
+
+    unrepeated
         .sort((a, b) => {
             if (a.name < b.name) {
                 return -1;
@@ -213,54 +222,56 @@ async function persistLanguages(movies, model) {
         .forEach(language => model.upsert(language));
 }
 
-async function persistPeople(movies, model){
+async function persistPeople(movies, model) {
     // await persistWriters(movies, model);
-    const writers = [].concat.apply([], movies.map(movie=> movie.writers));
+    const writers = [].concat.apply([], movies.map(movie => movie.writers));
 
-    const writersNames = [...new Set(writers.map((w,i,list)=>{
-        if (w){
+    const writersNames = [...new Set(writers.map((w, i, list) => {
+        if (w) {
             const opIndex = w.indexOf('(');
             const cpIndex = w.indexOf(')');
-            if (opIndex){
-                return w.substring(0, opIndex-1).trim();
+            if (opIndex) {
+                return w.substring(0, opIndex - 1).trim();
             }
 
-            if (cpIndex && !opIndex){
-                list[i-1] = list[i-1] + w;
+            if (cpIndex && !opIndex) {
+                list[i - 1] = list[i - 1] + w;
             }
 
             return w;
         }
     }))];
 
-    const directors = [].concat.apply([], movies.map(movie=> movie.directors));
-    const directorsNames = [...new Set(directors.map((d,i,list)=>{
-        if (d){
+    const directors = [].concat.apply([], movies.map(movie => movie.directors));
+    const directorsNames = [...new Set(directors.map((d, i, list) => {
+        if (d) {
             const opIndex = d.indexOf('(');
             const cpIndex = d.indexOf(')');
-            if (opIndex){
-                return d.substring(0, opIndex-1).trim();
+            if (opIndex) {
+                return d.substring(0, opIndex - 1).trim();
             }
 
-            if (cpIndex && !opIndex){
-                list[i-1] = list[i-1] + d;
+            if (cpIndex && !opIndex) {
+                list[i - 1] = list[i - 1] + d;
             }
 
             return d;
         }
     }))];
-    const actors = [...new Set([].concat.apply([], movies.map(movie=> movie.actors)))];
+    const actors = [...new Set([].concat.apply([], movies.map(movie => movie.actors)))];
 
-    const people = [...new Set(writersNames.concat(directorsNames).concat(actors))].filter(a=>a);
+    const people = [...new Set(writersNames.concat(directorsNames).concat(actors))].filter(a => a);
 
     people
-        .map(person => {return {name: person}}).sort()
+        .map(person => {
+            return {name: person}
+        }).sort()
         .forEach(person => model.upsert(person));
 }
 
-function persistRestrictions(movies, model){
+function persistRestrictions(movies, model) {
     [...new Set([].concat.apply([], movies.map(movie => movie["restrictions"])))]
-        .filter(a=>a)
+        .filter(a => a)
         .sort()
         .map(item => {
             return {name: item}
