@@ -1,8 +1,11 @@
 'use strict';
 module.exports = (sequelize, DataTypes) => {
-  const poster = sequelize.define('poster', {
-    url: DataTypes.STRING,
+  return sequelize.define('poster', {
+    url: {
+      type: DataTypes.STRING,
+      unique: true,
+      allowNull: false,
+    },
     poster_type_id: DataTypes.INTEGER
   }, {});
-  return poster;
 };

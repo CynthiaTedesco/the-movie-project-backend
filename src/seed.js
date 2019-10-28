@@ -46,7 +46,9 @@ export default async function populate(list, db) {
     await persistLanguages(list, Language);
     await persistPeople(list, Person);
     await persistRestrictions(list, Restriction);
+    await persistPosters(list, Poster);
 
+    const allPosters = await Poster.findAll();
     const allGenres = await Genre.findAll();
     const allMovies = await Movie.findAll();
     const allRestrictions = await Restriction.findAll();
@@ -56,7 +58,7 @@ export default async function populate(list, db) {
 
     await Promise.all(
         list.map(async (e, i) => {
-            const movieObj = movieDBObject(e);
+            const movieObj = movieDBObject(e, allPosters);
             let dbMovie = allMovies
                 .find(({dataValues}) => {
                     return dataValues.imdb_id === movieObj.imdb_id || dataValues.title === movieObj.title
@@ -84,14 +86,13 @@ export default async function populate(list, db) {
             setAssociations(e.production_companies, allProducers, dbMovie, MovieProducer, 'producer_id');
             setAssociations(e.restrictions, allRestrictions, dbMovie, MovieRestriction, 'restriction_id');
             setPeopleAssociations(e, allPeople, dbMovie, {MovieWriter, MovieCharacter, MovieDirector}, 'person_id');
-            setMovieLanguageAssoc(e.original_language, allLanguages, dbMovie, MovieLanguage);
+            setMovieLanguageAssociations(e.original_language, allLanguages, dbMovie, MovieLanguage);
         })
     );
     // console.log('OP-------------------------------------------------------------------------------------------> ', Op);
 }
 
-function setMovieLanguageAssoc(language, dbAssociationsList, dbMovie, model) {
-
+function setMovieLanguageAssociations(language, dbAssociationsList, dbMovie, model) {
     if (language) {
         const index = dbAssociationsList.findIndex(({dataValues}) => dataValues.name === language);
         if (index > -1) {
@@ -222,8 +223,17 @@ async function persistLanguages(movies, model) {
         .forEach(language => model.upsert(language));
 }
 
+async function persistPosters(movies, model) {
+
+    movies.map(movie => movie["poster"]).filter(a=>a)
+        .sort()
+        .map(item => {
+            return {url: item}
+        })
+        .forEach(poster => model.upsert(poster));
+}
+
 async function persistPeople(movies, model) {
-    // await persistWriters(movies, model);
     const writers = [].concat.apply([], movies.map(movie => movie.writers));
 
     const writersNames = [...new Set(writers.map((w, i, list) => {
@@ -279,7 +289,12 @@ function persistRestrictions(movies, model) {
         .forEach(restriction => model.upsert(restriction));
 }
 
-function movieDBObject(movie) {
+function movieDBObject(movie, dbPosters) {
+    if (movie.poster){
+        const posterIndex = dbPosters.findIndex(({dataValues}) => dataValues.url === movie.poster);
+        movie.poster = dbPosters[posterIndex].dataValues.id;
+    }
+
     return {
         imdb_id: movie.imdb_id,
         title: movie.title,
@@ -294,14 +309,9 @@ function movieDBObject(movie) {
         awards: movie.awards,
         box_offfice: movie.box_offfice,
         imdb_rating: movie.imdb_rating,
-        rated: movie.rated
+        rated: movie.rated,
+        poster_id: movie.poster
     }
-}
-
-async function persistMovies(movies, model) {
-    const moviesToSave = movies.map(movieDBObject);
-
-    moviesToSave.forEach(movie => model.upsert(movie));
 }
 
 function getListWithoutDuplicates(key, list) {

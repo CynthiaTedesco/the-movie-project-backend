@@ -65,9 +65,19 @@
       "Stephen McFeely (screenplay by)",
       "Stan Lee (based on the Marvel comics by)",
       "Jack Kirby (based on the Marvel comics by)",
+      "Joe Simon (Captain America created by)",
+      "Jack Kirby (Captain America created by)",
+      "Steve Englehart (Star-Lord created by)",
+      "Steve Gan (Star-Lord created by)",
+      "Bill Mantlo (Rocket Raccoon created by)",
+      "Keith Giffen (Rocket Raccoon created by)",
       "Jim Starlin (Thanos",
       " Gamora & Drax created by)",
-      "Jack Kirby (Groot created by)"
+      "Stan Lee (Groot created by)",
+      "Larry Lieber (Groot created by)",
+      "Jack Kirby (Groot created by)",
+      "Steve Englehart (Mantis created by)",
+      "Don Heck (Mantis created by)"
     ],
     "actors": [
       "Robert Downey Jr.",
@@ -77,7 +87,7 @@
     ],
     "awards": "N/A",
     "poster": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_SX300.jpg",
-    "imdb_rating": "8.6",
+    "imdb_rating": "8.5",
     "type": "movie",
     "box_offfice": ""
   },
@@ -2052,7 +2062,7 @@
     ],
     "awards": "N/A",
     "poster": "https://m.media-amazon.com/images/M/MV5BMGZlNTY1ZWUtYTMzNC00ZjUyLWE0MjQtMTMxN2E3ODYxMWVmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SX300.jpg",
-    "imdb_rating": "7.7",
+    "imdb_rating": "7.6",
     "type": "movie",
     "box_offfice": ""
   },
@@ -18694,7 +18704,7 @@
     ],
     "awards": "N/A",
     "poster": "https://m.media-amazon.com/images/M/MV5BMTYzMDM4NzkxOV5BMl5BanBnXkFtZTgwNzM1Mzg2NzM@._V1_SX300.jpg",
-    "imdb_rating": "8.1",
+    "imdb_rating": "8.0",
     "type": "movie",
     "box_offfice": ""
   }

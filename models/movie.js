@@ -19,13 +19,19 @@ module.exports = (sequelize, DataTypes) => {
         word_count: DataTypes.INTEGER,
         revenue: DataTypes.BIGINT,
         valid: DataTypes.BOOLEAN,
-        poster: {type: DataTypes.INTEGER, references: {model: 'posters', key: 'id'}},
-        story_origin: {type: DataTypes.INTEGER, references: {model: 'story_origins', key: 'id'}},
-        type: {type: DataTypes.INTEGER, references: {model: 'movie_types', key: 'id'}},
-        set_in_place: {type: DataTypes.INTEGER, references: {model: 'places', key: 'id'}},
-        set_in_time: {type: DataTypes.INTEGER, references: {model: 'times', key: 'id'}}
+        poster_id: {type: DataTypes.INTEGER, references: {model: 'posters', key: 'id'}},
+        story_origin_id: {type: DataTypes.INTEGER, references: {model: 'story_origins', key: 'id'}},
+        type_id: {type: DataTypes.INTEGER, references: {model: 'movie_types', key: 'id'}},
+        set_in_place_id: {type: DataTypes.INTEGER, references: {model: 'places', key: 'id'}},
+        set_in_time_id: {type: DataTypes.INTEGER, references: {model: 'times', key: 'id'}}
     }, {});
     movie.associate = function (models) {
+        movie.belongsTo(models.poster, {as: 'poster'});
+        movie.belongsTo(models.story_origin, {as: 'story_origin'});
+        movie.belongsTo(models.movie_type, {as: 'type'});
+        movie.belongsTo(models.place, {as: 'set_in_place'});
+        movie.belongsTo(models.time, {as: 'set_in_time'});
+
         movie.belongsToMany(models.genre, {
             through: 'movies_genres',
             as: 'genres',
