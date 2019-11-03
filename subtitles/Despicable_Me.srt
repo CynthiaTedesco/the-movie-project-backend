@@ -1,0 +1,5752 @@
+0
+00:00:01,456 --> 00:00:01,601
+<font color="#ff0000"><font color="#00ff00">S</font>ubtitle Created By : MUBDEE AL SADIK </font>
+
+1
+00:00:01,602 --> 00:00:01,747
+<font color="#ff0000"><font color="#00ff00">Su</font>btitle Created By : MUBDEE AL SADIK </font>
+
+2
+00:00:01,748 --> 00:00:01,893
+<font color="#ff0000"><font color="#00ff00">Sub</font>title Created By : MUBDEE AL SADIK </font>
+
+3
+00:00:01,894 --> 00:00:02,039
+<font color="#ff0000"><font color="#00ff00">Subt</font>itle Created By : MUBDEE AL SADIK </font>
+
+4
+00:00:02,040 --> 00:00:02,185
+<font color="#ff0000"><font color="#00ff00">Subti</font>tle Created By : MUBDEE AL SADIK </font>
+
+5
+00:00:02,186 --> 00:00:02,331
+<font color="#ff0000"><font color="#00ff00">Subtit</font>le Created By : MUBDEE AL SADIK </font>
+
+6
+00:00:02,332 --> 00:00:02,477
+<font color="#ff0000"><font color="#00ff00">Subtitl</font>e Created By : MUBDEE AL SADIK </font>
+
+7
+00:00:02,478 --> 00:00:02,623
+<font color="#ff0000"><font color="#00ff00">Subtitle</font> Created By : MUBDEE AL SADIK </font>
+
+8
+00:00:02,624 --> 00:00:02,768
+<font color="#ff0000"><font color="#00ff00">Subtitle </font>Created By : MUBDEE AL SADIK </font>
+
+9
+00:00:02,769 --> 00:00:02,914
+<font color="#ff0000"><font color="#00ff00">Subtitle C</font>reated By : MUBDEE AL SADIK </font>
+
+10
+00:00:02,915 --> 00:00:03,060
+<font color="#ff0000"><font color="#00ff00">Subtitle Cr</font>eated By : MUBDEE AL SADIK </font>
+
+11
+00:00:03,061 --> 00:00:03,206
+<font color="#ff0000"><font color="#00ff00">Subtitle Cre</font>ated By : MUBDEE AL SADIK </font>
+
+12
+00:00:03,207 --> 00:00:03,352
+<font color="#ff0000"><font color="#00ff00">Subtitle Crea</font>ted By : MUBDEE AL SADIK </font>
+
+13
+00:00:03,353 --> 00:00:03,498
+<font color="#ff0000"><font color="#00ff00">Subtitle Creat</font>ed By : MUBDEE AL SADIK </font>
+
+14
+00:00:03,499 --> 00:00:03,644
+<font color="#ff0000"><font color="#00ff00">Subtitle Create</font>d By : MUBDEE AL SADIK </font>
+
+15
+00:00:03,645 --> 00:00:03,790
+<font color="#ff0000"><font color="#00ff00">Subtitle Created</font> By : MUBDEE AL SADIK </font>
+
+16
+00:00:03,791 --> 00:00:03,936
+<font color="#ff0000"><font color="#00ff00">Subtitle Created </font>By : MUBDEE AL SADIK </font>
+
+17
+00:00:03,937 --> 00:00:04,082
+<font color="#ff0000"><font color="#00ff00">Subtitle Created B</font>y : MUBDEE AL SADIK </font>
+
+18
+00:00:04,083 --> 00:00:04,228
+<font color="#ff0000"><font color="#00ff00">Subtitle Created By</font> : MUBDEE AL SADIK </font>
+
+19
+00:00:04,229 --> 00:00:04,374
+<font color="#ff0000"><font color="#00ff00">Subtitle Created By </font>: MUBDEE AL SADIK </font>
+
+20
+00:00:04,375 --> 00:00:04,520
+<font color="#ff0000"><font color="#00ff00">Subtitle Created By :</font> MUBDEE AL SADIK </font>
+
+22
+00:00:04,521 --> 00:00:04,666
+<font color="#ff0000"><font color="#00ff00">Subtitle Created By : </font>MUBDEE AL SADIK </font>
+
+22
+00:00:04,667 --> 00:00:04,812
+<font color="#ff0000"><font color="#00ff00">Subtitle Created By : M</font>UBDEE AL SADIK </font>
+
+23
+00:00:04,813 --> 00:00:04,958
+<font color="#ff0000"><font color="#00ff00">Subtitle Created By : MU</font>BDEE AL SADIK </font>
+
+24
+00:00:04,959 --> 00:00:05,104
+<font color="#ff0000"><font color="#00ff00">Subtitle Created By : MUB</font>DEE AL SADIK </font>
+
+25
+00:00:05,105 --> 00:00:05,250
+<font color="#ff0000"><font color="#00ff00">Subtitle Created By : MUBD</font>EE AL SADIK </font>
+
+26
+00:00:05,251 --> 00:00:05,395
+<font color="#ff0000"><font color="#00ff00">Subtitle Created By : MUBDE</font>E AL SADIK </font>
+
+27
+00:00:05,396 --> 00:00:05,541
+<font color="#ff0000"><font color="#00ff00">Subtitle Created By : MUBDEE</font> AL SADIK </font>
+
+28
+00:00:05,542 --> 00:00:05,687
+<font color="#ff0000"><font color="#00ff00">Subtitle Created By : MUBDEE </font>AL SADIK </font>
+
+29
+00:00:05,688 --> 00:00:05,833
+<font color="#ff0000"><font color="#00ff00">Subtitle Created By : MUBDEE A</font>L SADIK </font>
+
+30
+00:00:05,834 --> 00:00:05,979
+<font color="#ff0000"><font color="#00ff00">Subtitle Created By : MUBDEE AL</font> SADIK </font>
+
+31
+00:00:05,980 --> 00:00:06,125
+<font color="#ff0000"><font color="#00ff00">Subtitle Created By : MUBDEE AL </font>SADIK </font>
+
+32
+00:00:06,126 --> 00:00:06,271
+<font color="#ff0000"><font color="#00ff00">Subtitle Created By : MUBDEE AL S</font>ADIK </font>
+
+33
+00:00:06,272 --> 00:00:06,417
+<font color="#ff0000"><font color="#00ff00">Subtitle Created By : MUBDEE AL SA</font>DIK </font>
+
+34
+00:00:06,418 --> 00:00:06,564
+<font color="#ff0000"><font color="#00ff00">Subtitle Created By : MUBDEE AL SAD</font>IK </font>
+
+34
+00:00:06,565 --> 00:00:06,700
+<font color="#ff0000"><font color="#00ff00">Subtitle Created By : MUBDEE AL SADI</font>K </font>
+
+34
+00:00:06,701 --> 00:00:06,844
+<font color="#ff0000"><font color="#00ff00">Subtitle Created By : MUBDEE AL SADIK</font </font>
+
+1
+00:00:27,647 --> 00:00:29,064
+<font color="#D900D9">(EXCLAIMING)</font>
+
+2
+00:00:29,232 --> 00:00:31,901
+<font color="#D900D9">(ORCHESTRA MUSIC BLARING)</font>
+
+3
+00:00:34,905 --> 00:00:35,863
+<font color="#D900D9">(GROANS)</font>
+
+4
+00:00:35,947 --> 00:00:37,323
+<font color="#D900D9">(WHIMPERS)</font>
+
+5
+00:00:38,658 --> 00:00:40,326
+<font color="#D900D9">(GRUNTING)</font>
+
+6
+00:00:58,428 --> 00:01:00,638
+<font color="#D900D9">(MYSTICAL INSTRUMENTAL MUSIC)</font>
+
+7
+00:01:22,452 --> 00:01:23,702
+<font color="#D900D9">(GROANS)</font>
+
+8
+00:01:24,621 --> 00:01:26,789
+<font color="#D900D9">(COUNTRY ROCK MUSIC PLAYING)</font>
+
+9
+00:01:35,590 --> 00:01:38,133
+<font color="#808080">WOMAN :</font> Excuse me, sir,
+is there a commode?
+
+10
+00:01:41,972 --> 00:01:43,305
+<font color="#D900D9">(GRUNTING)</font>
+
+11
+00:01:46,726 --> 00:01:48,769
+<font color="#D900D9">(GRUNTS)</font> Justin!
+
+12
+00:01:48,853 --> 00:01:51,939
+Quick, honey, take my picture.
+I got the pyramid in my hand.
+
+13
+00:01:55,151 --> 00:01:56,819
+<font color="#D900D9">(CAMERA CLICKING)</font>
+
+14
+00:02:01,116 --> 00:02:03,242
+Justin, you get
+back here right now!
+
+15
+00:02:03,660 --> 00:02:04,660
+No, stop!
+
+16
+00:02:04,744 --> 00:02:07,162
+No, no! Stop him!
+Go back! Don't climb!
+
+17
+00:02:07,414 --> 00:02:09,623
+<font color="#D900D9">(IMITATING
+AIRPLANE WHOOSHING)</font>
+
+18
+00:02:11,960 --> 00:02:12,960
+Wait, wait.
+
+19
+00:02:13,044 --> 00:02:15,129
+Hold on.
+Easy, little boy.
+
+20
+00:02:16,506 --> 00:02:18,757
+Okay, stop, child!
+Stop right there. No!
+
+21
+00:02:18,967 --> 00:02:19,967
+<font color="#D900D9">(GASPS)</font>
+
+22
+00:02:20,051 --> 00:02:23,012
+No, no, no! Oh!
+There he goes.
+
+23
+00:02:23,179 --> 00:02:24,179
+<font color="#D900D9">(GASPS)</font>
+
+24
+00:02:34,524 --> 00:02:35,691
+Justin!
+
+25
+00:02:44,409 --> 00:02:46,160
+I've got him!
+I've got him!
+
+26
+00:02:46,244 --> 00:02:47,494
+<font color="#D900D9">(GRUNTS)</font>
+
+27
+00:02:49,372 --> 00:02:51,040
+<font color="#D900D9">(AIR ESCAPING)</font>
+
+28
+00:02:57,130 --> 00:02:59,548
+Outrage in Egypt tonight
+as it was discovered
+
+29
+00:02:59,633 --> 00:03:02,426
+that the Great
+Pyramid of Giza
+had been stolen
+
+30
+00:03:02,510 --> 00:03:05,346
+and replaced by
+a giant inflatable replica.
+
+31
+00:03:05,555 --> 00:03:08,599
+There is panic
+throughout the globe
+as countries and citizens
+
+32
+00:03:08,892 --> 00:03:11,727
+try to protect
+their beloved landmarks.
+
+33
+00:03:12,312 --> 00:03:14,813
+Law enforcement
+still has no leads,
+
+34
+00:03:14,898 --> 00:03:17,316
+leaving everyone to wonder,
+which of the world's villains
+
+35
+00:03:17,400 --> 00:03:19,902
+is responsible
+for this heinous crime?
+
+36
+00:03:20,236 --> 00:03:22,029
+And where will
+he strike next?
+
+37
+00:03:30,413 --> 00:03:31,622
+<font color="#D900D9">(CRYING)</font>
+
+38
+00:04:10,954 --> 00:04:13,372
+I'm having a bad, bad day
+
+39
+00:04:13,456 --> 00:04:16,500
+It's about time
+that I get my way
+
+40
+00:04:16,584 --> 00:04:19,169
+Steamrolling whatever I see
+
+41
+00:04:19,838 --> 00:04:22,506
+Freeze ray! Freeze ray!
+Freeze ray! <font color="#D900D9">(LAUGHING)</font>
+
+42
+00:04:22,590 --> 00:04:24,717
+I'm having a bad, bad day
+
+43
+00:04:24,801 --> 00:04:27,845
+If you take it personal,
+that's okay
+
+44
+00:04:27,929 --> 00:04:30,556
+Watch, this is so fun to see
+
+45
+00:04:31,683 --> 00:04:33,267
+Despicable me
+
+46
+00:04:58,334 --> 00:05:00,294
+<font color="#808080">FRED :</font> Morning, Gru!
+
+47
+00:05:01,337 --> 00:05:02,713
+<font color="#D900D9">(CHUCKLING)</font>
+How you doing?
+
+48
+00:05:02,797 --> 00:05:04,840
+Hello, Fred.
+
+49
+00:05:04,924 --> 00:05:07,801
+FYI, your dog
+has been leaving
+
+50
+00:05:07,886 --> 00:05:09,970
+little bombs
+all over my yard,
+
+51
+00:05:10,054 --> 00:05:11,388
+and I don't
+appreciate it.
+
+52
+00:05:11,473 --> 00:05:14,099
+<font color="#D900D9">(LAUGHING)</font> Sorry.
+You know dogs.
+
+53
+00:05:14,184 --> 00:05:15,851
+They go wherever
+they want to go.
+
+54
+00:05:15,935 --> 00:05:17,686
+Unless they're dead.
+
+55
+00:05:18,229 --> 00:05:19,563
+<font color="#D900D9">(LAUGHING)</font>
+
+56
+00:05:20,273 --> 00:05:21,398
+I'm joking!
+
+57
+00:05:22,525 --> 00:05:25,402
+Although, it is true.
+Anyway, have a good one.
+
+58
+00:05:26,321 --> 00:05:28,947
+Oh, okay.
+Uh... Yeah.
+
+59
+00:05:29,741 --> 00:05:32,951
+Steamrolling whatever I see
+
+60
+00:05:33,870 --> 00:05:35,287
+Despicable me
+<font color="#D900D9">(LOUD SNORING)</font>
+
+61
+00:05:35,705 --> 00:05:38,123
+I'm having a bad, bad day
+
+62
+00:05:38,208 --> 00:05:40,876
+If you take it personal,
+that's okay
+
+63
+00:05:45,215 --> 00:05:46,882
+Despicable me
+<font color="#D900D9">(CONTINUES SNORING)</font>
+
+64
+00:05:50,261 --> 00:05:51,887
+<font color="#D900D9">(DOORBELL CHIMES)</font>
+
+65
+00:05:52,055 --> 00:05:55,307
+<font color="#D900D9">(GROANS)</font>
+You've got to be
+pulling on my leg!
+
+66
+00:05:59,229 --> 00:06:00,729
+<font color="#808080">MARGO :</font> Hello!
+
+67
+00:06:01,356 --> 00:06:03,232
+Cookies for sale.
+
+68
+00:06:05,360 --> 00:06:07,569
+Go away.
+I'm not home.
+
+69
+00:06:07,946 --> 00:06:10,405
+Yes, you are.
+I heard you.
+
+70
+00:06:10,573 --> 00:06:14,284
+<font color="#D900D9">(GASPS)</font> No, you didn't. This
+
+71
+00:06:14,369 --> 00:06:16,328
+is a recording.
+
+72
+00:06:16,412 --> 00:06:18,497
+<font color="#808080">MARGO :</font> No, it isn't.
+Yes, it is.
+
+73
+00:06:19,082 --> 00:06:23,293
+Watch this.
+Leave a message, beep.
+
+74
+00:06:23,795 --> 00:06:25,587
+<font color="#D900D9">(GRU SHOUTS IN PAIN)</font>
+
+75
+00:06:27,090 --> 00:06:28,882
+Goodbye,
+recorded message.
+
+76
+00:06:28,967 --> 00:06:30,801
+<font color="#808080">MARGO :</font> Agnes,
+come on.
+
+77
+00:06:33,263 --> 00:06:34,304
+Huh?
+
+78
+00:06:39,769 --> 00:06:40,978
+<font color="#D900D9">(SNAPS)</font>
+
+79
+00:06:41,104 --> 00:06:42,563
+<font color="#D900D9">(SCREAMS)</font> Kyle!
+
+80
+00:06:42,647 --> 00:06:46,650
+Bad dog! No!
+No, no. Sit. My muffin.
+
+81
+00:06:46,734 --> 00:06:47,901
+Gru!
+
+82
+00:06:48,570 --> 00:06:50,487
+Ah, Dr. Nefario.
+
+83
+00:06:50,655 --> 00:06:52,239
+I know how you
+must be feeling.
+
+84
+00:06:52,323 --> 00:06:55,784
+I, too, have encountered
+great disappointment,
+
+85
+00:06:56,452 --> 00:07:00,289
+but in my eyes,
+you will always be
+one of the greats.
+
+86
+00:07:00,957 --> 00:07:02,416
+What? What happened?
+
+87
+00:07:02,500 --> 00:07:03,917
+It's all over the news!
+
+88
+00:07:04,002 --> 00:07:06,044
+Some fella just
+stole a pyramid.
+
+89
+00:07:06,129 --> 00:07:09,381
+They're saying he makes
+all other villains look
+
+90
+00:07:10,174 --> 00:07:11,675
+lame.
+
+91
+00:07:14,012 --> 00:07:16,096
+Assemble the minions!
+
+92
+00:07:33,031 --> 00:07:34,239
+<font color="#D900D9">(YELPS)</font>
+
+93
+00:07:44,792 --> 00:07:46,668
+<font color="#D900D9">(COUNTING)</font>
+
+94
+00:07:46,753 --> 00:07:48,545
+Minions, assemble!
+
+95
+00:07:49,631 --> 00:07:51,048
+Okay. Okay.
+
+96
+00:07:53,134 --> 00:07:54,134
+Throo...
+
+97
+00:07:54,218 --> 00:07:55,844
+<font color="#D900D9">(SCREAMS IN PAIN)</font>
+
+98
+00:07:58,139 --> 00:07:59,222
+Hey!
+
+99
+00:07:59,349 --> 00:08:01,099
+<font color="#D900D9">(SPEAKING GIBBERISH)</font>
+
+100
+00:08:02,518 --> 00:08:03,936
+<font color="#D900D9">(SPEAKING GIBBERISH)</font>
+
+101
+00:08:07,649 --> 00:08:09,524
+<font color="#D900D9">(BOTH LAUGHING)</font>
+
+102
+00:08:12,820 --> 00:08:14,988
+<font color="#D900D9">(ALL MUTTERING INDISTINCTLY)</font>
+
+103
+00:08:17,450 --> 00:08:19,785
+<font color="#D900D9">(ALL SPEAKING GIBBERISH)</font>
+
+104
+00:08:39,555 --> 00:08:41,556
+<font color="#D900D9">(ALL CHEERING)</font>
+
+105
+00:08:46,688 --> 00:08:49,314
+Looking good, Kevin!
+How is the family? Good?
+
+106
+00:08:49,399 --> 00:08:50,649
+All right.
+
+107
+00:08:50,733 --> 00:08:53,735
+That's my Billy boy!
+What up, Larry?
+
+108
+00:08:54,737 --> 00:08:56,780
+Hello, everybody!
+
+109
+00:08:56,864 --> 00:08:58,740
+Yeah, all right!
+
+110
+00:08:58,825 --> 00:09:01,159
+Simmer down.
+Simmer down!
+
+111
+00:09:01,244 --> 00:09:03,161
+Thank you, okay.
+
+112
+00:09:03,246 --> 00:09:06,123
+Now, I realize that
+you guys probably heard
+
+113
+00:09:06,416 --> 00:09:09,000
+about this other villain
+who stole the pyramids.
+
+114
+00:09:09,085 --> 00:09:11,378
+Apparently,
+it's a big deal.
+
+115
+00:09:11,462 --> 00:09:14,881
+People are calling it
+the crime of the century
+and stuff like that.
+
+116
+00:09:14,966 --> 00:09:19,136
+But am I upset?
+No, I am not!
+
+117
+00:09:20,680 --> 00:09:22,055
+A little,
+
+118
+00:09:22,140 --> 00:09:26,101
+but we have had
+a pretty good year
+ourselves,
+
+119
+00:09:26,185 --> 00:09:29,020
+and you guys are
+all right in my book.
+
+120
+00:09:29,105 --> 00:09:30,105
+<font color="#D900D9">(EXCLAIMING)</font>
+
+121
+00:09:30,189 --> 00:09:31,440
+No, no raises!
+
+122
+00:09:31,524 --> 00:09:34,693
+You're not going
+to get any raises.
+
+123
+00:09:35,570 --> 00:09:37,195
+What did we do?
+
+124
+00:09:37,280 --> 00:09:43,285
+Well, we stole
+the Times Square JumboTron!
+
+125
+00:09:43,786 --> 00:09:44,995
+Nice!
+<font color="#D900D9">(ALL CHEERING)</font>
+
+126
+00:09:45,121 --> 00:09:46,580
+Huh?
+
+127
+00:09:46,664 --> 00:09:48,707
+That's how I roll.
+
+128
+00:09:49,125 --> 00:09:52,794
+Yeah, you all like
+watching football
+on that, huh?
+
+129
+00:09:53,629 --> 00:09:55,005
+But that's not all.
+
+130
+00:09:55,089 --> 00:09:58,383
+We stole
+the Statue of Liberty,
+
+131
+00:09:58,468 --> 00:10:00,051
+<font color="#D900D9">(ALL CHEERING)</font>
+
+132
+00:10:00,136 --> 00:10:02,471
+The small one
+from Las Vegas.
+
+133
+00:10:02,555 --> 00:10:04,556
+<font color="#D900D9">(EXCLAIMING DISAPPOINTEDLY)</font>
+
+134
+00:10:04,640 --> 00:10:08,643
+And I won't even mention
+the Eiffel Tower! Also Vegas.
+
+135
+00:10:08,728 --> 00:10:11,521
+Okay, I wasn't going to
+tell you about this yet,
+
+136
+00:10:11,606 --> 00:10:16,318
+but I have been working
+on something very big!
+
+137
+00:10:17,195 --> 00:10:21,573
+Something that will
+blow this pyramid thing
+out of the water!
+
+138
+00:10:22,158 --> 00:10:26,495
+And thanks to the efforts
+of my good friend
+Dr. Nefario...
+
+139
+00:10:26,871 --> 00:10:27,913
+Thank you!
+
+140
+00:10:27,997 --> 00:10:29,706
+<font color="#808080">GRU :</font> Oh, there he is.
+
+141
+00:10:29,791 --> 00:10:31,291
+He's styling.
+
+142
+00:10:31,876 --> 00:10:35,253
+Now, we have located
+a shrink ray
+
+143
+00:10:35,338 --> 00:10:39,966
+in a secret lab,
+and once we take
+this shrink ray,
+
+144
+00:10:40,259 --> 00:10:43,428
+we will have the capability
+
+145
+00:10:43,513 --> 00:10:47,516
+to pull off the true
+crime of the century.
+
+146
+00:10:48,267 --> 00:10:50,685
+We are going to steal...
+
+147
+00:10:53,231 --> 00:10:57,651
+Wait, wait! I haven't
+told you what it is yet.
+
+148
+00:10:58,528 --> 00:10:59,820
+<font color="#D900D9">(MINIONS EXCLAIMING)</font>
+
+149
+00:11:01,030 --> 00:11:02,030
+Hey.
+
+150
+00:11:02,114 --> 00:11:04,241
+Dave, listen up, please.
+
+151
+00:11:08,871 --> 00:11:12,290
+Next, we are going to steal,
+
+152
+00:11:12,375 --> 00:11:14,709
+<font color="#D900D9">(SOFTLY)</font> pause for effect,
+
+153
+00:11:15,545 --> 00:11:17,462
+the moon!
+
+154
+00:11:17,547 --> 00:11:18,839
+<font color="#D900D9">(MINIONS CHEERING)</font>
+
+155
+00:11:18,923 --> 00:11:22,759
+And once the moon is mine,
+
+156
+00:11:23,219 --> 00:11:27,556
+the world will give me
+whatever I want
+to get it back!
+
+157
+00:11:27,640 --> 00:11:32,978
+And I will be
+the greatest villain
+of all time!
+
+158
+00:11:36,023 --> 00:11:39,484
+That's what
+I'm talking about.
+
+159
+00:11:39,569 --> 00:11:41,361
+<font color="#D900D9">(CELL PHONE RINGING)</font>
+
+160
+00:11:41,821 --> 00:11:42,863
+Yes?
+
+161
+00:11:43,030 --> 00:11:46,741
+Hello, Gru? I've been
+crunching some numbers,
+
+162
+00:11:46,826 --> 00:11:49,995
+and I really don't see
+how we can afford this.
+
+163
+00:11:50,079 --> 00:11:52,914
+It can't be done.
+I'm not a miracle worker.
+
+164
+00:11:53,374 --> 00:11:54,958
+Hey, chillax.
+
+165
+00:11:55,042 --> 00:11:58,712
+I'll just get another loan
+from the bank. They love me!
+
+166
+00:12:13,019 --> 00:12:14,269
+<font color="#D900D9">(EXCLAIMS)</font>
+
+167
+00:12:14,353 --> 00:12:16,062
+Edith, stop it!
+
+168
+00:12:16,147 --> 00:12:18,273
+What? I'm just walking.
+
+169
+00:12:25,948 --> 00:12:27,490
+<font color="#D900D9">(KEYS CLACKING)</font>
+
+170
+00:12:31,078 --> 00:12:33,163
+<font color="#808080">ALL :</font> Hi, Miss Hattie.
+We're back.
+
+171
+00:12:36,042 --> 00:12:37,542
+Hello, girls!
+
+172
+00:12:37,627 --> 00:12:40,462
+Anybody come to adopt us
+while we were out?
+
+173
+00:12:40,630 --> 00:12:43,423
+Mmm. Let me think.
+
+174
+00:12:43,883 --> 00:12:44,966
+No!
+
+175
+00:12:48,179 --> 00:12:51,306
+Edith! What did you
+put on my desk?
+
+176
+00:12:51,682 --> 00:12:53,350
+A mud pie.
+
+177
+00:12:53,434 --> 00:12:58,021
+<font color="#D900D9">(SIGHS)</font> You're never
+gonna get adopted, Edith.
+You know that, don't you?
+
+178
+00:12:58,105 --> 00:12:59,564
+Yeah, I know.
+
+179
+00:12:59,649 --> 00:13:00,649
+Good.
+
+180
+00:13:00,733 --> 00:13:04,110
+So, how did it go, girls?
+Did we meet our quotas?
+
+181
+00:13:04,946 --> 00:13:06,237
+Sort of.
+
+182
+00:13:06,322 --> 00:13:10,575
+We sold 43 mini-mints,
+30 choco-swirlies,
+and 18 coco-nutties.
+
+183
+00:13:12,495 --> 00:13:14,663
+<font color="#D900D9">(SIGHS)</font> Okay.
+
+184
+00:13:15,039 --> 00:13:18,917
+Well, you say that like
+it's a great sale day.
+
+185
+00:13:19,001 --> 00:13:21,169
+Look at my face!
+
+186
+00:13:21,253 --> 00:13:24,506
+Do you still think
+it's a great sale day?
+
+187
+00:13:25,424 --> 00:13:27,425
+Eighteen coco-nutties.
+
+188
+00:13:27,843 --> 00:13:32,514
+I think we can do a little
+better than that, don't you?
+
+189
+00:13:33,349 --> 00:13:34,391
+Yeah.
+
+190
+00:13:34,475 --> 00:13:38,853
+We wouldn't want to spend
+the weekend in the
+Box of Shame, would we? No.
+
+191
+00:13:39,271 --> 00:13:40,438
+<font color="#808080">ALL :</font> No, Miss Hattie.
+
+192
+00:13:40,523 --> 00:13:44,234
+Okay, good. Off you go.
+Go clean something of mine.
+
+193
+00:13:46,320 --> 00:13:47,529
+Hi, Penny.
+Hi, Penny.
+
+194
+00:13:47,613 --> 00:13:48,780
+Hi, guys.
+
+195
+00:13:52,660 --> 00:13:53,660
+<font color="#D900D9">(CELL PHONE RINGING)</font>
+
+196
+00:13:53,744 --> 00:13:56,955
+Hello, Mom. Sorry,
+I meant to call, but...
+
+197
+00:13:57,331 --> 00:14:00,583
+I just wanted to
+congratulate you
+on stealing the pyramid.
+
+198
+00:14:00,918 --> 00:14:03,044
+<font color="#D900D9">(SIGHING)</font>
+That was you,
+wasn't it?
+
+199
+00:14:03,379 --> 00:14:07,549
+Or was it a villain
+who's actually successful?
+<font color="#D900D9">(LAUGHING)</font>
+
+200
+00:14:08,050 --> 00:14:10,802
+Just so you know, Mom,
+I am about to do something
+
+201
+00:14:10,886 --> 00:14:13,680
+that's very, very big,
+very important.
+
+202
+00:14:14,056 --> 00:14:16,808
+When you hear about it,
+you're going to be
+very proud.
+
+203
+00:14:17,143 --> 00:14:18,268
+<font color="#D900D9">(SCOFFS)</font>
+
+204
+00:14:18,352 --> 00:14:21,563
+Good luck with that.
+Okay, I'm out of here.
+
+205
+00:14:23,065 --> 00:14:24,733
+<font color="#D900D9">(GRUNTING)</font>
+
+206
+00:15:06,776 --> 00:15:08,443
+<font color="#D900D9">(BREATHES DEEPLY)</font>
+
+207
+00:15:29,882 --> 00:15:31,966
+Gru to see Mr. Perkins.
+
+208
+00:15:32,426 --> 00:15:34,469
+Yes, please have a seat.
+
+209
+00:15:46,065 --> 00:15:48,858
+<font color="#808080">NEIL ARMSTRONG :</font> That's one
+small step for man,
+
+210
+00:15:51,362 --> 00:15:53,112
+one giant leap for mankind.
+
+211
+00:15:53,197 --> 00:15:55,990
+Ma, someday I'm going
+to go to the moon.
+
+212
+00:15:56,116 --> 00:15:58,952
+<font color="#D900D9">(SCOFFS)</font> I'm afraid
+you're too late, Son.
+
+213
+00:15:59,286 --> 00:16:01,704
+NASA isn't sending
+the monkeys anymore.
+
+214
+00:16:10,464 --> 00:16:11,506
+Hey.
+
+215
+00:16:18,931 --> 00:16:23,142
+<font color="#808080">VECTOR :</font>I'm applying
+for a new villain loan.
+Go by the name of Vector.
+
+216
+00:16:27,731 --> 00:16:29,232
+It's a mathematical term,
+
+217
+00:16:29,316 --> 00:16:33,820
+a quantity represented
+by an arrow, with both
+direction and magnitude.
+
+218
+00:16:37,825 --> 00:16:39,826
+Vector! That's me,
+
+219
+00:16:39,910 --> 00:16:45,164
+'cause I'm committing
+crimes with both
+direction and magnitude.
+
+220
+00:16:45,249 --> 00:16:46,916
+Oh, yeah!
+
+221
+00:16:49,044 --> 00:16:50,628
+Check out
+my new weapon.
+
+222
+00:16:50,713 --> 00:16:52,964
+Piranha gun! Oh, yes!
+
+223
+00:16:53,048 --> 00:16:55,174
+Fires live piranhas.
+Ever seen one before?
+
+224
+00:16:55,259 --> 00:16:56,843
+No, you haven't.
+I invented it.
+
+225
+00:16:56,927 --> 00:16:59,095
+Do you want
+a demonstration?
+
+226
+00:16:59,597 --> 00:17:02,140
+Oh! Shoot!
+So difficult,
+sometimes,
+
+227
+00:17:02,224 --> 00:17:04,309
+to get the piranha
+back inside of my...
+<font color="#D900D9">(EXCLAIMS)</font>
+
+228
+00:17:04,393 --> 00:17:06,895
+<font color="#808080">RECEPTIONIST :</font> Mr. Gru,
+Mr. Perkins will see you now.
+
+229
+00:17:07,897 --> 00:17:09,063
+<font color="#808080">GRU :</font> So, all I need
+
+230
+00:17:09,148 --> 00:17:12,150
+is money from the bank
+to build a rocket.
+
+231
+00:17:12,234 --> 00:17:15,236
+And then,
+the moon is ours.
+Wow!
+
+232
+00:17:16,113 --> 00:17:17,989
+Well, very nice
+presentation.
+
+233
+00:17:18,073 --> 00:17:20,325
+I'd like to see
+this shrink ray.
+
+234
+00:17:20,409 --> 00:17:23,119
+Absolutely! Will do.
+
+235
+00:17:23,203 --> 00:17:24,579
+<font color="#D900D9">(SOFTLY)</font>
+Soon as I have it.
+
+236
+00:17:25,623 --> 00:17:27,582
+<font color="#808080">PERKINS :</font>You don't have it?
+
+237
+00:17:27,666 --> 00:17:31,169
+And yet you have
+the audacity to ask
+the bank for money?
+
+238
+00:17:32,379 --> 00:17:33,922
+Apparently.
+
+239
+00:17:34,006 --> 00:17:38,343
+Do you have any idea
+of the capital that this bank
+has invested in you, Gru?
+
+240
+00:17:39,386 --> 00:17:44,015
+With far too few
+of your sinister plots
+actually turning a profit.
+
+241
+00:17:44,850 --> 00:17:48,686
+How can I put it?
+Let's say this apple is you.
+
+242
+00:17:49,271 --> 00:17:51,773
+If we don't start
+getting our money back...
+
+243
+00:17:53,609 --> 00:17:55,276
+Get the picture?
+
+244
+00:17:56,695 --> 00:18:00,281
+Look, Gru, the point is,
+there are a lot of
+new villains out there,
+
+245
+00:18:00,616 --> 00:18:03,409
+younger than you,
+hungrier than you,
+
+246
+00:18:03,494 --> 00:18:05,536
+younger than you.
+
+247
+00:18:05,621 --> 00:18:07,872
+Like that young fellow
+out there named Vector.
+
+248
+00:18:07,957 --> 00:18:09,624
+He just stole a pyramid!
+
+249
+00:18:14,129 --> 00:18:16,214
+<font color="#808080">GRU :</font>I've got it.
+I've got it.
+
+250
+00:18:16,632 --> 00:18:20,218
+Um... So, as far as getting
+money for the rocket...
+
+251
+00:18:20,302 --> 00:18:23,304
+<font color="#808080">PERKINS :</font>Get the shrink ray,
+then we'll talk.
+
+252
+00:18:37,444 --> 00:18:38,486
+<font color="#D900D9">(YELPING)</font>
+
+253
+00:19:16,859 --> 00:19:18,693
+<font color="#D900D9">(MECHANICAL WHIRRING)</font>
+
+254
+00:19:31,832 --> 00:19:33,207
+<font color="#D900D9">(HIGH-PITCHED
+TRUMPETING)</font>
+
+255
+00:19:34,126 --> 00:19:35,168
+<font color="#D900D9">(RUMBLING)</font>
+
+256
+00:19:44,511 --> 00:19:46,220
+<font color="#D900D9">(INAUDIBLE)</font>
+
+257
+00:19:49,600 --> 00:19:51,476
+<font color="#D900D9">(SHOUTING DESPERATELY)</font>
+
+258
+00:19:52,311 --> 00:19:53,978
+<font color="#D900D9">(LAUGHS)</font> Suckers!
+
+259
+00:19:54,063 --> 00:19:55,438
+<font color="#D900D9">(GRUNTING)</font>
+
+260
+00:19:59,401 --> 00:20:00,735
+Suckers!
+
+261
+00:20:01,195 --> 00:20:02,612
+<font color="#D900D9">(GROANS)</font>
+
+262
+00:20:07,659 --> 00:20:08,951
+Ah-ha! We got it!
+
+263
+00:20:13,540 --> 00:20:15,917
+<font color="#D900D9">(BOTH LAUGHING)</font>
+<font color="#D900D9">(METAL SIZZLING)</font>
+
+264
+00:20:16,001 --> 00:20:17,126
+What?
+
+265
+00:20:17,211 --> 00:20:20,004
+Hey! Hey! What! Hey!
+
+266
+00:20:21,757 --> 00:20:22,757
+No, no, no!
+
+267
+00:20:26,303 --> 00:20:27,470
+You!
+
+268
+00:20:27,679 --> 00:20:29,013
+<font color="#D900D9">(LAUGHING)</font>
+
+269
+00:20:30,432 --> 00:20:34,185
+Now, maybe you'll
+think twice before you
+freeze someone's head!
+
+270
+00:20:34,269 --> 00:20:36,104
+So long, Gru!
+
+271
+00:20:36,230 --> 00:20:37,730
+<font color="#D900D9">(LAUGHING)</font>
+
+272
+00:20:37,815 --> 00:20:39,440
+Quick!
+We can't let him get away!
+
+273
+00:20:39,525 --> 00:20:40,608
+<font color="#D900D9">(WHOOPING)</font>
+
+274
+00:20:47,908 --> 00:20:49,617
+<font color="#808080">GRU :</font> Up ahead!
+Up ahead!
+
+275
+00:20:50,494 --> 00:20:52,078
+Fire! Fire, now!
+
+276
+00:20:52,162 --> 00:20:53,955
+<font color="#D900D9">(MACHINE GUN FIRING)</font>
+<font color="#D900D9">(LAUGHING EXCITEDLY)</font>
+
+277
+00:21:01,130 --> 00:21:02,130
+Oops, you missed me!
+
+278
+00:21:02,214 --> 00:21:04,257
+<font color="#808080">GRU :</font> Come to papa!
+
+279
+00:21:17,479 --> 00:21:18,813
+Take that.
+
+280
+00:21:20,816 --> 00:21:23,151
+How adorable.
+<font color="#D900D9">(CHUCKLES)</font>
+
+281
+00:21:23,735 --> 00:21:25,278
+<font color="#808080">GRU :</font> Got you
+in our sights!
+
+282
+00:21:25,863 --> 00:21:28,281
+Like taking candy
+from a...
+
+283
+00:21:28,365 --> 00:21:29,365
+What?
+
+284
+00:21:30,367 --> 00:21:32,493
+Ha! Hey, Gru!
+
+285
+00:21:32,578 --> 00:21:35,705
+<font color="#808080">VECTOR :</font>Try this on for size!
+
+286
+00:21:37,166 --> 00:21:39,876
+That's weird.
+What is going...
+
+287
+00:21:43,881 --> 00:21:44,881
+<font color="#D900D9">(SCREECHES)</font>
+
+288
+00:21:44,965 --> 00:21:46,841
+This is claustrophobic!
+
+289
+00:21:48,218 --> 00:21:49,635
+No, no, no!
+
+290
+00:21:50,554 --> 00:21:52,013
+<font color="#D900D9">(GRUNTING)</font>
+
+291
+00:21:53,182 --> 00:21:54,515
+<font color="#D900D9">(LAUGHING)</font>
+
+292
+00:21:55,475 --> 00:21:57,894
+Too small!
+This is too small for me!
+
+293
+00:21:58,145 --> 00:21:59,562
+<font color="#D900D9">(ALL SCREAM)</font>
+
+294
+00:22:02,691 --> 00:22:03,941
+<font color="#D900D9">(GROANS)</font>
+
+295
+00:22:04,276 --> 00:22:06,027
+I hate that guy!
+
+296
+00:22:12,826 --> 00:22:14,827
+...and please
+watch over us,
+
+297
+00:22:14,912 --> 00:22:16,871
+and bless that we'll have
+a good night's sleep.
+
+298
+00:22:16,955 --> 00:22:18,456
+And bless that
+while we're sleeping,
+
+299
+00:22:18,540 --> 00:22:20,958
+no bugs will
+crawl into our ears
+
+300
+00:22:21,043 --> 00:22:23,377
+and lay eggs
+in our brains.
+
+301
+00:22:23,712 --> 00:22:26,339
+Great. Thanks for
+that image, Edith.
+
+302
+00:22:26,965 --> 00:22:29,717
+And please bless
+that someone will
+adopt us soon,
+
+303
+00:22:29,801 --> 00:22:32,720
+and that the mommy
+and daddy will be nice
+
+304
+00:22:32,804 --> 00:22:34,722
+and have a pet unicorn.
+
+305
+00:22:35,140 --> 00:22:36,349
+Amen.
+
+306
+00:22:36,433 --> 00:22:38,226
+Amen.
+Amen.
+
+307
+00:22:43,023 --> 00:22:46,317
+<font color="#808080">AGNES :</font> <font color="#D900D9">(SINGING)</font>
+Unicorns, I love them
+Unicorns, I love them
+
+308
+00:22:46,401 --> 00:22:50,154
+Uni, uni, unicorns
+I love them
+
+309
+00:22:50,822 --> 00:22:53,866
+Uni, unicorns,
+I could pet one
+
+310
+00:22:54,243 --> 00:22:56,327
+If they were really real
+<font color="#D900D9">(SIGHS)</font>
+
+311
+00:22:56,411 --> 00:22:57,495
+And they are
+
+312
+00:22:57,579 --> 00:23:00,164
+So, I bought one
+so I could pet it
+
+313
+00:23:00,582 --> 00:23:03,459
+Now it loves me
+Now I love it
+
+314
+00:23:03,543 --> 00:23:05,544
+La, la, la, la, la
+
+315
+00:23:39,579 --> 00:23:41,455
+<font color="#D900D9">(ALARM BEEPING RAPIDLY)</font>
+
+316
+00:23:50,048 --> 00:23:51,799
+<font color="#D900D9">(VIDEO GAME SOUNDS)</font>
+
+317
+00:24:00,851 --> 00:24:01,892
+<font color="#D900D9">(GROANING)</font>
+
+318
+00:24:04,313 --> 00:24:05,313
+<font color="#D900D9">(GRUNTS)</font>
+
+319
+00:24:07,441 --> 00:24:08,774
+<font color="#D900D9">(GROANING)</font>
+
+320
+00:24:14,990 --> 00:24:16,240
+<font color="#D900D9">(GRUNTS)</font>
+
+321
+00:24:20,245 --> 00:24:22,621
+Don't you...
+<font color="#D900D9">(EXCLAIMS)</font> What the...
+
+322
+00:24:36,178 --> 00:24:38,137
+<font color="#D900D9">(MOANING)</font>
+
+323
+00:24:48,523 --> 00:24:50,274
+<font color="#D900D9">(CHUCKLING)</font>
+
+324
+00:24:52,486 --> 00:24:54,320
+Oh, good luck,
+little girls!
+
+325
+00:24:59,534 --> 00:25:01,702
+Whoa! Cool.
+
+326
+00:25:02,788 --> 00:25:06,832
+Hi! We're orphans
+from Miss Hattie's
+Home for Girls.
+
+327
+00:25:06,917 --> 00:25:08,876
+<font color="#808080">VECTOR :</font> I don't care.
+Beat it!
+Come on!
+
+328
+00:25:08,960 --> 00:25:12,213
+We're selling cookies
+so, you know, we can
+have a better future.
+
+329
+00:25:12,297 --> 00:25:15,132
+<font color="#808080">VECTOR :</font> Ooh! Wait, wait!
+Do you have coco-nutties?
+Yeah.
+
+330
+00:25:37,280 --> 00:25:39,406
+Light bulb.
+
+331
+00:25:42,494 --> 00:25:43,828
+Dr. Nefario!
+Huh?
+
+332
+00:25:43,912 --> 00:25:47,164
+I'm going to need
+a dozen tiny robots
+disguised as cookies!
+
+333
+00:25:47,249 --> 00:25:49,208
+What?
+Cookie robots!
+
+334
+00:25:49,292 --> 00:25:51,710
+Who is this?
+Oh, forget it.
+
+335
+00:25:53,296 --> 00:25:54,839
+<font color="#D900D9">(CHUCKLING)</font>
+
+336
+00:25:58,343 --> 00:26:01,137
+Well, it appears you have
+cleared our background check,
+
+337
+00:26:01,680 --> 00:26:03,430
+Dr. Gru.
+
+338
+00:26:06,184 --> 00:26:08,853
+Oh! And I see you
+have made a list
+
+339
+00:26:08,937 --> 00:26:12,690
+of some of your
+personal achievements.
+
+340
+00:26:13,024 --> 00:26:15,609
+Thank you for that.
+I love reading.
+
+341
+00:26:16,820 --> 00:26:18,320
+<font color="#D900D9">(MUMBLING GIBBERISH)</font>
+
+342
+00:26:23,368 --> 00:26:25,828
+And I see
+you have been given
+the Medal of Honor
+
+343
+00:26:25,912 --> 00:26:28,038
+and a knighthood.
+
+344
+00:26:30,417 --> 00:26:31,917
+Me, me, me.
+Me, me, me.
+
+345
+00:26:32,002 --> 00:26:33,002
+Kevin?
+
+346
+00:26:33,086 --> 00:26:34,461
+<font color="#D900D9">(BOTH SPEAK GIBBERISH)</font>
+
+347
+00:26:34,963 --> 00:26:37,047
+You had your own
+cooking show
+
+348
+00:26:37,132 --> 00:26:41,093
+and you can hold
+your breath
+for 30 seconds?
+
+349
+00:26:41,178 --> 00:26:42,887
+It's not that
+impressive.
+
+350
+00:26:42,971 --> 00:26:43,971
+Uh... <font color="#D900D9">(BLOWS RASPBERRY)</font>
+
+351
+00:26:44,055 --> 00:26:45,055
+<font color="#D900D9">(GROANS)</font>
+
+352
+00:26:45,140 --> 00:26:46,348
+Idiot! <font color="#D900D9">(CHUCKLES)</font>
+
+353
+00:26:48,393 --> 00:26:51,187
+<font color="#808080">ALL :</font> Fight! Fight!
+Fight! Fight!
+
+354
+00:26:53,148 --> 00:26:55,524
+What in the name of...
+What?
+
+355
+00:26:55,609 --> 00:26:56,609
+<font color="#D900D9">(GRU CLEARS THROAT)</font>
+
+356
+00:26:56,693 --> 00:26:59,904
+Well, here's the dealio.
+
+357
+00:26:59,988 --> 00:27:04,909
+Things have been
+so lonely since my wife,
+
+358
+00:27:06,828 --> 00:27:09,246
+Debbie, passed on.
+
+359
+00:27:09,331 --> 00:27:12,499
+It's like
+my heart is a tooth,
+
+360
+00:27:13,126 --> 00:27:18,005
+and it's got a cavity
+that can only be filled
+with children.
+
+361
+00:27:18,423 --> 00:27:19,590
+I'm sorry.
+
+362
+00:27:24,012 --> 00:27:27,181
+You are a beautiful woman.
+Do you speak Spanish?
+
+363
+00:27:27,682 --> 00:27:30,059
+Do I look like
+I speak Spanish?
+
+364
+00:27:31,937 --> 00:27:35,481
+You have a face
+como un burro.
+
+365
+00:27:37,776 --> 00:27:38,943
+Oh!
+
+366
+00:27:39,027 --> 00:27:41,528
+Well, thank you!
+<font color="#D900D9">(GIGGLES)</font>
+
+367
+00:27:43,031 --> 00:27:46,700
+Anyway, can we proceed
+with this adoption?
+
+368
+00:27:46,785 --> 00:27:48,369
+So, so excited!
+
+369
+00:27:50,288 --> 00:27:53,666
+Please tell Margo,
+Edith and Agnes
+to come to the lobby.
+
+370
+00:27:53,875 --> 00:27:55,459
+<font color="#D900D9">(ALL SCREAMING)</font>
+
+371
+00:27:56,711 --> 00:27:58,420
+I bet the mom
+is beautiful!
+
+372
+00:27:58,505 --> 00:28:00,631
+I bet the daddy's
+eyes sparkle.
+
+373
+00:28:00,715 --> 00:28:03,550
+I bet their house is
+made of Gummi Bears.
+
+374
+00:28:04,511 --> 00:28:06,804
+I'm just saying
+it'd be nice.
+
+375
+00:28:07,222 --> 00:28:11,141
+Aw! My caterpillar never
+turned into a butterfly.
+
+376
+00:28:11,226 --> 00:28:12,768
+That's a Cheeto.
+
+377
+00:28:12,852 --> 00:28:13,894
+Oh!
+
+378
+00:28:16,064 --> 00:28:19,566
+Well, Debbie was
+a very lucky woman.
+
+379
+00:28:21,945 --> 00:28:23,320
+Who's Debbie?
+
+380
+00:28:23,405 --> 00:28:25,239
+Your wife.
+<font color="#D900D9">(DOOR OPENS)</font>
+
+381
+00:28:25,323 --> 00:28:26,824
+Oh! Hi, girls!
+
+382
+00:28:36,876 --> 00:28:39,670
+Girls, I want you
+to meet Mr. Gru.
+
+383
+00:28:41,089 --> 00:28:43,090
+He's going to adopt you.
+
+384
+00:28:43,174 --> 00:28:45,759
+And he's a dentist!
+
+385
+00:28:48,096 --> 00:28:49,430
+Yeah! <font color="#D900D9">(CHUCKLING)</font>
+
+386
+00:28:51,641 --> 00:28:53,058
+Um...
+
+387
+00:28:53,143 --> 00:28:57,521
+Hi. I'm Margo.
+This is Edith.
+
+388
+00:28:58,106 --> 00:28:59,898
+And that's Agnes.
+
+389
+00:28:59,983 --> 00:29:01,942
+<font color="#D900D9">(SING-SONG)</font>
+I got your leg,
+I got your leg!
+
+390
+00:29:02,027 --> 00:29:05,112
+<font color="#808080">GRU :</font> Okay, that is enough,
+little girl.
+
+391
+00:29:05,196 --> 00:29:07,531
+Let go of my leg.
+Come on. You can do it.
+Higher!
+
+392
+00:29:07,615 --> 00:29:09,908
+Higher! <font color="#D900D9">(LAUGHS)</font>
+Just release
+your grip. Wow!
+
+393
+00:29:10,201 --> 00:29:13,370
+How do you remove them?
+Is there a command?
+
+394
+00:29:13,455 --> 00:29:15,414
+Some nonstick spray?
+
+395
+00:29:17,042 --> 00:29:19,293
+Crowbar? <font color="#D900D9">(SIGHS)</font>
+
+396
+00:29:20,378 --> 00:29:23,047
+Okay, girls, let's go.
+
+397
+00:29:35,101 --> 00:29:36,352
+<font color="#D900D9">(CRYING)</font>
+
+398
+00:29:40,899 --> 00:29:42,691
+<font color="#D900D9">(CAR ALARMS SOUNDING)</font>
+
+399
+00:29:43,943 --> 00:29:46,111
+<font color="#808080">VECTOR :</font> <font color="#D900D9">(GRUNTS)</font> Ah-ha!
+
+400
+00:29:46,905 --> 00:29:48,322
+Oh, yeah!
+
+401
+00:29:50,700 --> 00:29:52,701
+Pretty impressive!
+
+402
+00:29:53,995 --> 00:29:55,954
+What are you looking at?
+
+403
+00:29:56,039 --> 00:29:57,331
+Boo-ya!
+
+404
+00:29:59,501 --> 00:30:01,502
+You got shrunk,
+tiny mouthwash!
+
+405
+00:30:02,128 --> 00:30:03,170
+Take that!
+
+406
+00:30:04,297 --> 00:30:05,631
+You done been shrunk!
+
+407
+00:30:05,715 --> 00:30:06,840
+<font color="#D900D9">(CELL PHONE RINGING)</font>
+
+408
+00:30:06,925 --> 00:30:08,133
+Yello?
+
+409
+00:30:08,968 --> 00:30:11,011
+I got the shrink ray,
+all right.
+
+410
+00:30:12,180 --> 00:30:14,681
+No, I'm not
+playing with it.
+
+411
+00:30:14,766 --> 00:30:17,142
+Gru? <font color="#D900D9">(LAUGHING)</font>
+
+412
+00:30:18,061 --> 00:30:19,895
+Don't make me laugh! No.
+
+413
+00:30:20,397 --> 00:30:22,940
+P.S., he is not
+getting the moon,
+
+414
+00:30:23,024 --> 00:30:26,068
+and P. P.S., by the time
+I'm done with him,
+
+415
+00:30:26,194 --> 00:30:27,694
+he's gonna be
+begging for mercy.
+
+416
+00:30:29,781 --> 00:30:31,031
+Okay, bye.
+
+417
+00:30:32,158 --> 00:30:37,079
+Aw! Look at you,
+a little tiny toilet
+for a little tiny baby...
+
+418
+00:30:37,372 --> 00:30:38,414
+<font color="#D900D9">(SCREAMS)</font>
+
+419
+00:30:38,498 --> 00:30:40,374
+Curse you, tiny toilet!
+
+420
+00:30:45,004 --> 00:30:47,089
+Okay, here we are.
+
+421
+00:30:47,173 --> 00:30:48,715
+Home sweet home.
+
+422
+00:30:51,219 --> 00:30:54,096
+So, this is, like,
+your house?
+
+423
+00:30:54,889 --> 00:30:56,181
+Wait a sec...
+
+424
+00:30:56,266 --> 00:30:59,017
+You're the guy
+who pretended he was
+a recorded message!
+
+425
+00:30:59,102 --> 00:31:01,103
+No, that was
+someone else.
+
+426
+00:31:14,659 --> 00:31:15,951
+Can I hold your hand?
+
+427
+00:31:16,744 --> 00:31:17,744
+Uh, no.
+
+428
+00:31:28,047 --> 00:31:30,215
+When we got adopted
+by a bald guy,
+
+429
+00:31:30,300 --> 00:31:32,926
+I thought this'd be
+more like Annie.
+
+430
+00:31:33,595 --> 00:31:35,596
+<font color="#D900D9">(GROWLING)</font>
+
+431
+00:31:41,853 --> 00:31:43,145
+No, hey!
+
+432
+00:31:47,233 --> 00:31:50,402
+Kyle, these are not treats.
+These are guests.
+
+433
+00:31:50,486 --> 00:31:53,113
+Girls,
+this is Kyle, my
+
+434
+00:31:53,198 --> 00:31:54,239
+dog.
+
+435
+00:31:55,074 --> 00:31:56,325
+<font color="#D900D9">(SNARLS)</font>
+
+436
+00:31:56,826 --> 00:31:58,160
+Ooh! Fluffy doggy!
+
+437
+00:32:00,788 --> 00:32:02,080
+<font color="#D900D9">(YELPING)</font>
+
+438
+00:32:03,625 --> 00:32:04,750
+What kind of dog
+is that?
+
+439
+00:32:04,834 --> 00:32:07,461
+He is a...
+I don't know.
+
+440
+00:32:08,338 --> 00:32:11,548
+<font color="#808080">MARGO :</font> Do you really think
+that this is an appropriate
+place for little kids?
+
+441
+00:32:12,050 --> 00:32:13,717
+'Cause it's not.
+
+442
+00:32:14,802 --> 00:32:17,137
+No! No!
+Stay away from there!
+
+443
+00:32:17,222 --> 00:32:18,805
+It's fragile.
+
+444
+00:32:20,266 --> 00:32:21,266
+<font color="#D900D9">(GASPS)</font>
+
+445
+00:32:21,351 --> 00:32:24,811
+Well, I suppose
+the plan will
+work with two.
+
+446
+00:32:24,896 --> 00:32:27,689
+<font color="#808080">EDITH :</font> Hey!
+It's dark in here.
+
+447
+00:32:30,568 --> 00:32:32,945
+It poked a hole
+in my juice box.
+
+448
+00:32:37,909 --> 00:32:39,159
+As you can see,
+
+449
+00:32:39,244 --> 00:32:42,746
+I have provided everything
+a child might need.
+
+450
+00:32:44,624 --> 00:32:45,624
+All right.
+
+451
+00:32:45,959 --> 00:32:49,211
+Uh... Okay.
+As I was saying... Hey!
+<font color="#D900D9">(CRASHING)</font>
+
+452
+00:32:50,421 --> 00:32:51,463
+Somebody broke that.
+
+453
+00:32:51,923 --> 00:32:55,592
+<font color="#808080">GRU :</font> Okay, okay.
+Clearly, we need
+to set some rules.
+
+454
+00:32:55,677 --> 00:32:57,511
+Rule number one.
+
+455
+00:32:57,595 --> 00:33:00,138
+You will not
+touch anything.
+
+456
+00:33:00,223 --> 00:33:02,099
+Uh-huh.
+What about the floor?
+
+457
+00:33:02,517 --> 00:33:04,559
+Yes, you may
+touch the floor.
+
+458
+00:33:04,644 --> 00:33:06,019
+What about the air?
+
+459
+00:33:06,104 --> 00:33:08,188
+Yes, you may
+touch the air!
+
+460
+00:33:08,273 --> 00:33:09,314
+What about this?
+
+461
+00:33:10,692 --> 00:33:12,025
+<font color="#D900D9">(EXCLAIMS)</font>
+
+462
+00:33:12,485 --> 00:33:14,444
+Where did you get that?
+Found it.
+
+463
+00:33:14,529 --> 00:33:18,282
+Okay. Rule number two.
+You will not bother me
+while I'm working.
+
+464
+00:33:18,366 --> 00:33:20,284
+Rule number three.
+
+465
+00:33:20,368 --> 00:33:24,830
+You will not cry or whine
+or laugh or giggle
+
+466
+00:33:25,164 --> 00:33:27,541
+or sneeze
+or burp or fart!
+
+467
+00:33:28,209 --> 00:33:32,546
+So, no, no, no
+annoying sounds.
+All right?
+
+468
+00:33:32,630 --> 00:33:34,464
+<font color="#808080">AGNES :</font> Does this count
+as annoying?
+
+469
+00:33:34,549 --> 00:33:36,216
+<font color="#D900D9">(POPPING)</font>
+
+470
+00:33:38,219 --> 00:33:39,386
+Very!
+
+471
+00:33:39,887 --> 00:33:41,096
+<font color="#D900D9">(SIGHS)</font>
+
+472
+00:33:41,889 --> 00:33:44,474
+I will see you
+in six hours.
+
+473
+00:33:46,561 --> 00:33:50,480
+Okay, don't worry.
+Everything's going
+to be fine.
+
+474
+00:33:51,107 --> 00:33:55,485
+We're gonna be
+really happy here.
+Right? Agnes?
+
+475
+00:33:56,904 --> 00:33:58,113
+Mmm?
+
+476
+00:34:00,742 --> 00:34:01,742
+<font color="#D900D9">(EXCLAIMS)</font>
+
+477
+00:34:02,243 --> 00:34:04,077
+<font color="#D900D9">(SPEAKING GIBBERISH)</font>
+
+478
+00:34:05,455 --> 00:34:07,164
+<font color="#D900D9">(CLICKING)</font>
+
+479
+00:34:09,292 --> 00:34:11,335
+<font color="#D900D9">(UPBEAT POP MUSIC PLAYING)</font>
+
+480
+00:34:23,264 --> 00:34:27,059
+Uh, question.
+What are these?
+
+481
+00:34:27,977 --> 00:34:32,439
+A dozen boogie robots!
+Boogie! <font color="#D900D9">(LAUGHING)</font>
+
+482
+00:34:32,523 --> 00:34:34,524
+Look at this. Watch me!
+
+483
+00:34:34,609 --> 00:34:36,109
+<font color="#D900D9">(MUSIC STOPS)</font>
+
+484
+00:34:38,446 --> 00:34:41,114
+<font color="#808080">GRU :</font> Cookie robots.
+I said cookie robots.
+
+485
+00:34:41,699 --> 00:34:44,284
+Why are you so old?
+
+486
+00:34:46,746 --> 00:34:48,372
+Okay. I'm on it.
+
+487
+00:34:49,290 --> 00:34:50,624
+Hello?
+
+488
+00:35:06,307 --> 00:35:07,557
+TV!
+
+489
+00:35:09,060 --> 00:35:10,936
+<font color="#D900D9">(KYLE GROWLING)</font>
+
+490
+00:35:25,618 --> 00:35:26,952
+<font color="#D900D9">(WHIMPERS)</font>
+
+491
+00:35:27,412 --> 00:35:28,412
+<font color="#808080">MARGO :</font> What is that?
+
+492
+00:35:28,496 --> 00:35:29,704
+Wow!
+Look at that!
+
+493
+00:35:29,789 --> 00:35:31,248
+That is cool!
+
+494
+00:35:32,083 --> 00:35:33,375
+Come on!
+
+495
+00:35:33,876 --> 00:35:36,169
+<font color="#808080">AGNES :</font>I don't think
+he's a dentist.
+
+496
+00:35:43,553 --> 00:35:44,845
+<font color="#D900D9">(WHIMPERS)</font>
+
+497
+00:35:50,017 --> 00:35:51,810
+We've been working
+on this for a while.
+
+498
+00:35:51,894 --> 00:35:54,688
+It's a anti-gravity serum.
+
+499
+00:35:55,940 --> 00:35:57,357
+<font color="#D900D9">(EXCLAIMING)</font>
+
+500
+00:35:57,817 --> 00:35:59,151
+<font color="#D900D9">(SCREAMING)</font>
+
+501
+00:36:00,403 --> 00:36:03,780
+I meant to close that.
+He'll be all right,
+I'm sure.
+
+502
+00:36:03,865 --> 00:36:05,407
+Do the effects wear off?
+
+503
+00:36:05,491 --> 00:36:06,950
+Uh, so far,
+
+504
+00:36:07,034 --> 00:36:09,035
+no. No, they don't.
+
+505
+00:36:10,580 --> 00:36:13,665
+And here, of course,
+is the new weapon
+you ordered.
+
+506
+00:36:13,791 --> 00:36:15,250
+<font color="#D900D9">(FARTING)</font>
+
+507
+00:36:17,336 --> 00:36:18,295
+No, no.
+
+508
+00:36:18,379 --> 00:36:22,257
+I said "dart gun,"
+not... Okay.
+
+509
+00:36:22,884 --> 00:36:25,635
+Oh, yes.
+'Cause I was wondering
+
+510
+00:36:25,720 --> 00:36:28,305
+under what circumstances
+would we use this?
+
+511
+00:36:28,389 --> 00:36:29,848
+But, anyway.
+
+512
+00:36:29,932 --> 00:36:33,393
+What I really wanted
+to show you was this.
+
+513
+00:36:38,149 --> 00:36:41,276
+Now those are
+cookie robots!
+
+514
+00:36:42,403 --> 00:36:45,655
+<font color="#808080">AGNES :</font> <font color="#D900D9">(SINGING)</font>
+La, la, la, la
+I love unicorns
+
+515
+00:36:45,740 --> 00:36:49,409
+What are you doing here?
+I told you to stay
+in the kitchen!
+
+516
+00:36:49,494 --> 00:36:52,078
+We got bored.
+What is this place?
+
+517
+00:36:52,330 --> 00:36:53,997
+Can I drink this?
+
+518
+00:36:54,081 --> 00:36:56,541
+Do you want to explode?
+
+519
+00:36:57,001 --> 00:36:58,084
+<font color="#D900D9">(EXCLAIMS)</font>
+
+520
+00:36:58,169 --> 00:36:59,169
+Gru!
+
+521
+00:36:59,253 --> 00:37:01,254
+Get back
+in the kitchen!
+
+522
+00:37:01,339 --> 00:37:03,465
+Will you play with us?
+No.
+
+523
+00:37:03,883 --> 00:37:06,092
+Why?
+Because I'm busy.
+
+524
+00:37:06,177 --> 00:37:07,719
+<font color="#D900D9">(SCOFFS)</font>
+Doing what?
+
+525
+00:37:07,803 --> 00:37:09,095
+Um...
+
+526
+00:37:09,180 --> 00:37:10,764
+Okay, okay,
+you got me.
+
+527
+00:37:10,848 --> 00:37:13,600
+The dentist thing
+is more of a hobby.
+
+528
+00:37:14,185 --> 00:37:16,603
+In real life,
+I am a spy.
+
+529
+00:37:17,104 --> 00:37:20,232
+And it is top secret,
+and you may not tell anybody,
+
+530
+00:37:20,316 --> 00:37:22,442
+because if you do...
+What does this do?
+
+531
+00:37:24,987 --> 00:37:25,987
+<font color="#D900D9">(GASPS)</font>
+
+532
+00:37:26,822 --> 00:37:27,822
+Hey!
+Oops.
+
+533
+00:37:28,282 --> 00:37:29,741
+My unicorn!
+
+534
+00:37:30,076 --> 00:37:31,701
+You have to fix it.
+
+535
+00:37:31,786 --> 00:37:34,704
+<font color="#808080">GRU :</font> Fix it?
+Look, it has been
+disintegrated.
+
+536
+00:37:34,789 --> 00:37:37,123
+By definition,
+it cannot be fixed.
+
+537
+00:37:37,625 --> 00:37:38,875
+<font color="#D900D9">(GASPS)</font>
+
+538
+00:37:39,126 --> 00:37:40,418
+<font color="#D900D9">(INHALES)</font>
+
+539
+00:37:42,421 --> 00:37:44,547
+That's freaking me out.
+What is she doing?
+
+540
+00:37:44,632 --> 00:37:47,842
+<font color="#808080">MARGO :</font> She's gonna hold her breath
+until she gets a new one.
+
+541
+00:37:49,220 --> 00:37:51,471
+It is just a toy.
+Now stop it!
+
+542
+00:37:51,555 --> 00:37:52,931
+<font color="#D900D9">(GRUNTING)</font>
+
+543
+00:37:54,892 --> 00:37:57,018
+Okay, okay!
+I'll fix it!
+
+544
+00:37:57,436 --> 00:37:59,396
+Tim! Mark! Phil!
+
+545
+00:38:02,066 --> 00:38:03,275
+This is very important.
+
+546
+00:38:03,359 --> 00:38:06,903
+You have to get
+the little girl
+a new unicorn toy.
+
+547
+00:38:06,988 --> 00:38:07,946
+Eh?
+
+548
+00:38:08,030 --> 00:38:10,031
+<font color="#D900D9">(BOTH SPEAKING GIBBERISH)</font>
+
+549
+00:38:11,826 --> 00:38:12,867
+<font color="#D900D9">(CHUCKLING)</font>
+
+550
+00:38:12,952 --> 00:38:14,828
+Hey, hey, hey! A toy!
+
+551
+00:38:15,997 --> 00:38:18,081
+Go, and hurry!
+
+552
+00:38:18,165 --> 00:38:19,374
+What are those?
+
+553
+00:38:19,458 --> 00:38:22,627
+They are my cousins.
+
+554
+00:38:23,462 --> 00:38:25,005
+Jerry! Stuart!
+
+555
+00:38:26,090 --> 00:38:29,092
+Watch them, and keep them
+away from me, please.
+
+556
+00:38:46,360 --> 00:38:48,737
+<font color="#808080">ALL :</font> Wow!
+
+557
+00:38:52,616 --> 00:38:54,701
+<font color="#D900D9">(ALL EXCLAIMING EXCITEDLY)</font>
+
+558
+00:38:59,957 --> 00:39:01,374
+<font color="#D900D9">(STUTTERING)</font>
+
+559
+00:39:09,216 --> 00:39:10,216
+<font color="#D900D9">(GROANS)</font>
+
+560
+00:39:10,926 --> 00:39:12,052
+Ooh!
+
+561
+00:39:14,513 --> 00:39:16,556
+<font color="#D900D9">(SCREAMING)</font>
+
+562
+00:39:25,107 --> 00:39:26,107
+Oh!
+
+563
+00:39:26,192 --> 00:39:27,400
+Hmm...
+
+564
+00:39:27,485 --> 00:39:28,485
+<font color="#D900D9">(FEEDBACK)</font>
+
+565
+00:39:28,611 --> 00:39:30,070
+<font color="#D900D9">(SHUDDERING)</font>
+
+566
+00:39:32,323 --> 00:39:34,741
+<font color="#D900D9">(SINGING GIBBERISH)</font>
+
+567
+00:39:39,955 --> 00:39:41,623
+<font color="#D900D9">(ALL SINGING)</font>
+
+568
+00:39:43,084 --> 00:39:44,667
+<font color="#D900D9">(GIRLS GIGGLING)</font>
+
+569
+00:39:44,752 --> 00:39:46,086
+<font color="#D900D9">(CRASHING)</font>
+
+570
+00:39:53,761 --> 00:39:54,928
+It was your cousin's idea.
+
+571
+00:39:55,304 --> 00:39:56,429
+What?
+
+572
+00:39:56,847 --> 00:39:58,348
+Okay, bedtime.
+
+573
+00:39:58,432 --> 00:39:59,766
+<font color="#808080">GIRLS :</font> Aw!
+
+574
+00:40:00,184 --> 00:40:01,351
+Aw!
+Aw!
+
+575
+00:40:01,644 --> 00:40:03,061
+Not you two!
+
+576
+00:40:03,145 --> 00:40:04,270
+<font color="#D900D9">(CHEERING)</font>
+
+577
+00:40:04,647 --> 00:40:09,359
+Okey-dokey. Beddie-bye.
+All tucked in. Sweet dreams.
+
+578
+00:40:11,278 --> 00:40:13,071
+Just so you know,
+
+579
+00:40:13,155 --> 00:40:14,989
+you're never
+gonna be my dad.
+
+580
+00:40:15,074 --> 00:40:17,826
+Hmm. I think
+I can live with that.
+
+581
+00:40:19,495 --> 00:40:21,329
+Are these beds
+made out of bombs?
+
+582
+00:40:21,872 --> 00:40:26,042
+Yes, but they are
+very old and highly
+unlikely to blow up.
+
+583
+00:40:26,961 --> 00:40:28,962
+But try not to
+toss and turn.
+
+584
+00:40:29,046 --> 00:40:30,213
+Cool.
+
+585
+00:40:31,132 --> 00:40:34,300
+<font color="#808080">AGNES :</font> Will you read us
+a bedtime story?
+No.
+
+586
+00:40:34,385 --> 00:40:37,470
+But we can't go to sleep
+without a bedtime story.
+
+587
+00:40:37,555 --> 00:40:41,182
+Well, then it's going
+to be a long night
+for you, isn't it?
+
+588
+00:40:41,976 --> 00:40:45,603
+So, good night,
+sleep tight, and don't
+let the bed bugs bite.
+
+589
+00:40:45,688 --> 00:40:49,607
+Because there are literally
+thousands of them.
+
+590
+00:40:50,651 --> 00:40:53,820
+<font color="#D900D9">(WHISPERING SCARILY)</font>
+And there's probably
+something in your closet.
+
+591
+00:40:55,406 --> 00:40:57,574
+He's just kidding, Agnes.
+
+592
+00:41:00,744 --> 00:41:01,995
+<font color="#D900D9">(DOOR OPENS)</font>
+<font color="#D900D9">(GASPS)</font>
+
+593
+00:41:14,967 --> 00:41:16,776
+<font color="#D900D9">(SPEAKS GIBBERISH)</font>
+Para tu...Papoy
+
+594
+00:41:19,805 --> 00:41:21,723
+It's beautiful.
+
+595
+00:41:34,028 --> 00:41:35,361
+<font color="#D900D9">(HUMMING)</font>
+
+596
+00:41:35,613 --> 00:41:36,863
+<font color="#D900D9">(SIGHS)</font>
+
+597
+00:41:50,127 --> 00:41:52,587
+<font color="#808080">GRU :</font> Girls, let's go.
+
+598
+00:41:52,671 --> 00:41:55,507
+Time to deliver the cookies!
+
+599
+00:41:55,591 --> 00:41:59,135
+Mmm. Okay. But first,
+we're going to dance class.
+
+600
+00:41:59,220 --> 00:42:02,138
+Actually,
+we're going to have to skip
+the dance class today.
+
+601
+00:42:02,223 --> 00:42:04,057
+Actually, we can't
+
+602
+00:42:04,141 --> 00:42:06,768
+<font color="#D900D9">(IMITATING GRU)</font>
+Skip the dance
+class today.
+
+603
+00:42:06,852 --> 00:42:08,811
+We have a big recital
+coming up.
+
+604
+00:42:08,896 --> 00:42:10,730
+We're doing an excerpt
+from Swan Lake.
+
+605
+00:42:10,814 --> 00:42:12,148
+Yeah, Swan Lake!
+
+606
+00:42:12,233 --> 00:42:13,983
+That's fantastic.
+Wonderful.
+
+607
+00:42:14,068 --> 00:42:18,196
+But we're going to
+deliver cookies!
+Come on!
+
+608
+00:42:20,366 --> 00:42:21,366
+No.
+
+609
+00:42:22,243 --> 00:42:23,284
+No?
+
+610
+00:42:23,369 --> 00:42:26,621
+We're not going
+to deliver cookies
+until we do dance class.
+
+611
+00:42:26,705 --> 00:42:27,830
+<font color="#808080">GRU :</font> Really?
+
+612
+00:42:27,915 --> 00:42:31,626
+Well, I am not driving you
+to dance class.
+
+613
+00:42:31,710 --> 00:42:37,090
+So if you want to go,
+you are going to have
+to walk yourselves.
+
+614
+00:42:43,180 --> 00:42:44,430
+What are you doing?
+
+615
+00:42:44,515 --> 00:42:46,307
+Walking to dance class.
+
+616
+00:42:46,392 --> 00:42:48,351
+Ya? Okay, fine.
+
+617
+00:42:48,435 --> 00:42:52,272
+You just keep walking,
+because I'm really not
+driving you!
+
+618
+00:42:52,356 --> 00:42:53,565
+<font color="#808080">MARGO :</font> Okay.
+
+619
+00:42:53,649 --> 00:42:54,649
+<font color="#D900D9">(SIGHS IN FRUSTRATION)</font>
+
+620
+00:42:55,067 --> 00:42:57,569
+You're going to suffer
+the wrath of Gru!
+
+621
+00:42:58,028 --> 00:43:00,029
+Seriously,
+I'm going to
+count to three!
+
+622
+00:43:00,114 --> 00:43:02,073
+And you had better
+be in this car!
+
+623
+00:43:02,157 --> 00:43:05,827
+Here we go! One! Two!
+
+624
+00:43:05,911 --> 00:43:09,497
+<font color="#808080">INSTRUCTOR :</font> Three,
+four and five.
+
+625
+00:43:09,582 --> 00:43:12,458
+And lift, and stretch.
+
+626
+00:43:12,543 --> 00:43:15,169
+And one, and two...
+
+627
+00:43:15,254 --> 00:43:17,380
+Here you go.
+What is it?
+
+628
+00:43:17,464 --> 00:43:21,009
+Your ticket
+to the dance recital.
+You are coming, right?
+
+629
+00:43:21,093 --> 00:43:22,719
+Of course,
+of course.
+
+630
+00:43:22,803 --> 00:43:25,888
+I have pins and needles
+that I'm sitting on.
+
+631
+00:43:25,973 --> 00:43:27,640
+Pinky promise?
+
+632
+00:43:27,725 --> 00:43:29,017
+<font color="#D900D9">(SIGHS)</font>
+
+633
+00:43:29,101 --> 00:43:32,312
+Oh, yes.
+My pinky promises.
+
+634
+00:43:45,492 --> 00:43:50,163
+All right.
+Our first customer
+is a man named Vector.
+
+635
+00:43:50,247 --> 00:43:51,998
+But he's a V.
+
+636
+00:43:52,082 --> 00:43:54,083
+You know, we're supposed
+to start with the A's.
+
+637
+00:43:54,168 --> 00:43:56,085
+Then we go to the B's.
+Then we...
+
+638
+00:43:56,170 --> 00:43:58,588
+Yes, yes!
+I went to kindergarten.
+
+639
+00:43:58,672 --> 00:44:01,090
+I know how
+the alphabet works!
+
+640
+00:44:01,508 --> 00:44:02,884
+<font color="#D900D9">(SIGHS)</font>
+
+641
+00:44:03,677 --> 00:44:06,346
+I was just thinking
+
+642
+00:44:06,430 --> 00:44:10,183
+that it might be nice to
+deliver Mr. Vector's first.
+
+643
+00:44:10,267 --> 00:44:11,934
+That is all.
+
+644
+00:44:15,189 --> 00:44:17,690
+Almost over.
+It's almost over.
+
+645
+00:44:19,818 --> 00:44:24,072
+Girls,
+welcome back to the fortress
+of Vector-tude! <font color="#D900D9">(CHUCKLING)</font>
+
+646
+00:44:25,032 --> 00:44:27,533
+Do you have
+my cookies for me?
+
+647
+00:44:35,292 --> 00:44:37,210
+Four boxes of mini-mints,
+two toffee totes,
+
+648
+00:44:37,294 --> 00:44:42,006
+two caramel clumpies
+and fifteen boxes
+of coco-nutties.
+
+649
+00:44:42,091 --> 00:44:45,677
+Exactly.
+I'd like to see somebody else
+order that many cookies.
+
+650
+00:44:45,761 --> 00:44:46,803
+Not likely.
+
+651
+00:44:46,887 --> 00:44:48,971
+Name one person
+who ordered more
+cookies than me.
+
+652
+00:44:49,223 --> 00:44:50,765
+That'll be $52.
+
+653
+00:44:51,350 --> 00:44:52,642
+Right.
+
+654
+00:45:00,192 --> 00:45:02,902
+Seven, eight, nine...
+
+655
+00:45:03,821 --> 00:45:06,364
+Tic Tacs! Where was I?
+
+656
+00:45:06,448 --> 00:45:09,659
+Seven, eight, nine...
+
+657
+00:45:09,743 --> 00:45:11,536
+<font color="#808080">AGNES :</font> Why are you
+wearing pajamas?
+
+658
+00:45:11,620 --> 00:45:15,915
+<font color="#D900D9">(SCOFFING)</font>
+These aren't pajamas!
+This is a warm-up suit.
+
+659
+00:45:23,215 --> 00:45:24,757
+<font color="#D900D9">(BLEEPING)</font>
+
+660
+00:45:32,599 --> 00:45:34,976
+What are you
+warming up for?
+Stuff.
+
+661
+00:45:35,060 --> 00:45:36,060
+What sort of stuff?
+
+662
+00:45:36,145 --> 00:45:38,563
+<font color="#808080">VECTOR :</font> Super-cool stuff
+you wouldn't understand.
+
+663
+00:45:38,647 --> 00:45:40,064
+Like sleeping?
+
+664
+00:45:40,149 --> 00:45:43,067
+They are not pajamas!
+
+665
+00:45:50,951 --> 00:45:52,618
+<font color="#D900D9">(ALL GRUNTING)</font>
+
+666
+00:45:54,913 --> 00:45:58,124
+Here you go, 52 big ones.
+
+667
+00:46:07,426 --> 00:46:08,718
+<font color="#D900D9">(GASPS)</font>
+
+668
+00:46:08,802 --> 00:46:10,470
+<font color="#D900D9">(EXCLAIMS IN FRUSTRATION)</font>
+
+669
+00:46:12,097 --> 00:46:13,473
+<font color="#D900D9">(SCREAMING)</font>
+
+670
+00:46:16,226 --> 00:46:17,685
+Bye!
+
+671
+00:46:19,521 --> 00:46:21,439
+<font color="#D900D9">(DEVICE POWERING DOWN)</font>
+
+672
+00:46:27,279 --> 00:46:28,279
+<font color="#D900D9">(GASPS)</font>
+
+673
+00:46:40,501 --> 00:46:41,501
+<font color="#D900D9">(EXHALES)</font>
+
+674
+00:46:43,462 --> 00:46:44,420
+<font color="#D900D9">(CRACKING)</font>
+
+675
+00:46:44,505 --> 00:46:46,130
+<font color="#D900D9">(SHUDDERING)</font>
+
+676
+00:47:02,481 --> 00:47:05,107
+<font color="#D900D9">(THEME MUSIC PLAYING ON TV)</font>
+
+677
+00:47:09,071 --> 00:47:11,531
+<font color="#D900D9">(MAN CHATTERING ON TV)</font>
+
+678
+00:47:11,615 --> 00:47:12,990
+<font color="#D900D9">(SOFTLY)</font>
+Come on!
+
+679
+00:47:26,922 --> 00:47:28,214
+<font color="#D900D9">(GROANS)</font>
+
+680
+00:47:35,055 --> 00:47:36,889
+<font color="#D900D9">(GRUNTS)</font> What the...
+
+681
+00:47:39,726 --> 00:47:41,394
+Quiet down, fish!
+
+682
+00:47:48,402 --> 00:47:49,443
+Down, boy!
+
+683
+00:48:11,091 --> 00:48:12,508
+Ah-ha! <font color="#D900D9">(LAUGHING)</font>
+
+684
+00:48:12,593 --> 00:48:15,928
+We did it!
+Come on, girls, let's go!
+
+685
+00:48:23,812 --> 00:48:26,897
+But what about
+the other people
+who ordered cookies?
+
+686
+00:48:26,982 --> 00:48:29,692
+Life is full of
+disappointments
+
+687
+00:48:29,776 --> 00:48:32,528
+for some people.
+<font color="#D900D9">(CHUCKLING)</font>
+
+688
+00:48:33,447 --> 00:48:34,947
+<font color="#D900D9">(SCREAMING)</font>
+<font color="#D900D9">(EXCLAIMS)</font>
+
+689
+00:48:35,866 --> 00:48:37,199
+<font color="#D900D9">(SCREAMING)</font>
+
+690
+00:48:37,284 --> 00:48:38,784
+Don't do that!
+
+691
+00:48:38,869 --> 00:48:41,912
+Super Silly Fun Land!
+Can we go? Please?
+
+692
+00:48:42,331 --> 00:48:43,372
+No.
+
+693
+00:48:43,457 --> 00:48:45,958
+But we've never been.
+And it's the funnest
+place on earth!
+
+694
+00:48:46,043 --> 00:48:47,084
+Don't care.
+
+695
+00:48:47,169 --> 00:48:48,294
+Please?
+Please?
+
+696
+00:48:48,378 --> 00:48:50,046
+We'll never ask
+for anything else,
+ever again!
+
+697
+00:48:50,130 --> 00:48:52,173
+Pretty please?
+Please?
+
+698
+00:48:59,306 --> 00:49:01,265
+Come on!
+Come on!
+
+699
+00:49:01,808 --> 00:49:03,976
+Light bulb.
+
+700
+00:49:08,899 --> 00:49:10,691
+Come on!
+
+701
+00:49:10,776 --> 00:49:13,736
+Goodbye, have fun.
+
+702
+00:49:17,157 --> 00:49:20,701
+Sorry, dude.
+They can't ride
+without an adult.
+
+703
+00:49:20,786 --> 00:49:22,161
+What?
+
+704
+00:49:22,245 --> 00:49:24,121
+<font color="#D900D9">(SIGHS IN FRUSTRATION)</font>
+
+705
+00:49:29,336 --> 00:49:31,796
+<font color="#D900D9">(GIRLS WHOOPING)</font>
+
+706
+00:49:36,134 --> 00:49:37,677
+<font color="#D900D9">(ALL SCREAMING)</font>
+
+707
+00:50:11,086 --> 00:50:12,753
+<font color="#D900D9">(RETCHING)</font>
+
+708
+00:50:18,677 --> 00:50:20,094
+<font color="#808080">AGNES :</font> <font color="#D900D9">(SQUEALS)</font>
+Oh, my gosh!
+
+709
+00:50:20,178 --> 00:50:22,596
+Look at that
+fluffy unicorn!
+
+710
+00:50:25,350 --> 00:50:27,643
+He's so fluffy,
+I'm gonna die!
+
+711
+00:50:27,728 --> 00:50:29,145
+You've gotta let
+us play for it!
+
+712
+00:50:29,229 --> 00:50:30,980
+No, no, no.
+
+713
+00:50:31,064 --> 00:50:32,356
+Come on!
+
+714
+00:50:33,900 --> 00:50:36,444
+<font color="#808080">GRU :</font> How much for
+the fluffy unicorn?
+
+715
+00:50:36,528 --> 00:50:37,570
+<font color="#D900D9">(LAUGHING)</font>
+
+716
+00:50:37,654 --> 00:50:39,530
+Well, it is not
+for sale.
+
+717
+00:50:39,614 --> 00:50:41,532
+But all you gotta do
+to win it
+
+718
+00:50:41,616 --> 00:50:44,618
+is knock down that
+little spaceship there.
+
+719
+00:50:45,495 --> 00:50:46,620
+It's easy!
+
+720
+00:50:55,005 --> 00:50:56,255
+Yay!
+
+721
+00:51:08,268 --> 00:51:09,435
+Again!
+
+722
+00:51:10,187 --> 00:51:12,605
+Wait!
+Come on.
+One more time!
+
+723
+00:51:12,689 --> 00:51:13,856
+Just one more.
+
+724
+00:51:13,940 --> 00:51:16,317
+I accidentally
+closed my eyes.
+
+725
+00:51:31,666 --> 00:51:33,667
+I hit it!
+I hit it!
+That was cool.
+
+726
+00:51:35,337 --> 00:51:36,545
+Aw!
+
+727
+00:51:38,131 --> 00:51:41,008
+Whoa, whoa, whoa.
+What was that?
+
+728
+00:51:41,760 --> 00:51:44,845
+She hit that.
+I saw that with
+my own eyes.
+
+729
+00:51:44,930 --> 00:51:47,681
+Hey, buddy,
+let me explain
+something to you.
+
+730
+00:51:47,766 --> 00:51:50,017
+You see that
+little tin spaceship?
+
+731
+00:51:50,101 --> 00:51:52,269
+You see how
+it's not knocked over?
+
+732
+00:51:52,354 --> 00:51:55,231
+Do you know what
+that means, professor?
+
+733
+00:51:55,315 --> 00:51:58,818
+It means you don't
+get the unicorn!
+
+734
+00:51:58,902 --> 00:52:00,903
+Oh! Uh-oh!
+
+735
+00:52:00,987 --> 00:52:02,822
+Somebody's got
+a frowny face.
+
+736
+00:52:02,906 --> 00:52:05,324
+Boo! Better luck
+next time!
+
+737
+00:52:07,577 --> 00:52:10,287
+Okay, my turn.
+
+738
+00:52:31,685 --> 00:52:34,228
+<font color="#808080">GRU :</font> Knocked over!
+
+739
+00:52:38,567 --> 00:52:40,359
+<font color="#808080">AGNES :</font> It's so fluffy!
+
+740
+00:52:40,443 --> 00:52:41,443
+Yeah!
+
+741
+00:52:42,112 --> 00:52:44,196
+That was awesome!
+
+742
+00:52:44,281 --> 00:52:45,948
+<font color="#808080">EDITH :</font> You blew up
+the whole thing!
+
+743
+00:52:46,032 --> 00:52:48,409
+Let's go.
+Let's try
+another game!
+
+744
+00:52:52,872 --> 00:52:54,373
+<font color="#D900D9">(ALL LAUGHING)</font>
+
+745
+00:52:55,458 --> 00:52:57,876
+<font color="#808080">NEFARIO :</font> Gru, do you mind
+if I have a quick word?
+
+746
+00:52:58,628 --> 00:53:00,879
+<font color="#808080">GRU :</font> Okay, girls, go play.
+
+747
+00:53:08,430 --> 00:53:10,723
+I got the shrink ray!
+
+748
+00:53:13,351 --> 00:53:15,561
+Cotton candy!
+
+749
+00:53:16,563 --> 00:53:20,482
+We have 12 days
+until the moon is
+in optimum position.
+
+750
+00:53:20,567 --> 00:53:22,735
+We can't afford
+any distractions!
+
+751
+00:53:24,487 --> 00:53:25,738
+Get me Perkins.
+
+752
+00:53:31,911 --> 00:53:33,078
+Ah-ha!
+
+753
+00:53:33,747 --> 00:53:35,873
+Sorry to bother you,
+Mr. Perkins,
+
+754
+00:53:35,957 --> 00:53:39,960
+but I figured that you
+would want to see this!
+
+755
+00:53:40,754 --> 00:53:41,879
+What?
+
+756
+00:53:54,392 --> 00:53:55,768
+Well done, Gru.
+<font color="#D900D9">(SQUEAKING)</font>
+
+757
+00:53:55,852 --> 00:53:56,852
+Rather impressive.
+
+758
+00:53:56,936 --> 00:53:59,938
+<font color="#808080">GRU :</font> Now, the rest
+of the plan is simple.
+
+759
+00:54:00,607 --> 00:54:04,360
+I fly to the moon.
+I shrink the moon.
+
+760
+00:54:04,444 --> 00:54:08,155
+I grab the moon.
+I sit on the toilet.
+
+761
+00:54:08,239 --> 00:54:09,865
+What?
+<font color="#D900D9">(GIRLS LAUGHING)</font>
+
+762
+00:54:09,949 --> 00:54:12,034
+Sorry. Sorry!
+
+763
+00:54:12,118 --> 00:54:15,245
+Could you excuse me
+for just one second?
+
+764
+00:54:15,330 --> 00:54:16,747
+I told you not
+to touch my things.
+
+765
+00:54:16,831 --> 00:54:19,875
+I told you, I told you.
+I've told you
+a thousand times.
+
+766
+00:54:19,959 --> 00:54:21,627
+<font color="#808080">MARGO :</font> Hey, can we
+order pizza?
+
+767
+00:54:21,711 --> 00:54:23,629
+Pizza?
+You just had lunch.
+
+768
+00:54:23,713 --> 00:54:24,880
+Not now, for dinner.
+
+769
+00:54:24,964 --> 00:54:26,548
+Dinner?
+
+770
+00:54:26,633 --> 00:54:29,426
+Just...
+Fine, fine, fine, whatever.
+Just get back in there!
+
+771
+00:54:29,511 --> 00:54:31,345
+Oh! Can we get
+stuffed crust?
+
+772
+00:54:31,471 --> 00:54:32,513
+<font color="#D900D9">(EXCLAIMING)</font>
+
+773
+00:54:32,597 --> 00:54:33,806
+Stuffed crust!
+Stuffed crust!
+
+774
+00:54:33,890 --> 00:54:35,474
+I'll stuff you
+all in the crust!
+
+775
+00:54:35,558 --> 00:54:36,892
+<font color="#D900D9">(GIGGLING)</font>
+
+776
+00:54:37,477 --> 00:54:38,894
+<font color="#808080">AGNES :</font> You're funny!
+
+777
+00:54:38,978 --> 00:54:41,730
+Just don't come out
+of that room again!
+
+778
+00:54:42,273 --> 00:54:43,315
+All right.
+
+779
+00:54:44,234 --> 00:54:47,611
+Sorry about that.
+Where were we?
+
+780
+00:54:47,696 --> 00:54:49,279
+<font color="#808080">PERKINS :</font> You were sitting
+on the toilet.
+
+781
+00:54:49,364 --> 00:54:53,909
+No, no, no!
+No, I'm sorry. It was
+a little attempt at humor.
+
+782
+00:54:53,993 --> 00:54:56,829
+I know how much
+you like to laugh
+
+783
+00:54:59,290 --> 00:55:03,127
+inside.
+Now, I was saying...
+
+784
+00:55:03,253 --> 00:55:05,003
+<font color="#D900D9">(DOOR CREAKING OPEN)</font>
+
+785
+00:55:06,715 --> 00:55:08,632
+You don't seem
+terribly focused, Gru.
+
+786
+00:55:08,717 --> 00:55:11,051
+Believe me,
+I am completely focused.
+
+787
+00:55:11,177 --> 00:55:13,220
+Hello! Whoa!
+What?
+
+788
+00:55:13,304 --> 00:55:14,430
+That guy is huge!
+
+789
+00:55:14,514 --> 00:55:15,931
+Are we on TV?
+What are those? Children?
+
+790
+00:55:16,015 --> 00:55:18,851
+What are you doing?
+I told you to stay
+out of here!
+
+791
+00:55:18,935 --> 00:55:20,519
+<font color="#D900D9">(GIRLS LAUGHING)</font>
+
+792
+00:55:24,065 --> 00:55:25,274
+No, no, no!
+
+793
+00:55:25,358 --> 00:55:26,442
+Freeze ray!
+
+794
+00:55:26,526 --> 00:55:28,110
+Mr. Gru?
+
+795
+00:55:28,194 --> 00:55:30,154
+<font color="#D900D9">(GRU EXCLAIMING)</font>
+
+796
+00:55:32,866 --> 00:55:34,199
+Okay.
+
+797
+00:55:35,577 --> 00:55:36,952
+As I was saying...
+
+798
+00:55:37,036 --> 00:55:40,873
+No need to continue.
+I've seen quite enough.
+
+799
+00:55:40,957 --> 00:55:42,124
+But my plan...
+
+800
+00:55:42,208 --> 00:55:43,292
+Is a great plan.
+
+801
+00:55:43,376 --> 00:55:46,587
+I love everything
+about your plan,
+except for one thing.
+
+802
+00:55:47,464 --> 00:55:48,797
+You.
+
+803
+00:55:52,051 --> 00:55:55,637
+Look, Mom,
+I drew a picture of me
+landing on the moon!
+
+804
+00:55:56,681 --> 00:55:58,640
+<font color="#D900D9">(EXCLAIMS INDIFFERENTLY)</font>
+
+805
+00:55:58,725 --> 00:56:02,770
+Look, Mom, I made
+a prototype of the rocket
+out of macaroni!
+
+806
+00:56:03,730 --> 00:56:05,022
+<font color="#D900D9">(EXCLAIMS INDIFFERENTLY)</font>
+
+807
+00:56:05,398 --> 00:56:07,357
+Look, Mom,
+I made a real rocket
+
+808
+00:56:07,442 --> 00:56:09,777
+based on the
+macaroni prototype!
+
+809
+00:56:12,071 --> 00:56:13,280
+<font color="#D900D9">(GASPS)</font>
+
+810
+00:56:13,990 --> 00:56:15,949
+<font color="#D900D9">(EXCLAIMS INDIFFERENTLY)</font>
+
+811
+00:56:21,039 --> 00:56:22,790
+I don't understand.
+
+812
+00:56:23,124 --> 00:56:25,417
+Let's face reality, Gru.
+
+813
+00:56:25,502 --> 00:56:30,255
+You've been at this
+for far too long with
+far too little success.
+
+814
+00:56:30,465 --> 00:56:34,676
+We're gonna put our faith,
+our money, into a...
+
+815
+00:56:35,512 --> 00:56:37,137
+Well, a younger villain.
+
+816
+00:56:37,222 --> 00:56:38,680
+But I...
+
+817
+00:56:38,765 --> 00:56:40,891
+It's over. Goodbye, Gru.
+
+818
+00:56:53,404 --> 00:56:55,280
+<font color="#D900D9">(INDISTINCT MUTTERING)</font>
+
+819
+00:56:56,616 --> 00:56:57,825
+<font color="#D900D9">(SIGHS)</font>
+
+820
+00:57:02,121 --> 00:57:06,625
+Now, I know there have been
+some rumors going around
+
+821
+00:57:06,709 --> 00:57:10,003
+that the bank is
+no longer funding us.
+
+822
+00:57:10,880 --> 00:57:13,674
+Well, I am here to put
+those rumors to rest.
+
+823
+00:57:15,802 --> 00:57:17,719
+They are true.
+
+824
+00:57:17,804 --> 00:57:19,596
+<font color="#D900D9">(ALL GASP)</font>
+Uh-oh!
+
+825
+00:57:19,681 --> 00:57:21,890
+In terms of money,
+
+826
+00:57:23,059 --> 00:57:25,227
+we have no money.
+
+827
+00:57:25,311 --> 00:57:27,896
+So how will we
+get to the moon?
+
+828
+00:57:29,065 --> 00:57:30,899
+The answer is clear.
+
+829
+00:57:30,984 --> 00:57:32,568
+We won't.
+
+830
+00:57:33,486 --> 00:57:34,778
+<font color="#D900D9">(SOBBING)</font>
+
+831
+00:57:35,613 --> 00:57:37,906
+We are doomed.
+
+832
+00:57:39,158 --> 00:57:41,743
+Now would probably
+be a good time
+
+833
+00:57:41,828 --> 00:57:43,745
+to look for other
+employment options.
+
+834
+00:57:43,830 --> 00:57:45,163
+<font color="#D900D9">(ALL GASP)</font>
+
+835
+00:57:45,665 --> 00:57:46,748
+I know.
+
+836
+00:57:46,833 --> 00:57:52,087
+I have fired up my resume
+as I suggest that
+all of you do, as well.
+
+837
+00:57:53,089 --> 00:57:54,673
+What is it?
+
+838
+00:57:56,593 --> 00:57:59,887
+Can't you see that
+I am in the middle
+of a pep talk?
+
+839
+00:58:18,031 --> 00:58:19,781
+<font color="#D900D9">(MINION EXCLAIMING)</font>
+
+840
+00:58:20,199 --> 00:58:21,533
+<font color="#D900D9">(LAUGHING)</font>
+
+841
+00:58:21,701 --> 00:58:25,495
+<font color="#D900D9">(ALL EXCLAIMING)</font>
+
+842
+00:58:29,542 --> 00:58:30,918
+Yes!
+
+843
+00:58:31,002 --> 00:58:33,921
+Yes, we will build
+our own rocket
+
+844
+00:58:34,547 --> 00:58:38,091
+using this and whatever
+else we can find!
+
+845
+00:58:38,551 --> 00:58:42,179
+Grab everything!
+Hit the junkyards!
+Take apart the cars!
+
+846
+00:58:42,680 --> 00:58:44,556
+Who needs the bank?
+
+847
+00:58:44,641 --> 00:58:46,391
+Let's go. Let's go!
+
+848
+00:58:54,400 --> 00:58:56,401
+<font color="#D900D9">(UPBEAT POP SONG PLAYING)</font>
+
+849
+00:59:01,783 --> 00:59:03,033
+<font color="#D900D9">(SCREAMING)</font>
+
+850
+00:59:12,543 --> 00:59:13,919
+<font color="#D900D9">(BLEEPING)</font>
+
+851
+00:59:36,359 --> 00:59:38,652
+<font color="#D900D9">(GASPS)</font> Mom!
+What are you doing here?
+
+852
+00:59:38,736 --> 00:59:41,571
+And here he is
+in the bathtub.
+
+853
+00:59:41,739 --> 00:59:43,949
+Oh! Look at his
+little buns.
+
+854
+00:59:44,367 --> 00:59:45,951
+<font color="#D900D9">(GIRLS GIGGLING)</font>
+
+855
+00:59:46,285 --> 00:59:47,744
+Mom.
+
+856
+00:59:47,829 --> 00:59:49,246
+Not cool.
+
+857
+00:59:50,248 --> 00:59:54,793
+And here,
+he's all dressed up
+in his Sunday best.
+
+858
+00:59:55,461 --> 00:59:57,087
+He looks like a girl!
+
+859
+00:59:57,171 --> 01:00:00,924
+<font color="#D900D9">(CHUCKLES)</font>
+Yes, he does.
+An ugly girl!
+
+860
+01:00:05,763 --> 01:00:07,139
+<font color="#D900D9">(WHOOPING)</font>
+
+861
+01:00:18,943 --> 01:00:19,985
+<font color="#D900D9">(SNARLING)</font>
+
+862
+01:00:23,740 --> 01:00:25,323
+You're funny!
+
+863
+01:00:38,838 --> 01:00:41,798
+Yes! Mine's shaped
+like a dead guy!
+
+864
+01:00:47,346 --> 01:00:48,722
+<font color="#D900D9">(BLEEPING)</font>
+
+865
+01:00:51,350 --> 01:00:52,350
+<font color="#D900D9">(BEEPING RAPIDLY)</font>
+
+866
+01:00:52,685 --> 01:00:54,352
+<font color="#D900D9">(GIRLS GIGGLING)</font>
+
+867
+01:00:59,901 --> 01:01:02,444
+<font color="#808080">RECEPTIONIST :</font>
+Mr. Perkins,
+your son is here.
+
+868
+01:01:02,528 --> 01:01:04,362
+Send him in.
+
+869
+01:01:05,531 --> 01:01:07,199
+Hey, Dad.
+
+870
+01:01:08,034 --> 01:01:09,451
+You wanted to see me?
+
+871
+01:01:09,535 --> 01:01:10,952
+Yes, I did, Victor.
+
+872
+01:01:11,037 --> 01:01:12,537
+<font color="#808080">VECTOR :</font> I am not Victor anymore.
+
+873
+01:01:12,622 --> 01:01:16,083
+Victor was my nerd name.
+Now I am Vector!
+
+874
+01:01:16,167 --> 01:01:17,501
+Sit down!
+
+875
+01:01:19,128 --> 01:01:21,546
+<font color="#808080">PERKINS :</font> Do you know where
+the shrink ray is?
+
+876
+01:01:21,964 --> 01:01:23,924
+Duh! Back at my place.
+
+877
+01:01:24,008 --> 01:01:26,843
+Oh, is that right?
+Back at your place?
+Oh, that's cool.
+
+878
+01:01:26,928 --> 01:01:31,223
+I guess Gru
+must just have one
+that looks exactly like it!
+
+879
+01:01:33,226 --> 01:01:37,062
+<font color="#808080">VECTOR :</font> Oh! What the...
+Those girls sold me cookies!
+
+880
+01:01:37,355 --> 01:01:41,108
+Do you have any idea
+how lucrative this
+moon heist could be?
+
+881
+01:01:41,192 --> 01:01:42,984
+I give you
+the opportunity
+of a lifetime,
+
+882
+01:01:43,069 --> 01:01:44,736
+and you just blow it!
+
+883
+01:01:45,780 --> 01:01:48,281
+No, I didn't.
+
+884
+01:01:48,366 --> 01:01:49,407
+Oh, really?
+
+885
+01:01:49,492 --> 01:01:52,327
+You just wait
+until Gru sees
+my latest weapon.
+
+886
+01:01:52,411 --> 01:01:55,455
+Squid-launcher! Oh, yeah!
+
+887
+01:01:57,750 --> 01:02:00,544
+<font color="#808080">MAN :</font> <font color="#D900D9">(SCREAMS)</font>
+There's a squid on my face!
+
+888
+01:02:00,628 --> 01:02:01,628
+<font color="#D900D9">(CHUCKLES)</font>
+
+889
+01:02:02,129 --> 01:02:03,421
+Don't worry.
+
+890
+01:02:03,506 --> 01:02:06,758
+The moon is as good as ours.
+
+891
+01:02:08,052 --> 01:02:09,511
+<font color="#D900D9">(CHEERING)</font>
+<font color="#D900D9">(LAUGHING)</font>
+
+892
+01:02:09,595 --> 01:02:11,096
+Come on now,
+it's bedtime.
+
+893
+01:02:11,180 --> 01:02:13,807
+Did you brush your teeth?
+Let me smell. Let me smell.
+
+894
+01:02:13,891 --> 01:02:14,891
+<font color="#D900D9">(EXHALES)</font>
+
+895
+01:02:14,976 --> 01:02:16,351
+You did not!
+
+896
+01:02:16,435 --> 01:02:20,522
+Put on your PJs.
+Hold still. Okay,
+seriously! Seriously!
+
+897
+01:02:20,606 --> 01:02:23,400
+This is beddie-bye time,
+right now.
+
+898
+01:02:23,484 --> 01:02:25,110
+I'm not kidding around.
+I mean it!
+
+899
+01:02:25,194 --> 01:02:26,528
+But we're not tired!
+
+900
+01:02:26,612 --> 01:02:27,904
+Well, I am tired.
+
+901
+01:02:27,989 --> 01:02:30,240
+Will you read us
+a bedtime story?
+
+902
+01:02:34,120 --> 01:02:35,495
+No.
+
+903
+01:02:35,580 --> 01:02:36,830
+Pretty please!
+
+904
+01:02:36,914 --> 01:02:40,709
+The physical appearance
+of the "please"
+makes no difference.
+
+905
+01:02:40,793 --> 01:02:42,878
+It is still no,
+so go to sleep.
+
+906
+01:02:42,962 --> 01:02:45,088
+But we can't.
+We're all hyper!
+
+907
+01:02:45,172 --> 01:02:49,718
+And without a bedtime story,
+we'll just keep getting up
+and bugging you.
+
+908
+01:02:49,802 --> 01:02:50,886
+All night long.
+
+909
+01:02:52,346 --> 01:02:54,306
+<font color="#D900D9">(SIGHS)</font> Fine.
+
+910
+01:02:55,349 --> 01:02:58,351
+All right, all right.
+Sleepy Kittens.
+
+911
+01:02:58,811 --> 01:03:00,145
+Sleepy Kittens?
+
+912
+01:03:00,563 --> 01:03:01,980
+What are these?
+<font color="#808080">AGNES :</font> Puppets.
+
+913
+01:03:02,440 --> 01:03:04,733
+You use them when
+you tell the story.
+
+914
+01:03:11,824 --> 01:03:14,367
+Okay, let's get
+this over with.
+
+915
+01:03:14,869 --> 01:03:16,745
+"Three little kittens
+loved to play,
+
+916
+01:03:16,829 --> 01:03:19,080
+"they had fun
+in the sun all day.
+
+917
+01:03:19,165 --> 01:03:21,499
+"Then their mother
+came out and said,
+
+918
+01:03:21,584 --> 01:03:23,585
+"'Time for kittens
+to go to bed."'
+
+919
+01:03:23,669 --> 01:03:27,589
+Wow! This is garbage.
+You actually like this?
+
+920
+01:03:27,673 --> 01:03:28,965
+Keep reading!
+
+921
+01:03:29,050 --> 01:03:30,008
+<font color="#D900D9">(GROANS)</font>
+
+922
+01:03:30,134 --> 01:03:32,177
+Come on!
+All right,
+all right, all right.
+
+923
+01:03:32,428 --> 01:03:34,930
+"Three little kittens
+started to bawl,
+
+924
+01:03:35,014 --> 01:03:37,390
+"'Mommy, we're not
+tired at all.'
+
+925
+01:03:37,475 --> 01:03:40,018
+"Their mother smiled
+and said with a purr,
+
+926
+01:03:40,102 --> 01:03:43,772
+"'Fine, but at least
+you should brush your fur."'
+
+927
+01:03:43,856 --> 01:03:46,024
+Now you brush the fur.
+
+928
+01:03:47,735 --> 01:03:49,444
+This is literature?
+
+929
+01:03:49,528 --> 01:03:52,822
+A 2-year-old could
+have written this.
+All right.
+
+930
+01:03:53,366 --> 01:03:56,368
+"Three little kittens
+with fur all brushed
+
+931
+01:03:56,452 --> 01:03:59,871
+"said, 'We can't sleep,
+we feel too rushed! '
+
+932
+01:03:59,956 --> 01:04:03,041
+"Their mother replied,
+with a voice like silk,
+
+933
+01:04:03,125 --> 01:04:06,002
+"'Fine, but at least
+you should drink your milk."'
+
+934
+01:04:06,087 --> 01:04:08,463
+Now make them
+drink the milk.
+
+935
+01:04:12,802 --> 01:04:16,638
+I don't like this book.
+This is going on forever.
+
+936
+01:04:16,722 --> 01:04:20,058
+"Three little kittens,
+with milk all gone,
+
+937
+01:04:20,142 --> 01:04:23,103
+"rubbed their eyes
+and started to yawn.
+
+938
+01:04:23,187 --> 01:04:25,063
+<font color="#D900D9">(GIRLS YAWNING)</font>
+
+939
+01:04:25,272 --> 01:04:26,856
+<font color="#D900D9">(YAWNS)</font>
+
+940
+01:04:29,485 --> 01:04:32,362
+"'We can't sleep,
+we can't even try.'
+
+941
+01:04:32,446 --> 01:04:35,281
+"Then their mother
+sang a lullaby.
+
+942
+01:04:35,366 --> 01:04:38,785
+"'Good night kittens,
+close your eyes.
+
+943
+01:04:38,869 --> 01:04:41,121
+"Sleep in peace
+until you rise.
+
+944
+01:04:41,706 --> 01:04:44,874
+"'Though while you sleep,
+we are apart,
+
+945
+01:04:44,959 --> 01:04:49,754
+"'your mommy loves you
+with all her heart."'
+
+946
+01:04:53,759 --> 01:04:56,094
+The end.
+Okay, good night.
+
+947
+01:04:56,846 --> 01:04:57,846
+Wait!
+
+948
+01:04:58,139 --> 01:04:59,347
+What?
+
+949
+01:04:59,432 --> 01:05:01,182
+What about
+good night kisses?
+
+950
+01:05:03,269 --> 01:05:07,022
+No, no. There will be
+no kissing or hugging
+or kissing.
+
+951
+01:05:09,942 --> 01:05:12,527
+He is not gonna
+kiss us good night, Agnes.
+
+952
+01:05:13,154 --> 01:05:15,196
+I like him. He's nice.
+
+953
+01:05:15,281 --> 01:05:16,614
+But scary.
+
+954
+01:05:17,867 --> 01:05:19,159
+Like Santa!
+
+955
+01:05:37,678 --> 01:05:41,890
+Only 48 hours
+till the launch,
+and all systems are go.
+
+956
+01:05:43,142 --> 01:05:45,810
+Uh... About that,
+
+957
+01:05:46,312 --> 01:05:50,565
+I was thinking that
+maybe we could move
+the date of the heist.
+
+958
+01:05:50,649 --> 01:05:53,151
+Please tell me this
+is not as a result
+
+959
+01:05:53,235 --> 01:05:56,237
+of the girls'
+dance recital, is it?
+
+960
+01:05:56,322 --> 01:05:58,573
+No, no, no!
+
+961
+01:05:58,657 --> 01:06:01,701
+The recital?
+Don't...
+That's stupid!
+
+962
+01:06:01,827 --> 01:06:06,664
+I just think
+it's kind of weird
+to do it on a Saturday.
+
+963
+01:06:06,749 --> 01:06:12,378
+I was thinking,
+maybe a heist is
+a Tuesday thing, right?
+
+964
+01:06:13,089 --> 01:06:16,716
+Gru, you and I have been
+working on this for years.
+
+965
+01:06:16,801 --> 01:06:18,843
+It's everything
+we've dreamed of.
+
+966
+01:06:18,928 --> 01:06:20,845
+Your chance to make history,
+
+967
+01:06:20,930 --> 01:06:24,140
+become the man
+who stole the moon!
+
+968
+01:06:24,225 --> 01:06:28,061
+But these girls are becoming
+a major distraction!
+
+969
+01:06:28,145 --> 01:06:29,479
+They need to go.
+
+970
+01:06:30,189 --> 01:06:34,234
+If you don't do
+something about it,
+then I will.
+
+971
+01:06:35,903 --> 01:06:37,529
+I understand.
+
+972
+01:06:40,074 --> 01:06:41,533
+Good.
+
+973
+01:06:42,535 --> 01:06:43,868
+<font color="#D900D9">(CHUCKLING)</font>
+
+974
+01:06:44,703 --> 01:06:45,870
+Butt.
+
+975
+01:06:47,998 --> 01:06:48,998
+<font color="#D900D9">(LAUGHING)</font>
+
+976
+01:06:49,083 --> 01:06:50,291
+Butt.
+
+977
+01:06:53,671 --> 01:06:55,171
+<font color="#D900D9">(ALL LAUGHING)</font>
+
+978
+01:07:02,847 --> 01:07:04,013
+Butt.
+
+979
+01:07:05,891 --> 01:07:09,644
+<font color="#808080">GRU :</font> All right.
+Now, when we put
+our cups together,
+
+980
+01:07:09,728 --> 01:07:12,355
+we will make
+the "clink" sound
+with our mouths.
+
+981
+01:07:12,439 --> 01:07:13,648
+Ready? Edith?
+
+982
+01:07:13,732 --> 01:07:14,732
+Clink.
+Clink.
+
+983
+01:07:14,817 --> 01:07:16,860
+There we go.
+And now we drink.
+
+984
+01:07:17,611 --> 01:07:18,653
+And Agnes?
+
+985
+01:07:18,737 --> 01:07:19,696
+Clink.
+Clink.
+
+986
+01:07:19,780 --> 01:07:21,197
+Very good!
+<font color="#D900D9">(DOORBELL CHIMES)</font>
+
+987
+01:07:22,992 --> 01:07:23,992
+Excuse me, girls.
+
+988
+01:07:24,076 --> 01:07:25,827
+<font color="#D900D9">(ALL GROAN)</font>
+Come on!
+
+989
+01:07:25,911 --> 01:07:29,372
+Don't worry, I'll be back.
+Keep clinking.
+
+990
+01:07:29,915 --> 01:07:31,082
+<font color="#808080">AGNES :</font> Clink, clink.
+<font color="#808080">JERRY :</font> Clink, clink.
+
+991
+01:07:32,126 --> 01:07:33,376
+Oh!
+
+992
+01:07:33,460 --> 01:07:35,336
+Miss Hattie,
+what are you doing here?
+
+993
+01:07:35,421 --> 01:07:37,463
+I'm here for the girls.
+I received a call
+
+994
+01:07:37,548 --> 01:07:39,340
+that you wanted
+to return them.
+
+995
+01:07:41,927 --> 01:07:46,180
+And also, I did purchase
+a Spanish dictionary.
+
+996
+01:07:49,602 --> 01:07:50,768
+I didn't like
+what you said.
+
+997
+01:07:50,895 --> 01:07:52,270
+But...
+<font color="#D900D9">(CLEARING THROAT)</font>
+
+998
+01:07:56,275 --> 01:07:57,275
+Oh!
+
+999
+01:07:58,569 --> 01:08:01,154
+I will get the girls ready.
+
+1000
+01:08:11,040 --> 01:08:13,499
+Don't let her
+take us, Mr. Gru!
+
+1001
+01:08:14,752 --> 01:08:16,628
+Tell her you wanna keep us.
+
+1002
+01:08:16,712 --> 01:08:18,713
+All right, girls.
+Come on, let's go.
+
+1003
+01:08:18,797 --> 01:08:21,299
+Goodbye, Mr. Gru.
+Thanks for everything.
+
+1004
+01:08:37,399 --> 01:08:39,484
+I did it
+for your own good.
+
+1005
+01:08:39,860 --> 01:08:42,946
+Come on,
+let's go get that moon.
+
+1006
+01:08:44,782 --> 01:08:45,865
+Right.
+
+1007
+01:08:48,452 --> 01:08:50,036
+<font color="#D900D9">(MINIONS CRYING)</font>
+
+1008
+01:09:20,192 --> 01:09:22,610
+<font color="#D900D9">(SCREAMING)</font>
+
+1009
+01:09:23,862 --> 01:09:26,030
+<font color="#D900D9">(ALL MUTTERING INDISTINCTLY)</font>
+
+1010
+01:09:56,061 --> 01:09:57,061
+<font color="#D900D9">(HUMMING)</font>
+
+1011
+01:09:59,356 --> 01:10:01,065
+<font color="#D900D9">(SPEAKS GIBBERISH)</font>
+
+1012
+01:10:02,443 --> 01:10:03,568
+What is this for?
+
+1013
+01:10:03,819 --> 01:10:04,861
+<font color="#D900D9">(SPEAKS GIBBERISH)</font>
+
+1014
+01:10:05,237 --> 01:10:06,487
+The recital?
+
+1015
+01:10:06,572 --> 01:10:09,866
+I am the greatest
+criminal mind
+of the century.
+
+1016
+01:10:09,950 --> 01:10:14,037
+I don't go
+to little girls'
+dance recitals!
+
+1017
+01:10:34,850 --> 01:10:39,812
+Opening launch bay doors.
+Commencing launch sequence.
+
+1018
+01:10:39,897 --> 01:10:44,901
+And we are good to go
+in T minus 10 seconds.
+
+1019
+01:10:45,986 --> 01:10:50,406
+Ten, nine, eight, seven,
+
+1020
+01:10:50,491 --> 01:10:51,574
+six...
+
+1021
+01:10:52,326 --> 01:10:53,993
+<font color="#D900D9">(RUMBLING)</font>
+
+1022
+01:11:17,643 --> 01:11:18,893
+Oh, yeah!
+
+1023
+01:11:20,854 --> 01:11:23,397
+Nice work, Doctor.
+All systems go.
+
+1024
+01:11:23,816 --> 01:11:24,899
+Boo-ya!
+
+1025
+01:11:26,944 --> 01:11:28,319
+<font color="#D900D9">(GROANING)</font>
+
+1026
+01:11:28,987 --> 01:11:30,655
+<font color="#D900D9">(SCREAMING)</font>
+
+1027
+01:11:36,161 --> 01:11:37,745
+My flight suit.
+
+1028
+01:11:39,498 --> 01:11:42,667
+Oh, yeah!
+Once again, the mighty...
+
+1029
+01:11:44,336 --> 01:11:45,503
+<font color="#D900D9">(SCREAMING)</font>
+
+1030
+01:11:46,797 --> 01:11:47,797
+<font color="#D900D9">(SCREAMING)</font>
+
+1031
+01:12:16,034 --> 01:12:17,827
+<font color="#D900D9">(ALL CHEERING)</font>
+
+1032
+01:12:44,646 --> 01:12:46,814
+<font color="#808080">ALL :</font> Whoa!
+
+1033
+01:12:57,618 --> 01:12:58,910
+<font color="#D900D9">(HOWLING)</font>
+
+1034
+01:13:05,792 --> 01:13:07,418
+Ah-ha!
+
+1035
+01:13:07,502 --> 01:13:09,212
+I've got it!
+
+1036
+01:13:10,714 --> 01:13:13,507
+I've got the moon!
+
+1037
+01:13:13,592 --> 01:13:16,427
+I've got the moon!
+
+1038
+01:13:31,526 --> 01:13:33,027
+I can make it!
+
+1039
+01:13:40,285 --> 01:13:41,410
+Wait a minute!
+
+1040
+01:13:41,495 --> 01:13:42,620
+Kevin!
+
+1041
+01:13:45,749 --> 01:13:47,291
+Come on, come on!
+
+1042
+01:13:55,592 --> 01:13:57,176
+He's still not here.
+
+1043
+01:13:57,261 --> 01:13:59,679
+Why would he come?
+He gave us up.
+
+1044
+01:13:59,763 --> 01:14:01,264
+But he pinky promised!
+
+1045
+01:14:01,348 --> 01:14:04,100
+Girls, girls, places!
+
+1046
+01:14:04,184 --> 01:14:07,019
+No, we can't start yet!
+We're still expecting
+someone.
+
+1047
+01:14:07,104 --> 01:14:09,480
+Can we just wait
+a few more minutes?
+
+1048
+01:14:13,318 --> 01:14:15,736
+All right. But just
+a few more minutes.
+
+1049
+01:14:15,821 --> 01:14:17,905
+He's not coming, guys.
+
+1050
+01:14:21,326 --> 01:14:23,369
+Gru! Gru, can you hear me?
+
+1051
+01:14:25,706 --> 01:14:29,250
+Quick, we have to
+warn him, and fast!
+<font color="#D900D9">(ENGINE REVVING)</font>
+
+1052
+01:14:35,674 --> 01:14:37,174
+<font color="#D900D9">(SCREAMING)</font>
+
+1053
+01:14:49,438 --> 01:14:51,897
+<font color="#D900D9">(PIANO MUSIC PLAYING)</font>
+
+1054
+01:15:04,244 --> 01:15:06,245
+Okay, okay.
+There's the library.
+
+1055
+01:15:06,330 --> 01:15:08,998
+That's Third Street.
+The dance studio...
+
+1056
+01:15:09,082 --> 01:15:10,541
+There! There!
+There it is!
+
+1057
+01:15:20,177 --> 01:15:21,886
+<font color="#D900D9">(CHILDREN CHEERING)</font>
+
+1058
+01:15:26,224 --> 01:15:27,224
+<font color="#D900D9">(GASPS)</font>
+
+1059
+01:15:47,996 --> 01:15:50,414
+Sorry, buddy.
+Show's over.
+
+1060
+01:15:50,749 --> 01:15:52,375
+Over?
+
+1061
+01:16:30,330 --> 01:16:31,831
+Vector, open up!
+
+1062
+01:16:33,583 --> 01:16:36,085
+First give me the moon.
+Then we'll talk.
+
+1063
+01:16:39,965 --> 01:16:41,298
+<font color="#D900D9">(CHUCKLES)</font>
+
+1064
+01:16:49,641 --> 01:16:50,891
+<font color="#808080">AGNES :</font> Mr. Gru!
+
+1065
+01:16:50,976 --> 01:16:52,143
+Zip it, Happy Meal.
+
+1066
+01:16:52,227 --> 01:16:53,727
+Now, the girls.
+
+1067
+01:16:53,812 --> 01:16:58,190
+Actually,
+I think I'll hold on to them
+a little while longer.
+
+1068
+01:16:58,275 --> 01:16:59,316
+No!
+
+1069
+01:16:59,401 --> 01:17:02,069
+Oh, yeah! Unpredictable!
+
+1070
+01:17:02,779 --> 01:17:04,238
+Listen close,
+you little punk.
+
+1071
+01:17:04,322 --> 01:17:07,700
+When I get in there,
+you are in for
+a world of pain!
+
+1072
+01:17:07,784 --> 01:17:08,909
+<font color="#D900D9">(EXCLAIMING SARCASTICALLY)</font>
+
+1073
+01:17:08,994 --> 01:17:10,828
+I'm really scared!
+
+1074
+01:17:14,291 --> 01:17:16,125
+He is gonna
+kick your butt.
+
+1075
+01:17:16,585 --> 01:17:19,837
+<font color="#D900D9">(SCOFFS)</font>
+
+1076
+01:17:56,458 --> 01:17:58,292
+What?
+He punched my shark!
+
+1077
+01:18:25,028 --> 01:18:26,153
+Ha! There he is!
+
+1078
+01:18:32,077 --> 01:18:33,327
+Hang on, Gru.
+
+1079
+01:18:38,667 --> 01:18:39,959
+Oh, no!
+
+1080
+01:18:41,586 --> 01:18:42,836
+<font color="#D900D9">(SCREAMS)</font>
+
+1081
+01:18:43,296 --> 01:18:44,296
+Ow?
+
+1082
+01:18:50,262 --> 01:18:52,096
+Vector has the girls. Go!
+
+1083
+01:18:56,101 --> 01:18:57,768
+What happened to the ship?
+It's big again!
+
+1084
+01:18:57,852 --> 01:19:00,604
+Not as big as the moon
+is going to be!
+What?
+
+1085
+01:19:00,689 --> 01:19:02,565
+The larger the mass
+of an object,
+
+1086
+01:19:02,649 --> 01:19:05,734
+the quicker the effects
+of the shrink ray wear off!
+
+1087
+01:19:05,819 --> 01:19:08,779
+I call it
+the Nefario Principle.
+
+1088
+01:19:08,863 --> 01:19:10,781
+I just came up
+with it now, actually.
+
+1089
+01:19:11,616 --> 01:19:13,075
+Oh, no!
+
+1090
+01:19:18,039 --> 01:19:19,039
+<font color="#D900D9">(GASPS)</font>
+
+1091
+01:19:19,124 --> 01:19:20,457
+Did you see that?
+
+1092
+01:19:20,584 --> 01:19:23,252
+Vector! Help!
+Vector!
+
+1093
+01:19:23,336 --> 01:19:24,545
+Over here!
+Hey!
+
+1094
+01:19:24,629 --> 01:19:26,297
+What are you girls
+doing back there?
+
+1095
+01:19:26,381 --> 01:19:27,423
+The moon!
+
+1096
+01:19:29,134 --> 01:19:30,134
+<font color="#D900D9">(ALL SCREAMING)</font>
+
+1097
+01:19:37,934 --> 01:19:38,934
+<font color="#D900D9">(GROANING)</font>
+
+1098
+01:19:41,313 --> 01:19:42,438
+Ouch!
+
+1099
+01:19:43,565 --> 01:19:44,607
+Watch out!
+
+1100
+01:19:45,317 --> 01:19:46,817
+<font color="#D900D9">(SCREAMING)</font>
+
+1101
+01:19:48,445 --> 01:19:50,237
+<font color="#808080">GRU :</font> Get as close in
+as you can.
+
+1102
+01:19:51,072 --> 01:19:52,364
+You got it.
+
+1103
+01:20:05,420 --> 01:20:06,420
+<font color="#D900D9">(ALL SCREAMING)</font>
+
+1104
+01:20:08,715 --> 01:20:09,798
+Mr. Gru, up here!
+
+1105
+01:20:09,883 --> 01:20:10,924
+Mr. Gru!
+
+1106
+01:20:11,009 --> 01:20:13,052
+Okay, girls! Girls!
+
+1107
+01:20:13,136 --> 01:20:15,804
+You're going to
+have to jump.
+<font color="#808080">EDITH :</font> Jump?
+
+1108
+01:20:15,889 --> 01:20:17,848
+Are you insane?
+
+1109
+01:20:17,932 --> 01:20:19,350
+Don't worry,
+I will catch you.
+
+1110
+01:20:20,268 --> 01:20:21,685
+You gave us back!
+
+1111
+01:20:21,770 --> 01:20:25,939
+I know, I know.
+And it is the worst
+mistake I ever made.
+
+1112
+01:20:26,524 --> 01:20:28,442
+But you have to
+jump now.
+
+1113
+01:20:29,027 --> 01:20:31,111
+It'll be okay.
+
+1114
+01:20:36,076 --> 01:20:37,117
+Okay, girls.
+
+1115
+01:20:39,204 --> 01:20:40,704
+Jump now!
+
+1116
+01:20:40,872 --> 01:20:42,498
+<font color="#D900D9">(BOTH SCREAMING)</font>
+
+1117
+01:20:45,710 --> 01:20:48,003
+Margo,
+I will catch you.
+
+1118
+01:20:48,672 --> 01:20:51,715
+And I will never
+let you go again.
+
+1119
+01:21:01,309 --> 01:21:03,310
+Not so fast!
+No!
+
+1120
+01:21:03,395 --> 01:21:04,978
+Let me go!
+<font color="#D900D9">(LAUGHING)</font>
+
+1121
+01:21:05,063 --> 01:21:06,730
+<font color="#D900D9">(BOTH SCREAMING)</font>
+
+1122
+01:21:08,650 --> 01:21:09,733
+Margo!
+
+1123
+01:21:10,151 --> 01:21:11,276
+Whoa!
+
+1124
+01:21:15,532 --> 01:21:17,741
+I'm coming, Margo.
+Hang on!
+
+1125
+01:21:30,880 --> 01:21:32,256
+<font color="#D900D9">(LAUGHING)</font>
+
+1126
+01:21:32,716 --> 01:21:33,716
+<font color="#D900D9">(GROANS)</font>
+
+1127
+01:21:37,595 --> 01:21:40,889
+<font color="#D900D9">(BOTH SCREAMING)</font>
+
+1128
+01:21:46,688 --> 01:21:48,188
+I got you.
+
+1129
+01:21:51,985 --> 01:21:53,610
+<font color="#D900D9">(GROANING)</font>
+
+1130
+01:22:01,703 --> 01:22:03,620
+<font color="#D900D9">(SCREAMING)</font>
+
+1131
+01:22:06,332 --> 01:22:07,458
+No!
+
+1132
+01:22:10,462 --> 01:22:11,545
+<font color="#D900D9">(EXPLOSION)</font>
+
+1133
+01:22:24,642 --> 01:22:25,893
+Oh, poop.
+
+1134
+01:22:26,978 --> 01:22:28,812
+This time, good triumphs,
+
+1135
+01:22:28,897 --> 01:22:30,230
+and the moon
+has been returned
+
+1136
+01:22:30,315 --> 01:22:32,232
+to its rightful
+place in the sky.
+
+1137
+01:22:32,317 --> 01:22:37,029
+But once again,
+law enforcement is baffled,
+leaving everyone to wonder,
+
+1138
+01:22:37,113 --> 01:22:38,906
+who is this mysterious hero?
+
+1139
+01:22:38,990 --> 01:22:40,949
+And what will he do next?
+
+1140
+01:22:41,493 --> 01:22:43,243
+Okay, girls.
+Time for bed.
+
+1141
+01:22:43,328 --> 01:22:45,204
+Come on!
+We want a story.
+
+1142
+01:22:45,288 --> 01:22:47,080
+Three sleepy kittens!
+
+1143
+01:22:47,165 --> 01:22:51,418
+Oh, no! Sorry.
+That book was accidentally
+destroyed maliciously.
+
+1144
+01:22:51,711 --> 01:22:52,753
+<font color="#D900D9">(SCOFFS)</font>
+
+1145
+01:22:52,837 --> 01:22:56,048
+Tonight we are going
+to read a new book.
+
+1146
+01:22:56,132 --> 01:22:58,300
+This one is called
+
+1147
+01:22:58,384 --> 01:23:02,095
+One Big Unicorn by...
+Who wrote this?
+
+1148
+01:23:02,180 --> 01:23:06,600
+Oh! Me! I wrote it.
+Look, it's a puppet book!
+
+1149
+01:23:07,393 --> 01:23:09,102
+Here, watch this.
+
+1150
+01:23:10,271 --> 01:23:11,688
+That's the horn!
+
+1151
+01:23:11,773 --> 01:23:13,106
+<font color="#D900D9">(GIRLS LAUGHING)</font>
+
+1152
+01:23:16,110 --> 01:23:18,195
+This is gonna be
+the best book ever!
+
+1153
+01:23:18,279 --> 01:23:20,656
+Not to pat myself
+on the back,
+
+1154
+01:23:20,740 --> 01:23:23,075
+but, yes,
+it probably will be.
+
+1155
+01:23:23,159 --> 01:23:24,243
+Here we go.
+
+1156
+01:23:24,327 --> 01:23:27,287
+"One big unicorn,
+strong and free
+
+1157
+01:23:27,372 --> 01:23:30,123
+"thought he was happy
+as he could be.
+
+1158
+01:23:31,459 --> 01:23:34,920
+"Then three little
+kittens came around
+
+1159
+01:23:35,255 --> 01:23:38,966
+"and turned his
+whole life upside down."
+
+1160
+01:23:39,050 --> 01:23:40,801
+Hey, that one
+looks like me!
+
+1161
+01:23:40,885 --> 01:23:43,011
+No, what are you
+talking about?
+These are kittens!
+
+1162
+01:23:43,096 --> 01:23:46,890
+Any relation
+to persons living or dead
+is completely coincidental.
+
+1163
+01:23:50,436 --> 01:23:52,813
+"They made him laugh. <font color="#D900D9">(LAUGHS)</font>
+
+1164
+01:23:52,897 --> 01:23:55,983
+"They made him cry. <font color="#D900D9">(MOANS)</font>
+
+1165
+01:23:57,360 --> 01:23:59,820
+"He never should
+have said goodbye.
+
+1166
+01:24:00,655 --> 01:24:05,200
+"And now he knows
+he could never part
+
+1167
+01:24:05,285 --> 01:24:07,911
+"from those
+three little kittens
+
+1168
+01:24:08,413 --> 01:24:11,331
+"that changed his heart.
+
+1169
+01:24:11,416 --> 01:24:13,500
+"The end."
+
+1170
+01:24:13,585 --> 01:24:15,919
+Okay, all right.
+Good night.
+
+1171
+01:24:39,235 --> 01:24:40,861
+I love you.
+
+1172
+01:24:41,404 --> 01:24:43,113
+I love you, too.
+
+1173
+01:24:48,286 --> 01:24:49,369
+<font color="#D900D9">(CLEARS THROAT)</font>
+
+1174
+01:24:49,454 --> 01:24:51,163
+<font color="#D900D9">(SPEAKS GIBBERISH)</font>
+
+1175
+01:24:52,457 --> 01:24:54,291
+No, no!
+
+1176
+01:24:54,417 --> 01:24:56,043
+<font color="#D900D9">(ALL EXCLAIMING
+DISAPPOINTEDLY)</font>
+
+1177
+01:24:56,502 --> 01:24:57,628
+All right.
+
+1178
+01:25:02,634 --> 01:25:04,092
+Didn't I get you already?
+
+1179
+01:25:04,177 --> 01:25:05,552
+<font color="#D900D9">(LAUGHING)</font>
+
+1180
+01:25:10,433 --> 01:25:12,225
+<font color="#D900D9">(INDISTINCT CHATTER)</font>
+
+1181
+01:25:20,193 --> 01:25:21,693
+<font color="#D900D9">(PIANO MUSIC PLAYING)</font>
+
+1182
+01:25:38,628 --> 01:25:40,587
+They're very good!
+
+1183
+01:25:40,672 --> 01:25:43,632
+I'm so proud of you, Son.
+
+1184
+01:25:43,716 --> 01:25:46,677
+You've turned out to be
+a great parent!
+
+1185
+01:25:47,845 --> 01:25:49,346
+Just like me.
+
+1186
+01:25:49,889 --> 01:25:52,140
+Maybe even better.
+
+1187
+01:25:56,771 --> 01:25:57,771
+<font color="#D900D9">(SPEAKS GIBBERISH)</font>
+
+1188
+01:25:57,855 --> 01:25:58,855
+<font color="#D900D9">(GROANS)</font>
+
+1189
+01:26:00,400 --> 01:26:02,484
+<font color="#D900D9">(UPBEAT POP MUSIC PLAYING)</font>
+
+1190
+01:26:12,203 --> 01:26:13,704
+<font color="#D900D9">(ALL CHEERING)</font>
+
+1191
+01:26:19,460 --> 01:26:21,169
+No, I'm fine.
+Go ahead.
+
+1192
+01:26:22,922 --> 01:26:24,381
+No, no, no!
+
+1193
+01:27:01,210 --> 01:27:02,210
+<font color="#D900D9">(MOANS)</font>
+
+1194
+01:27:55,097 --> 01:27:56,515
+<font color="#D900D9">(EXCLAIMING)</font>
+
+1195
+01:27:57,225 --> 01:27:58,225
+<font color="#D900D9">(SIGHS)</font>
+
+1196
+01:28:04,065 --> 01:28:05,607
+Hey, Carl! Hey.
+
+1197
+01:28:05,691 --> 01:28:06,691
+Hmm?
+
+1198
+01:28:06,776 --> 01:28:08,568
+<font color="#D900D9">(SPEAKING GIBBERISH)</font>
+
+1199
+01:28:09,904 --> 01:28:10,987
+No, no, no.
+
+1200
+01:28:11,072 --> 01:28:12,280
+<font color="#808080">BOTH :</font> Me, me, me.
+
+1201
+01:28:13,616 --> 01:28:14,574
+John?
+
+1202
+01:28:14,659 --> 01:28:15,659
+No, no. Me, me, me.
+
+1203
+01:28:15,743 --> 01:28:16,743
+<font color="#D900D9">(SPEAKING GIBBERISH)</font>
+
+1204
+01:28:18,830 --> 01:28:19,830
+<font color="#D900D9">(BOTH GRUNTING)</font>
+
+1205
+01:28:19,914 --> 01:28:20,914
+<font color="#D900D9">(SPEAKS GIBBERISH)</font>
+
+1206
+01:28:27,129 --> 01:28:28,922
+<font color="#D900D9">(SPEAKING GIBBERISH)</font>
+
+1207
+01:28:33,010 --> 01:28:34,052
+<font color="#D900D9">(SPEAKS GIBBERISH)</font>
+
+1208
+01:28:34,679 --> 01:28:35,929
+<font color="#D900D9">(SPEAKS GIBBERISH)</font>
+
+1209
+01:28:39,934 --> 01:28:41,685
+Oh, poop. <font color="#D900D9">(SCREAMS)</font>
+
+1210
+01:28:42,144 --> 01:28:43,687
+<font color="#D900D9">(BLOWS WHISTLE)</font>
+
+1211
+01:29:08,379 --> 01:29:11,214
+<font color="#D900D9">(BOTH SPEAKING GIBBERISH)</font>
+
+1212
+01:29:13,551 --> 01:29:15,385
+<font color="#D900D9">(SPEAKING GIBBERISH)</font>
+
+1213
+01:29:20,266 --> 01:29:21,641
+<font color="#D900D9">(LAUGHING)</font>
+
+1214
+01:29:27,106 --> 01:29:28,898
+<font color="#D900D9">(GROANING)</font> Oh, no!
+
+1215
+01:29:29,734 --> 01:29:31,192
+Stop! Stop!
+
+1216
+01:29:52,048 --> 01:29:53,590
+<font color="#D900D9">(CARL GROANING)</font>
+
+1217
+01:30:00,264 --> 01:30:02,140
+<font color="#D900D9">(SPEAKS GIBBERISH)</font>
+
+1218
+01:30:02,224 --> 01:30:03,850
+Huh? <font color="#D900D9">(SCREAMING)</font>
+
+1219
+01:30:06,062 --> 01:30:08,063
+<font color="#D900D9">(MUSIC FADES OUT)</font>
+
+1220
+01:30:08,272 --> 01:30:09,272
+<font color="#D900D9">(BLOWS RASPBERRY)</font>
+
+1221
+01:30:25,498 --> 01:30:27,290
+<font color="#D900D9">(SPEAKING GIBBERISH)</font>
+
+1222
+01:30:27,625 --> 01:30:29,376
+<font color="#D900D9">(IMITATES QUACKING)</font>
+
+1223
+01:30:30,044 --> 01:30:31,836
+<font color="#D900D9">(IMITATES SQUAWKING)</font>
+
+1224
+01:30:32,421 --> 01:30:33,755
+Hello, I am Gru.
+
+1225
+01:30:33,839 --> 01:30:36,883
+Back to work,
+back to work! Back to...
+
+1226
+01:30:41,389 --> 01:34:42,503
+<font color="#D900D9">(CHUCKLING)</font>
+

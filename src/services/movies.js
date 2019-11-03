@@ -2,6 +2,7 @@ import * as themoviedb from './themoviedb';
 import * as omdb from './omdb';
 import MovieModel from "../../models/movie";
 import Sequelize from "sequelize";
+import getSubtitleFileName, {addSubsFileNames} from "../subs";
 const fs = require('fs');
 
 const movieQty = 200;
@@ -31,10 +32,10 @@ const theMovieDB_data = JSON.parse(data);
 
     //TODO look at theMovieDB restrictions
 
-    const consolidated = movies.map(lm => {
+    const consolidatedAPIs = await Promise.all(movies.map(async lm => {
         let movie = lm.dataValues ? lm.dataValues : lm;
-        const omdb_movie = omdb_data.find(om => movie.imdb_id ? om.imdbID === movie.imdb_id : om.title === movie.title);
 
+        const omdb_movie = omdb_data.find(om => movie.imdb_id ? om.imdbID === movie.imdb_id : om.title === movie.title);
         if (omdb_movie) {
             movie.restrictions = [omdb_movie.Rated];
             movie.directors = omdb_movie.Director.split(', ');
@@ -48,8 +49,7 @@ const theMovieDB_data = JSON.parse(data);
         }
 
         return movie;
-    });
+    }));
 
-    return consolidated;
+    return await addSubsFileNames(consolidatedAPIs);
 }
-

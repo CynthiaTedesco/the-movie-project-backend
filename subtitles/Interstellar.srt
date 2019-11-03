@@ -1,0 +1,3550 @@
+﻿1
+00:00:04,795 --> 00:00:08,340
+NARRATOR: <i>Humans are natural-born explorers.</i>
+
+2
+00:00:08,549 --> 00:00:12,928
+<i>We charge into uncharted territory
+and seek out the unknown.</i>
+
+3
+00:00:14,513 --> 00:00:16,557
+<i>We</i> '<i>ve mapped nearly every inch</i>
+<i>of Mother Earth.</i>..
+
+4
+00:00:18,559 --> 00:00:20,936
+...<i>and left tracks on the moon.</i>
+
+5
+00:00:21,145 --> 00:00:23,522
+<i>But to set foot on another planet.</i>..
+
+6
+00:00:23,731 --> 00:00:26,025
+...<i>to travel beyond our solar system.</i>..
+
+7
+00:00:26,191 --> 00:00:28,694
+...<i>that is a dream for the future.</i>
+
+8
+00:00:33,532 --> 00:00:37,911
+<i>A dream that comes to life</i>
+<i>in the feature film</i> Interstellar.
+
+9
+00:00:39,496 --> 00:00:45,294
+BRAND: <i>We must think not as individuals</i>
+<i>but as a species.</i>
+
+10
+00:00:45,461 --> 00:00:49,298
+<i>We must confront the reality
+of interstellar travel.</i>
+
+11
+00:00:54,303 --> 00:00:59,808
+NARRATOR: <i>The film</i> Interstellar <i>deals with the</i>
+<i>quest for new worlds and the fate of humanity.</i>
+
+12
+00:01:00,559 --> 00:01:02,811
+<i>Sound like the stuff of science fiction?</i>
+
+13
+00:01:03,395 --> 00:01:04,813
+<i>Maybe.</i>
+
+14
+00:01:04,980 --> 00:01:09,652
+<i>But the foundations of this film</i>
+<i>are rooted in real science.</i>..
+
+15
+00:01:09,818 --> 00:01:14,406
+...<i>thanks to the involvement</i>
+<i>of renowned astrophysicist Kip Thorne.</i>
+
+16
+00:01:14,573 --> 00:01:18,327
+In <i>Interstellar,</i>
+one of the most important features...
+
+17
+00:01:18,494 --> 00:01:22,998
+...is the way that the science
+is totally embedded in the film.
+
+18
+00:01:23,165 --> 00:01:24,958
+There are some wiId things in here.
+
+19
+00:01:26,085 --> 00:01:31,340
+NARRATOR: <i>Beyond fantasy and fiction,</i>
+<i>this is the real science of</i> Interstellar.
+
+20
+00:01:39,848 --> 00:01:42,851
+<i>Space travel has been a staple of the movies</i>
+<i>from the very beginning.</i>..
+
+21
+00:01:43,018 --> 00:01:46,605
+...<i>but the feature film</i> Interstellar
+<i>has a unique pedigree.</i>
+
+22
+00:01:46,772 --> 00:01:49,525
+<i>lt was inspired in part</i>
+<i>by the work of Kip Thorne.</i>..
+
+23
+00:01:51,735 --> 00:01:55,489
+...<i>an authority on astrophysics,</i>
+<i>gravitational waves.</i>..
+
+24
+00:01:55,656 --> 00:01:58,409
+...<i>and the warping of space-time.</i>
+
+25
+00:01:58,575 --> 00:02:01,620
+<i>He</i>'<i>s also an executive producer</i>
+<i>on the film.</i>
+
+26
+00:02:01,954 --> 00:02:07,793
+In <i>Interstellar,</i> real science was built
+into the fabric of the fiIm from the outset.
+
+27
+00:02:08,293 --> 00:02:14,007
+The other major players in this film,
+they all respected the science...
+
+28
+00:02:14,174 --> 00:02:18,095
+...and they worked with me to see
+that the science was well incorporated.
+
+29
+00:02:18,262 --> 00:02:24,727
+Can you tell me what the easiest definition
+of what a singuIarity is?
+
+30
+00:02:24,893 --> 00:02:29,940
+Kip and myself meshed well
+in terms of trying to use current thinking...
+
+31
+00:02:30,107 --> 00:02:33,235
+...current scientific understanding
+to drive the narrative.
+
+32
+00:02:33,402 --> 00:02:34,778
+The Ianguage we use...
+
+33
+00:02:34,945 --> 00:02:41,285
+...is it's a pIace where the curvature
+of space and time gets infinitely high.
+
+34
+00:02:41,452 --> 00:02:42,536
+So we're good, okay.
+
+35
+00:02:42,703 --> 00:02:46,915
+And we just hope that the research we've done
+and the conversations I'd had with Kip...
+
+36
+00:02:47,082 --> 00:02:50,461
+...and that Chris had had with Kip
+informed the narrative...
+
+37
+00:02:50,627 --> 00:02:52,504
+...and that the audience would feel that.
+
+38
+00:02:52,671 --> 00:02:55,799
+NOLAN:
+Why simply imagine, fantasize...
+
+39
+00:02:55,966 --> 00:02:59,595
+...about things that might happen in space
+or on an interstellar journey?
+
+40
+00:02:59,762 --> 00:03:02,931
+Why not actuaILy Look
+at, uh, the real science there?
+
+41
+00:03:05,684 --> 00:03:07,060
+It's an Indian surveilIance drone.
+
+42
+00:03:07,227 --> 00:03:09,146
+NARRATOR:
+Interstellar <i>takes place in a future.</i>..
+
+43
+00:03:09,313 --> 00:03:13,066
+...<i>where living conditions on Earth</i>
+<i>threaten the survival of humanity.</i>
+
+44
+00:03:13,984 --> 00:03:17,112
+BRAND: Your daughter's generation
+will be the last to survive on Earth.
+
+45
+00:03:17,279 --> 00:03:20,616
+COOPER: Now you need to teII me
+what your plan is to save the world.
+
+46
+00:03:20,783 --> 00:03:23,994
+BRAND: We're not meant to save the worId,
+we're meant to leave it.
+
+47
+00:03:24,953 --> 00:03:28,582
+One of the things that the fiIm expIores is,
+do we belong on Earth...
+
+48
+00:03:28,749 --> 00:03:31,877
+...and shouId we be staying on Earth...
+
+49
+00:03:32,044 --> 00:03:35,088
+...and if there is anything else out there,
+shouId we be exploring that?
+
+50
+00:03:35,422 --> 00:03:36,715
+Here we go.
+
+51
+00:03:36,882 --> 00:03:39,510
+NARRATOR: <i>ln the film,</i>
+<i>the crew seeks a new place to call home.</i>
+
+52
+00:03:39,676 --> 00:03:41,345
+<i>A planet that can sustain life.</i>
+
+53
+00:03:42,179 --> 00:03:43,305
+<i>Human life.</i>
+
+54
+00:03:43,472 --> 00:03:44,723
+-I'm not gonna make it!
+-Yes, you are.
+
+55
+00:03:44,890 --> 00:03:47,851
+It's an exciting concept
+that there may be other worlds out there.
+
+56
+00:03:48,519 --> 00:03:51,230
+Well, what are those worlds
+and what couId they be...
+
+57
+00:03:51,396 --> 00:03:53,315
+...and is there a pIace for us out there?
+
+58
+00:03:53,816 --> 00:03:55,400
+NARRATOR:
+<i>The search for another Earth.</i>..
+
+59
+00:03:55,567 --> 00:03:58,362
+...<i>sounds like a job</i>
+<i>for the explorers of tomorrow.</i>..
+
+60
+00:03:58,862 --> 00:04:01,657
+...<i>but it's happening right now.</i>
+
+61
+00:04:05,118 --> 00:04:09,331
+<i>Astrophysicist Natalie Batalha
+is a passionate planet hunter.</i>
+
+62
+00:04:09,498 --> 00:04:13,252
+BATALHA: I think the only way that we're going
+to realLy understand our pIace in the gaIaxy...
+
+63
+00:04:13,418 --> 00:04:19,007
+...is by Looking at this broad picture
+and understanding the diversity of all pIanets.
+
+64
+00:04:19,174 --> 00:04:21,218
+Twenty or 30 years ago, we didn't know...
+
+65
+00:04:21,385 --> 00:04:25,806
+...of any other planets orbiting normaI stars
+Like our own sun.
+
+66
+00:04:26,515 --> 00:04:29,393
+NARRATOR: <i>Natalie has helped</i>
+<i>rewrite that story as mission scientist.</i>..
+
+67
+00:04:29,560 --> 00:04:31,478
+...<i>for NASA</i> '<i>s</i> KepIer <i>space telescope.</i>
+
+68
+00:04:31,645 --> 00:04:33,939
+BATALHA:
+<i>Kepler's</i> objective is very simpIe.
+
+69
+00:04:34,106 --> 00:04:37,401
+It's to determine the fraction of stars
+in our galaxy...
+
+70
+00:04:37,568 --> 00:04:41,363
+...that harbor potentially habitable
+Earth-size planets.
+
+71
+00:04:41,530 --> 00:04:43,824
+NARRATOR: <i>And what makes a planet</i>
+<i>potentially habitable?</i>
+
+72
+00:04:43,991 --> 00:04:47,035
+The one ingredient that we think
+is common to all life forms...
+
+73
+00:04:47,202 --> 00:04:49,872
+...is this requirement of Iiquid water.
+
+74
+00:04:50,038 --> 00:04:52,624
+So that's why we look for planets
+that have rocky surfaces...
+
+75
+00:04:52,791 --> 00:04:53,959
+...where water could pooI...
+
+76
+00:04:54,293 --> 00:04:57,212
+...and that are receiving the right amount
+of energy from the star...
+
+77
+00:04:57,379 --> 00:05:01,216
+...where the water wouIdn't be locked up
+in a frozen state because the planet is so cold...
+
+78
+00:05:01,383 --> 00:05:04,928
+...nor would it be evaporated away
+because the planet is too hot.
+
+79
+00:05:05,095 --> 00:05:09,516
+We call it the Gold ilocks Zone,
+where Iiquid water could potentially exist.
+
+80
+00:05:10,517 --> 00:05:12,728
+NARRATOR:
+<i>Launched in 2009,</i> KepIer <i>stared.</i>..
+
+81
+00:05:12,895 --> 00:05:17,399
+...<i>at one small patch of the Milky Way</i>
+<i>for four years straight.</i>
+
+82
+00:05:17,566 --> 00:05:21,945
+<i>Compared to stars,</i>
+<i>planets are too tiny for</i> KepIer <i>to spot.</i>..
+
+83
+00:05:22,738 --> 00:05:24,239
+...<i>but it can detect their shadows.</i>
+
+84
+00:05:24,406 --> 00:05:29,661
+BATALHA: Every planet orbiting a Iuminous
+object is casting a shadow out into space.
+
+85
+00:05:29,828 --> 00:05:32,497
+The <i>Kepler</i> spacecraft makes use
+of that fact...
+
+86
+00:05:32,664 --> 00:05:37,294
+...waiting for a planet
+in its orbit about the star...
+
+87
+00:05:37,461 --> 00:05:41,256
+...to pass directly between
+the disc of the star and the spacecraft...
+
+88
+00:05:41,757 --> 00:05:46,178
+...and the telescope perceives that
+as a dimming of light.
+
+89
+00:05:46,345 --> 00:05:49,598
+NARRATOR: <i>This simple method</i>
+<i>has revealed thousands of exoplanets.</i>
+
+90
+00:05:50,349 --> 00:05:53,727
+<i>Planets orbiting other stars in our galaxy.</i>
+
+91
+00:05:53,894 --> 00:05:55,103
+What we've learned so far...
+
+92
+00:05:55,270 --> 00:06:00,651
+...is that literally every star in the galaxy
+has at least one planet.
+
+93
+00:06:01,151 --> 00:06:05,238
+There's an amazing diversity
+of exoplanets out there...
+
+94
+00:06:05,405 --> 00:06:07,407
+...and we've found very exotic worlds.
+
+95
+00:06:08,075 --> 00:06:12,329
+Two hundred light-years away,
+there is a Saturn-size planet orbiting...
+
+96
+00:06:12,496 --> 00:06:14,998
+...not one, but two stars.
+
+97
+00:06:15,165 --> 00:06:18,377
+So if you were living
+on a world like KepIer-16B...
+
+98
+00:06:18,543 --> 00:06:22,714
+...you would see in the sky two stars
+rising in the east, setting in the west...
+
+99
+00:06:22,881 --> 00:06:27,552
+...continuously changing position
+as they orbit one another.
+
+100
+00:06:30,222 --> 00:06:33,642
+This is an artist's rendition
+of the planet KepIer-10B.
+
+101
+00:06:33,809 --> 00:06:39,982
+It's orbiting 23 times closer to its parent star
+than Mercury is to our own sun.
+
+102
+00:06:40,148 --> 00:06:45,278
+So this star-facing side is just
+being blasted by stellar radiation...
+
+103
+00:06:45,654 --> 00:06:49,741
+...creating temperatures
+in excess of that required to melt iron.
+
+104
+00:06:49,908 --> 00:06:54,204
+The planet has an entire hemisphere
+larger than the Pacific Ocean...
+
+105
+00:06:54,371 --> 00:06:57,374
+...which is an ocean,
+but it's not an ocean of water.
+
+106
+00:06:57,541 --> 00:06:59,751
+It's an ocean of molten lava.
+
+107
+00:07:00,794 --> 00:07:03,130
+NARRATOR:
+<i>Not an attractive destination.</i>
+
+108
+00:07:04,798 --> 00:07:08,969
+<i>But</i> Kepler <i>recently found us</i>
+<i>a possible second home.</i>
+
+109
+00:07:09,136 --> 00:07:12,848
+This is an artist's concept
+of the KepIer-186 planetary system.
+
+110
+00:07:13,015 --> 00:07:16,059
+Five planets orbiting this M-type star...
+
+111
+00:07:16,226 --> 00:07:20,355
+...and the outermost planet is KepIer-186F.
+
+112
+00:07:21,189 --> 00:07:26,528
+Our first discovery of an Earth-size planet
+in the habitable zone of a normal star.
+
+113
+00:07:26,695 --> 00:07:32,451
+When l think about KepIer-186F,
+I try to imagine it as a real place...
+
+114
+00:07:32,617 --> 00:07:34,870
+...because it is a real place.
+
+115
+00:07:35,037 --> 00:07:38,081
+We know that it could be rocky,
+it's the same size as Earth...
+
+116
+00:07:38,248 --> 00:07:40,917
+...so I do imagine a rocky surface.
+
+117
+00:07:41,626 --> 00:07:45,672
+We don't know that it has a liquid ocean,
+but we can certainly imagine one.
+
+118
+00:07:46,173 --> 00:07:48,508
+And then, all of a sudden
+in your imagination...
+
+119
+00:07:48,675 --> 00:07:51,470
+...you internalize the existence
+of this world out there...
+
+120
+00:07:51,636 --> 00:07:54,973
+...that there is a place
+that could be very, very much like Earth.
+
+121
+00:07:56,058 --> 00:08:00,562
+NARRATOR: <i>So when do we set sail</i>
+<i>for these distant shores?</i>
+
+122
+00:08:00,729 --> 00:08:02,731
+<i>Reality check.</i>
+
+123
+00:08:03,023 --> 00:08:08,195
+<i>Kepler-</i> <i>186F is nearly 3 quadrillion miles</i>
+<i>from Earth.</i>
+
+124
+00:08:08,361 --> 00:08:11,198
+<i>Otherwise put, 500 light-years away.</i>
+
+125
+00:08:11,990 --> 00:08:16,244
+<i>That's a journey of 500 years
+at the speed of light.</i>
+
+126
+00:08:16,536 --> 00:08:19,664
+<i>But no thing can travel as fast as light.</i>
+
+127
+00:08:19,831 --> 00:08:22,834
+<i>At best, our spacecrafts
+are thousands of times slower.</i>
+
+128
+00:08:23,168 --> 00:08:25,837
+<i>Even the spaceships in</i> Interstellar
+<i>don't come close.</i>
+
+129
+00:08:26,004 --> 00:08:29,174
+BRAND: We need the bravest humans
+to find us a new home.
+
+130
+00:08:29,341 --> 00:08:32,385
+COOPER: But the nearest star
+is over a thousand years away.
+
+131
+00:08:32,552 --> 00:08:34,179
+-Hence the bravery.
+-Okay.
+
+132
+00:08:34,554 --> 00:08:38,100
+NARRATOR: <i>So how do they reach new worlds</i>
+<i>beyond our solar system?</i>
+
+133
+00:08:39,518 --> 00:08:42,896
+<i>They take a walk on the warp side
+of space and time.</i>
+
+134
+00:08:47,484 --> 00:08:49,319
+MURPH:
+You have no idea when you're coming back.
+
+135
+00:08:50,403 --> 00:08:53,281
+AMELIA: Couldn't you have told her
+you were going to save the world?
+
+136
+00:08:53,448 --> 00:08:54,699
+No.
+
+137
+00:08:56,201 --> 00:08:58,328
+I'm coming back.
+
+138
+00:08:58,995 --> 00:09:04,543
+NARRATOR: <i>When we journey to a far-off place,</i>
+<i>we travel not just in space but also in time.</i>..
+
+139
+00:09:04,709 --> 00:09:07,337
+...<i>as we move into the future.</i>
+
+140
+00:09:08,713 --> 00:09:15,387
+<i>Until about a century ago, scientists believed
+that space and time were entirely separate.</i>
+
+141
+00:09:16,346 --> 00:09:22,727
+<i>Theoretical physicist Sean Carroll explains
+how Albert Einstein overturned that idea.</i>
+
+142
+00:09:23,103 --> 00:09:24,938
+CARROLL:
+One of Einstein's great insights...
+
+143
+00:09:25,105 --> 00:09:27,566
+...was that space and time
+were related to each other...
+
+144
+00:09:27,732 --> 00:09:29,609
+...where you have space and you have time.
+
+145
+00:09:29,776 --> 00:09:33,530
+Einstein says, "There's only one thing
+which we call space-time."
+
+146
+00:09:34,698 --> 00:09:37,117
+And then he says, "This space-time thing...
+
+147
+00:09:37,284 --> 00:09:41,288
+...it's not just the stage
+on which all the action plays out.
+
+148
+00:09:41,454 --> 00:09:42,622
+It's an actor itself."
+
+149
+00:09:45,792 --> 00:09:50,463
+Space-time can change, it can move,
+it can bend, and it can warp.
+
+150
+00:09:53,758 --> 00:09:59,139
+NARRATOR: <i>Einstein</i> '<i>s theory of relativity</i>
+<i>states that space-time is like a flexible fabric.</i>
+
+151
+00:09:59,306 --> 00:10:06,188
+<i>The objects embedded in it:
+The sun, planets, even us, warp that fabric.</i>
+
+152
+00:10:06,688 --> 00:10:10,859
+<i>And the consequence of that warping
+is what we call gravity.</i>
+
+153
+00:10:11,026 --> 00:10:14,988
+<i>The more massive the object,</i>
+<i>the more space-time is warped.</i>..
+
+154
+00:10:15,155 --> 00:10:17,532
+...<i>and the greater the gravity.</i>
+
+155
+00:10:21,995 --> 00:10:23,496
+<i>We feel gravity.</i>
+
+156
+00:10:25,540 --> 00:10:29,669
+<i>The flexibility of space-time</i>
+<i>is harder to grasp on a gut level.</i>..
+
+157
+00:10:29,836 --> 00:10:32,464
+...<i>but its effects are measurable.</i>
+
+158
+00:10:35,342 --> 00:10:41,348
+<i>As Sean demonstrates, the greater the gravity,
+the more slowly time flows.</i>
+
+159
+00:10:41,514 --> 00:10:44,309
+CARROLL: For example,
+if I were on the ground floor with a clock...
+
+160
+00:10:44,476 --> 00:10:46,478
+...a super accurate atomic clock...
+
+161
+00:10:46,645 --> 00:10:49,314
+...and a twin of mine was up
+on the top floor of a building...
+
+162
+00:10:49,481 --> 00:10:51,316
+...with an equally accurate atomic clock...
+
+163
+00:10:51,483 --> 00:10:55,904
+...if we later on compared them,
+mine would have ticked off fewer seconds.
+
+164
+00:10:57,322 --> 00:11:01,243
+NARRATOR: <i>On the ground floor,</i>
+<i>Sean experiences slightly more gravity.</i>..
+
+165
+00:11:01,409 --> 00:11:03,620
+...<i>than his twin on the top floor.</i>
+
+166
+00:11:03,787 --> 00:11:07,499
+<i>He also experiences slightly less time
+than his twin.</i>
+
+167
+00:11:08,208 --> 00:11:11,294
+<i>The difference is tiny, but real.</i>
+
+168
+00:11:11,461 --> 00:11:13,421
+<i>And there are practical applications.</i>
+
+169
+00:11:13,588 --> 00:11:17,259
+CARROLL: For example, the GPS system,
+the Global Positioning System...
+
+170
+00:11:17,425 --> 00:11:20,637
+...that is a very, very precise set of clocks...
+
+171
+00:11:20,804 --> 00:11:23,098
+...on satellites orbiting around the Earth...
+
+172
+00:11:23,265 --> 00:11:27,477
+...and that orbit is in a slightLy different
+gravitational field than we are in down here.
+
+173
+00:11:27,644 --> 00:11:32,232
+So the fact that time moves differently
+here on the surface of the Earth...
+
+174
+00:11:32,399 --> 00:11:34,734
+...than in the satelIite orbit,
+is very, very important...
+
+175
+00:11:34,901 --> 00:11:36,987
+...to getting the GPS to work correctly.
+
+176
+00:11:37,654 --> 00:11:41,825
+NARRATOR: <i>Time on a GPS satellite clock</i>
+<i>advances faster than a clock on Earth.</i>..
+
+177
+00:11:41,992 --> 00:11:44,327
+...<i>by about 38 microseconds per day.</i>..
+
+178
+00:11:44,703 --> 00:11:47,080
+...<i>so the system</i>'<i>s computers correct for that.</i>
+
+179
+00:11:49,666 --> 00:11:52,836
+<i>Motion also affects our experience
+of space-time.</i>
+
+180
+00:11:53,003 --> 00:11:55,755
+CARROLL:
+The best way to say it is just staying still...
+
+181
+00:11:55,922 --> 00:11:58,675
+...means that you experience
+the most time that you can.
+
+182
+00:11:58,842 --> 00:12:02,679
+Moving around and doing things
+means you experience less time.
+
+183
+00:12:02,846 --> 00:12:07,684
+NARRATOR: <i>Let's revisit Sean at the wheel</i>
+<i>of his car and his twin on a park bench.</i>
+
+184
+00:12:07,851 --> 00:12:10,979
+If you move out on your car,
+and then you come back...
+
+185
+00:12:11,354 --> 00:12:13,940
+...compared to the person
+who stayed behind...
+
+186
+00:12:14,107 --> 00:12:16,526
+...your clock that you took with you
+on that journey...
+
+187
+00:12:16,693 --> 00:12:20,488
+...will have experienced a little bit less time
+than the one who stayed behind.
+
+188
+00:12:22,991 --> 00:12:25,994
+NARRATOR: <i>We normally move too slowly</i>
+<i>to notice the effect.</i>
+
+189
+00:12:26,828 --> 00:12:30,040
+<i>But if Sean could drive</i>
+<i>near the speed of light.</i>..
+
+190
+00:12:31,541 --> 00:12:35,378
+...<i>he could race across the United States</i>
+<i>and back again a million times.</i>..
+
+191
+00:12:35,545 --> 00:12:38,465
+...<i>and experience less</i>
+<i>than a second of time.</i>..
+
+192
+00:12:38,631 --> 00:12:40,425
+...<i>while the twin he le* behind.</i>..
+
+193
+00:12:40,592 --> 00:12:43,511
+...<i>would endure hours of waiting</i>
+<i>for Sean</i> '<i>s return.</i>
+
+194
+00:12:44,763 --> 00:12:49,642
+<i>ln other words, Sean would've traveled
+into the future compared to his twin.</i>
+
+195
+00:12:51,436 --> 00:12:53,688
+<i>This means space travel may get tricky
+in years to come.</i>
+
+196
+00:12:54,606 --> 00:12:58,526
+<i>The faster our spaceships,</i>
+<i>the greater the gravity fields we encounter.</i>..
+
+197
+00:12:58,693 --> 00:13:02,572
+...<i>the further out of sync we may become</i>
+<i>with those we leave behind.</i>
+
+198
+00:13:02,739 --> 00:13:06,284
+COOPER:
+So if we find a home, then what?
+
+199
+00:13:06,451 --> 00:13:08,870
+Every hour is seven years back on Earth.
+
+200
+00:13:09,287 --> 00:13:14,918
+NARRATOR: <i>The relativity of time is the source</i>
+<i>of hardship and heartbreak in</i> Interstellar.
+
+201
+00:13:16,252 --> 00:13:19,047
+The theory of relativity
+is fascinating all by itself...
+
+202
+00:13:19,214 --> 00:13:22,133
+...but it immediately becomes
+something very emotional...
+
+203
+00:13:22,300 --> 00:13:25,595
+...when you talk about
+the distances between people.
+
+204
+00:13:26,638 --> 00:13:29,349
+You know, we all spend time
+away from our families.
+
+205
+00:13:29,516 --> 00:13:34,062
+I just thought, what if you could take that
+to its logical and very bittersweet extreme?
+
+206
+00:13:34,229 --> 00:13:38,483
+NOLAN: For me, it was very exciting
+to be able to examine the concept...
+
+207
+00:13:38,650 --> 00:13:41,027
+...of the subjective experience of time.
+
+208
+00:13:41,194 --> 00:13:43,738
+It's really the first time
+I've had an objective structure...
+
+209
+00:13:43,905 --> 00:13:46,825
+...around the film saying
+that time literally is relative...
+
+210
+00:13:46,991 --> 00:13:50,370
+...that we all experience time differently
+depending on where we are in the universe.
+
+211
+00:13:51,329 --> 00:13:54,207
+NARRATOR: <i>But the warping of space-time</i>
+<i>may also provide shortcuts.</i>..
+
+212
+00:13:54,666 --> 00:13:57,293
+...<i>that could make interstellar travel a snap.</i>
+
+213
+00:13:58,586 --> 00:13:59,796
+<i>Wormholes.</i>
+
+214
+00:14:00,797 --> 00:14:02,590
+<i>They're a staple of science fiction.</i>..
+
+215
+00:14:04,008 --> 00:14:06,428
+...<i>but they're based on real science.</i>
+
+216
+00:14:07,053 --> 00:14:12,142
+Einstein's relativistic laws
+govern the warping of space and time...
+
+217
+00:14:12,308 --> 00:14:16,438
+...and they say that wormholes might exist,
+they could exist.
+
+218
+00:14:16,896 --> 00:14:20,316
+So this dates all the way back to 1916.
+
+219
+00:14:22,235 --> 00:14:26,531
+CARROLL: A wormhole is a particular way
+that space and time can be curved.
+
+220
+00:14:26,698 --> 00:14:31,077
+It's like adding a little tube
+that connects two parts of space.
+
+221
+00:14:31,703 --> 00:14:36,708
+The basic idea is that if you're an ant
+and you live on the surface of the apple...
+
+222
+00:14:36,875 --> 00:14:39,502
+...the surface of the apple
+is your entire universe.
+
+223
+00:14:40,128 --> 00:14:44,382
+You can go around the outside
+through the universe itself...
+
+224
+00:14:44,549 --> 00:14:47,260
+...or you can go through the wormhole.
+
+225
+00:14:47,552 --> 00:14:52,223
+NARRATOR: <i>But Einstein's equations also</i>
+<i>predict that if wormholes do form in nature.</i>..
+
+226
+00:14:52,390 --> 00:14:54,726
+...<i>they may be subatomic in size.</i>..
+
+227
+00:14:54,893 --> 00:14:58,980
+...<i>and exist for only fractions of a second</i>
+<i>before closing</i> off.
+
+228
+00:15:00,315 --> 00:15:04,360
+<i>Theoretically, what would it take</i>
+<i>to keep a wormhole open.</i>..
+
+229
+00:15:04,527 --> 00:15:07,405
+...<i>and make it big enough</i>
+<i>to accommodate a spaceship ?</i>
+
+230
+00:15:07,572 --> 00:15:10,950
+THORNE: It turns out that in order
+to hold a wormhole open...
+
+231
+00:15:11,117 --> 00:15:14,913
+...so it doesn't crunch off and kill you
+when you try to go through...
+
+232
+00:15:15,079 --> 00:15:21,711
+...that you have to have the wormhole threaded
+by a negative mass or negative energy.
+
+233
+00:15:21,878 --> 00:15:24,088
+Einstein says
+mass and energy are equivalent.
+
+234
+00:15:24,839 --> 00:15:30,220
+NARRATOR: <i>Almost all the forms of matter</i>
+<i>we know have positive mass and exert gravity.</i>
+
+235
+00:15:31,638 --> 00:15:34,098
+<i>Negative mass would exert antigravity.</i>..
+
+236
+00:15:34,265 --> 00:15:37,977
+...<i>and repel the walls of a wormhole</i>
+<i>to keep it open.</i>
+
+237
+00:15:38,144 --> 00:15:43,483
+Strangely, it is true
+that negative energy can exist...
+
+238
+00:15:43,650 --> 00:15:48,196
+...and it's been created in the laboratory,
+but only in very tiny amounts.
+
+239
+00:15:49,155 --> 00:15:50,823
+NARRATOR:
+<i>It would take vast quantities.</i>..
+
+240
+00:15:50,990 --> 00:15:54,494
+...<i>to prop open a wormhole</i>
+<i>large enough for a spaceship.</i>
+
+241
+00:15:55,161 --> 00:15:57,664
+<i>But just maybe, in the future.</i>..
+
+242
+00:15:57,830 --> 00:16:02,627
+...<i>engineers will devise</i>
+<i>advanced technologies to do just that.</i>
+
+243
+00:16:02,794 --> 00:16:07,006
+Today it's an educated guess,
+maybe I should say a half-educated guess...
+
+244
+00:16:07,173 --> 00:16:10,510
+...that wormholes cannot exist
+in our universe...
+
+245
+00:16:10,677 --> 00:16:12,679
+...but we're far from sure of that.
+
+246
+00:16:12,845 --> 00:16:15,723
+CARROLL:
+The truth is, we just don't know right now.
+
+247
+00:16:15,890 --> 00:16:18,643
+We don't understand the laws of physics
+well enough to say for sure...
+
+248
+00:16:18,810 --> 00:16:20,436
+...whether or not wormholes are possible.
+
+249
+00:16:21,229 --> 00:16:25,942
+NARRATOR: <i>But since they're not impossible,</i>
+<i>they're fair game for a filmmaker.</i>
+
+250
+00:16:26,109 --> 00:16:29,779
+I was very excited about the idea
+of focusing on a family...
+
+251
+00:16:30,113 --> 00:16:31,698
+...who would be the pioneers...
+
+252
+00:16:31,864 --> 00:16:36,119
+...who would experience some of
+the extraordinary features of astrophysics...
+
+253
+00:16:36,286 --> 00:16:41,165
+...particularly the idea of a wormhole
+that would allow us to travel to distant stars.
+
+254
+00:16:42,875 --> 00:16:45,420
+NARRATOR: <i>To create a wormhole</i>
+<i>based on real science.</i>..
+
+255
+00:16:45,587 --> 00:16:48,840
+...<i>Visual Effects supervisor Paul Franklin</i>
+<i>turned to Kip Thorne.</i>
+
+256
+00:16:50,925 --> 00:16:54,554
+FRANKLIN: The popular image
+of what a wormhole might look like...
+
+257
+00:16:54,721 --> 00:16:56,681
+...is literally just a hole in space.
+
+258
+00:16:56,848 --> 00:17:00,977
+It sits on an invisible surface,
+you see stuff sliding down the sides...
+
+259
+00:17:01,144 --> 00:17:03,313
+...and disappearing down the drain,
+as it were.
+
+260
+00:17:03,479 --> 00:17:06,065
+And right in that first conversation,
+Kip showed me an image...
+
+261
+00:17:06,232 --> 00:17:09,068
+...of that kind of classical fantasy image
+of these things...
+
+262
+00:17:09,235 --> 00:17:13,573
+...and said, "This is all wrong."
+Ha, ha. "This is not how it is."
+
+263
+00:17:13,906 --> 00:17:17,827
+NARRATOR: <i>Kip worked out the scientific</i>
+<i>equations that define the wormhole.</i>..
+
+264
+00:17:17,994 --> 00:17:20,538
+...<i>and sent them to Paul's animators</i>
+<i>back in London.</i>
+
+265
+00:17:20,705 --> 00:17:24,500
+THORNE: And so for the movie,
+I built a mathematical model wormhole...
+
+266
+00:17:24,667 --> 00:17:28,046
+...based on Einstein's relativity equations.
+
+267
+00:17:28,212 --> 00:17:32,925
+Paul, Kip and myself, we discussed,
+"Okay, we'll visualize the thing.
+
+268
+00:17:33,092 --> 00:17:36,095
+We'll simulate the thing
+exactly as the calcuIations say."
+
+269
+00:17:36,262 --> 00:17:39,140
+And Paul Franklin and his team,
+they were thrilled to get algorithms...
+
+270
+00:17:39,307 --> 00:17:42,769
+...that were the absolute latest,
+most interesting and up-to-the-minute.
+
+271
+00:17:42,935 --> 00:17:44,312
+MAN:
+Now we can go to the other one.
+
+272
+00:17:44,479 --> 00:17:46,898
+The wormhole
+is a three-dimensional hole in space.
+
+273
+00:17:47,065 --> 00:17:50,026
+What do you get if you take a circle
+and sweep it out in three dimensions?
+
+274
+00:17:50,193 --> 00:17:51,444
+You get a sphere.
+
+275
+00:17:51,611 --> 00:17:55,823
+So the wormhole almost feels like
+a crystal ball hanging in space.
+
+276
+00:17:58,701 --> 00:18:02,413
+THORNE: I don't think anybody had ever
+really done this kind of visualization before.
+
+277
+00:18:02,580 --> 00:18:03,665
+This is really unique.
+
+278
+00:18:03,831 --> 00:18:08,378
+Uh, first time for me,
+as well as for you and the audience.
+
+279
+00:18:08,544 --> 00:18:09,629
+Absolutely, yes.
+
+280
+00:18:12,090 --> 00:18:15,009
+NARRATOR: <i>ln</i> Interstellar, <i>crew members</i>
+<i>take a giant leap of faith.</i>..
+
+281
+00:18:15,176 --> 00:18:17,470
+...<i>when they plunge into a wormhole.</i>
+
+282
+00:18:17,637 --> 00:18:20,181
+DOYLE: You can't think about your family.
+You have to think bigger.
+
+283
+00:18:20,556 --> 00:18:24,394
+COOPER: I am thinking about my family
+and millions of other families.
+
+284
+00:18:24,560 --> 00:18:27,563
+AMELIA: You might have to decide
+between seeing your children again...
+
+285
+00:18:27,730 --> 00:18:29,357
+...and the future of the human race.
+
+286
+00:18:30,024 --> 00:18:33,986
+NARRATOR: <i>Beyond the wormhole,</i>
+<i>the crew will face a far greater challenge:</i>
+
+287
+00:18:34,612 --> 00:18:38,366
+<i>To navigate the perils of a black hole.</i>
+
+288
+00:18:40,034 --> 00:18:43,830
+<i>For a filmmaker, that threat
+is full of dramatic possibilities.</i>
+
+289
+00:18:45,123 --> 00:18:49,711
+NOLAN: When you venture out into a story
+about a man against the elements...
+
+290
+00:18:49,877 --> 00:18:56,467
+...visualizing the threat against our protagonist
+become very much more exotic.
+
+291
+00:18:56,968 --> 00:19:02,056
+Deep, deep space gives you
+a very, very fresh approach.
+
+292
+00:19:02,932 --> 00:19:05,768
+NARRATOR: <i>Black holes were predicted</i>
+<i>by Einstein</i> '<i>s equations.</i>..
+
+293
+00:19:05,935 --> 00:19:08,730
+...<i>but physicists questioned</i>
+<i>whether they could really exist.</i>
+
+294
+00:19:08,896 --> 00:19:11,399
+THORNE:
+A black hole is a strange beast.
+
+295
+00:19:11,566 --> 00:19:15,111
+If this were a black hole,
+then instead of a rubber surface...
+
+296
+00:19:15,278 --> 00:19:18,489
+...it would have a surface
+that is made of absolutely nothing...
+
+297
+00:19:18,656 --> 00:19:21,325
+...except warped space and time.
+
+298
+00:19:22,952 --> 00:19:25,621
+It's a place where gravity is so strong...
+
+299
+00:19:25,788 --> 00:19:29,542
+...that if anything falls into the black hole,
+it can never get back out.
+
+300
+00:19:29,709 --> 00:19:32,044
+If you fall in,
+you can't send signals back out.
+
+301
+00:19:32,211 --> 00:19:34,338
+Light can't get out from the interior.
+
+302
+00:19:36,132 --> 00:19:38,718
+CARROLL: So you might ask,
+how would that ever happen?
+
+303
+00:19:38,885 --> 00:19:43,514
+In outer space, you can get so much mass
+together, like in a super-massive star...
+
+304
+00:19:43,681 --> 00:19:46,934
+...that the gravity just becomes stronger
+and stronger and stronger...
+
+305
+00:19:47,101 --> 00:19:51,397
+...and eventually the pressure
+that matter exerts on itself can't keep up.
+
+306
+00:19:52,356 --> 00:19:54,984
+And everything collapses,
+there's a big explosion.
+
+307
+00:19:55,151 --> 00:19:59,113
+Some of the stuff is blown away,
+but the rest of it collapses into a black hole.
+
+308
+00:20:00,823 --> 00:20:04,994
+NARRATOR: <i>A black hole that spins on its axis</i>
+<i>drags the very space around it.</i>..
+
+309
+00:20:05,161 --> 00:20:09,999
+...<i>into a whirling motion</i>
+<i>that pulls stars and planets into orbit.</i>
+
+310
+00:20:10,166 --> 00:20:14,170
+<i>Closer in, gravity increases like a riptide.</i>
+
+311
+00:20:14,337 --> 00:20:18,841
+<i>At a boundary called the event horizon,</i>
+<i>gravity becomes so extreme.</i>..
+
+312
+00:20:19,008 --> 00:20:22,386
+...<i>that nothing can escape being pulled</i>
+<i>into the heart of the beast.</i>..
+
+313
+00:20:22,553 --> 00:20:23,971
+...<i>and lost forever.</i>
+
+314
+00:20:24,597 --> 00:20:28,434
+GHEZ: Black holes are simple,
+and yet they have a lot of character.
+
+315
+00:20:28,601 --> 00:20:30,603
+It's almost like
+they can take on personalities.
+
+316
+00:20:30,770 --> 00:20:35,107
+Um, they can be picky eaters, um,
+they can be energetic.
+
+317
+00:20:35,274 --> 00:20:36,984
+And what you're seeing and describing...
+
+318
+00:20:37,151 --> 00:20:39,987
+...is really how the black hole
+interacts with the environment.
+
+319
+00:20:40,947 --> 00:20:43,449
+NARRATOR:
+<i>UCLA astronomer Andrea Ghez.</i>..
+
+320
+00:20:43,616 --> 00:20:44,826
+Looks like this is Sagi's star.
+
+321
+00:20:44,992 --> 00:20:46,953
+NARRATOR:
+...<i>is an expert on black hole detection.</i>
+
+322
+00:20:47,119 --> 00:20:49,121
+-Must be this one, right?
+-I think it's that one.
+
+323
+00:20:49,288 --> 00:20:53,501
+NARRATOR: <i>She played a key role investigating</i>
+<i>what had long been a scientific hunch.</i>
+
+324
+00:20:53,668 --> 00:20:57,088
+<i>That a huge black hole
+lives at the center of the Milky Way.</i>
+
+325
+00:20:57,255 --> 00:20:58,422
+It's looking good.
+
+326
+00:20:58,589 --> 00:21:01,217
+NARRATOR: <i>Astronomers knew</i>
+<i>the heart of our galaxy was buzzing.</i>..
+
+327
+00:21:01,384 --> 00:21:05,221
+...<i>with gas, dust and millions of stars.</i>
+
+328
+00:21:05,388 --> 00:21:08,724
+<i>Some powerful force
+appeared to be driving this hubbub.</i>
+
+329
+00:21:08,891 --> 00:21:11,269
+<i>Could it be a black hole?</i>
+
+330
+00:21:12,186 --> 00:21:15,106
+<i>Ground telescopes just couldn</i>'<i>t produce</i>
+<i>sharp images of the region.</i>..
+
+331
+00:21:16,148 --> 00:21:21,487
+...<i>then a technique called adaptive optics</i>
+<i>vastly improved the view.</i>
+
+332
+00:21:21,654 --> 00:21:25,324
+This is what it looks like
+before you use advanced technology.
+
+333
+00:21:25,825 --> 00:21:27,076
+It's a blurry mess...
+
+334
+00:21:27,243 --> 00:21:30,913
+...and now you can see the individual stars
+with adaptive optics turned on.
+
+335
+00:21:31,080 --> 00:21:35,209
+So each point of light here
+is associated with an individual star.
+
+336
+00:21:36,669 --> 00:21:41,591
+NARRATOR: <i>Andrea put that technique to work</i>
+<i>at the Keck Observatory in Hawaii.</i>
+
+337
+00:21:42,967 --> 00:21:44,468
+GHEZ:
+This is a road map.
+
+338
+00:21:44,635 --> 00:21:48,264
+NARRATOR: <i>And she and her team began</i>
+<i>to track the stars at the center of the Milky Way.</i>
+
+339
+00:21:48,431 --> 00:21:50,808
+GHEZ:
+And that's the center of our galaxy.
+
+340
+00:21:50,975 --> 00:21:54,145
+The very first year that we took the data
+was in 1995.
+
+341
+00:21:55,187 --> 00:21:59,191
+Then we go back to the telescope in '96,
+then we take our second image...
+
+342
+00:21:59,358 --> 00:22:01,611
+...and you have two pictures,
+and you can compare them.
+
+343
+00:22:03,154 --> 00:22:07,158
+NARRATOR: <i>Andrea wanted to see if the stars</i>
+<i>were orbiting a single source of gravity.</i>..
+
+344
+00:22:07,491 --> 00:22:10,286
+...<i>but stars can take years</i>
+<i>to complete an orbit.</i>
+
+345
+00:22:10,912 --> 00:22:13,414
+GHEZ: And so it was really important
+that we kept going...
+
+346
+00:22:13,581 --> 00:22:18,336
+...and by 2000 we finally started
+to see the star's curve.
+
+347
+00:22:18,502 --> 00:22:23,132
+In other words, the gravitational influence
+of the black hole, um...
+
+348
+00:22:23,299 --> 00:22:27,678
+...had made those stars
+go from straight lines to starting to bend.
+
+349
+00:22:27,845 --> 00:22:29,639
+Precise enough to see that curvature.
+
+350
+00:22:29,805 --> 00:22:34,393
+NARRATOR: <i>Year by year,</i>
+<i>Andrea and her team built their case.</i>
+
+351
+00:22:34,560 --> 00:22:38,648
+This animation represents, uh,
+20 years of work...
+
+352
+00:22:38,814 --> 00:22:45,738
+...and it tells you that there is a black hole,
+and exactly how massive it is.
+
+353
+00:22:45,905 --> 00:22:48,991
+NARRATOR: <i>Andrea</i>'<i>s painstaking project</i>
+<i>revealed a monster.</i>..
+
+354
+00:22:49,158 --> 00:22:52,411
+...<i>with more than 4 million times</i>
+<i>the mass of our sun.</i>..
+
+355
+00:22:52,578 --> 00:22:55,873
+...<i>at the center of our Milky Way.</i>
+
+356
+00:22:56,499 --> 00:23:00,878
+<i>Today, scientists are hunting black holes
+with new tools.</i>
+
+357
+00:23:01,045 --> 00:23:06,300
+<i>Caltech astrophysicist Fiona Harrison</i>
+<i>scans the skies with NuSTAR.</i>..
+
+358
+00:23:06,467 --> 00:23:10,012
+...<i>a telescope that looks at the universe</i>
+<i>in high-energy</i> x-<i>rays.</i>
+
+359
+00:23:11,222 --> 00:23:13,641
+HARRISON:
+The black hole itself doesn't emit light...
+
+360
+00:23:13,808 --> 00:23:16,852
+...but dust and gas
+falls onto the black holes...
+
+361
+00:23:17,019 --> 00:23:22,942
+...and in doing so, it heats up,
+and it emits x-rays.
+
+362
+00:23:23,651 --> 00:23:28,155
+NARRATOR: <i>NuSTAR captures black holes</i>
+<i>in the process of feasting on matter.</i>..
+
+363
+00:23:28,322 --> 00:23:31,659
+...<i>and the telescope is spotting them</i>
+<i>all over the place.</i>
+
+364
+00:23:32,034 --> 00:23:37,039
+HARRISON: It's really only 10, 20 years ago
+that we thought black holes were rare.
+
+365
+00:23:37,206 --> 00:23:40,209
+We now know that every galaxy,
+like our Milky Way...
+
+366
+00:23:40,376 --> 00:23:43,170
+...has a massive black hole at its heart.
+
+367
+00:23:43,671 --> 00:23:48,843
+So rather than just being curiosities,
+they're actually fundamentally important...
+
+368
+00:23:49,010 --> 00:23:51,554
+...to why the universe is the way it is.
+
+369
+00:23:52,138 --> 00:23:55,641
+NARRATOR: <i>So is the Earth at risk</i>
+<i>of getting swallowed by a black hole?</i>
+
+370
+00:23:56,392 --> 00:23:59,395
+HARRISON: Even though we have black holes
+sprinkled throughout the galaxy...
+
+371
+00:23:59,562 --> 00:24:01,188
+...we're in absolutely no danger.
+
+372
+00:24:01,355 --> 00:24:05,109
+It's a common misconception
+that black holes might suck the Earth.
+
+373
+00:24:05,276 --> 00:24:08,612
+Well, there's no sucking going on,
+it's just normal gravity.
+
+374
+00:24:10,072 --> 00:24:11,907
+It's just when you get very close to it...
+
+375
+00:24:12,074 --> 00:24:15,119
+...that there's a region
+from which light can't even escape...
+
+376
+00:24:15,286 --> 00:24:18,122
+...and Earth is not gonna do that.
+
+377
+00:24:18,998 --> 00:24:20,207
+NARRATOR:
+<i>But in</i> Interstellar...
+
+378
+00:24:20,374 --> 00:24:23,335
+...<i>crew members have a precariously close</i>
+<i>encounter with a black hole.</i>
+
+379
+00:24:23,794 --> 00:24:25,463
+COOPER:
+Oh, we are not prepared for this.
+
+380
+00:24:25,838 --> 00:24:28,466
+NARRATOR:
+<i>What would the beast look like to them?</i>
+
+381
+00:24:28,632 --> 00:24:30,634
+One of the things
+that Kip was very insistent on...
+
+382
+00:24:30,801 --> 00:24:34,513
+...is that the black hole, it's spherical,
+but it's absolutely black.
+
+383
+00:24:34,680 --> 00:24:36,307
+It has no surface detail.
+
+384
+00:24:36,474 --> 00:24:39,268
+Doesn't give shadows
+or highlights or anything.
+
+385
+00:24:39,435 --> 00:24:42,438
+But then early on,
+we were talking about accretion disks.
+
+386
+00:24:42,855 --> 00:24:47,860
+And that gave us a way
+to define the spherical shape of the thing.
+
+387
+00:24:48,027 --> 00:24:52,406
+NARRATOR: <i>A black hole</i>'<i>s accretion disk is</i>
+<i>made up of gas and dust and magnetic fields.</i>..
+
+388
+00:24:52,573 --> 00:24:53,991
+...<i>that spin at high speeds.</i>..
+
+389
+00:24:54,492 --> 00:24:57,078
+...<i>radiating heat and light.</i>
+
+390
+00:24:58,454 --> 00:25:02,500
+<i>The black hole</i>‘<i>s gravity would actually</i>
+<i>bend that light like a camera lens.</i>..
+
+391
+00:25:02,666 --> 00:25:04,418
+...<i>in ways that Kip would calculate.</i>
+
+392
+00:25:04,877 --> 00:25:09,882
+THORNE: I worked out the equations for tracing
+Light rays traveling around the black hole...
+
+393
+00:25:10,049 --> 00:25:15,513
+...to see what the disk would Look Like if you
+were in a spacecraft Looking at it up close.
+
+394
+00:25:15,679 --> 00:25:18,474
+NARRATOR: <i>And Paul's team</i>
+<i>brought the mathematics to life.</i>
+
+395
+00:25:18,641 --> 00:25:22,394
+We were really able to use
+a very, very accurate representation...
+
+396
+00:25:22,561 --> 00:25:26,774
+...of the gravitational lens and the effects
+of gravity and Light around the black hole.
+
+397
+00:25:26,941 --> 00:25:32,321
+Uh, because what the algorithms gave us
+was extremely spectacular.
+
+398
+00:25:34,073 --> 00:25:36,325
+NARRATOR:
+<i>Even Kip was surprised.</i>
+
+399
+00:25:36,492 --> 00:25:38,661
+You see the disk in front...
+
+400
+00:25:38,828 --> 00:25:40,287
+...and then when it goes around...
+
+401
+00:25:40,454 --> 00:25:44,500
+...you see the disk wrap up
+around the top of the black hole...
+
+402
+00:25:44,667 --> 00:25:46,627
+...and wrap around the bottom
+of the black hole.
+
+403
+00:25:49,797 --> 00:25:52,049
+I had guessed
+it would Look more or less like this...
+
+404
+00:25:52,216 --> 00:25:54,844
+...but knowing it intellectually
+is different than feeling it...
+
+405
+00:25:55,010 --> 00:25:57,263
+...than absorbing it, than seeing it.
+
+406
+00:25:57,930 --> 00:25:59,723
+It just blew me away.
+
+407
+00:26:00,474 --> 00:26:02,059
+NARRATOR:
+<i>But this brilliant depiction.</i>..
+
+408
+00:26:02,226 --> 00:26:05,646
+...<i>still can't tell us what happens</i>
+<i>in the heart of a black hole.</i>..
+
+409
+00:26:05,813 --> 00:26:07,565
+...<i>beyond the event horizon.</i>
+
+410
+00:26:08,983 --> 00:26:14,864
+<i>What would happen to an astronaut
+daring or crazy enough to dive in feet-first?</i>
+
+411
+00:26:15,030 --> 00:26:17,074
+THORNE:
+In the simplest descriptions of this...
+
+412
+00:26:17,241 --> 00:26:20,870
+...the descriptions that you will find
+in most books that you read...
+
+413
+00:26:21,036 --> 00:26:22,997
+...you're simply stretched
+from head to foot...
+
+414
+00:26:23,164 --> 00:26:28,961
+...and squeezed from the side by tidal forces,
+"spaghettified" is what it often says.
+
+415
+00:26:29,461 --> 00:26:32,756
+You're spaghettified as you fall in
+and you're destroyed.
+
+416
+00:26:33,215 --> 00:26:35,050
+That's the standard story.
+
+417
+00:26:39,680 --> 00:26:42,850
+NARRATOR: <i>The truth is,</i>
+<i>all the laws of physics that we know.</i>..
+
+418
+00:26:43,017 --> 00:26:46,270
+...<i>break down in the heart of a black hole.</i>
+
+419
+00:26:46,437 --> 00:26:50,733
+<i>Physicists are still working
+on exactly what happens there.</i>
+
+420
+00:26:52,151 --> 00:26:53,819
+That's the gravity well, though, isn't it?
+
+421
+00:26:53,986 --> 00:26:59,200
+When we talk to non-physicists,
+we will often say it's the gravity well.
+
+422
+00:26:59,366 --> 00:27:01,577
+So you've been lying to us all these years.
+
+423
+00:27:01,744 --> 00:27:04,914
+You know how these things go,
+there are lies and there are "lies."
+
+424
+00:27:05,080 --> 00:27:06,123
+I know, but now....
+
+425
+00:27:06,540 --> 00:27:11,837
+The movie <i>Interstellar</i> deals with physics
+that is well-understood, well-established.
+
+426
+00:27:12,004 --> 00:27:15,132
+It deals with physics
+where we make educated guesses...
+
+427
+00:27:15,299 --> 00:27:18,010
+...and we're almost sure,
+but not 100 percent sure of our guesses.
+
+428
+00:27:19,136 --> 00:27:22,890
+And it deals with physics
+at the frontiers of human understanding...
+
+429
+00:27:23,057 --> 00:27:24,892
+...where we have to speculate...
+
+430
+00:27:25,059 --> 00:27:26,894
+...and when you get
+beyond those frontiers...
+
+431
+00:27:27,061 --> 00:27:30,147
+...<i>Interstellar</i> works hard to align itself...
+
+432
+00:27:30,314 --> 00:27:34,109
+...with the best speculations
+a scientist could imagine.
+
+433
+00:27:34,276 --> 00:27:39,365
+We're struggling very hard as filmmakers
+to try and explain, uh...
+
+434
+00:27:39,531 --> 00:27:42,993
+...these scientific concepts,
+these sort of abstract ideas...
+
+435
+00:27:43,160 --> 00:27:47,289
+...in a subjective way and a way that you can
+actually experience and feel something about.
+
+436
+00:27:49,041 --> 00:27:53,921
+NARRATOR: Interstellar <i>mines that gray area</i>
+<i>where new ideas percolate.</i>..
+
+437
+00:27:54,088 --> 00:27:58,968
+...<i>and taps deep into questions</i>
+<i>about the nature of the universe.</i>
+
+438
+00:28:04,473 --> 00:28:08,435
+<i>ln</i> Interstellar, <i>telescopes on Earth</i>
+<i>first detect the presence of a wormhole.</i>
+
+439
+00:28:10,145 --> 00:28:14,942
+<i>It shows up as a gravitational anomaly
+that distorts the view of space.</i>
+
+440
+00:28:15,526 --> 00:28:18,862
+We made the wormhole
+not have all that strong a gravity.
+
+441
+00:28:19,029 --> 00:28:20,781
+But why the wormhole?
+
+442
+00:28:21,156 --> 00:28:24,410
+Because then you have a reason
+for your trip around it.
+
+443
+00:28:24,576 --> 00:28:27,454
+I feel uncomfortable with the wormhole
+having that much gravity.
+
+444
+00:28:27,621 --> 00:28:30,374
+THORNE: When I first began working
+with Christopher Nolan...
+
+445
+00:28:30,541 --> 00:28:33,335
+...he wanted a wormhole
+that had rather gentle gravity...
+
+446
+00:28:33,502 --> 00:28:35,796
+...so we discussed
+how big the wormhole should be...
+
+447
+00:28:35,963 --> 00:28:39,508
+...and agreed that it should be
+just barely big enough...
+
+448
+00:28:39,675 --> 00:28:41,468
+...that it could be seen from Earth...
+
+449
+00:28:41,635 --> 00:28:44,305
+...through the bending of light
+around the wormhole...
+
+450
+00:28:44,471 --> 00:28:46,640
+...by the wormhole's warped space.
+
+451
+00:28:46,807 --> 00:28:50,644
+NARRATOR: <i>Kip Thorne worked out just</i>
+<i>the right gravity for</i> Interstellar's <i>wormhole.</i>..
+
+452
+00:28:51,061 --> 00:28:55,441
+...<i>using equations based on Einstein</i>‘<i>s theory</i>
+<i>of general relativity.</i>
+
+453
+00:28:55,607 --> 00:29:01,780
+<i>As we</i>‘<i>ve learned, that theory states</i>
+<i>that objects warp space-time, creating gravity.</i>
+
+454
+00:29:02,614 --> 00:29:06,577
+<i>It also predicts that when objects move,</i>
+<i>they generate a pulse.</i>..
+
+455
+00:29:06,744 --> 00:29:10,748
+...<i>that propagates through space-time,</i>
+<i>a bit like waves through water.</i>
+
+456
+00:29:13,709 --> 00:29:18,422
+<i>These gravitational waves
+have never been directly observed.</i>
+
+457
+00:29:18,589 --> 00:29:21,342
+<i>They would be small and hard to detect.</i>..
+
+458
+00:29:21,508 --> 00:29:25,888
+...<i>unless they were generated</i>
+<i>by a massively violent motion.</i>
+
+459
+00:29:27,431 --> 00:29:30,476
+<i>Like the birth of the universe.</i>
+
+460
+00:29:33,645 --> 00:29:36,523
+<i>Physicists developed their big bang theory.</i>..
+
+461
+00:29:36,690 --> 00:29:41,612
+...<i>in part by observing</i>
+<i>that today the universe is expanding.</i>
+
+462
+00:29:42,821 --> 00:29:48,410
+<i>Galaxies are moving away from each other</i>
+<i>like raisins in a rising loaf of bread.</i>..
+
+463
+00:29:49,078 --> 00:29:54,375
+...<i>which suggests that in the distant past,</i>
+<i>the universe must have been much smaller.</i>
+
+464
+00:29:54,541 --> 00:29:59,171
+CARROLL: If you wind the movie backwards,
+in the past, everything was closer together...
+
+465
+00:29:59,338 --> 00:30:04,301
+...and you plug that idea
+into the equations that Einstein gives us.
+
+466
+00:30:04,676 --> 00:30:08,847
+And there's a moment, which we now know
+was about 14 billion years ago...
+
+467
+00:30:09,014 --> 00:30:11,058
+...when everything was on top
+of everything else...
+
+468
+00:30:11,225 --> 00:30:15,896
+...when the density of stuff in the universe
+was apparently infinitely big.
+
+469
+00:30:18,690 --> 00:30:22,986
+NARRATOR: <i>Then a powerful force triggered</i>
+<i>an expansion of space itself.</i>
+
+470
+00:30:23,153 --> 00:30:28,617
+<i>Faster than the speed of light,
+a theory called cosmic inflation.</i>
+
+471
+00:30:28,784 --> 00:30:34,540
+And the theory said that this inflation should've
+taken fluctuations in the shape of space...
+
+472
+00:30:34,706 --> 00:30:37,918
+...and amplified them
+so they got much stronger.
+
+473
+00:30:39,128 --> 00:30:41,463
+And they become gravitational waves...
+
+474
+00:30:41,630 --> 00:30:45,551
+...producing ripples
+in the fabric of space and time.
+
+475
+00:30:46,718 --> 00:30:48,929
+NARRATOR:
+<i>If we could detect those ripples today.</i>..
+
+476
+00:30:49,096 --> 00:30:52,266
+...<i>it would help us understand</i>
+<i>how the big bang banged.</i>
+
+477
+00:30:52,433 --> 00:30:55,144
+BOCK: The trick was always
+how were we going to measure such a thing.
+
+478
+00:30:55,310 --> 00:30:57,187
+And that led us to propose and develop...
+
+479
+00:30:57,354 --> 00:31:00,232
+...this very specialized experiment, um...
+
+480
+00:31:00,399 --> 00:31:05,070
+...which one of my colleagues
+referred to gleefully as a wild-goose chase.
+
+481
+00:31:06,280 --> 00:31:10,826
+NARRATOR: <i>Caltech physicist Jamie Bock</i>
+<i>works in experimental cosmology.</i>
+
+482
+00:31:10,993 --> 00:31:14,329
+BOCK: Experimental cosmology
+is building experiments...
+
+483
+00:31:14,496 --> 00:31:16,790
+...trying to get back to the dawn of time.
+
+484
+00:31:16,957 --> 00:31:18,000
+You need a hand with that?
+
+485
+00:31:18,167 --> 00:31:20,002
+NARRATOR:
+<i>The focus of his latest experiment.</i>..
+
+486
+00:31:20,169 --> 00:31:21,920
+...<i>was the oldest light in the universe.</i>
+
+487
+00:31:22,254 --> 00:31:26,133
+<i>The faint afterglow of the big bang.</i>
+
+488
+00:31:26,300 --> 00:31:30,220
+<i>Physicists have mapped</i>
+<i>this cosmic microwave background.</i>..
+
+489
+00:31:30,387 --> 00:31:32,598
+...<i>across the universe.</i>
+
+490
+00:31:33,640 --> 00:31:37,519
+<i>If the birth of the universe</i>
+<i>produced gravitational waves.</i>..
+
+491
+00:31:37,686 --> 00:31:39,521
+...<i>they would've warped</i>
+<i>this primordial light.</i>..
+
+492
+00:31:39,688 --> 00:31:44,276
+...<i>and caused it to be polarized</i>
+<i>or curled in a specific direction.</i>
+
+493
+00:31:44,443 --> 00:31:46,236
+BOCK:
+If one could measure the polarization...
+
+494
+00:31:46,403 --> 00:31:48,947
+...and then not only measure it
+but Look at its pattern...
+
+495
+00:31:49,114 --> 00:31:51,283
+...there might be kind of a swirly pattern...
+
+496
+00:31:51,450 --> 00:31:54,536
+...that would be an indicator
+of gravitational waves.
+
+497
+00:31:56,079 --> 00:32:00,584
+NARRATOR: <i>Jamie and his team designed</i>
+<i>a series of small super-sensitive telescopes.</i>..
+
+498
+00:32:01,710 --> 00:32:04,796
+...<i>that they installed</i>
+<i>where the skies are crystal clear.</i>
+
+499
+00:32:04,963 --> 00:32:06,965
+<i>At the South Pole.</i>
+
+500
+00:32:07,591 --> 00:32:10,302
+BOCK: The South Pole
+is the closest we can get to outer space...
+
+501
+00:32:10,469 --> 00:32:11,803
+...to make our measurements.
+
+502
+00:32:14,264 --> 00:32:18,060
+NARRATOR: <i>For eight years, the team</i>‘<i>s</i>
+<i>telescopes scanned a patch in the sky.</i>..
+
+503
+00:32:18,227 --> 00:32:20,687
+...<i>measuring minute differences</i>
+<i>in the temperature.</i>..
+
+504
+00:32:20,854 --> 00:32:23,190
+...<i>of the cosmic microwave background.</i>..
+
+505
+00:32:23,357 --> 00:32:25,025
+...<i>and a pattern emerged.</i>
+
+506
+00:32:25,192 --> 00:32:30,531
+BOCK: Our results reported that we see
+this swirly pattern of polarization...
+
+507
+00:32:30,697 --> 00:32:34,993
+...that's consistent with, uh,
+what you expect from gravitational waves.
+
+508
+00:32:35,786 --> 00:32:39,498
+THORNE: So they didn't really see the
+gravitational waves from the early universe...
+
+509
+00:32:39,665 --> 00:32:43,502
+...but they saw this polarization pattern
+that was precisely what was predicted...
+
+510
+00:32:43,669 --> 00:32:46,171
+...except that it was stronger than expected.
+
+511
+00:32:46,797 --> 00:32:49,758
+Tells us what went on
+immediately after the big bang...
+
+512
+00:32:49,925 --> 00:32:54,263
+...when the universe was a trillionth
+of a trillionth of a trillionth of a second old.
+
+513
+00:32:54,429 --> 00:32:57,641
+So it's seeing almost
+the creation of the universe.
+
+514
+00:32:58,976 --> 00:33:02,604
+NARRATOR: <i>The finding must be confirmed</i>
+<i>by other experiments.</i>
+
+515
+00:33:02,771 --> 00:33:07,109
+<i>If it holds up, this first evidence</i>
+<i>for the detection of gravitational waves.</i>..
+
+516
+00:33:07,276 --> 00:33:11,321
+...<i>will deepen our understanding</i>
+<i>of the birth of the universe.</i>
+
+517
+00:33:12,864 --> 00:33:18,620
+<i>And that, by extension,
+may help us answer an enduring question:</i>
+
+518
+00:33:18,996 --> 00:33:20,956
+<i>Can we time travel?</i>
+
+519
+00:33:21,123 --> 00:33:23,417
+CARROLL:
+You know, it's very easy to travel in time.
+
+520
+00:33:23,584 --> 00:33:26,628
+Yesterday, I've moved forward 24 hours
+and here I am.
+
+521
+00:33:26,795 --> 00:33:30,173
+But that's the only way that it's easy.
+It's easy to go into the future.
+
+522
+00:33:30,340 --> 00:33:34,595
+In fact, it's not just easy, it's inevitable.
+We all move into the future over time.
+
+523
+00:33:35,345 --> 00:33:38,974
+NARRATOR:
+<i>But traveling to the past is a different story.</i>..
+
+524
+00:33:39,308 --> 00:33:43,020
+...<i>because space and time</i>
+<i>have profoundly different properties.</i>
+
+525
+00:33:43,562 --> 00:33:46,815
+In space, you can go up, down,
+left, right, forward, backward.
+
+526
+00:33:48,400 --> 00:33:52,112
+NARRATOR: <i>We move freely</i>
+<i>through the three dimensions of space.</i>
+
+527
+00:33:52,279 --> 00:33:57,034
+<i>ln time, we experience its one dimension
+and a lot less freedom.</i>
+
+528
+00:33:57,576 --> 00:34:00,287
+CARROLL: Because time has a direction
+and space does not.
+
+529
+00:34:00,454 --> 00:34:02,289
+In time, there's a huge difference...
+
+530
+00:34:02,456 --> 00:34:05,626
+...between one direction, the future,
+and the other direction, the past.
+
+531
+00:34:05,792 --> 00:34:09,838
+For example, you remember the past,
+but you don't remember the future.
+
+532
+00:34:10,005 --> 00:34:12,549
+You were younger in the past,
+we were all younger in the past.
+
+533
+00:34:12,716 --> 00:34:15,302
+We will all be older. It's all universal to us.
+
+534
+00:34:17,971 --> 00:34:21,433
+This arrow of time is a little bit mysterious.
+
+535
+00:34:21,600 --> 00:34:23,602
+We understand the basic underpinnings...
+
+536
+00:34:23,769 --> 00:34:27,397
+...in a concept called entropy,
+the disorderliness of the universe.
+
+537
+00:34:28,982 --> 00:34:32,569
+NARRATOR: <i>Entropy is the measure</i>
+<i>of the disorder in a system.</i>
+
+538
+00:34:32,736 --> 00:34:36,114
+<i>The more ordered a system,
+the lower its entropy.</i>
+
+539
+00:34:38,533 --> 00:34:42,287
+<i>The more disordered a system,
+the higher its entropy.</i>
+
+540
+00:34:42,621 --> 00:34:47,042
+A classic example of entropy increasing
+is just mixing cream into coffee.
+
+541
+00:34:47,209 --> 00:34:50,128
+When the cream and the coffee are separate,
+that's low entropy.
+
+542
+00:34:50,295 --> 00:34:52,381
+They're organized.
+There's the cream, the coffee.
+
+543
+00:34:52,547 --> 00:34:55,258
+You pour them together,
+you let them mix together.
+
+544
+00:34:55,592 --> 00:34:58,428
+Entropy just goes up.
+Things become more and more disorderly.
+
+545
+00:35:02,557 --> 00:35:06,228
+And this goes all the way back 14 billion years
+to the big bang.
+
+546
+00:35:07,437 --> 00:35:11,608
+NARRATOR: <i>Back then, all the matter in</i>
+<i>the universe would have been on top of itself.</i>
+
+547
+00:35:11,775 --> 00:35:14,736
+<i>Density would have been infinite.</i>
+
+548
+00:35:14,903 --> 00:35:18,031
+<i>lt was the epitome of low entropy.</i>
+
+549
+00:35:20,075 --> 00:35:24,246
+<i>But entropy has been on the rise
+ever since the big bang.</i>
+
+550
+00:35:24,621 --> 00:35:27,124
+CARROLL: We think, but we haven't
+absolutely established...
+
+551
+00:35:27,290 --> 00:35:31,002
+...that this general tendency
+to go from order to disorder...
+
+552
+00:35:31,169 --> 00:35:35,298
+...is the single reason
+why the past is different from the future.
+
+553
+00:35:35,465 --> 00:35:39,720
+We can't discount in principle
+the possibility of visiting the past...
+
+554
+00:35:39,886 --> 00:35:43,974
+...but all of these weird puzzles
+that sort of rub us the wrong way...
+
+555
+00:35:44,141 --> 00:35:47,936
+...about if I go back into the past
+and I give myself a really good idea...
+
+556
+00:35:48,103 --> 00:35:51,565
+...and then I grow up and become rich off
+that idea, where did the idea come from?
+
+557
+00:35:51,732 --> 00:35:54,234
+These kinds of puzzles would evaporate...
+
+558
+00:35:54,401 --> 00:35:57,988
+...if we just said, "Well, the laws of physics
+don't allow you to visit the past."
+
+559
+00:35:58,155 --> 00:36:00,365
+So that's probably true.
+
+560
+00:36:01,658 --> 00:36:05,829
+NARRATOR: <i>To contemplate the mysteries</i>
+<i>of space, time and the universe.</i>..
+
+561
+00:36:05,996 --> 00:36:08,623
+...<i>can make a person feel mighty small.</i>
+
+562
+00:36:08,790 --> 00:36:13,420
+<i>Maybe it's best to lower our sights,
+hunker down and focus on planet Earth.</i>
+
+563
+00:36:14,463 --> 00:36:18,091
+<i>But that's not really an option for humanity
+in the long run.</i>
+
+564
+00:36:21,636 --> 00:36:25,390
+Interstellar <i>depicts a future</i>
+<i>where living conditions on Earth are grim.</i>
+
+565
+00:36:25,557 --> 00:36:30,312
+Our mission does not work if the people
+on Earth are dead by the time we pull it off.
+
+566
+00:36:30,771 --> 00:36:33,148
+NARRATOR:
+<i>Failing crops.</i>
+
+567
+00:36:33,523 --> 00:36:35,525
+<i>Clouds of dust.</i>
+
+568
+00:36:37,110 --> 00:36:39,571
+<i>Roads clogged with refugees.</i>
+
+569
+00:36:39,738 --> 00:36:41,281
+<i>Sound familiar?</i>
+
+570
+00:36:43,909 --> 00:36:47,370
+<i>That's because we</i>‘<i>ve lived</i>
+<i>through this scenario before.</i>
+
+571
+00:36:48,205 --> 00:36:51,666
+<i>ln the 1930s, the Great Plains
+were hit by extreme drought.</i>
+
+572
+00:36:52,459 --> 00:36:55,545
+<i>Farmers had plowed up native grasslands.</i>
+
+573
+00:36:55,712 --> 00:37:01,092
+<i>When crops failed, unprotected topsoil billowed
+into clouds that darkened the sky for days.</i>
+
+574
+00:37:03,595 --> 00:37:07,933
+<i>Some 400,000 people lost nearly everything
+during the dust bowl.</i>
+
+575
+00:37:08,266 --> 00:37:12,604
+<i>One of America</i>‘<i>s</i>
+<i>worst man-made ecological disasters.</i>
+
+576
+00:37:15,607 --> 00:37:19,986
+<i>It was the model</i>
+<i>for the calamity depicted in</i> Interstellar.
+
+577
+00:37:21,738 --> 00:37:24,699
+NOLAN: I really wanted to try
+and bring the audiences' attention...
+
+578
+00:37:24,866 --> 00:37:28,119
+...to the idea that this
+sort of thing really can happen.
+
+579
+00:37:28,286 --> 00:37:32,541
+And it struck me
+that the imagery that you can find...
+
+580
+00:37:32,707 --> 00:37:36,086
+...was so much more extraordinary than
+anything you see in a science fiction film.
+
+581
+00:37:36,253 --> 00:37:39,965
+And, indeed, in our portrayal of it,
+we had to frankly water it down.
+
+582
+00:37:40,715 --> 00:37:43,927
+NARRATOR: <i>But we</i>‘<i>d never let a dust bowl</i>
+<i>happen again, would we ?</i>
+
+583
+00:37:47,430 --> 00:37:52,519
+<i>ln recent years, cities in the</i>
+<i>American Southwest, especially Texas.</i>..
+
+584
+00:37:52,686 --> 00:37:55,438
+...<i>have been battered by huge dust storms.</i>
+
+585
+00:37:55,897 --> 00:38:00,193
+<i>They've caused fatal traffic accidents
+and damaged infrastructure.</i>
+
+586
+00:38:00,360 --> 00:38:04,990
+<i>The causes are frighteningly familiar</i>
+<i>to UCLA geographer Greg Okin.</i>..
+
+587
+00:38:05,156 --> 00:38:08,618
+...<i>an expert on the dynamics</i>
+<i>of wind and dust.</i>
+
+588
+00:38:09,327 --> 00:38:10,912
+OKIN:
+We have wind-erodible soil.
+
+589
+00:38:11,079 --> 00:38:13,915
+We have agriculture
+that's disturbed the native vegetation.
+
+590
+00:38:14,082 --> 00:38:17,627
+We have bare ground because crops fail.
+
+591
+00:38:17,794 --> 00:38:19,504
+And we have windy conditions.
+
+592
+00:38:19,671 --> 00:38:24,676
+So all of the same things that happened
+in the dust bowl are happening now.
+
+593
+00:38:26,303 --> 00:38:30,056
+NARRATOR: <i>Models of climate change</i>
+<i>predict higher global temperatures.</i>
+
+594
+00:38:30,223 --> 00:38:32,767
+<i>That probably means more droughts.</i>
+
+595
+00:38:33,476 --> 00:38:36,605
+<i>Economic pressures may lead
+to increased farming of wildlands.</i>
+
+596
+00:38:38,607 --> 00:38:42,819
+<i>If crops fail due to drought,
+that could mean more dust.</i>
+
+597
+00:38:43,194 --> 00:38:44,988
+OKIN:
+It could happen in China.
+
+598
+00:38:45,155 --> 00:38:46,698
+It could happen in Africa.
+
+599
+00:38:46,865 --> 00:38:51,494
+Any of these factors, when they're in place,
+could cause what we have called the dust bowl.
+
+600
+00:38:52,787 --> 00:38:54,456
+NARRATOR:
+<i>And to make matters worse.</i>..
+
+601
+00:38:55,123 --> 00:38:59,419
+...<i>dust is much dirtier today</i>
+<i>than it was in the 1930s.</i>
+
+602
+00:38:59,586 --> 00:39:04,299
+OKIN: The dust that is interacting
+with clouds of pollution from cities...
+
+603
+00:39:04,466 --> 00:39:06,927
+...in urban and industrial activities, um...
+
+604
+00:39:07,093 --> 00:39:12,140
+...that actually does appear
+to also be more noxious than regular dust.
+
+605
+00:39:13,016 --> 00:39:17,646
+NARRATOR: <i>Winds blow dust across oceans</i>
+<i>and continents and into our lungs.</i>
+
+606
+00:39:17,812 --> 00:39:21,524
+Dust, particularly for kids with asthma,
+is a really big problem.
+
+607
+00:39:21,691 --> 00:39:23,610
+There's actually quite good evidence...
+
+608
+00:39:23,777 --> 00:39:28,865
+...for dust being correlated
+with pediatric hospital admissions.
+
+609
+00:39:29,032 --> 00:39:31,451
+That's where the really clear evidence is.
+
+610
+00:39:32,744 --> 00:39:35,997
+NARRATOR:
+<i>No one predicted the dust bowl of the 1930s.</i>
+
+611
+00:39:36,164 --> 00:39:38,249
+<i>Today, we should know better.</i>
+
+612
+00:39:38,416 --> 00:39:42,045
+OKIN: We learned the important lesson
+that poorly-planned human activity...
+
+613
+00:39:42,212 --> 00:39:47,384
+...plus unexpected climate variability
+can lead to disaster.
+
+614
+00:39:47,550 --> 00:39:49,636
+There's a lot to worry about.
+
+615
+00:39:51,471 --> 00:39:54,724
+NARRATOR: <i>Sadly, we don</i>‘<i>t have a great</i>
+<i>track record taking care of Mother Earth.</i>
+
+616
+00:39:56,309 --> 00:40:01,439
+<i>But the planet is also threatened
+by forces far beyond our control.</i>
+
+617
+00:40:05,652 --> 00:40:08,196
+<i>February 15th, 2013.</i>..
+
+618
+00:40:10,407 --> 00:40:14,619
+...<i>a meteor shining brighter than the sun</i>
+<i>streaks across Siberia.</i>
+
+619
+00:40:15,286 --> 00:40:18,248
+<i>It's a rock 65 feet in diameter.</i>..
+
+620
+00:40:18,415 --> 00:40:22,293
+...<i>and when it explodes in midair,</i>
+<i>it releases more than 20 times the energy.</i>..
+
+621
+00:40:22,460 --> 00:40:25,171
+...<i>of the bomb dropped on Hiroshima.</i>
+
+622
+00:40:25,797 --> 00:40:27,465
+[SCREAMING]
+
+623
+00:40:31,428 --> 00:40:35,724
+<i>No one was killed,
+but more than a thousand people were injured.</i>
+
+624
+00:40:37,976 --> 00:40:40,645
+<i>Asteroids have struck Earth before.</i>
+
+625
+00:40:40,812 --> 00:40:42,647
+<i>Some 65 million years ago.</i>..
+
+626
+00:40:43,023 --> 00:40:47,819
+...<i>a monster 6 miles wide</i>
+<i>may have wiped out half the species on Earth.</i>
+
+627
+00:40:47,986 --> 00:40:50,155
+<i>Remember the dinosaurs?</i>
+
+628
+00:40:50,321 --> 00:40:53,533
+<i>A similar impact, or worse,</i>
+<i>could happen any time.</i>..
+
+629
+00:40:54,034 --> 00:40:57,412
+...<i>and turn our blue marble</i>
+<i>into a lifeless rock.</i>
+
+630
+00:40:59,622 --> 00:41:00,915
+<i>And the bottom line?</i>
+
+631
+00:41:01,082 --> 00:41:04,044
+<i>Earth cannot sustain us forever.</i>
+
+632
+00:41:04,836 --> 00:41:09,049
+<i>ln a few billion years,</i>
+<i>our sun will expand as it begins to die.</i>..
+
+633
+00:41:10,925 --> 00:41:13,720
+...<i>and our planet will be toast.</i>
+
+634
+00:41:17,348 --> 00:41:18,558
+<i>But there</i>‘<i>s good news.</i>
+
+635
+00:41:18,725 --> 00:41:20,060
+<i>Unlike the dinosaurs-</i>-
+
+636
+00:41:20,226 --> 00:41:22,479
+MAN: Flight crew, close and lock your visors.
+Time to fly.
+
+637
+00:41:22,645 --> 00:41:24,314
+NARRATOR:
+--<i>we can leave Earth.</i>
+
+638
+00:41:24,481 --> 00:41:27,025
+MAN:
+T-minus-10, nine....
+
+639
+00:41:27,192 --> 00:41:28,902
+Ignition sequence start.
+
+640
+00:41:29,069 --> 00:41:34,032
+Six, five, four, three, two, one.
+
+641
+00:41:34,908 --> 00:41:36,367
+Zero.
+
+642
+00:41:40,413 --> 00:41:44,292
+Zero and liftoff of space shuttle <i>Atlantis.</i>
+
+643
+00:41:44,459 --> 00:41:47,796
+NARRATOR: <i>Today, nearly 600 people</i>
+<i>have traveled to space.</i>
+
+644
+00:41:49,631 --> 00:41:54,427
+<i>During the shuttle era,
+Marsha Ivins made the trip five times.</i>
+
+645
+00:41:54,594 --> 00:42:00,391
+<i>ln order to record all of this, um, we have
+created this, uh, wiring nightmare here.</i>
+
+646
+00:42:00,558 --> 00:42:05,188
+NARRATOR: <i>At Kennedy Space Center Visitor</i>
+<i>Complex, she checks in on an old friend.</i>
+
+647
+00:42:06,981 --> 00:42:11,903
+IVINS: I look at <i>Atlantis</i> hanging here,
+it's a surreal kind of experience to think...
+
+648
+00:42:12,612 --> 00:42:14,572
+...I flew that into space.
+
+649
+00:42:14,739 --> 00:42:17,200
+It's still something
+that I have a hard time believing.
+
+650
+00:42:17,367 --> 00:42:18,701
+-Hi.
+-My name is Tanya.
+
+651
+00:42:18,868 --> 00:42:20,078
+PHOTOGRAPHER:
+One, two, three.
+
+652
+00:42:20,245 --> 00:42:24,082
+And it makes me feel good
+that people still have a wonder...
+
+653
+00:42:24,249 --> 00:42:27,877
+...and an amazement and a pure joy...
+
+654
+00:42:28,044 --> 00:42:32,048
+...for the fact that we did fly this vehicle
+into space.
+
+655
+00:42:32,590 --> 00:42:37,428
+NARRATOR: <i>For Marsha,</i>
+<i>each mission was as breathtaking as her first.</i>
+
+656
+00:42:37,595 --> 00:42:39,681
+IVINS:
+I looked up overhead...
+
+657
+00:42:39,848 --> 00:42:46,062
+...and here was this black sky
+and this blue Earth.
+
+658
+00:42:46,229 --> 00:42:50,733
+All hits you at that point,
+"I am not on the planet anymore."
+
+659
+00:42:51,109 --> 00:42:54,988
+And every astronaut who has flown
+has come back and said the same thing.
+
+660
+00:42:55,155 --> 00:42:56,906
+As you circle the Earth...
+
+661
+00:42:57,073 --> 00:43:02,787
+...you do not see natural borders
+and boundaries that separate the countries.
+
+662
+00:43:02,954 --> 00:43:08,168
+And all of the wars and the angst
+and the strife that tear this planet apart...
+
+663
+00:43:08,334 --> 00:43:11,212
+...seem so insignificant from that view.
+
+664
+00:43:12,505 --> 00:43:13,715
+NOLAN:
+To me...
+
+665
+00:43:14,257 --> 00:43:19,929
+...space travel, space exploration
+has always represented the ultimate frontier.
+
+666
+00:43:20,096 --> 00:43:23,975
+It's of the absolute extremities
+of what human experience is...
+
+667
+00:43:24,142 --> 00:43:28,313
+...and it's all about trying to, in some way,
+define our place in the universe.
+
+668
+00:43:28,479 --> 00:43:32,150
+MAN: Forty seconds away
+from the <i>Apollo 1 1</i> liftoff.
+
+669
+00:43:32,317 --> 00:43:33,985
+JONATHAN:
+I remember growing up as a kid...
+
+670
+00:43:34,152 --> 00:43:38,031
+...and we were both fascinated
+by this impulse to flight.
+
+671
+00:43:38,198 --> 00:43:44,370
+This impulse to build unimaginable machines
+and use them to blast off into space.
+
+672
+00:43:45,371 --> 00:43:51,169
+MAN: Having fired the imagination of
+a generation, pulls into port for the last time.
+
+673
+00:43:51,336 --> 00:43:54,088
+NARRATOR:
+<i>The space shuttles were retired in 2011.</i>..
+
+674
+00:43:54,255 --> 00:43:57,592
+...<i>after traveling more than</i>
+<i>a half billion miles.</i>
+
+675
+00:44:00,011 --> 00:44:03,223
+<i>Space exploration demands
+enormous resources.</i>
+
+676
+00:44:03,389 --> 00:44:06,684
+<i>The kind that government agencies
+like NASA can marshal.</i>
+
+677
+00:44:07,936 --> 00:44:10,730
+<i>Recently, some new players entered the fray.</i>
+
+678
+00:44:11,773 --> 00:44:14,943
+M USK: I do think we're at the dawn
+of a new space era...
+
+679
+00:44:15,109 --> 00:44:17,695
+...and it's one where commercial companies
+play a stronger role.
+
+680
+00:44:17,862 --> 00:44:19,405
+NASA's not out of the picture.
+
+681
+00:44:19,572 --> 00:44:25,286
+They're very much in the picture,
+but it's not all a NASA-designed system.
+
+682
+00:44:26,120 --> 00:44:31,167
+NARRATOR: <i>ln</i> 2002, <i>Elon Musk started</i>
+<i>his own rocket company.</i>
+
+683
+00:44:31,334 --> 00:44:34,379
+<i>A decade later, under contract to NASA.</i>..
+
+684
+00:44:34,545 --> 00:44:38,591
+...<i>SpaceX became the first private company</i>
+<i>in history to carry supplies.</i>..
+
+685
+00:44:38,758 --> 00:44:41,219
+...<i>to and from</i>
+<i>the International Space Station.</i>
+
+686
+00:44:45,056 --> 00:44:48,768
+<i>Now SpaceX is tackling
+an even greater challenge.</i>
+
+687
+00:44:48,935 --> 00:44:53,481
+MUSK: I started SpaceX with the idea
+of trying to revolutionize space transport.
+
+688
+00:44:53,648 --> 00:44:58,069
+And critical to that
+is full and rapid reusability of the rocket.
+
+689
+00:44:59,404 --> 00:45:02,782
+The big issue with rocketry today
+is you get one use out of the rocket...
+
+690
+00:45:02,949 --> 00:45:07,578
+...and then it smashes down into the ocean
+or into the plains of Siberia, um...
+
+691
+00:45:07,745 --> 00:45:09,455
+...and you can't use it again.
+
+692
+00:45:11,040 --> 00:45:13,876
+If you can, in fact, land the rocket safely...
+
+693
+00:45:14,043 --> 00:45:16,671
+...and then reuse it
+with a minimal amount of effort...
+
+694
+00:45:16,838 --> 00:45:22,385
+...then you can dramatically
+reduce the cost of space transport.
+
+695
+00:45:22,552 --> 00:45:27,765
+NARRATOR: <i>SpaceX is currently developing</i>
+<i>a fully and rapidly reusable launch system.</i>
+
+696
+00:45:27,932 --> 00:45:30,727
+<i>And that will take Elon closer
+to a more ambitious goal:</i>
+
+697
+00:45:31,686 --> 00:45:36,482
+<i>To help send crews
+to establish a colony on Mars.</i>
+
+698
+00:45:37,191 --> 00:45:39,902
+<i>Not a mission for the fainthearted.</i>
+
+699
+00:45:40,570 --> 00:45:42,155
+MUSK:
+Anyone who wants to go to Mars...
+
+700
+00:45:42,322 --> 00:45:47,952
+...their desire for adventure would have to
+overcome their desire for comfort and safety.
+
+701
+00:45:48,953 --> 00:45:53,416
+NARRATOR: <i>The colony on Mars</i>
+<i>could be the next giant leap for humankind.</i>
+
+702
+00:45:53,583 --> 00:45:56,711
+NOLAN: It's such a fundamental idea
+when you think about it.
+
+703
+00:45:56,878 --> 00:46:00,548
+It's just a decision that has to be made
+in terms of how you view the--
+
+704
+00:46:00,715 --> 00:46:02,967
+The human race's place in the universe.
+
+705
+00:46:03,134 --> 00:46:09,182
+We either stay here on Earth or we leave
+and we journey through the galaxy.
+
+706
+00:46:12,477 --> 00:46:15,271
+NARRATOR: <i>To create the look</i>
+<i>of the space technology in</i> Interstellar...
+
+707
+00:46:15,438 --> 00:46:18,858
+...<i>Christopher Nolan</i>
+<i>took a clear design approach.</i>
+
+708
+00:46:19,025 --> 00:46:22,945
+NOLAN: We didn't wanna have anything
+that felt purely decorative.
+
+709
+00:46:23,112 --> 00:46:26,866
+We wanted to approach it
+from a more functional point of view...
+
+710
+00:46:27,033 --> 00:46:28,993
+...just be as convincing as possible...
+
+711
+00:46:29,160 --> 00:46:31,788
+...Looking at the NASA technology
+that exists today...
+
+712
+00:46:31,954 --> 00:46:34,999
+...the International Space Station,
+these kind of things as our influences.
+
+713
+00:46:36,292 --> 00:46:40,338
+NARRATOR: <i>There</i>‘<i>s no telling how space</i>
+<i>technology will evolve in the years to come.</i>
+
+714
+00:46:41,297 --> 00:46:46,511
+<i>We may be decades away or longer</i>
+<i>from establishing a colony on Mars.</i>..
+
+715
+00:46:47,011 --> 00:46:50,264
+...<i>or a permanent habitat</i>
+<i>in orbit around the Earth.</i>
+
+716
+00:46:50,431 --> 00:46:53,643
+<i>But people around the world
+are dreaming of that next step.</i>
+
+717
+00:46:56,312 --> 00:46:58,981
+<i>At a recent space conference.</i>..
+
+718
+00:46:59,148 --> 00:47:01,150
+...<i>NASA and the National Space Society.</i>..
+
+719
+00:47:01,484 --> 00:47:05,446
+...<i>handed out awards</i>
+<i>to dozens of forward-looking designs.</i>
+
+720
+00:47:07,865 --> 00:47:11,077
+<i>A self-sustaining settlement</i>
+<i>for</i> 20,<i>000 people.</i>
+
+721
+00:47:12,620 --> 00:47:16,541
+<i>A moon base that mines minerals
+from lunar soil.</i>
+
+722
+00:47:17,083 --> 00:47:20,461
+<i>A fleet of robots that clean up space junk.</i>
+
+723
+00:47:20,628 --> 00:47:23,089
+But, of course, this is hard
+because we're burning fuel....
+
+724
+00:47:23,256 --> 00:47:26,634
+NARRATOR: <i>There</i>‘<i>s not a single PhD</i>
+<i>among the prize-winning designers.</i>
+
+725
+00:47:26,801 --> 00:47:28,970
+[SINGING IN SPANISH]
+
+726
+00:47:30,221 --> 00:47:33,558
+NARRATOR: <i>These are middle and high school</i>
+<i>students from around the world.</i>
+
+727
+00:47:33,724 --> 00:47:39,355
+What first inspired me was the sky,
+the stars, the moon, the planets.
+
+728
+00:47:39,522 --> 00:47:44,610
+Thinking about going to space
+is really exhilarating.
+
+729
+00:47:44,777 --> 00:47:48,906
+I've always wanted to know, like, what's next?
+And for me, space is next.
+
+730
+00:47:49,073 --> 00:47:51,325
+What we can do is beyond our imagination.
+
+731
+00:47:51,701 --> 00:47:57,790
+For the survival of the human race,
+really, the only option is to go into space.
+
+732
+00:47:57,957 --> 00:48:01,669
+It should be something that--
+A first step we should take as a world.
+
+733
+00:48:01,836 --> 00:48:05,214
+NARRATOR: <i>One of these kids</i>
+<i>may stand on Mars someday.</i>..
+
+734
+00:48:05,381 --> 00:48:07,592
+...<i>or make a breakthrough</i>
+<i>in propulsion systems.</i>..
+
+735
+00:48:08,092 --> 00:48:10,636
+...<i>or start a revolution in astrophysics.</i>
+
+736
+00:48:12,013 --> 00:48:16,100
+<i>To inspire their kind of enthusiasm</i>
+<i>is the hope of the</i> Interstellar <i>team.</i>
+
+737
+00:48:16,642 --> 00:48:19,103
+THOMAS:
+I would love for kids to watch <i>Interstellar.</i>..
+
+738
+00:48:19,270 --> 00:48:23,399
+...and get excited about possibilities
+of space travel and exploration.
+
+739
+00:48:23,733 --> 00:48:29,030
+I would hope that this film
+introduces many people to science...
+
+740
+00:48:29,197 --> 00:48:32,950
+...who might not have gotten curious
+about this kind of science in any other way.
+
+741
+00:48:33,117 --> 00:48:36,787
+I think it would be really thrilling
+if people got some sense from this film...
+
+742
+00:48:36,954 --> 00:48:39,582
+...that, uh, these ideas
+are worth thinking about.
+
+743
+00:48:42,293 --> 00:48:45,046
+NARRATOR: <i>The interplay between science</i>
+<i>and science fiction.</i>..
+
+744
+00:48:45,213 --> 00:48:47,840
+...<i>springs from a</i>
+<i>deep-seated creative drive.</i>
+
+745
+00:48:51,344 --> 00:48:52,678
+<i>To make sense of the unknown.</i>
+
+746
+00:49:01,187 --> 00:49:02,772
+<i>To engineer new worlds.</i>
+
+747
+00:49:07,860 --> 00:49:09,612
+<i>To dream up a better future.</i>
+
+748
+00:49:10,863 --> 00:49:14,283
+<i>We</i> '<i>ll find answers where we always have:</i>
+
+749
+00:49:14,951 --> 00:49:17,537
+<i>Just beyond the next horizon.</i>
+

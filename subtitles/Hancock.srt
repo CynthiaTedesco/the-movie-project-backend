@@ -1,0 +1,28 @@
+﻿1
+00:03:49,920 --> 00:03:51,360
+<font color="#ffff00">Hancock!?!</font>
+
+2
+00:03:52,400 --> 00:03:54,400
+<font color="#ffff00">Beat it, 'Soulja Boy!'</font>
+
+3
+00:04:00,120 --> 00:04:01,840
+<font color="#ffff00">He smells like a bar!</font>
+
+4
+00:04:03,320 --> 00:04:05,320
+<font color="#ffff00">You pay for new roof!</font>
+
+5
+00:04:31,320 --> 00:04:33,520
+<font color="#ffff00">Shoot this asshole!</font>
+
+6
+00:04:38,600 --> 00:04:39,640
+<font color="#ffff00">Stop!</font>
+
+7
+00:04:40,600 --> 00:04:41,960
+<font color="#ffff00">What the FUCK?</font>
+

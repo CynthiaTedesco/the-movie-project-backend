@@ -1,0 +1,6712 @@
+﻿1
+00:01:48,283 --> 00:01:50,702
+<b><font face="Comic Sans MS">Bloody kids.</font></b>
+
+2
+00:02:37,165 --> 00:02:40,836
+<b><font face="Comic Sans MS">How fastidious you've become,
+Wormtail.</font></b>
+
+3
+00:02:41,002 --> 00:02:45,382
+<b><font face="Comic Sans MS">As I recall, you once called
+the nearest gutter pipe home.</font></b>
+
+4
+00:02:45,549 --> 00:02:50,762
+<b><font face="Comic Sans MS">Could it be that the task of nursing me
+has become wearysome for you?</font></b>
+
+5
+00:02:50,929 --> 00:02:53,390
+<b><font face="Comic Sans MS">Oh, no. No, no, my Lord Voldemort.</font></b>
+
+6
+00:02:53,598 --> 00:02:54,850
+<b><font face="Comic Sans MS">I only meant...</font></b>
+
+7
+00:02:55,016 --> 00:02:57,978
+<b><font face="Comic Sans MS">...perhaps if we were to do it
+without the boy.</font></b>
+
+8
+00:02:58,145 --> 00:03:00,522
+<b><font face="Comic Sans MS">No! The boy is everything!</font></b>
+
+9
+00:03:00,689 --> 00:03:04,234
+<b><font face="Comic Sans MS">It cannot be done without him.
+And it will be done.</font></b>
+
+10
+00:03:04,401 --> 00:03:07,070
+<b><font face="Comic Sans MS">Exactly as I said.</font></b>
+
+11
+00:03:07,529 --> 00:03:11,199
+<b><font face="Comic Sans MS">- I will not disappoint you, my Lord.
+- Good.</font></b>
+
+12
+00:03:11,366 --> 00:03:14,411
+<b><font face="Comic Sans MS">First, gather our old comrades.</font></b>
+
+13
+00:03:14,578 --> 00:03:16,830
+<b><font face="Comic Sans MS">Send them a sign.</font></b>
+
+14
+00:03:28,550 --> 00:03:32,053
+<b><font face="Comic Sans MS">Nagini tells me
+the old Muggle caretaker...</font></b>
+
+15
+00:03:32,220 --> 00:03:35,891
+<b><font face="Comic Sans MS">...is standing just outside the door.</font></b>
+
+16
+00:03:36,057 --> 00:03:41,396
+<b><font face="Comic Sans MS">Step aside, Wormtail,
+so I can give our guest a proper greeting.</font></b>
+
+17
+00:03:41,563 --> 00:03:43,398
+<b><font face="Comic Sans MS"><i>Avada Kedavra!</i></font></b>
+
+18
+00:03:48,403 --> 00:03:49,905
+<b><font face="Comic Sans MS">Harry.</font></b>
+
+19
+00:03:50,655 --> 00:03:52,324
+<b><font face="Comic Sans MS">Harry!</font></b>
+
+20
+00:03:53,617 --> 00:03:55,410
+<b><font face="Comic Sans MS">Are you all right?</font></b>
+
+21
+00:03:56,119 --> 00:03:58,246
+<b><font face="Comic Sans MS">Hermione. Bad dream.</font></b>
+
+22
+00:03:58,413 --> 00:04:01,750
+<b><font face="Comic Sans MS">- When did you get here?
+- Just now. You?</font></b>
+
+23
+00:04:01,917 --> 00:04:03,168
+<b><font face="Comic Sans MS">Last night.</font></b>
+
+24
+00:04:03,335 --> 00:04:05,587
+<b><font face="Comic Sans MS">Wake up! Wake up, Ronald!</font></b>
+
+25
+00:04:05,754 --> 00:04:07,005
+<b><font face="Comic Sans MS">Bloody hell.</font></b>
+
+26
+00:04:07,172 --> 00:04:08,673
+<b><font face="Comic Sans MS">Honestly, get dressed.</font></b>
+
+27
+00:04:09,424 --> 00:04:11,176
+<b><font face="Comic Sans MS">And don't go back to sleep.</font></b>
+
+28
+00:04:11,343 --> 00:04:14,679
+<b><font face="Comic Sans MS">Come on, Ron!
+Your mother says breakfast's ready!</font></b>
+
+29
+00:04:21,353 --> 00:04:24,189
+<b><font face="Comic Sans MS">- Ron, where are we actually going?
+- Don't know.</font></b>
+
+30
+00:04:24,648 --> 00:04:27,943
+<b><font face="Comic Sans MS">- Hey, Dad. Where are we going?
+- Haven't the foggiest.</font></b>
+
+31
+00:04:28,109 --> 00:04:29,611
+<b><font face="Comic Sans MS">Keep up!</font></b>
+
+32
+00:04:32,197 --> 00:04:34,032
+<b><font face="Comic Sans MS">Arthur!</font></b>
+
+33
+00:04:34,199 --> 00:04:36,201
+<b><font face="Comic Sans MS">It's about time, son.</font></b>
+
+34
+00:04:36,368 --> 00:04:40,747
+<b><font face="Comic Sans MS">Sorry, Amos. Some of us
+had a bit of a sleepy start.</font></b>
+
+35
+00:04:40,914 --> 00:04:46,586
+<b><font face="Comic Sans MS">This is Amos Diggory, everyone.
+Works with me at the Ministry.</font></b>
+
+36
+00:04:46,795 --> 00:04:49,297
+<b><font face="Comic Sans MS">And this strapping young lad
+must be Cedric, am I right?</font></b>
+
+37
+00:04:49,464 --> 00:04:50,632
+<b><font face="Comic Sans MS">Yes, sir.</font></b>
+
+38
+00:04:50,799 --> 00:04:52,467
+<b><font face="Comic Sans MS">This way.</font></b>
+
+39
+00:04:54,177 --> 00:04:57,556
+<b><font face="Comic Sans MS">Merlin's beard!
+You must be Harry Potter.</font></b>
+
+40
+00:04:57,722 --> 00:05:00,475
+<b><font face="Comic Sans MS">- Yes, sir.
+- Great, great pleasure.</font></b>
+
+41
+00:05:00,642 --> 00:05:02,435
+<b><font face="Comic Sans MS">Pleasure to meet you too, sir.</font></b>
+
+42
+00:05:05,063 --> 00:05:07,732
+<b><font face="Comic Sans MS">Yes, it's just over there.</font></b>
+
+43
+00:05:09,985 --> 00:05:11,820
+<b><font face="Comic Sans MS">- Shall we?
+- Oh, yeah.</font></b>
+
+44
+00:05:11,987 --> 00:05:13,155
+<b><font face="Comic Sans MS">We don't want to be late.</font></b>
+
+45
+00:05:13,321 --> 00:05:17,492
+<b><font face="Comic Sans MS">Come on. Nearly there now.
+Get yourself into a good position.</font></b>
+
+46
+00:05:18,493 --> 00:05:20,829
+<b><font face="Comic Sans MS">Why are they all standing around
+that manky old boot?</font></b>
+
+47
+00:05:20,996 --> 00:05:23,498
+<b><font face="Comic Sans MS">- That isn't just any manky old boot.
+- It's a Portkey.</font></b>
+
+48
+00:05:23,665 --> 00:05:25,000
+<b><font face="Comic Sans MS">Time to go!</font></b>
+
+49
+00:05:25,167 --> 00:05:26,793
+<b><font face="Comic Sans MS">What's a Portkey?</font></b>
+
+50
+00:05:26,960 --> 00:05:31,006
+<b><font face="Comic Sans MS">- Ready! After 3. 1, 2...
+- Harry!</font></b>
+
+51
+00:05:31,173 --> 00:05:32,257
+<b><font face="Comic Sans MS">...3!</font></b>
+
+52
+00:05:43,310 --> 00:05:44,436
+<b><font face="Comic Sans MS">Let go, kids!</font></b>
+
+53
+00:05:44,603 --> 00:05:47,189
+<b><font face="Comic Sans MS">- What?!
+- Let go!</font></b>
+
+54
+00:05:59,242 --> 00:06:01,828
+<b><font face="Comic Sans MS">I'll bet that cleared your sinuses, eh?</font></b>
+
+55
+00:06:02,871 --> 00:06:05,373
+<b><font face="Comic Sans MS">- Total shambles, as per usual.
+- Thanks.</font></b>
+
+56
+00:06:11,171 --> 00:06:13,298
+<b><font face="Comic Sans MS">Go on, look at that!</font></b>
+
+57
+00:06:13,548 --> 00:06:18,053
+<b><font face="Comic Sans MS">Well, kids, welcome to
+the Quidditch World Cup!</font></b>
+
+58
+00:06:21,056 --> 00:06:23,725
+<b><font face="Comic Sans MS">Stay together! Keep up, girls!</font></b>
+
+59
+00:06:25,227 --> 00:06:26,520
+<b><font face="Comic Sans MS">Look!</font></b>
+
+60
+00:06:27,395 --> 00:06:29,689
+<b><font face="Comic Sans MS">Come on! Keep up, girls!</font></b>
+
+61
+00:06:36,571 --> 00:06:37,989
+<b><font face="Comic Sans MS">Blimey!</font></b>
+
+62
+00:06:38,156 --> 00:06:40,033
+<b><font face="Comic Sans MS">Parting of the ways, I think, old chap.</font></b>
+
+63
+00:06:40,200 --> 00:06:41,576
+<b><font face="Comic Sans MS">- See you at the match.
+- See you.</font></b>
+
+64
+00:06:41,743 --> 00:06:43,078
+<b><font face="Comic Sans MS">- Cedric.
+- Ced, come on.</font></b>
+
+65
+00:06:43,245 --> 00:06:44,913
+<b><font face="Comic Sans MS">See you later, Cedric.</font></b>
+
+66
+00:06:49,543 --> 00:06:51,628
+<b><font face="Comic Sans MS">Home sweet home.</font></b>
+
+67
+00:06:53,421 --> 00:06:54,965
+<b><font face="Comic Sans MS">What?</font></b>
+
+68
+00:07:02,389 --> 00:07:04,266
+<b><font face="Comic Sans MS">- Excellent, excellent.
+- Ginny, look!</font></b>
+
+69
+00:07:04,432 --> 00:07:05,767
+<b><font face="Comic Sans MS">- All to the bath.
+- Look.</font></b>
+
+70
+00:07:05,934 --> 00:07:08,436
+<b><font face="Comic Sans MS">Girls, choose a bunk and unpack.</font></b>
+
+71
+00:07:09,020 --> 00:07:11,439
+<b><font face="Comic Sans MS">Ron, get out of the kitchen.
+We're all hungry.</font></b>
+
+72
+00:07:11,606 --> 00:07:14,109
+<b><font face="Comic Sans MS">- Yeah, get out of the kitchen, Ron!
+- Feet off the table!</font></b>
+
+73
+00:07:14,276 --> 00:07:16,570
+<b><font face="Comic Sans MS">- Feet off the table!
+- Feet off the table!</font></b>
+
+74
+00:07:17,779 --> 00:07:19,948
+<b><font face="Comic Sans MS">I love magic.</font></b>
+
+75
+00:07:35,297 --> 00:07:38,675
+<b><font face="Comic Sans MS">Get your Quidditch World Cup
+programs here!</font></b>
+
+76
+00:07:38,967 --> 00:07:42,137
+<b><font face="Comic Sans MS">Blimey, Dad. How far up are we?</font></b>
+
+77
+00:07:42,304 --> 00:07:43,722
+<b><font face="Comic Sans MS">Well, put it this way:</font></b>
+
+78
+00:07:43,972 --> 00:07:45,682
+<b><font face="Comic Sans MS">If it rains...</font></b>
+
+79
+00:07:45,849 --> 00:07:48,185
+<b><font face="Comic Sans MS">...you'll be the first to know.</font></b>
+
+80
+00:07:48,977 --> 00:07:51,354
+<b><font face="Comic Sans MS">Father and I are in
+the minister's box...</font></b>
+
+81
+00:07:51,521 --> 00:07:54,816
+<b><font face="Comic Sans MS">...by personal invitation
+of Cornelius Fudge himself.</font></b>
+
+82
+00:07:54,983 --> 00:07:57,152
+<b><font face="Comic Sans MS">Don't boast, Draco.</font></b>
+
+83
+00:07:57,319 --> 00:07:59,446
+<b><font face="Comic Sans MS">There's no need with these people.</font></b>
+
+84
+00:08:01,907 --> 00:08:04,409
+<b><font face="Comic Sans MS">Do enjoy yourself, won't you?</font></b>
+
+85
+00:08:04,826 --> 00:08:06,661
+<b><font face="Comic Sans MS">While you can.</font></b>
+
+86
+00:08:20,050 --> 00:08:24,721
+<b><font face="Comic Sans MS">Come on up. Take your seats. I told you
+these seats would be worth waiting for.</font></b>
+
+87
+00:08:24,888 --> 00:08:26,765
+<b><font face="Comic Sans MS">Come on!</font></b>
+
+88
+00:08:29,017 --> 00:08:30,977
+<b><font face="Comic Sans MS">It's the Irish! There's Troy!</font></b>
+
+89
+00:08:31,144 --> 00:08:32,979
+<b><font face="Comic Sans MS">- And Mullet!
+- And Moran!</font></b>
+
+90
+00:08:38,652 --> 00:08:41,530
+<b><font face="Comic Sans MS"><i>Ireland! Ireland! Ireland!</i></font></b>
+
+91
+00:08:45,784 --> 00:08:48,995
+<b><font face="Comic Sans MS">- Here come the Bulgarians!
+- Yes!</font></b>
+
+92
+00:08:55,043 --> 00:08:56,419
+<b><font face="Comic Sans MS">Who's that?</font></b>
+
+93
+00:08:57,212 --> 00:09:00,215
+<b><font face="Comic Sans MS">That, sis, is the best Seeker
+in the world.</font></b>
+
+94
+00:09:02,259 --> 00:09:05,804
+<b><font face="Comic Sans MS"><i>Krum! Krum! Krum!</i></font></b>
+
+95
+00:09:10,559 --> 00:09:11,768
+<b><font face="Comic Sans MS">Krum!</font></b>
+
+96
+00:09:11,935 --> 00:09:13,687
+<b><font face="Comic Sans MS">Yes!</font></b>
+
+97
+00:09:21,403 --> 00:09:23,321
+<b><font face="Comic Sans MS">Good evening!</font></b>
+
+98
+00:09:23,864 --> 00:09:26,867
+<b><font face="Comic Sans MS">As Minister for Magic...</font></b>
+
+99
+00:09:27,075 --> 00:09:30,120
+<b><font face="Comic Sans MS">...it gives me great pleasure...</font></b>
+
+100
+00:09:30,745 --> 00:09:34,499
+<b><font face="Comic Sans MS">...to welcome
+each and every one of you...</font></b>
+
+101
+00:09:34,666 --> 00:09:40,547
+<b><font face="Comic Sans MS">...to the final
+of the 422nd Quidditch World Cup!</font></b>
+
+102
+00:09:41,173 --> 00:09:42,549
+<b><font face="Comic Sans MS">Let the match...</font></b>
+
+103
+00:09:42,924 --> 00:09:44,509
+<b><font face="Comic Sans MS">...begin!</font></b>
+
+104
+00:09:50,640 --> 00:09:52,809
+<b><font face="Comic Sans MS"><i>Krum! Krum! Krum!</i></font></b>
+
+105
+00:10:00,650 --> 00:10:02,319
+<b><font face="Comic Sans MS">There's no one like Krum.</font></b>
+
+106
+00:10:02,486 --> 00:10:04,112
+<b><font face="Comic Sans MS">- Krum?
+- Dumb Krum?</font></b>
+
+107
+00:10:04,279 --> 00:10:07,324
+<b><font face="Comic Sans MS">He's like a bird,
+the way he rides the wind.</font></b>
+
+108
+00:10:07,491 --> 00:10:10,410
+<b><font face="Comic Sans MS">- He's more than an athlete.
+- Dumb Krum.</font></b>
+
+109
+00:10:10,577 --> 00:10:11,953
+<b><font face="Comic Sans MS">He's an artist.</font></b>
+
+110
+00:10:12,120 --> 00:10:14,289
+<b><font face="Comic Sans MS">- I think you're in love, Ron.
+- Shut up.</font></b>
+
+111
+00:10:14,498 --> 00:10:15,957
+<b><font face="Comic Sans MS"><i>Viktor, I love you</i></font></b>
+
+112
+00:10:16,124 --> 00:10:17,751
+<b><font face="Comic Sans MS"><i>Viktor, I do</i></font></b>
+
+113
+00:10:17,918 --> 00:10:21,129
+<b><font face="Comic Sans MS"><i>When we're apart
+My heart beats only for you</i></font></b>
+
+114
+00:10:21,296 --> 00:10:23,965
+<b><font face="Comic Sans MS">Sounds like the Irish
+have got their pride on.</font></b>
+
+115
+00:10:24,132 --> 00:10:25,884
+<b><font face="Comic Sans MS">Stop! Stop it!</font></b>
+
+116
+00:10:26,426 --> 00:10:28,011
+<b><font face="Comic Sans MS">It's not the Irish.</font></b>
+
+117
+00:10:29,137 --> 00:10:31,306
+<b><font face="Comic Sans MS">We've gotta get out of here. Now!</font></b>
+
+118
+00:10:33,433 --> 00:10:35,811
+<b><font face="Comic Sans MS">Get out, it's the Death Eaters!</font></b>
+
+119
+00:10:35,977 --> 00:10:39,314
+<b><font face="Comic Sans MS">Get back to the Portkey, everybody,
+and stick together!</font></b>
+
+120
+00:10:39,481 --> 00:10:42,150
+<b><font face="Comic Sans MS">Fred, George!
+Ginny is your responsibility.</font></b>
+
+121
+00:10:42,692 --> 00:10:44,486
+<b><font face="Comic Sans MS">Go!</font></b>
+
+122
+00:10:44,653 --> 00:10:46,488
+<b><font face="Comic Sans MS">Harry!</font></b>
+
+123
+00:11:01,294 --> 00:11:03,463
+<b><font face="Comic Sans MS">- Keep up, you lot!
+- Harry!</font></b>
+
+124
+00:11:04,714 --> 00:11:06,842
+<b><font face="Comic Sans MS">Harry! Harry!</font></b>
+
+125
+00:11:54,514 --> 00:11:56,016
+<b><font face="Comic Sans MS"><i>Morsmordre!</i></font></b>
+
+126
+00:12:22,751 --> 00:12:24,252
+<b><font face="Comic Sans MS">Harry!</font></b>
+
+127
+00:12:25,754 --> 00:12:28,965
+<b><font face="Comic Sans MS">- Where are you?
+- Harry!</font></b>
+
+128
+00:12:30,217 --> 00:12:32,844
+<b><font face="Comic Sans MS">We've been looking for you for ages!</font></b>
+
+129
+00:12:33,929 --> 00:12:35,764
+<b><font face="Comic Sans MS">Thought we lost you, mate.</font></b>
+
+130
+00:12:36,598 --> 00:12:38,600
+<b><font face="Comic Sans MS">What is that?</font></b>
+
+131
+00:12:41,686 --> 00:12:43,772
+<b><font face="Comic Sans MS"><i>Stupefy!</i></font></b>
+
+132
+00:12:43,939 --> 00:12:45,273
+<b><font face="Comic Sans MS">Stop!</font></b>
+
+133
+00:12:45,440 --> 00:12:47,651
+<b><font face="Comic Sans MS">That's my son!</font></b>
+
+134
+00:12:48,693 --> 00:12:51,363
+<b><font face="Comic Sans MS">- Ron, Harry, Hermione, you all right?
+- We came back for Harry.</font></b>
+
+135
+00:12:51,530 --> 00:12:52,823
+<b><font face="Comic Sans MS">Which of you conjured it?</font></b>
+
+136
+00:12:52,989 --> 00:12:55,200
+<b><font face="Comic Sans MS">- Crouch, you can't possi...
+- Do not lie!</font></b>
+
+137
+00:12:55,367 --> 00:12:57,327
+<b><font face="Comic Sans MS">You've been discovered
+at the scene of the crime.</font></b>
+
+138
+00:12:57,494 --> 00:12:59,538
+<b><font face="Comic Sans MS">- Crime?
+- Barty! They're just kids.</font></b>
+
+139
+00:12:59,704 --> 00:13:01,206
+<b><font face="Comic Sans MS">What crime?</font></b>
+
+140
+00:13:01,373 --> 00:13:03,875
+<b><font face="Comic Sans MS">It's the Dark Mark, Harry.
+It's his mark.</font></b>
+
+141
+00:13:04,042 --> 00:13:05,210
+<b><font face="Comic Sans MS">What, Voldemort?</font></b>
+
+142
+00:13:06,378 --> 00:13:10,257
+<b><font face="Comic Sans MS">Those people tonight, in the masks,
+they're his too, aren't they?</font></b>
+
+143
+00:13:10,423 --> 00:13:12,634
+<b><font face="Comic Sans MS">- His followers?
+- Yeah.</font></b>
+
+144
+00:13:12,843 --> 00:13:14,719
+<b><font face="Comic Sans MS">Death Eaters.</font></b>
+
+145
+00:13:15,470 --> 00:13:19,474
+<b><font face="Comic Sans MS">- Follow me.
+- There was a man, before.</font></b>
+
+146
+00:13:19,975 --> 00:13:21,309
+<b><font face="Comic Sans MS">There!</font></b>
+
+147
+00:13:21,476 --> 00:13:23,812
+<b><font face="Comic Sans MS">All of you, this way!</font></b>
+
+148
+00:13:24,521 --> 00:13:25,981
+<b><font face="Comic Sans MS">A man, Harry?</font></b>
+
+149
+00:13:26,273 --> 00:13:27,732
+<b><font face="Comic Sans MS">Who?</font></b>
+
+150
+00:13:28,150 --> 00:13:29,943
+<b><font face="Comic Sans MS">I don't know.</font></b>
+
+151
+00:13:31,570 --> 00:13:33,780
+<b><font face="Comic Sans MS">I didn't see his face.</font></b>
+
+152
+00:13:50,005 --> 00:13:53,133
+<b><font face="Comic Sans MS">Anything from the trolley?</font></b>
+
+153
+00:13:54,134 --> 00:13:57,262
+<b><font face="Comic Sans MS">Anything from the trolley?</font></b>
+
+154
+00:14:01,183 --> 00:14:02,934
+<b><font face="Comic Sans MS">Anything from the trolley, dears?</font></b>
+
+155
+00:14:03,101 --> 00:14:05,312
+<b><font face="Comic Sans MS">Packet of Drooble's...</font></b>
+
+156
+00:14:05,479 --> 00:14:07,272
+<b><font face="Comic Sans MS">...and a Licorice Wand.</font></b>
+
+157
+00:14:08,732 --> 00:14:10,817
+<b><font face="Comic Sans MS">On second thought, just the Drooble's.</font></b>
+
+158
+00:14:10,984 --> 00:14:14,988
+<b><font face="Comic Sans MS">- It's all right, I'll get it. Don't worry.
+- Just the Drooble's. Thanks.</font></b>
+
+159
+00:14:16,239 --> 00:14:18,658
+<b><font face="Comic Sans MS">Two Pumpkin Pasties, please.</font></b>
+
+160
+00:14:24,039 --> 00:14:25,665
+<b><font face="Comic Sans MS">Thank you.</font></b>
+
+161
+00:14:26,291 --> 00:14:28,502
+<b><font face="Comic Sans MS">Anything sweet for you, dear?</font></b>
+
+162
+00:14:29,336 --> 00:14:31,671
+<b><font face="Comic Sans MS">Oh, no, I'm not hungry. Thank you.</font></b>
+
+163
+00:14:32,589 --> 00:14:34,591
+<b><font face="Comic Sans MS">Anything from the trolley?</font></b>
+
+164
+00:14:34,758 --> 00:14:36,802
+<b><font face="Comic Sans MS">This is horrible.</font></b>
+
+165
+00:14:37,177 --> 00:14:39,888
+<b><font face="Comic Sans MS">How can the Ministry
+not know who conjured it?</font></b>
+
+166
+00:14:40,096 --> 00:14:41,848
+<b><font face="Comic Sans MS">Wasn't there any security or...?</font></b>
+
+167
+00:14:42,015 --> 00:14:44,810
+<b><font face="Comic Sans MS">Loads, according to Dad.</font></b>
+
+168
+00:14:44,976 --> 00:14:48,939
+<b><font face="Comic Sans MS">That's what worried them so much.
+Happened right under their noses.</font></b>
+
+169
+00:14:51,566 --> 00:14:54,986
+<b><font face="Comic Sans MS">It's hurting again, isn't it?
+Your scar.</font></b>
+
+170
+00:14:55,153 --> 00:14:56,822
+<b><font face="Comic Sans MS">I'm fine.</font></b>
+
+171
+00:14:58,865 --> 00:15:01,743
+<b><font face="Comic Sans MS">You know Sirius will
+want to hear about this...</font></b>
+
+172
+00:15:01,910 --> 00:15:05,914
+<b><font face="Comic Sans MS">...what you saw at the World Cup
+and the dream.</font></b>
+
+173
+00:15:14,339 --> 00:15:17,551
+<b><font face="Comic Sans MS">Hedwig. There we go.</font></b>
+
+174
+00:15:56,715 --> 00:15:59,009
+<b><font face="Comic Sans MS">Clear the runway!</font></b>
+
+175
+00:16:04,431 --> 00:16:07,184
+<b><font face="Comic Sans MS">Well, there's something
+you don't see every day.</font></b>
+
+176
+00:16:31,166 --> 00:16:36,087
+<b><font face="Comic Sans MS"><i>Well, now we're all settled in and sorted,
+I'd like to make an announcement.</i></font></b>
+
+177
+00:16:37,088 --> 00:16:40,509
+<b><font face="Comic Sans MS">This castle will not only be
+your home this year...</font></b>
+
+178
+00:16:40,675 --> 00:16:43,845
+<b><font face="Comic Sans MS">...but home to some
+very special guests as well.</font></b>
+
+179
+00:16:44,179 --> 00:16:46,765
+<b><font face="Comic Sans MS">You see, Hogwarts has been chosen...</font></b>
+
+180
+00:16:47,766 --> 00:16:49,267
+<b><font face="Comic Sans MS">Yes, what is it?</font></b>
+
+181
+00:16:49,476 --> 00:16:50,852
+<b><font face="Comic Sans MS">What is it?</font></b>
+
+182
+00:16:53,188 --> 00:16:56,525
+<b><font face="Comic Sans MS">Tell them to wait.
+Tell them to wait. Wait.</font></b>
+
+183
+00:16:56,691 --> 00:17:02,656
+<b><font face="Comic Sans MS">So Hogwarts has been chosen
+to host a legendary event:</font></b>
+
+184
+00:17:02,823 --> 00:17:04,866
+<b><font face="Comic Sans MS">The Triwizard Tournament.</font></b>
+
+185
+00:17:05,408 --> 00:17:07,494
+<b><font face="Comic Sans MS">- For those of you who do not know...
+- Brilliant.</font></b>
+
+186
+00:17:07,661 --> 00:17:10,831
+<b><font face="Comic Sans MS">...the Triwizard Tournament
+brings together three schools...</font></b>
+
+187
+00:17:10,997 --> 00:17:13,124
+<b><font face="Comic Sans MS">...for a series of magical contests.</font></b>
+
+188
+00:17:13,291 --> 00:17:16,753
+<b><font face="Comic Sans MS">From each school, a single student
+is selected to compete.</font></b>
+
+189
+00:17:17,003 --> 00:17:18,713
+<b><font face="Comic Sans MS">Now let me be clear.</font></b>
+
+190
+00:17:18,880 --> 00:17:21,800
+<b><font face="Comic Sans MS">If chosen, you stand alone.</font></b>
+
+191
+00:17:21,967 --> 00:17:23,885
+<b><font face="Comic Sans MS">And trust me when I say...</font></b>
+
+192
+00:17:24,052 --> 00:17:27,055
+<b><font face="Comic Sans MS">...these contests are not
+for the faint-hearted.</font></b>
+
+193
+00:17:27,347 --> 00:17:31,685
+<b><font face="Comic Sans MS">But more of that later.
+For now, please join me in welcoming...</font></b>
+
+194
+00:17:31,852 --> 00:17:35,897
+<b><font face="Comic Sans MS">...the lovely ladies of the
+Beauxbatons Academy of Magic...</font></b>
+
+195
+00:17:36,064 --> 00:17:40,026
+<b><font face="Comic Sans MS">...and their headmistress,
+Madame Maxime.</font></b>
+
+196
+00:17:52,581 --> 00:17:54,124
+<b><font face="Comic Sans MS">Bloody hell.</font></b>
+
+197
+00:18:02,007 --> 00:18:04,342
+<b><font face="Comic Sans MS">Blimey. That's one big woman.</font></b>
+
+198
+00:18:26,364 --> 00:18:28,450
+<b><font face="Comic Sans MS">And now our friends from the north.</font></b>
+
+199
+00:18:28,617 --> 00:18:31,453
+<b><font face="Comic Sans MS">Please greet the proud sons
+of Durmstrang...</font></b>
+
+200
+00:18:31,620 --> 00:18:34,414
+<b><font face="Comic Sans MS">...and their high master,
+Igor Karkaroff.</font></b>
+
+201
+00:18:57,479 --> 00:18:59,064
+<b><font face="Comic Sans MS">Oh, it's Krum!</font></b>
+
+202
+00:18:59,231 --> 00:19:00,690
+<b><font face="Comic Sans MS">Blimey, it's him!</font></b>
+
+203
+00:19:00,857 --> 00:19:02,734
+<b><font face="Comic Sans MS">Viktor Krum!</font></b>
+
+204
+00:19:11,660 --> 00:19:13,078
+<b><font face="Comic Sans MS">Albus.</font></b>
+
+205
+00:19:13,245 --> 00:19:14,955
+<b><font face="Comic Sans MS">Igor.</font></b>
+
+206
+00:19:28,593 --> 00:19:32,264
+<b><font face="Comic Sans MS">Professor Dumbly-dorr,
+my horses have traveled a long way.</font></b>
+
+207
+00:19:32,430 --> 00:19:34,975
+<b><font face="Comic Sans MS">- They will need attending to.
+- Don't worry, Madame Maxime.</font></b>
+
+208
+00:19:35,142 --> 00:19:38,687
+<b><font face="Comic Sans MS">Our gamekeeper, Hagrid,
+is more than capable of seeing to them.</font></b>
+
+209
+00:19:38,854 --> 00:19:41,106
+<b><font face="Comic Sans MS">But you know, Monsieur Hagrid...</font></b>
+
+210
+00:19:41,606 --> 00:19:43,900
+<b><font face="Comic Sans MS">...they drink only single-malt whiskey.</font></b>
+
+211
+00:19:50,198 --> 00:19:51,867
+<b><font face="Comic Sans MS">You idiot!</font></b>
+
+212
+00:19:56,872 --> 00:19:58,874
+<b><font face="Comic Sans MS">Your attention, please!</font></b>
+
+213
+00:20:01,251 --> 00:20:03,378
+<b><font face="Comic Sans MS">I'd like to say a few words.</font></b>
+
+214
+00:20:05,130 --> 00:20:07,174
+<b><font face="Comic Sans MS">Eternal glory.</font></b>
+
+215
+00:20:07,632 --> 00:20:11,678
+<b><font face="Comic Sans MS">That is what awaits the student
+who wins the Triwizard Tournament.</font></b>
+
+216
+00:20:11,845 --> 00:20:16,057
+<b><font face="Comic Sans MS">But to do this, that student
+must survive three tasks.</font></b>
+
+217
+00:20:16,224 --> 00:20:20,103
+<b><font face="Comic Sans MS">Three extremely dangerous tasks.</font></b>
+
+218
+00:20:20,604 --> 00:20:21,688
+<b><font face="Comic Sans MS">- Wicked.
+- Wicked.</font></b>
+
+219
+00:20:21,855 --> 00:20:26,026
+<b><font face="Comic Sans MS">For this reason, the Ministry has seen fit
+to impose a new rule.</font></b>
+
+220
+00:20:26,193 --> 00:20:27,569
+<b><font face="Comic Sans MS">To explain all this...</font></b>
+
+221
+00:20:27,736 --> 00:20:31,364
+<b><font face="Comic Sans MS">...we have the head of the Department
+of International Magical Cooperation...</font></b>
+
+222
+00:20:31,531 --> 00:20:33,658
+<b><font face="Comic Sans MS">...Mr. Bartemius Crouch.</font></b>
+
+223
+00:20:48,089 --> 00:20:50,801
+<b><font face="Comic Sans MS">Bloody hell. It's Mad-Eye Moody.</font></b>
+
+224
+00:20:51,593 --> 00:20:54,805
+<b><font face="Comic Sans MS">- Alastor Moody? The Auror?
+- Auror?</font></b>
+
+225
+00:20:54,971 --> 00:20:58,433
+<b><font face="Comic Sans MS">Dark-wizard catcher. Half the cells
+in Azkaban are filled thanks to him.</font></b>
+
+226
+00:20:59,142 --> 00:21:02,270
+<b><font face="Comic Sans MS">He's supposed to be mad as a hatter,
+though, these days.</font></b>
+
+227
+00:21:14,032 --> 00:21:17,786
+<b><font face="Comic Sans MS">- My dear old friend, thanks for coming.
+- Stupid ceiling.</font></b>
+
+228
+00:21:17,953 --> 00:21:19,079
+<b><font face="Comic Sans MS">Thank you.</font></b>
+
+229
+00:21:25,585 --> 00:21:27,462
+<b><font face="Comic Sans MS">What's that he's drinking,
+do you suppose?</font></b>
+
+230
+00:21:27,879 --> 00:21:30,882
+<b><font face="Comic Sans MS">I don't know, but I don't think
+it's pumpkin juice.</font></b>
+
+231
+00:21:37,848 --> 00:21:39,808
+<b><font face="Comic Sans MS">After due consideration...</font></b>
+
+232
+00:21:39,975 --> 00:21:42,853
+<b><font face="Comic Sans MS">...the Ministry has concluded that,
+for their own safety...</font></b>
+
+233
+00:21:43,019 --> 00:21:45,981
+<b><font face="Comic Sans MS">...no student under the age of 17...</font></b>
+
+234
+00:21:46,148 --> 00:21:49,901
+<b><font face="Comic Sans MS">...shall be allowed to put forth their
+name for the Triwizard Tournament.</font></b>
+
+235
+00:21:50,068 --> 00:21:52,779
+<b><font face="Comic Sans MS">- This decision is final.
+- That's rubbish!</font></b>
+
+236
+00:21:52,946 --> 00:21:55,532
+<b><font face="Comic Sans MS">That's rubbish!
+You don't know what you're doing!</font></b>
+
+237
+00:21:55,699 --> 00:21:59,452
+<b><font face="Comic Sans MS">- Silence!
+- They're not too happy about that, then.</font></b>
+
+238
+00:22:18,847 --> 00:22:21,266
+<b><font face="Comic Sans MS">The Goblet of Fire.</font></b>
+
+239
+00:22:21,850 --> 00:22:24,728
+<b><font face="Comic Sans MS">Anyone wishing to submit themselves
+to the tournament...</font></b>
+
+240
+00:22:24,895 --> 00:22:27,814
+<b><font face="Comic Sans MS">...need only write their name
+upon a piece of parchment...</font></b>
+
+241
+00:22:27,981 --> 00:22:31,067
+<b><font face="Comic Sans MS">...and throw it in the flame before
+this hour on Thursday night.</font></b>
+
+242
+00:22:32,194 --> 00:22:34,404
+<b><font face="Comic Sans MS">Do not do so lightly.</font></b>
+
+243
+00:22:34,779 --> 00:22:38,366
+<b><font face="Comic Sans MS">If chosen, there's no turning back.</font></b>
+
+244
+00:22:38,533 --> 00:22:43,497
+<b><font face="Comic Sans MS">As from this moment,
+the Triwizard Tournament has begun.</font></b>
+
+245
+00:23:09,648 --> 00:23:11,733
+<b><font face="Comic Sans MS">Alastor Moody.</font></b>
+
+246
+00:23:13,652 --> 00:23:15,278
+<b><font face="Comic Sans MS">Ex-Auror...</font></b>
+
+247
+00:23:16,988 --> 00:23:19,407
+<b><font face="Comic Sans MS">...Ministry malcontent...</font></b>
+
+248
+00:23:19,616 --> 00:23:22,035
+<b><font face="Comic Sans MS">...and your new
+Defense Against the Dark Arts teacher.</font></b>
+
+249
+00:23:22,202 --> 00:23:26,665
+<b><font face="Comic Sans MS">I am here because Dumbledore asked me.
+End of story, goodbye, the end.</font></b>
+
+250
+00:23:26,832 --> 00:23:28,583
+<b><font face="Comic Sans MS">Any questions?</font></b>
+
+251
+00:23:31,753 --> 00:23:33,505
+<b><font face="Comic Sans MS">When it comes to the Dark Arts...</font></b>
+
+252
+00:23:34,881 --> 00:23:37,551
+<b><font face="Comic Sans MS">...I believe in a practical approach.</font></b>
+
+253
+00:23:37,717 --> 00:23:43,431
+<b><font face="Comic Sans MS">But first, which of you can tell me
+how many Unforgivable Curses there are?</font></b>
+
+254
+00:23:43,932 --> 00:23:46,268
+<b><font face="Comic Sans MS">- Three, sir.
+- And they are so named?</font></b>
+
+255
+00:23:46,434 --> 00:23:49,688
+<b><font face="Comic Sans MS">Because they are unforgivable.
+The use of any one of them will...</font></b>
+
+256
+00:23:49,855 --> 00:23:53,942
+<b><font face="Comic Sans MS">Will earn you a one-way ticket
+to Azkaban, correct.</font></b>
+
+257
+00:23:54,151 --> 00:23:56,903
+<b><font face="Comic Sans MS">The Ministry says you're too young
+to see what these curses do.</font></b>
+
+258
+00:23:57,070 --> 00:24:00,532
+<b><font face="Comic Sans MS">I say different! You need to know
+what you're up against!</font></b>
+
+259
+00:24:00,699 --> 00:24:02,868
+<b><font face="Comic Sans MS">You need to be prepared.</font></b>
+
+260
+00:24:03,034 --> 00:24:05,495
+<b><font face="Comic Sans MS">You need to find another place
+to put your chewing gum...</font></b>
+
+261
+00:24:05,662 --> 00:24:07,956
+<b><font face="Comic Sans MS">...besides the underside of your desk,
+Mr. Finnigan!</font></b>
+
+262
+00:24:08,123 --> 00:24:11,126
+<b><font face="Comic Sans MS">No way. The old codger
+can see out the back of his head.</font></b>
+
+263
+00:24:11,835 --> 00:24:13,587
+<b><font face="Comic Sans MS">And hear across classrooms!</font></b>
+
+264
+00:24:15,964 --> 00:24:19,468
+<b><font face="Comic Sans MS">So which curse shall we see first?</font></b>
+
+265
+00:24:19,634 --> 00:24:20,844
+<b><font face="Comic Sans MS">- Weasley!
+- Yes?</font></b>
+
+266
+00:24:21,011 --> 00:24:22,345
+<b><font face="Comic Sans MS">Stand.</font></b>
+
+267
+00:24:25,515 --> 00:24:27,309
+<b><font face="Comic Sans MS">Give us a curse.</font></b>
+
+268
+00:24:27,476 --> 00:24:31,313
+<b><font face="Comic Sans MS">Well, my dad did tell me about one.</font></b>
+
+269
+00:24:31,897 --> 00:24:33,148
+<b><font face="Comic Sans MS">The Imperius Curse.</font></b>
+
+270
+00:24:33,315 --> 00:24:36,568
+<b><font face="Comic Sans MS">Oh, yeah, your father
+would know all about that.</font></b>
+
+271
+00:24:37,027 --> 00:24:39,696
+<b><font face="Comic Sans MS">Gave the Ministry quite a bit of grief
+a few years ago.</font></b>
+
+272
+00:24:40,155 --> 00:24:42,657
+<b><font face="Comic Sans MS">Perhaps this will show you why.</font></b>
+
+273
+00:24:50,290 --> 00:24:51,625
+<b><font face="Comic Sans MS">Hello.</font></b>
+
+274
+00:24:53,251 --> 00:24:54,961
+<b><font face="Comic Sans MS">Lovely little beauty.</font></b>
+
+275
+00:24:58,089 --> 00:25:00,091
+<b><font face="Comic Sans MS"><i>Engorgio.</i></font></b>
+
+276
+00:25:00,467 --> 00:25:02,135
+<b><font face="Comic Sans MS"><i>Imperio!</i></font></b>
+
+277
+00:25:06,515 --> 00:25:08,975
+<b><font face="Comic Sans MS">Don't worry. It's completely harmless.</font></b>
+
+278
+00:25:15,148 --> 00:25:16,817
+<b><font face="Comic Sans MS">If she bites...</font></b>
+
+279
+00:25:17,359 --> 00:25:18,860
+<b><font face="Comic Sans MS">...she's lethal.</font></b>
+
+280
+00:25:21,363 --> 00:25:23,198
+<b><font face="Comic Sans MS">What are you laughing at?</font></b>
+
+281
+00:25:24,533 --> 00:25:25,951
+<b><font face="Comic Sans MS">Get off!</font></b>
+
+282
+00:25:28,370 --> 00:25:30,163
+<b><font face="Comic Sans MS">Talented, isn't she?</font></b>
+
+283
+00:25:30,330 --> 00:25:33,708
+<b><font face="Comic Sans MS">What should I have her do next?
+Jump out the window?</font></b>
+
+284
+00:25:35,710 --> 00:25:37,087
+<b><font face="Comic Sans MS">Drown herself?</font></b>
+
+285
+00:25:48,890 --> 00:25:52,144
+<b><font face="Comic Sans MS">Scores of witches and wizards
+have claimed...</font></b>
+
+286
+00:25:52,310 --> 00:25:56,314
+<b><font face="Comic Sans MS">...that they only did
+You-Know-Who's bidding...</font></b>
+
+287
+00:25:56,481 --> 00:25:58,733
+<b><font face="Comic Sans MS">...under the influence
+of the Imperius Curse.</font></b>
+
+288
+00:25:58,900 --> 00:26:00,819
+<b><font face="Comic Sans MS">But here's the rub:</font></b>
+
+289
+00:26:01,153 --> 00:26:04,156
+<b><font face="Comic Sans MS">How do we sort out the liars?</font></b>
+
+290
+00:26:06,491 --> 00:26:08,201
+<b><font face="Comic Sans MS">Another, another.</font></b>
+
+291
+00:26:09,202 --> 00:26:10,745
+<b><font face="Comic Sans MS">Up, up. Come on.</font></b>
+
+292
+00:26:10,912 --> 00:26:12,455
+<b><font face="Comic Sans MS">Longbottom, is it?</font></b>
+
+293
+00:26:13,123 --> 00:26:14,624
+<b><font face="Comic Sans MS">Up.</font></b>
+
+294
+00:26:16,668 --> 00:26:20,464
+<b><font face="Comic Sans MS">Professor Sprout tells me
+you have an aptitude for herbology.</font></b>
+
+295
+00:26:22,424 --> 00:26:24,092
+<b><font face="Comic Sans MS">There's the...</font></b>
+
+296
+00:26:24,301 --> 00:26:26,261
+<b><font face="Comic Sans MS">The Cruciatus Curse.</font></b>
+
+297
+00:26:26,428 --> 00:26:29,264
+<b><font face="Comic Sans MS">Correct, correct. Come, come.</font></b>
+
+298
+00:26:29,473 --> 00:26:31,099
+<b><font face="Comic Sans MS">Particularly nasty.</font></b>
+
+299
+00:26:34,144 --> 00:26:35,979
+<b><font face="Comic Sans MS">The torture curse.</font></b>
+
+300
+00:26:36,980 --> 00:26:39,149
+<b><font face="Comic Sans MS"><i>Crucio!</i></font></b>
+
+301
+00:26:51,870 --> 00:26:55,665
+<b><font face="Comic Sans MS">Stop it! Can't you see
+it's bothering him? Stop it!</font></b>
+
+302
+00:27:13,308 --> 00:27:17,312
+<b><font face="Comic Sans MS">Perhaps you could give us the last
+Unforgivable Curse, Miss Granger.</font></b>
+
+303
+00:27:19,731 --> 00:27:21,066
+<b><font face="Comic Sans MS">No?</font></b>
+
+304
+00:27:22,275 --> 00:27:24,402
+<b><font face="Comic Sans MS"><i>Avada Kedavra!</i></font></b>
+
+305
+00:27:28,156 --> 00:27:29,699
+<b><font face="Comic Sans MS">The Killing Curse.</font></b>
+
+306
+00:27:30,826 --> 00:27:33,995
+<b><font face="Comic Sans MS">Only one person is known
+to have survived it...</font></b>
+
+307
+00:27:34,538 --> 00:27:36,915
+<b><font face="Comic Sans MS">...and he's sitting in this room.</font></b>
+
+308
+00:28:08,530 --> 00:28:10,282
+<b><font face="Comic Sans MS">Brilliant, isn't he?</font></b>
+
+309
+00:28:10,448 --> 00:28:14,494
+<b><font face="Comic Sans MS">Completely demented, of course, and
+terrifying to be in the same room with...</font></b>
+
+310
+00:28:14,661 --> 00:28:17,831
+<b><font face="Comic Sans MS">...but he's really been there, you know?
+He's looked evil in the eye.</font></b>
+
+311
+00:28:17,998 --> 00:28:20,584
+<b><font face="Comic Sans MS">There's a reason those curses
+are unforgivable.</font></b>
+
+312
+00:28:20,750 --> 00:28:24,921
+<b><font face="Comic Sans MS">To perform them in a classroom...
+I mean, did you see Neville's face?</font></b>
+
+313
+00:28:27,799 --> 00:28:29,259
+<b><font face="Comic Sans MS">Neville?</font></b>
+
+314
+00:28:29,426 --> 00:28:30,886
+<b><font face="Comic Sans MS">Son?</font></b>
+
+315
+00:28:31,219 --> 00:28:32,888
+<b><font face="Comic Sans MS">You all right?</font></b>
+
+316
+00:28:33,847 --> 00:28:37,225
+<b><font face="Comic Sans MS">Come on. We'll have a cup of tea.
+I want to show you something.</font></b>
+
+317
+00:28:51,740 --> 00:28:53,742
+<b><font face="Comic Sans MS">We're gonna be late!</font></b>
+
+318
+00:29:07,339 --> 00:29:09,674
+<b><font face="Comic Sans MS">Come on, Cedric. Put it in!</font></b>
+
+319
+00:29:25,273 --> 00:29:27,776
+<b><font face="Comic Sans MS">Eternal glory. Be brilliant, wouldn't it?</font></b>
+
+320
+00:29:27,943 --> 00:29:30,612
+<b><font face="Comic Sans MS">Three years from now,
+when we're old enough to be chosen.</font></b>
+
+321
+00:29:30,779 --> 00:29:32,405
+<b><font face="Comic Sans MS">Yeah, rather you than me.</font></b>
+
+322
+00:29:32,572 --> 00:29:34,491
+<b><font face="Comic Sans MS">Yes!</font></b>
+
+323
+00:29:36,701 --> 00:29:38,620
+<b><font face="Comic Sans MS">Thank you, thank you.</font></b>
+
+324
+00:29:38,787 --> 00:29:41,832
+<b><font face="Comic Sans MS">- Well, lads, we've done it.
+- Cooked it up just this morning.</font></b>
+
+325
+00:29:41,998 --> 00:29:44,167
+<b><font face="Comic Sans MS">It's not going to work.</font></b>
+
+326
+00:29:45,377 --> 00:29:47,879
+<b><font face="Comic Sans MS">- Oh, yeah?
+- And why is that, Granger?</font></b>
+
+327
+00:29:48,046 --> 00:29:51,007
+<b><font face="Comic Sans MS">You see this? This is an Age Line.</font></b>
+
+328
+00:29:51,174 --> 00:29:52,968
+<b><font face="Comic Sans MS">Dumbledore drew it himself.</font></b>
+
+329
+00:29:53,135 --> 00:29:54,594
+<b><font face="Comic Sans MS">So?</font></b>
+
+330
+00:29:56,179 --> 00:29:59,808
+<b><font face="Comic Sans MS">So a genius like Dumbledore
+couldn't possibly be fooled...</font></b>
+
+331
+00:29:59,975 --> 00:30:02,978
+<b><font face="Comic Sans MS">...by a dodge as pathetically dimwitted
+as an Aging Potion.</font></b>
+
+332
+00:30:03,145 --> 00:30:07,399
+<b><font face="Comic Sans MS">- But that's why it's so brilliant.
+- Because it's so pathetically dimwitted.</font></b>
+
+333
+00:30:09,151 --> 00:30:11,153
+<b><font face="Comic Sans MS">- Ready, Fred?
+- Ready, George.</font></b>
+
+334
+00:30:11,319 --> 00:30:13,155
+<b><font face="Comic Sans MS">- Bottoms up.
+- Bottoms up.</font></b>
+
+335
+00:30:16,575 --> 00:30:18,493
+<b><font face="Comic Sans MS">- Yes!
+- Yes!</font></b>
+
+336
+00:30:19,327 --> 00:30:20,829
+<b><font face="Comic Sans MS">Yeah!</font></b>
+
+337
+00:30:21,997 --> 00:30:23,623
+<b><font face="Comic Sans MS">Yes!</font></b>
+
+338
+00:30:24,040 --> 00:30:25,542
+<b><font face="Comic Sans MS">Ready?</font></b>
+
+339
+00:30:28,837 --> 00:30:31,006
+<b><font face="Comic Sans MS">- Yes!
+- Yes!</font></b>
+
+340
+00:30:39,514 --> 00:30:41,516
+<b><font face="Comic Sans MS">- You said!
+- You said!</font></b>
+
+341
+00:30:42,476 --> 00:30:45,896
+<b><font face="Comic Sans MS">- Oh, right, you want a piece of me?!
+- I'll tear your ears off!</font></b>
+
+342
+00:30:46,062 --> 00:30:48,565
+<b><font face="Comic Sans MS">- Now you're making me laugh.
+- Take this! Come on!</font></b>
+
+343
+00:30:48,732 --> 00:30:50,192
+<b><font face="Comic Sans MS"><i>Fight! Fight! Fight!</i></font></b>
+
+344
+00:30:55,280 --> 00:30:57,032
+<b><font face="Comic Sans MS">We're "old school," right?</font></b>
+
+345
+00:30:57,199 --> 00:30:59,576
+<b><font face="Comic Sans MS">Yeah, but you look older!</font></b>
+
+346
+00:31:30,941 --> 00:31:33,610
+<b><font face="Comic Sans MS">Sit down. Please.</font></b>
+
+347
+00:31:37,030 --> 00:31:39,908
+<b><font face="Comic Sans MS">Now the moment
+you've all been waiting for:</font></b>
+
+348
+00:31:40,075 --> 00:31:42,202
+<b><font face="Comic Sans MS">The champion selection.</font></b>
+
+349
+00:32:13,608 --> 00:32:17,445
+<b><font face="Comic Sans MS">The Durmstrang champion
+is Viktor Krum.</font></b>
+
+350
+00:32:33,378 --> 00:32:35,797
+<b><font face="Comic Sans MS">The champion for Beauxbatons...</font></b>
+
+351
+00:32:35,964 --> 00:32:37,966
+<b><font face="Comic Sans MS">...is Fleur Delacour.</font></b>
+
+352
+00:32:48,518 --> 00:32:51,521
+<b><font face="Comic Sans MS">The Hogwarts champion,
+Cedric Diggory!</font></b>
+
+353
+00:33:01,573 --> 00:33:05,994
+<b><font face="Comic Sans MS">Excellent! We now have
+our three champions.</font></b>
+
+354
+00:33:06,161 --> 00:33:10,332
+<b><font face="Comic Sans MS">But in the end,
+only one will go down in history.</font></b>
+
+355
+00:33:10,499 --> 00:33:13,835
+<b><font face="Comic Sans MS">Only one will hoist
+this chalice of champions...</font></b>
+
+356
+00:33:14,169 --> 00:33:17,172
+<b><font face="Comic Sans MS">...this vessel of victory...</font></b>
+
+357
+00:33:17,339 --> 00:33:19,549
+<b><font face="Comic Sans MS">...the Triwizard Cup!</font></b>
+
+358
+00:33:50,330 --> 00:33:51,998
+<b><font face="Comic Sans MS">Harry Potter.</font></b>
+
+359
+00:33:54,084 --> 00:33:55,710
+<b><font face="Comic Sans MS">Harry Potter?</font></b>
+
+360
+00:34:00,090 --> 00:34:02,300
+<b><font face="Comic Sans MS">No. No.</font></b>
+
+361
+00:34:02,801 --> 00:34:04,094
+<b><font face="Comic Sans MS">Harry Potter!</font></b>
+
+362
+00:34:04,553 --> 00:34:06,054
+<b><font face="Comic Sans MS">Go on, Harry.</font></b>
+
+363
+00:34:06,221 --> 00:34:07,973
+<b><font face="Comic Sans MS">Harry, for goodness sake.</font></b>
+
+364
+00:34:39,463 --> 00:34:40,672
+<b><font face="Comic Sans MS">He's a cheat!</font></b>
+
+365
+00:34:41,214 --> 00:34:43,758
+<b><font face="Comic Sans MS">He's not even 17 yet!</font></b>
+
+366
+00:35:11,620 --> 00:35:15,123
+<b><font face="Comic Sans MS">- It's wrong, I tell you!
+- You French tart.</font></b>
+
+367
+00:35:15,290 --> 00:35:18,293
+<b><font face="Comic Sans MS">- Everything is a conspiracy theory!
+- Quiet! I can't think!</font></b>
+
+368
+00:35:18,460 --> 00:35:20,462
+<b><font face="Comic Sans MS">- Everything is a conspiracy theory!
+- I protest.</font></b>
+
+369
+00:35:20,629 --> 00:35:21,797
+<b><font face="Comic Sans MS">- Harry.
+- I protest!</font></b>
+
+370
+00:35:21,963 --> 00:35:23,840
+<b><font face="Comic Sans MS">Did you put your name
+in the Goblet of Fire?</font></b>
+
+371
+00:35:24,007 --> 00:35:26,176
+<b><font face="Comic Sans MS">- No, sir.
+- Did you ask one of the older students...</font></b>
+
+372
+00:35:26,343 --> 00:35:27,677
+<b><font face="Comic Sans MS">...to do it for you?
+- No, sir.</font></b>
+
+373
+00:35:27,844 --> 00:35:30,764
+<b><font face="Comic Sans MS">- You're absolutely sure?
+- Yes. Yes, sir.</font></b>
+
+374
+00:35:31,181 --> 00:35:33,433
+<b><font face="Comic Sans MS">- But of course he is lying.
+- The hell he is!</font></b>
+
+375
+00:35:33,642 --> 00:35:35,977
+<b><font face="Comic Sans MS">The Goblet of Fire is an exceptionally
+powerful magical object.</font></b>
+
+376
+00:35:36,144 --> 00:35:39,314
+<b><font face="Comic Sans MS">Only an exceptionally powerful
+Confundus Charm could've hoodwinked it.</font></b>
+
+377
+00:35:39,481 --> 00:35:41,483
+<b><font face="Comic Sans MS">Magic way beyond the talents
+of a fourth year.</font></b>
+
+378
+00:35:41,650 --> 00:35:44,653
+<b><font face="Comic Sans MS">You seem to have given this
+a fair bit of thought, Mad-Eye.</font></b>
+
+379
+00:35:44,820 --> 00:35:47,989
+<b><font face="Comic Sans MS">It was once my job to think
+as dark wizards do, Karkaroff...</font></b>
+
+380
+00:35:48,156 --> 00:35:51,243
+<b><font face="Comic Sans MS">...perhaps you remember.
+- This doesn't help, Alastor.</font></b>
+
+381
+00:35:52,994 --> 00:35:55,330
+<b><font face="Comic Sans MS">Leave this to you, Barty.</font></b>
+
+382
+00:35:56,665 --> 00:35:58,875
+<b><font face="Comic Sans MS">The rules are absolute.</font></b>
+
+383
+00:36:00,085 --> 00:36:03,839
+<b><font face="Comic Sans MS">The Goblet of Fire constitutes
+a binding magical contract.</font></b>
+
+384
+00:36:05,340 --> 00:36:07,551
+<b><font face="Comic Sans MS">Mr. Potter has no choice.</font></b>
+
+385
+00:36:08,343 --> 00:36:10,637
+<b><font face="Comic Sans MS">He is, as of tonight...</font></b>
+
+386
+00:36:12,514 --> 00:36:14,516
+<b><font face="Comic Sans MS">...a Triwizard champion.</font></b>
+
+387
+00:36:42,461 --> 00:36:44,588
+<b><font face="Comic Sans MS">This can't go on, Albus.</font></b>
+
+388
+00:36:44,921 --> 00:36:47,757
+<b><font face="Comic Sans MS">First the Dark Mark. Now this?</font></b>
+
+389
+00:36:47,924 --> 00:36:49,926
+<b><font face="Comic Sans MS">What do you suggest, Minerva?</font></b>
+
+390
+00:36:51,094 --> 00:36:53,180
+<b><font face="Comic Sans MS">Put an end to it.</font></b>
+
+391
+00:36:53,638 --> 00:36:55,640
+<b><font face="Comic Sans MS">Don't let Potter compete.</font></b>
+
+392
+00:36:55,807 --> 00:36:58,268
+<b><font face="Comic Sans MS">You heard Barty. The rules are clear.</font></b>
+
+393
+00:36:58,435 --> 00:37:01,271
+<b><font face="Comic Sans MS">Well, the devil with Barty
+and his rules.</font></b>
+
+394
+00:37:01,438 --> 00:37:03,899
+<b><font face="Comic Sans MS">And since when did you
+accommodate the Ministry?</font></b>
+
+395
+00:37:04,065 --> 00:37:08,069
+<b><font face="Comic Sans MS">Headmaster, I, too, find it difficult
+to believe this mere coincidence.</font></b>
+
+396
+00:37:08,236 --> 00:37:12,157
+<b><font face="Comic Sans MS">However, if we are to truly discover
+the meaning of these events...</font></b>
+
+397
+00:37:12,324 --> 00:37:15,911
+<b><font face="Comic Sans MS">...perhaps we should,
+for the time being...</font></b>
+
+398
+00:37:16,828 --> 00:37:19,080
+<b><font face="Comic Sans MS">...let them unfold.</font></b>
+
+399
+00:37:19,247 --> 00:37:21,416
+<b><font face="Comic Sans MS">What...? Do nothing?</font></b>
+
+400
+00:37:21,583 --> 00:37:23,251
+<b><font face="Comic Sans MS">Offer him up as bait?</font></b>
+
+401
+00:37:24,252 --> 00:37:27,088
+<b><font face="Comic Sans MS">Potter is a boy, not a piece of meat.</font></b>
+
+402
+00:37:27,964 --> 00:37:30,717
+<b><font face="Comic Sans MS">I agree. With Severus.</font></b>
+
+403
+00:37:31,259 --> 00:37:34,095
+<b><font face="Comic Sans MS">Alastor, keep an eye on Harry, will you?</font></b>
+
+404
+00:37:34,387 --> 00:37:36,848
+<b><font face="Comic Sans MS">- I can do that.
+- Don't let him know, though.</font></b>
+
+405
+00:37:37,098 --> 00:37:40,227
+<b><font face="Comic Sans MS">He must be anxious enough as it is...</font></b>
+
+406
+00:37:40,769 --> 00:37:43,438
+<b><font face="Comic Sans MS">...knowing what lies ahead.</font></b>
+
+407
+00:37:43,772 --> 00:37:46,358
+<b><font face="Comic Sans MS">Then again, we all are.</font></b>
+
+408
+00:38:01,248 --> 00:38:03,041
+<b><font face="Comic Sans MS">How did you do it?</font></b>
+
+409
+00:38:04,501 --> 00:38:07,129
+<b><font face="Comic Sans MS">Never mind. Doesn't matter.</font></b>
+
+410
+00:38:07,295 --> 00:38:09,214
+<b><font face="Comic Sans MS">Might've let
+your best friend know, though.</font></b>
+
+411
+00:38:09,381 --> 00:38:12,634
+<b><font face="Comic Sans MS">- Let you know what?
+- You know bloody well what.</font></b>
+
+412
+00:38:12,801 --> 00:38:15,178
+<b><font face="Comic Sans MS">I didn't ask for this to happen, Ron.</font></b>
+
+413
+00:38:15,637 --> 00:38:17,264
+<b><font face="Comic Sans MS">Okay?</font></b>
+
+414
+00:38:17,430 --> 00:38:19,933
+<b><font face="Comic Sans MS">- You're being stupid.
+- Yeah, that's me.</font></b>
+
+415
+00:38:20,100 --> 00:38:23,645
+<b><font face="Comic Sans MS">Ron Weasley,
+Harry Potter's stupid friend.</font></b>
+
+416
+00:38:27,315 --> 00:38:29,317
+<b><font face="Comic Sans MS">I didn't put my name in that cup.</font></b>
+
+417
+00:38:29,734 --> 00:38:33,572
+<b><font face="Comic Sans MS">I don't want eternal glory.
+I just wanna be...</font></b>
+
+418
+00:38:35,323 --> 00:38:37,784
+<b><font face="Comic Sans MS">Look, I don't know
+what happened tonight...</font></b>
+
+419
+00:38:37,951 --> 00:38:39,828
+<b><font face="Comic Sans MS">...and I don't know why.</font></b>
+
+420
+00:38:39,995 --> 00:38:41,204
+<b><font face="Comic Sans MS">It just did.</font></b>
+
+421
+00:38:42,080 --> 00:38:43,665
+<b><font face="Comic Sans MS">Okay?</font></b>
+
+422
+00:38:52,466 --> 00:38:54,217
+<b><font face="Comic Sans MS">Piss off.</font></b>
+
+423
+00:39:09,232 --> 00:39:11,693
+<b><font face="Comic Sans MS">What a charismatic quartet.</font></b>
+
+424
+00:39:13,028 --> 00:39:14,654
+<b><font face="Comic Sans MS">Hello.</font></b>
+
+425
+00:39:15,530 --> 00:39:18,074
+<b><font face="Comic Sans MS">I'm Rita Skeeter.</font></b>
+
+426
+00:39:18,658 --> 00:39:21,161
+<b><font face="Comic Sans MS"><i>I write for the Daily Prophet.</i></font></b>
+
+427
+00:39:21,745 --> 00:39:26,458
+<b><font face="Comic Sans MS">But of course you know that, don't you?
+It's you we don't know.</font></b>
+
+428
+00:39:27,000 --> 00:39:28,835
+<b><font face="Comic Sans MS">You're the juicy news.</font></b>
+
+429
+00:39:29,002 --> 00:39:33,215
+<b><font face="Comic Sans MS">What quirks lurk
+beneath those rosy cheeks?</font></b>
+
+430
+00:39:33,381 --> 00:39:36,885
+<b><font face="Comic Sans MS">What mysteries do the muscles mask?</font></b>
+
+431
+00:39:37,052 --> 00:39:40,263
+<b><font face="Comic Sans MS">Does courage lie beneath those curls?</font></b>
+
+432
+00:39:40,430 --> 00:39:43,475
+<b><font face="Comic Sans MS">In short, what makes a champion tick?</font></b>
+
+433
+00:39:43,975 --> 00:39:48,271
+<b><font face="Comic Sans MS">"Me, Myself & l" want to know.
+Not to mention my rabid readers.</font></b>
+
+434
+00:39:48,438 --> 00:39:50,941
+<b><font face="Comic Sans MS">So who's feeling up to sharing?</font></b>
+
+435
+00:39:54,236 --> 00:39:56,863
+<b><font face="Comic Sans MS">Shall we start with the youngest?
+Lovely.</font></b>
+
+436
+00:40:09,126 --> 00:40:10,919
+<b><font face="Comic Sans MS">This is cozy.</font></b>
+
+437
+00:40:11,503 --> 00:40:13,213
+<b><font face="Comic Sans MS">It's a broom cupboard.</font></b>
+
+438
+00:40:13,588 --> 00:40:15,882
+<b><font face="Comic Sans MS">You should feel right at home, then.</font></b>
+
+439
+00:40:16,091 --> 00:40:18,844
+<b><font face="Comic Sans MS">Don't mind if I use
+a Quick-Quotes Quill, do you?</font></b>
+
+440
+00:40:19,010 --> 00:40:20,595
+<b><font face="Comic Sans MS">No.</font></b>
+
+441
+00:40:20,929 --> 00:40:22,931
+<b><font face="Comic Sans MS">So tell me, Harry.</font></b>
+
+442
+00:40:23,098 --> 00:40:26,017
+<b><font face="Comic Sans MS">Here you sit, a mere boy of 12...</font></b>
+
+443
+00:40:26,184 --> 00:40:27,686
+<b><font face="Comic Sans MS">I'm 14. Sorry.</font></b>
+
+444
+00:40:27,853 --> 00:40:30,814
+<b><font face="Comic Sans MS">- About to compete
+against three students...</font></b>
+
+445
+00:40:30,981 --> 00:40:34,276
+<b><font face="Comic Sans MS">...not only vastly more
+emotionally mature than yourself...</font></b>
+
+446
+00:40:34,442 --> 00:40:37,028
+<b><font face="Comic Sans MS">...but who have mastered spells
+that you wouldn't attempt...</font></b>
+
+447
+00:40:37,195 --> 00:40:39,531
+<b><font face="Comic Sans MS">...in your dizziest daydreams.</font></b>
+
+448
+00:40:40,031 --> 00:40:42,075
+<b><font face="Comic Sans MS">Concerned?</font></b>
+
+449
+00:40:43,243 --> 00:40:46,079
+<b><font face="Comic Sans MS">I don't know.
+I haven't really thought about it.</font></b>
+
+450
+00:40:46,246 --> 00:40:48,123
+<b><font face="Comic Sans MS">Just ignore the quill.</font></b>
+
+451
+00:40:48,582 --> 00:40:51,126
+<b><font face="Comic Sans MS">Then, of course,
+you're no ordinary boy of 12, are you?</font></b>
+
+452
+00:40:51,293 --> 00:40:53,879
+<b><font face="Comic Sans MS">- Fourteen.
+- Your story's legend.</font></b>
+
+453
+00:40:54,629 --> 00:40:56,798
+<b><font face="Comic Sans MS">Do you think it was
+the trauma of your past...</font></b>
+
+454
+00:40:56,965 --> 00:41:00,218
+<b><font face="Comic Sans MS">...that made you so keen to enter
+such a dangerous tournament?</font></b>
+
+455
+00:41:00,385 --> 00:41:02,137
+<b><font face="Comic Sans MS">No, I didn't enter.</font></b>
+
+456
+00:41:02,304 --> 00:41:03,930
+<b><font face="Comic Sans MS">Of course you didn't.</font></b>
+
+457
+00:41:06,183 --> 00:41:07,809
+<b><font face="Comic Sans MS">Everyone loves a rebel, Harry.</font></b>
+
+458
+00:41:10,145 --> 00:41:11,605
+<b><font face="Comic Sans MS">Scratch that last.</font></b>
+
+459
+00:41:12,439 --> 00:41:15,108
+<b><font face="Comic Sans MS">Speaking of your parents,
+were they alive...</font></b>
+
+460
+00:41:15,275 --> 00:41:16,651
+<b><font face="Comic Sans MS">...how do you think they'd feel?</font></b>
+
+461
+00:41:16,818 --> 00:41:18,570
+<b><font face="Comic Sans MS">Proud? Or concerned...</font></b>
+
+462
+00:41:18,737 --> 00:41:22,574
+<b><font face="Comic Sans MS">...that your attitude shows, at best,
+a pathological need for attention...</font></b>
+
+463
+00:41:22,741 --> 00:41:25,327
+<b><font face="Comic Sans MS">...at worst, a psychotic death wish?</font></b>
+
+464
+00:41:26,328 --> 00:41:31,416
+<b><font face="Comic Sans MS">Hey, my eyes aren't
+"glistening with the ghosts of my past."</font></b>
+
+465
+00:42:03,698 --> 00:42:06,034
+<b><font face="Comic Sans MS"><i>Harry, I couldn 't risk sending Hedwig.</i></font></b>
+
+466
+00:42:06,201 --> 00:42:09,496
+<b><font face="Comic Sans MS"><i>Since the World Cup, the Ministry's
+been intercepting more and more owls...</i></font></b>
+
+467
+00:42:09,663 --> 00:42:11,873
+<b><font face="Comic Sans MS"><i>... and she's too easily recognized.</i></font></b>
+
+468
+00:42:12,040 --> 00:42:14,918
+<b><font face="Comic Sans MS"><i>We need to talk, Harry, face-to-face.</i></font></b>
+
+469
+00:42:15,085 --> 00:42:19,256
+<b><font face="Comic Sans MS"><i>Meet me in the Gryffindor common room,
+1:00 this Saturday night.</i></font></b>
+
+470
+00:42:19,422 --> 00:42:21,216
+<b><font face="Comic Sans MS"><i>And make sure you're alone.</i></font></b>
+
+471
+00:42:21,383 --> 00:42:22,884
+<b><font face="Comic Sans MS"><i>Sirius.</i></font></b>
+
+472
+00:42:23,051 --> 00:42:24,553
+<b><font face="Comic Sans MS"><i>P. S:</i></font></b>
+
+473
+00:42:24,719 --> 00:42:26,513
+<b><font face="Comic Sans MS"><i>The bird bites.</i></font></b>
+
+474
+00:42:36,857 --> 00:42:38,275
+<b><font face="Comic Sans MS">Sirius?</font></b>
+
+475
+00:42:55,167 --> 00:42:57,085
+<b><font face="Comic Sans MS"><i>Harry Potter, age 12...</i></font></b>
+
+476
+00:42:57,252 --> 00:43:00,213
+<b><font face="Comic Sans MS"><i>... suspect entrant
+in the Triwizard Tournament.</i></font></b>
+
+477
+00:43:00,380 --> 00:43:02,966
+<b><font face="Comic Sans MS"><i>His eyes swimming
+with the ghosts of his past...</i></font></b>
+
+478
+00:43:03,133 --> 00:43:04,718
+<b><font face="Comic Sans MS"><i>... and choking back tears...</i></font></b>
+
+479
+00:43:20,192 --> 00:43:22,777
+<b><font face="Comic Sans MS">Sirius. How...?</font></b>
+
+480
+00:43:22,944 --> 00:43:25,447
+<b><font face="Comic Sans MS">I don't have much time,
+so let me get straight to it.</font></b>
+
+481
+00:43:25,614 --> 00:43:28,575
+<b><font face="Comic Sans MS">Did you or did you not put your name
+into the Goblet of Fire?</font></b>
+
+482
+00:43:28,742 --> 00:43:30,202
+<b><font face="Comic Sans MS">No!</font></b>
+
+483
+00:43:30,786 --> 00:43:32,078
+<b><font face="Comic Sans MS">I had to ask.</font></b>
+
+484
+00:43:32,245 --> 00:43:37,042
+<b><font face="Comic Sans MS">Now, tell me about this dream of yours.
+You mentioned Wormtail and Voldemort.</font></b>
+
+485
+00:43:37,209 --> 00:43:39,628
+<b><font face="Comic Sans MS">But who was the third man in the room?</font></b>
+
+486
+00:43:39,795 --> 00:43:42,297
+<b><font face="Comic Sans MS">- I don't know.
+- You didn't hear a name?</font></b>
+
+487
+00:43:43,131 --> 00:43:44,674
+<b><font face="Comic Sans MS">No.</font></b>
+
+488
+00:43:45,592 --> 00:43:49,304
+<b><font face="Comic Sans MS">Voldemort was giving him a job to do.
+Something important.</font></b>
+
+489
+00:43:49,471 --> 00:43:50,764
+<b><font face="Comic Sans MS">And what was that?</font></b>
+
+490
+00:43:52,974 --> 00:43:54,601
+<b><font face="Comic Sans MS">He wanted...</font></b>
+
+491
+00:43:54,768 --> 00:43:56,436
+<b><font face="Comic Sans MS">...me.</font></b>
+
+492
+00:43:56,978 --> 00:44:01,316
+<b><font face="Comic Sans MS">I don't know why. But he was
+gonna use this man to get to me.</font></b>
+
+493
+00:44:02,609 --> 00:44:04,694
+<b><font face="Comic Sans MS">But, I mean, it was only a dream, right?</font></b>
+
+494
+00:44:05,153 --> 00:44:06,780
+<b><font face="Comic Sans MS">Yes.</font></b>
+
+495
+00:44:06,947 --> 00:44:08,490
+<b><font face="Comic Sans MS">It's just a dream.</font></b>
+
+496
+00:44:09,241 --> 00:44:10,659
+<b><font face="Comic Sans MS">Look, Harry.</font></b>
+
+497
+00:44:10,826 --> 00:44:14,329
+<b><font face="Comic Sans MS">The Death Eaters at the World Cup,
+your name rising from that goblet...</font></b>
+
+498
+00:44:14,496 --> 00:44:18,500
+<b><font face="Comic Sans MS">...these are not just coincidences.
+Hogwarts isn't safe anymore.</font></b>
+
+499
+00:44:18,667 --> 00:44:19,751
+<b><font face="Comic Sans MS">What are you saying?</font></b>
+
+500
+00:44:19,918 --> 00:44:24,172
+<b><font face="Comic Sans MS">I'm saying the devils are inside
+the walls. Igor Karkaroff?</font></b>
+
+501
+00:44:24,339 --> 00:44:28,718
+<b><font face="Comic Sans MS">He was a Death Eater. And no one,
+no one stops being a Death Eater.</font></b>
+
+502
+00:44:29,177 --> 00:44:31,721
+<b><font face="Comic Sans MS">Then there's Barty Crouch.
+Heart of stone.</font></b>
+
+503
+00:44:31,888 --> 00:44:34,266
+<b><font face="Comic Sans MS">Sent his own son to Azkaban.</font></b>
+
+504
+00:44:39,146 --> 00:44:41,231
+<b><font face="Comic Sans MS">You think one of them
+put my name in the goblet?</font></b>
+
+505
+00:44:41,398 --> 00:44:43,692
+<b><font face="Comic Sans MS">I haven't a clue who put your name
+in that goblet...</font></b>
+
+506
+00:44:43,859 --> 00:44:47,863
+<b><font face="Comic Sans MS">...but whoever did is no friend to you.
+People die in this tournament.</font></b>
+
+507
+00:44:48,029 --> 00:44:51,450
+<b><font face="Comic Sans MS">- I'm not ready for this, Sirius.
+- You don't have a choice.</font></b>
+
+508
+00:44:55,036 --> 00:44:57,456
+<b><font face="Comic Sans MS">- Someone's coming.
+- Keep your friends close, Harry.</font></b>
+
+509
+00:45:00,750 --> 00:45:02,711
+<b><font face="Comic Sans MS">- Who were you talking to?
+- What?</font></b>
+
+510
+00:45:02,878 --> 00:45:05,297
+<b><font face="Comic Sans MS">- Who says I was talking to anyone?
+- I heard voices.</font></b>
+
+511
+00:45:05,589 --> 00:45:09,593
+<b><font face="Comic Sans MS">Maybe you're imagining things.
+Wouldn't be the first time.</font></b>
+
+512
+00:45:10,135 --> 00:45:13,472
+<b><font face="Comic Sans MS">You're probably just practicing
+for your next interview, I expect.</font></b>
+
+513
+00:45:39,414 --> 00:45:41,041
+<b><font face="Comic Sans MS">Amazing.</font></b>
+
+514
+00:45:43,001 --> 00:45:46,713
+<b><font face="Comic Sans MS">- Amazing!
+- Neville. You're doing it again.</font></b>
+
+515
+00:45:47,255 --> 00:45:48,673
+<b><font face="Comic Sans MS">Right, sorry.</font></b>
+
+516
+00:45:49,549 --> 00:45:52,552
+<b><font face="Comic Sans MS"><i>"Magical Water Plants
+of the Highland Lochs"?</i></font></b>
+
+517
+00:45:52,719 --> 00:45:55,889
+<b><font face="Comic Sans MS">Moody gave it to me.
+That day we had tea.</font></b>
+
+518
+00:45:57,390 --> 00:45:59,100
+<b><font face="Comic Sans MS">It's already been through enough people.</font></b>
+
+519
+00:45:59,267 --> 00:46:01,394
+<b><font face="Comic Sans MS">Why don't you just go
+and talk to him yourself?</font></b>
+
+520
+00:46:02,854 --> 00:46:05,190
+<b><font face="Comic Sans MS">Ron, this is your problem, not mine.</font></b>
+
+521
+00:46:05,357 --> 00:46:07,442
+<b><font face="Comic Sans MS">What do you want me to say again?</font></b>
+
+522
+00:46:07,609 --> 00:46:08,944
+<b><font face="Comic Sans MS">Go.</font></b>
+
+523
+00:46:11,905 --> 00:46:15,992
+<b><font face="Comic Sans MS">Ronald would like me to tell you
+that Seamus told him...</font></b>
+
+524
+00:46:16,618 --> 00:46:20,247
+<b><font face="Comic Sans MS">...that Dean was told by Parvati
+that Hagrid's looking for you.</font></b>
+
+525
+00:46:20,413 --> 00:46:22,833
+<b><font face="Comic Sans MS">Is that right? Well, you...</font></b>
+
+526
+00:46:22,999 --> 00:46:24,084
+<b><font face="Comic Sans MS">What?</font></b>
+
+527
+00:46:29,172 --> 00:46:32,134
+<b><font face="Comic Sans MS">- Are you sure you won't do this?
+- Do it.</font></b>
+
+528
+00:46:34,928 --> 00:46:37,889
+<b><font face="Comic Sans MS">Dean was told by Parvati that...</font></b>
+
+529
+00:46:39,141 --> 00:46:41,351
+<b><font face="Comic Sans MS">Please don't ask me to say it again.</font></b>
+
+530
+00:46:41,726 --> 00:46:43,186
+<b><font face="Comic Sans MS">Hagrid's looking for you.</font></b>
+
+531
+00:46:43,687 --> 00:46:46,773
+<b><font face="Comic Sans MS">- Well, you can tell Ronald...
+- I'm not an owl!</font></b>
+
+532
+00:46:57,325 --> 00:46:59,578
+<b><font face="Comic Sans MS">Did you bring your father's cloak,
+like I asked you?</font></b>
+
+533
+00:46:59,744 --> 00:47:02,330
+<b><font face="Comic Sans MS">Yeah, I brought the cloak.
+Hagrid, where are we going?</font></b>
+
+534
+00:47:02,497 --> 00:47:03,915
+<b><font face="Comic Sans MS">You'll see soon enough.</font></b>
+
+535
+00:47:04,082 --> 00:47:06,293
+<b><font face="Comic Sans MS">Now pay attention, this is important.</font></b>
+
+536
+00:47:08,003 --> 00:47:09,421
+<b><font face="Comic Sans MS">What's with the flower?</font></b>
+
+537
+00:47:10,505 --> 00:47:12,924
+<b><font face="Comic Sans MS">Hagrid, have you combed your hair?</font></b>
+
+538
+00:47:13,341 --> 00:47:15,051
+<b><font face="Comic Sans MS">As a matter of fact, I have.</font></b>
+
+539
+00:47:15,510 --> 00:47:18,430
+<b><font face="Comic Sans MS">You might like to try the same thing
+now and again.</font></b>
+
+540
+00:47:26,938 --> 00:47:28,398
+<b><font face="Comic Sans MS">Hagrid?</font></b>
+
+541
+00:47:32,319 --> 00:47:34,154
+<b><font face="Comic Sans MS">The cloak! Put the cloak on!</font></b>
+
+542
+00:47:40,744 --> 00:47:44,164
+<b><font face="Comic Sans MS"><i>- Bonsoir, Olympe.
+- Oh, Hagrid.</i></font></b>
+
+543
+00:47:44,331 --> 00:47:48,043
+<b><font face="Comic Sans MS">I thought perhaps you weren't coming.
+I thought perhaps...</font></b>
+
+544
+00:47:48,210 --> 00:47:50,879
+<b><font face="Comic Sans MS">...you had forgotten me.</font></b>
+
+545
+00:47:51,046 --> 00:47:53,006
+<b><font face="Comic Sans MS">Couldn't forget you, Olympe.</font></b>
+
+546
+00:47:53,673 --> 00:47:55,425
+<b><font face="Comic Sans MS">What is it you wanted to show me?</font></b>
+
+547
+00:47:57,177 --> 00:48:00,388
+<b><font face="Comic Sans MS">When we spoke earlier,
+you sounded so...</font></b>
+
+548
+00:48:00,722 --> 00:48:02,224
+<b><font face="Comic Sans MS">...exhilarated.</font></b>
+
+549
+00:48:02,808 --> 00:48:05,644
+<b><font face="Comic Sans MS">You'll be glad you came. Trust me.</font></b>
+
+550
+00:48:16,238 --> 00:48:17,989
+<b><font face="Comic Sans MS">Can we get closer?</font></b>
+
+551
+00:48:25,789 --> 00:48:27,249
+<b><font face="Comic Sans MS">Dragons?</font></b>
+
+552
+00:48:27,415 --> 00:48:28,917
+<b><font face="Comic Sans MS">That's the first task?</font></b>
+
+553
+00:48:29,334 --> 00:48:31,294
+<b><font face="Comic Sans MS">- You're joking.
+- Come on, Harry.</font></b>
+
+554
+00:48:32,629 --> 00:48:35,674
+<b><font face="Comic Sans MS">These are seriously
+misunderstood creatures.</font></b>
+
+555
+00:48:36,758 --> 00:48:38,260
+<b><font face="Comic Sans MS">Oh, crikey!</font></b>
+
+556
+00:48:38,802 --> 00:48:40,887
+<b><font face="Comic Sans MS">Although, I have to admit...</font></b>
+
+557
+00:48:41,054 --> 00:48:43,890
+<b><font face="Comic Sans MS">...that Horntail is a right nasty
+piece of work.</font></b>
+
+558
+00:48:44,057 --> 00:48:46,810
+<b><font face="Comic Sans MS">Poor Ron nearly fainted
+just seeing him, you know.</font></b>
+
+559
+00:48:48,395 --> 00:48:50,438
+<b><font face="Comic Sans MS">- Ron was here?
+- Oh, sure.</font></b>
+
+560
+00:48:50,605 --> 00:48:54,109
+<b><font face="Comic Sans MS">His brother Charlie helped
+to bring him over from Romania.</font></b>
+
+561
+00:48:54,276 --> 00:48:55,652
+<b><font face="Comic Sans MS">Didn't Ron tell you that?</font></b>
+
+562
+00:48:57,654 --> 00:48:59,072
+<b><font face="Comic Sans MS">No, he didn't.</font></b>
+
+563
+00:48:59,781 --> 00:49:01,658
+<b><font face="Comic Sans MS">He didn't tell me a thing.</font></b>
+
+564
+00:49:11,626 --> 00:49:14,713
+<b><font face="Comic Sans MS">- You cheat, Potter.
+- You stink, Potter.</font></b>
+
+565
+00:49:16,214 --> 00:49:18,884
+<b><font face="Comic Sans MS">- Good luck, Potter.
+- Potter stinks!</font></b>
+
+566
+00:49:19,050 --> 00:49:21,720
+<b><font face="Comic Sans MS">- Cedric rules.
+- Thanks.</font></b>
+
+567
+00:49:22,804 --> 00:49:24,473
+<b><font face="Comic Sans MS">Like the badge?</font></b>
+
+568
+00:49:25,015 --> 00:49:26,766
+<b><font face="Comic Sans MS">Excuse me.</font></b>
+
+569
+00:49:30,937 --> 00:49:32,397
+<b><font face="Comic Sans MS">Harry.</font></b>
+
+570
+00:49:32,981 --> 00:49:34,941
+<b><font face="Comic Sans MS">Hey! Read the badge, Potter!</font></b>
+
+571
+00:49:35,108 --> 00:49:36,610
+<b><font face="Comic Sans MS">Can I have a word?</font></b>
+
+572
+00:49:37,569 --> 00:49:39,446
+<b><font face="Comic Sans MS">- All right.
+- You stink, Potter!</font></b>
+
+573
+00:49:39,613 --> 00:49:42,616
+<b><font face="Comic Sans MS">- Potter, you stink!
+- Harry Potter smells!</font></b>
+
+574
+00:49:45,118 --> 00:49:47,662
+<b><font face="Comic Sans MS">Dragons. That's the first task.</font></b>
+
+575
+00:49:47,829 --> 00:49:50,999
+<b><font face="Comic Sans MS">- They've got one for each of us.
+- Come on, Ced!</font></b>
+
+576
+00:49:51,166 --> 00:49:53,168
+<b><font face="Comic Sans MS">Are you serious?</font></b>
+
+577
+00:49:53,960 --> 00:49:57,005
+<b><font face="Comic Sans MS">And Fleur and Krum, do they...?</font></b>
+
+578
+00:49:57,172 --> 00:49:59,424
+<b><font face="Comic Sans MS">- Yes.
+- Come on, Ced, leave him.</font></b>
+
+579
+00:49:59,591 --> 00:50:01,051
+<b><font face="Comic Sans MS">- Right.
+- He's not worth it.</font></b>
+
+580
+00:50:01,218 --> 00:50:03,720
+<b><font face="Comic Sans MS">- Read the badges, Potter!
+- Hey, listen. About the badges.</font></b>
+
+581
+00:50:03,887 --> 00:50:06,932
+<b><font face="Comic Sans MS">- I've asked them not to wear them, but...
+- Don't worry about it.</font></b>
+
+582
+00:50:07,098 --> 00:50:09,518
+<b><font face="Comic Sans MS">It's not like I try
+to blow things up, exactly.</font></b>
+
+583
+00:50:10,227 --> 00:50:11,686
+<b><font face="Comic Sans MS">It just happens a fair bit.</font></b>
+
+584
+00:50:11,853 --> 00:50:14,940
+<b><font face="Comic Sans MS">You have to admit, though,
+fire's pretty fascinating.</font></b>
+
+585
+00:50:15,106 --> 00:50:16,983
+<b><font face="Comic Sans MS">You're a right foul git, you know that?</font></b>
+
+586
+00:50:17,150 --> 00:50:19,361
+<b><font face="Comic Sans MS">- You think so?
+- I know so.</font></b>
+
+587
+00:50:19,528 --> 00:50:20,862
+<b><font face="Comic Sans MS">Anything else?</font></b>
+
+588
+00:50:21,029 --> 00:50:24,533
+<b><font face="Comic Sans MS">- Yeah. Stay away from me.
+- Fine.</font></b>
+
+589
+00:50:26,910 --> 00:50:30,539
+<b><font face="Comic Sans MS">- There's Potter. Cheat.
+- Why so tense, Potter?</font></b>
+
+590
+00:50:31,289 --> 00:50:33,708
+<b><font face="Comic Sans MS">My father and I have a bet, you see.</font></b>
+
+591
+00:50:33,875 --> 00:50:37,045
+<b><font face="Comic Sans MS">I don't think you're gonna last
+10 minutes in this tournament.</font></b>
+
+592
+00:50:39,631 --> 00:50:42,551
+<b><font face="Comic Sans MS">He disagrees.
+He thinks you won't last five.</font></b>
+
+593
+00:50:42,717 --> 00:50:45,846
+<b><font face="Comic Sans MS">I don't give a damn
+what your father thinks, Malfoy.</font></b>
+
+594
+00:50:46,847 --> 00:50:50,851
+<b><font face="Comic Sans MS">He's vile and cruel.
+And you're just pathetic.</font></b>
+
+595
+00:50:51,768 --> 00:50:54,271
+<b><font face="Comic Sans MS">- Pathetic?
+- Oh, no, you don't, sonny!</font></b>
+
+596
+00:50:56,523 --> 00:50:59,401
+<b><font face="Comic Sans MS">I'll teach you to curse someone
+when their back is turned!</font></b>
+
+597
+00:50:59,568 --> 00:51:03,405
+<b><font face="Comic Sans MS">You stinking, cowardly, scummy...</font></b>
+
+598
+00:51:03,572 --> 00:51:05,323
+<b><font face="Comic Sans MS">- Professor Moody!
+...back-shooting...</font></b>
+
+599
+00:51:05,490 --> 00:51:08,410
+<b><font face="Comic Sans MS">- What are you doing?
+- Teaching.</font></b>
+
+600
+00:51:09,411 --> 00:51:13,582
+<b><font face="Comic Sans MS">- Is that a...? Is that a student?
+- Technically, it's a ferret.</font></b>
+
+601
+00:51:19,254 --> 00:51:21,131
+<b><font face="Comic Sans MS">Stand still! Stand still!</font></b>
+
+602
+00:51:32,100 --> 00:51:34,311
+<b><font face="Comic Sans MS">- My father will hear about this!
+- Is that a threat?</font></b>
+
+603
+00:51:34,478 --> 00:51:36,438
+<b><font face="Comic Sans MS">- Professor Moody!
+- Is that a threat?</font></b>
+
+604
+00:51:36,605 --> 00:51:38,440
+<b><font face="Comic Sans MS">Professor!</font></b>
+
+605
+00:51:38,607 --> 00:51:42,194
+<b><font face="Comic Sans MS">I could tell you stories about your father
+that would curl even your greasy hair!</font></b>
+
+606
+00:51:42,360 --> 00:51:45,071
+<b><font face="Comic Sans MS">- Alastor! Alastor.
+- It doesn't end here!</font></b>
+
+607
+00:51:45,238 --> 00:51:49,034
+<b><font face="Comic Sans MS">We never use transfiguration
+as a punishment!</font></b>
+
+608
+00:51:49,201 --> 00:51:51,411
+<b><font face="Comic Sans MS">Surely Dumbledore told you that.</font></b>
+
+609
+00:51:51,953 --> 00:51:56,416
+<b><font face="Comic Sans MS">- He might've mentioned it.
+- Well, you will do well to remember it.</font></b>
+
+610
+00:51:57,501 --> 00:51:58,960
+<b><font face="Comic Sans MS">Away!</font></b>
+
+611
+00:52:02,088 --> 00:52:04,299
+<b><font face="Comic Sans MS">You. Come with me.</font></b>
+
+612
+00:52:39,501 --> 00:52:41,586
+<b><font face="Comic Sans MS">That's a Foe-Glass.</font></b>
+
+613
+00:52:42,337 --> 00:52:44,422
+<b><font face="Comic Sans MS">Lets me keep an eye on my enemies.</font></b>
+
+614
+00:52:44,881 --> 00:52:49,302
+<b><font face="Comic Sans MS">If I can see the whites of their eyes,
+they're standing right behind me.</font></b>
+
+615
+00:52:53,473 --> 00:52:55,934
+<b><font face="Comic Sans MS">Wouldn't even bother telling you
+what's in there.</font></b>
+
+616
+00:52:56,101 --> 00:52:58,145
+<b><font face="Comic Sans MS">You wouldn't believe it if I did.</font></b>
+
+617
+00:52:58,395 --> 00:53:00,105
+<b><font face="Comic Sans MS">Now...</font></b>
+
+618
+00:53:01,773 --> 00:53:04,609
+<b><font face="Comic Sans MS">...what are you going to do
+about your dragon?</font></b>
+
+619
+00:53:08,530 --> 00:53:10,824
+<b><font face="Comic Sans MS">Well, you know, I just thought I'd...</font></b>
+
+620
+00:53:12,284 --> 00:53:13,785
+<b><font face="Comic Sans MS">Sit.</font></b>
+
+621
+00:53:17,497 --> 00:53:18,874
+<b><font face="Comic Sans MS">Listen to me, Potter.</font></b>
+
+622
+00:53:19,875 --> 00:53:21,042
+<b><font face="Comic Sans MS">Your pal Diggory?</font></b>
+
+623
+00:53:21,209 --> 00:53:25,630
+<b><font face="Comic Sans MS">By your age, he could turn a whistle into
+a watch and have it sing you the time.</font></b>
+
+624
+00:53:26,840 --> 00:53:28,091
+<b><font face="Comic Sans MS">Miss Delacour?</font></b>
+
+625
+00:53:28,508 --> 00:53:31,219
+<b><font face="Comic Sans MS">She's as much a fairy princess as I am.</font></b>
+
+626
+00:53:31,720 --> 00:53:35,307
+<b><font face="Comic Sans MS">As for Krum, his head
+may be filled with sawdust...</font></b>
+
+627
+00:53:35,474 --> 00:53:37,642
+<b><font face="Comic Sans MS">...but Karkaroff's is not.</font></b>
+
+628
+00:53:37,809 --> 00:53:39,644
+<b><font face="Comic Sans MS">They'll have a strategy.</font></b>
+
+629
+00:53:39,811 --> 00:53:43,273
+<b><font face="Comic Sans MS">And you can bet that it will
+play to Krum's strengths.</font></b>
+
+630
+00:53:48,111 --> 00:53:49,696
+<b><font face="Comic Sans MS">Come on, Potter.</font></b>
+
+631
+00:53:49,863 --> 00:53:51,948
+<b><font face="Comic Sans MS">What are your strengths?</font></b>
+
+632
+00:53:53,533 --> 00:53:54,910
+<b><font face="Comic Sans MS">I don't know.</font></b>
+
+633
+00:53:55,076 --> 00:53:57,871
+<b><font face="Comic Sans MS">Well, I can fly.
+I mean, I'm a fair flyer. But I...</font></b>
+
+634
+00:53:58,038 --> 00:54:02,083
+<b><font face="Comic Sans MS">- Better than fair, the way I heard it.
+- But I'm not allowed a broom.</font></b>
+
+635
+00:54:02,250 --> 00:54:05,879
+<b><font face="Comic Sans MS">You're allowed a wand.</font></b>
+
+636
+00:54:12,302 --> 00:54:13,762
+<b><font face="Comic Sans MS">Bets! Place your bets!</font></b>
+
+637
+00:54:13,929 --> 00:54:16,097
+<b><font face="Comic Sans MS">Bets taken! Bets taken here!</font></b>
+
+638
+00:54:16,264 --> 00:54:19,226
+<b><font face="Comic Sans MS">Step up, folks! Who fancies a flutter
+in today's bloodbath?</font></b>
+
+639
+00:54:19,392 --> 00:54:22,187
+<b><font face="Comic Sans MS">Smart money's on Krum to survive!
+Any bets?</font></b>
+
+640
+00:54:22,437 --> 00:54:23,939
+<b><font face="Comic Sans MS">Yes, sir?</font></b>
+
+641
+00:54:24,272 --> 00:54:26,942
+<b><font face="Comic Sans MS">Ten-to-1 for Fleur. There you go.
+Thank you very much.</font></b>
+
+642
+00:54:27,484 --> 00:54:29,444
+<b><font face="Comic Sans MS"><i>Your attention, please.</i></font></b>
+
+643
+00:54:29,653 --> 00:54:32,280
+<b><font face="Comic Sans MS"><i>This is a great day for all of us.</i></font></b>
+
+644
+00:54:35,700 --> 00:54:39,955
+<b><font face="Comic Sans MS"><i>Each of the three tasks involves
+very considerable danger.</i></font></b>
+
+645
+00:54:40,122 --> 00:54:42,791
+<b><font face="Comic Sans MS"><i>Please keep your seats at all times.</i></font></b>
+
+646
+00:54:42,958 --> 00:54:45,710
+<b><font face="Comic Sans MS"><i>This will minimize any risks
+you may be exposed to.</i></font></b>
+
+647
+00:54:45,877 --> 00:54:49,297
+<b><font face="Comic Sans MS">- Harry? Is that you?
+- Yeah.</font></b>
+
+648
+00:54:49,464 --> 00:54:51,174
+<b><font face="Comic Sans MS"><i>I'm sure we all wish our champions...</i></font></b>
+
+649
+00:54:51,341 --> 00:54:54,427
+<b><font face="Comic Sans MS"><i>- How are you feeling? Okay?
+- ... the greatest of luck.</i></font></b>
+
+650
+00:54:56,721 --> 00:55:00,142
+<b><font face="Comic Sans MS">The key is to concentrate.
+After that, you just have to...</font></b>
+
+651
+00:55:00,308 --> 00:55:02,144
+<b><font face="Comic Sans MS">Battle a dragon.</font></b>
+
+652
+00:55:06,439 --> 00:55:08,900
+<b><font face="Comic Sans MS">Young love.</font></b>
+
+653
+00:55:09,651 --> 00:55:10,902
+<b><font face="Comic Sans MS">How...</font></b>
+
+654
+00:55:13,363 --> 00:55:14,656
+<b><font face="Comic Sans MS">...stirring.</font></b>
+
+655
+00:55:17,325 --> 00:55:20,495
+<b><font face="Comic Sans MS">If everything goes unfortunately today...</font></b>
+
+656
+00:55:20,662 --> 00:55:23,457
+<b><font face="Comic Sans MS">...you two may even
+make the front page.</font></b>
+
+657
+00:55:23,623 --> 00:55:25,834
+<b><font face="Comic Sans MS">You have no business here.</font></b>
+
+658
+00:55:26,001 --> 00:55:28,003
+<b><font face="Comic Sans MS">This tent is for champions...</font></b>
+
+659
+00:55:28,378 --> 00:55:30,088
+<b><font face="Comic Sans MS">...and friends.</font></b>
+
+660
+00:55:32,883 --> 00:55:37,053
+<b><font face="Comic Sans MS">No matter. We've got what we wanted.</font></b>
+
+661
+00:55:40,182 --> 00:55:43,018
+<b><font face="Comic Sans MS">Good day, champions.
+Gather round, please.</font></b>
+
+662
+00:55:43,185 --> 00:55:47,355
+<b><font face="Comic Sans MS">Now, you've waited, you've wondered,
+and at last the moment has arrived.</font></b>
+
+663
+00:55:47,522 --> 00:55:50,775
+<b><font face="Comic Sans MS">A moment only four of you
+can fully appreciate.</font></b>
+
+664
+00:55:50,942 --> 00:55:53,069
+<b><font face="Comic Sans MS">What are you doing here, Miss Granger?</font></b>
+
+665
+00:55:54,362 --> 00:55:56,031
+<b><font face="Comic Sans MS">Sorry, I'll just go.</font></b>
+
+666
+00:55:56,198 --> 00:55:57,741
+<b><font face="Comic Sans MS">Barty, the bag.</font></b>
+
+667
+00:55:58,200 --> 00:56:00,410
+<b><font face="Comic Sans MS">Champions, in a circle around me.</font></b>
+
+668
+00:56:00,577 --> 00:56:03,705
+<b><font face="Comic Sans MS">Miss Delacour, over here. Mr. Krum.</font></b>
+
+669
+00:56:03,872 --> 00:56:07,793
+<b><font face="Comic Sans MS">And, Potter, Mr. Potter, over here.
+That's right. Now...</font></b>
+
+670
+00:56:07,959 --> 00:56:10,378
+<b><font face="Comic Sans MS">...Miss Delacour, if you will.</font></b>
+
+671
+00:56:14,466 --> 00:56:16,134
+<b><font face="Comic Sans MS">The Welsh Green.</font></b>
+
+672
+00:56:20,764 --> 00:56:22,057
+<b><font face="Comic Sans MS">Mr. Krum.</font></b>
+
+673
+00:56:25,060 --> 00:56:26,978
+<b><font face="Comic Sans MS">The Chinese Fireball.</font></b>
+
+674
+00:56:33,443 --> 00:56:35,862
+<b><font face="Comic Sans MS">The Swedish Short-Snout.</font></b>
+
+675
+00:56:36,321 --> 00:56:38,323
+<b><font face="Comic Sans MS">- Which leaves...
+- The Horntail.</font></b>
+
+676
+00:56:38,490 --> 00:56:40,742
+<b><font face="Comic Sans MS">- What's that, boy?
+- Nothing.</font></b>
+
+677
+00:56:44,162 --> 00:56:46,581
+<b><font face="Comic Sans MS">The Hungarian Horntail.</font></b>
+
+678
+00:56:48,750 --> 00:56:51,878
+<b><font face="Comic Sans MS">These represent four
+very real dragons...</font></b>
+
+679
+00:56:52,045 --> 00:56:55,090
+<b><font face="Comic Sans MS">...each of which has been given
+a golden egg to protect.</font></b>
+
+680
+00:56:55,257 --> 00:56:57,759
+<b><font face="Comic Sans MS">Your objective is simple:</font></b>
+
+681
+00:56:57,926 --> 00:56:59,427
+<b><font face="Comic Sans MS">Collect the egg.</font></b>
+
+682
+00:56:59,594 --> 00:57:02,597
+<b><font face="Comic Sans MS">This you must do,
+for each egg contains a clue...</font></b>
+
+683
+00:57:02,764 --> 00:57:06,268
+<b><font face="Comic Sans MS">...without which you cannot hope
+to proceed to the next task.</font></b>
+
+684
+00:57:06,434 --> 00:57:07,769
+<b><font face="Comic Sans MS">Any questions?</font></b>
+
+685
+00:57:08,770 --> 00:57:11,439
+<b><font face="Comic Sans MS">Very well. Good luck, champions.</font></b>
+
+686
+00:57:11,606 --> 00:57:14,401
+<b><font face="Comic Sans MS">Mr. Diggory, at the sound of the cannon,
+you may...</font></b>
+
+687
+00:57:23,076 --> 00:57:26,913
+<b><font face="Comic Sans MS"><i>Diggory! Diggory! Diggory!</i></font></b>
+
+688
+00:57:38,467 --> 00:57:41,845
+<b><font face="Comic Sans MS"><i>Three of our champions
+have now faced their dragons...</i></font></b>
+
+689
+00:57:42,012 --> 00:57:45,515
+<b><font face="Comic Sans MS"><i>... and so each one of them
+will proceed to the next task.</i></font></b>
+
+690
+00:57:46,099 --> 00:57:49,186
+<b><font face="Comic Sans MS"><i>And now our fourth
+and final contestant.</i></font></b>
+
+691
+00:57:51,146 --> 00:57:54,733
+<b><font face="Comic Sans MS"><i>Harry! Harry! Harry!</i></font></b>
+
+692
+00:59:01,842 --> 00:59:04,761
+<b><font face="Comic Sans MS">Your wand, Harry! Your wand!</font></b>
+
+693
+00:59:05,262 --> 00:59:07,305
+<b><font face="Comic Sans MS"><i>Accio Firebolt!</i></font></b>
+
+694
+00:59:36,293 --> 00:59:38,462
+<b><font face="Comic Sans MS">- Yeah!
+- Yes!</font></b>
+
+695
+00:59:47,387 --> 00:59:48,805
+<b><font face="Comic Sans MS">Oh, my God.</font></b>
+
+696
+00:59:58,440 --> 01:00:01,735
+<b><font face="Comic Sans MS">- Yeah!
+- Yeah! Well done, dragon!</font></b>
+
+697
+01:02:33,762 --> 01:02:35,931
+<b><font face="Comic Sans MS">Yes! Yes!</font></b>
+
+698
+01:02:59,121 --> 01:03:01,832
+<b><font face="Comic Sans MS">- Yes, Harry!
+- Knew you wouldn't die. Lose a leg.</font></b>
+
+699
+01:03:01,998 --> 01:03:03,959
+<b><font face="Comic Sans MS">- Or an arm.
+- Pack it in altogether?</font></b>
+
+700
+01:03:04,126 --> 01:03:05,877
+<b><font face="Comic Sans MS">- Never!
+- Never!</font></b>
+
+701
+01:03:07,963 --> 01:03:09,297
+<b><font face="Comic Sans MS">Shush!</font></b>
+
+702
+01:03:09,798 --> 01:03:12,467
+<b><font face="Comic Sans MS">Go on, Harry. What's the clue?</font></b>
+
+703
+01:03:13,468 --> 01:03:16,304
+<b><font face="Comic Sans MS">- Who wants me to open it?
+- Yes!</font></b>
+
+704
+01:03:17,139 --> 01:03:19,641
+<b><font face="Comic Sans MS">- Do you want me to open it?
+- Yes!</font></b>
+
+705
+01:03:30,819 --> 01:03:33,238
+<b><font face="Comic Sans MS">What the bloody hell was that?</font></b>
+
+706
+01:03:37,367 --> 01:03:40,120
+<b><font face="Comic Sans MS">All right, everyone!
+Go back to your knitting.</font></b>
+
+707
+01:03:40,287 --> 01:03:44,332
+<b><font face="Comic Sans MS">This is gonna be uncomfortable enough
+without all you nosy sods listening in.</font></b>
+
+708
+01:03:47,502 --> 01:03:51,423
+<b><font face="Comic Sans MS">I reckon you have to be barking mad to
+put your own name in the Goblet of Fire.</font></b>
+
+709
+01:03:51,840 --> 01:03:54,551
+<b><font face="Comic Sans MS">Caught on, have you?
+Took you long enough.</font></b>
+
+710
+01:03:55,677 --> 01:03:57,804
+<b><font face="Comic Sans MS">I wasn't the only one
+who thought you'd done it.</font></b>
+
+711
+01:03:57,971 --> 01:04:00,223
+<b><font face="Comic Sans MS">Everyone was saying it
+behind your back.</font></b>
+
+712
+01:04:02,434 --> 01:04:05,687
+<b><font face="Comic Sans MS">Brilliant.
+That makes me feel loads better.</font></b>
+
+713
+01:04:06,605 --> 01:04:09,983
+<b><font face="Comic Sans MS">- Least I warned you about the dragons.
+- Hagrid warned me about the dragons.</font></b>
+
+714
+01:04:10,150 --> 01:04:11,651
+<b><font face="Comic Sans MS">No, no, no, I did.</font></b>
+
+715
+01:04:11,818 --> 01:04:14,863
+<b><font face="Comic Sans MS">No, don't you remember?
+I told Hermione to tell you...</font></b>
+
+716
+01:04:15,030 --> 01:04:19,075
+<b><font face="Comic Sans MS">...that Seamus told me that Parvati
+told Dean that Hagrid was looking for you.</font></b>
+
+717
+01:04:19,242 --> 01:04:23,205
+<b><font face="Comic Sans MS">Seamus never actually told me anything,
+so it was really me all along.</font></b>
+
+718
+01:04:24,206 --> 01:04:27,209
+<b><font face="Comic Sans MS">I thought we'd be all right, you know...</font></b>
+
+719
+01:04:27,417 --> 01:04:29,419
+<b><font face="Comic Sans MS">...after you'd figured that out.</font></b>
+
+720
+01:04:29,795 --> 01:04:32,464
+<b><font face="Comic Sans MS">Who...? Who could possibly
+figure that out?</font></b>
+
+721
+01:04:33,131 --> 01:04:34,549
+<b><font face="Comic Sans MS">That's completely mental.</font></b>
+
+722
+01:04:34,716 --> 01:04:37,761
+<b><font face="Comic Sans MS">Yeah. Isn't it?</font></b>
+
+723
+01:04:37,928 --> 01:04:39,971
+<b><font face="Comic Sans MS">I suppose I was a bit distraught.</font></b>
+
+724
+01:04:42,557 --> 01:04:44,267
+<b><font face="Comic Sans MS">Boys.</font></b>
+
+725
+01:05:08,750 --> 01:05:10,168
+<b><font face="Comic Sans MS">- Hi, Harry.
+- Hi, Harry.</font></b>
+
+726
+01:05:13,797 --> 01:05:16,424
+<b><font face="Comic Sans MS">Cho, Harry's looking at you.</font></b>
+
+727
+01:05:20,345 --> 01:05:22,055
+<b><font face="Comic Sans MS">Shush.</font></b>
+
+728
+01:05:22,764 --> 01:05:24,099
+<b><font face="Comic Sans MS">Look at this!</font></b>
+
+729
+01:05:26,101 --> 01:05:28,603
+<b><font face="Comic Sans MS">I can't believe it! She's done it again.</font></b>
+
+730
+01:05:29,646 --> 01:05:31,898
+<b><font face="Comic Sans MS">"Miss Granger,
+a plain but ambitious girl...</font></b>
+
+731
+01:05:32,065 --> 01:05:34,818
+<b><font face="Comic Sans MS">...seems to be developing a taste
+for famous wizards.</font></b>
+
+732
+01:05:34,985 --> 01:05:37,279
+<b><font face="Comic Sans MS">Her latest prey, sources report...</font></b>
+
+733
+01:05:37,446 --> 01:05:41,074
+<b><font face="Comic Sans MS">...is none other than the
+Bulgarian bonbon, Viktor Krum.</font></b>
+
+734
+01:05:41,366 --> 01:05:45,287
+<b><font face="Comic Sans MS">No word yet on how Harry Potter's
+taking this latest emotional blow."</font></b>
+
+735
+01:05:46,663 --> 01:05:48,623
+<b><font face="Comic Sans MS">Parcel for you, Mr. Weasley.</font></b>
+
+736
+01:05:48,790 --> 01:05:50,292
+<b><font face="Comic Sans MS">Thank you, Nigel.</font></b>
+
+737
+01:05:55,088 --> 01:05:57,924
+<b><font face="Comic Sans MS">Not now, Nigel. Later.</font></b>
+
+738
+01:05:59,759 --> 01:06:01,303
+<b><font face="Comic Sans MS">Go on.</font></b>
+
+739
+01:06:06,641 --> 01:06:09,394
+<b><font face="Comic Sans MS">I told him I'd get him Harry's autograph.</font></b>
+
+740
+01:06:11,605 --> 01:06:13,356
+<b><font face="Comic Sans MS">Oh, look, Mum's sent me something.</font></b>
+
+741
+01:06:21,490 --> 01:06:23,325
+<b><font face="Comic Sans MS">Mum sent me a dress.</font></b>
+
+742
+01:06:23,492 --> 01:06:27,329
+<b><font face="Comic Sans MS">Well, it does match your eyes.
+Is there a bonnet?</font></b>
+
+743
+01:06:27,788 --> 01:06:29,623
+<b><font face="Comic Sans MS">Nose down, Harry.</font></b>
+
+744
+01:06:30,165 --> 01:06:34,044
+<b><font face="Comic Sans MS">- Ginny, these must be for you.
+- I'm not wearing that, it's ghastly.</font></b>
+
+745
+01:06:35,837 --> 01:06:37,672
+<b><font face="Comic Sans MS">What are you on about?</font></b>
+
+746
+01:06:37,839 --> 01:06:39,800
+<b><font face="Comic Sans MS">They're not for Ginny.</font></b>
+
+747
+01:06:39,966 --> 01:06:41,301
+<b><font face="Comic Sans MS">They're for you.</font></b>
+
+748
+01:06:42,344 --> 01:06:46,097
+<b><font face="Comic Sans MS">- Dress robes.
+- Dress robes? For what?</font></b>
+
+749
+01:06:47,349 --> 01:06:49,518
+<b><font face="Comic Sans MS">The Yule Ball...</font></b>
+
+750
+01:06:49,684 --> 01:06:55,023
+<b><font face="Comic Sans MS">...has been a tradition
+of the Triwizard Tournament...</font></b>
+
+751
+01:06:55,732 --> 01:06:57,818
+<b><font face="Comic Sans MS">...since its inception.</font></b>
+
+752
+01:06:58,485 --> 01:07:02,364
+<b><font face="Comic Sans MS">On Christmas Eve night,
+we and our guests...</font></b>
+
+753
+01:07:02,531 --> 01:07:04,199
+<b><font face="Comic Sans MS">...gather in the Great Hall...</font></b>
+
+754
+01:07:04,366 --> 01:07:08,411
+<b><font face="Comic Sans MS">...for a night of well-mannered frivolity.</font></b>
+
+755
+01:07:09,955 --> 01:07:12,207
+<b><font face="Comic Sans MS">As representatives of the host school...</font></b>
+
+756
+01:07:12,374 --> 01:07:17,420
+<b><font face="Comic Sans MS">...I expect each and every one of you
+to put your best foot forward.</font></b>
+
+757
+01:07:17,796 --> 01:07:20,423
+<b><font face="Comic Sans MS">And I mean this literally, because...</font></b>
+
+758
+01:07:20,590 --> 01:07:25,053
+<b><font face="Comic Sans MS">...the Yule Ball is, first and foremost...</font></b>
+
+759
+01:07:25,887 --> 01:07:27,389
+<b><font face="Comic Sans MS">...a dance.</font></b>
+
+760
+01:07:31,643 --> 01:07:33,436
+<b><font face="Comic Sans MS">Silence!</font></b>
+
+761
+01:07:33,645 --> 01:07:36,648
+<b><font face="Comic Sans MS">The house of Godric Gryffindor
+has commanded the respect...</font></b>
+
+762
+01:07:36,815 --> 01:07:39,443
+<b><font face="Comic Sans MS">...of the wizard world
+for nearly 10 centuries.</font></b>
+
+763
+01:07:39,609 --> 01:07:43,697
+<b><font face="Comic Sans MS">I will not have you, in the course of a
+single evening, besmirching that name...</font></b>
+
+764
+01:07:43,864 --> 01:07:48,076
+<b><font face="Comic Sans MS">...by behaving like a babbling,
+bumbling band of baboons.</font></b>
+
+765
+01:07:48,785 --> 01:07:50,745
+<b><font face="Comic Sans MS">Try saying that five times fast, huh?</font></b>
+
+766
+01:07:50,912 --> 01:07:52,414
+<b><font face="Comic Sans MS">Now, to dance...</font></b>
+
+767
+01:07:52,581 --> 01:07:56,293
+<b><font face="Comic Sans MS">...is to let the body breathe.</font></b>
+
+768
+01:07:56,460 --> 01:07:59,796
+<b><font face="Comic Sans MS">Inside every girl,
+a secret swan slumbers...</font></b>
+
+769
+01:07:59,963 --> 01:08:02,340
+<b><font face="Comic Sans MS">...Ionging to burst forth
+and take flight.</font></b>
+
+770
+01:08:02,507 --> 01:08:06,511
+<b><font face="Comic Sans MS">Something's about to burst out of Eloise
+Midgen, but I don't think it's a swan.</font></b>
+
+771
+01:08:06,678 --> 01:08:09,806
+<b><font face="Comic Sans MS">Inside every boy,
+a lordly lion prepared to prance.</font></b>
+
+772
+01:08:09,973 --> 01:08:12,225
+<b><font face="Comic Sans MS">- Mr. Weasley.
+- Yes?</font></b>
+
+773
+01:08:12,392 --> 01:08:14,811
+<b><font face="Comic Sans MS">Will you join me, please?</font></b>
+
+774
+01:08:19,441 --> 01:08:22,944
+<b><font face="Comic Sans MS">Now, place your right hand
+on my waist.</font></b>
+
+775
+01:08:23,111 --> 01:08:25,697
+<b><font face="Comic Sans MS">- Where?
+- My waist.</font></b>
+
+776
+01:08:25,864 --> 01:08:28,408
+<b><font face="Comic Sans MS">And extend your arm.</font></b>
+
+777
+01:08:28,867 --> 01:08:30,827
+<b><font face="Comic Sans MS">Mr. Filch, if you please.</font></b>
+
+778
+01:08:33,914 --> 01:08:35,916
+<b><font face="Comic Sans MS">One, two, three.</font></b>
+
+779
+01:08:36,082 --> 01:08:39,586
+<b><font face="Comic Sans MS">One, two, three. One, two, three.</font></b>
+
+780
+01:08:43,298 --> 01:08:45,425
+<b><font face="Comic Sans MS">Never gonna let him forget this,
+are you?</font></b>
+
+781
+01:08:45,592 --> 01:08:46,760
+<b><font face="Comic Sans MS">- Never.
+- Never.</font></b>
+
+782
+01:08:46,927 --> 01:08:50,806
+<b><font face="Comic Sans MS">Everybody come together.
+Boys, on your feet!</font></b>
+
+783
+01:09:13,870 --> 01:09:15,831
+<b><font face="Comic Sans MS">Why do they have to travel in packs?</font></b>
+
+784
+01:09:15,997 --> 01:09:18,625
+<b><font face="Comic Sans MS">How are you supposed to get one
+on their own to ask them?</font></b>
+
+785
+01:09:26,508 --> 01:09:30,011
+<b><font face="Comic Sans MS">Blimey, Harry. You've slayed dragons.
+If you can't get a date, who can?</font></b>
+
+786
+01:09:30,178 --> 01:09:32,430
+<b><font face="Comic Sans MS">I think I'd take the dragon right now.</font></b>
+
+787
+01:09:38,645 --> 01:09:40,188
+<b><font face="Comic Sans MS">I take after my mum.</font></b>
+
+788
+01:09:40,355 --> 01:09:44,317
+<b><font face="Comic Sans MS">Though I didn't know her very well.
+She left when I was about 3.</font></b>
+
+789
+01:09:44,484 --> 01:09:46,403
+<b><font face="Comic Sans MS">No, not the maternal sort, her.</font></b>
+
+790
+01:09:46,570 --> 01:09:50,157
+<b><font face="Comic Sans MS">Broke me dad's heart, though.
+He was a tiny little fella, my dad.</font></b>
+
+791
+01:09:50,323 --> 01:09:54,870
+<b><font face="Comic Sans MS">I could pick him up at the age of 6 with
+one hand and put him up on the dresser.</font></b>
+
+792
+01:09:55,036 --> 01:09:57,372
+<b><font face="Comic Sans MS">He laughed so hard at that.</font></b>
+
+793
+01:09:59,416 --> 01:10:01,293
+<b><font face="Comic Sans MS">Very funny.</font></b>
+
+794
+01:10:07,215 --> 01:10:10,969
+<b><font face="Comic Sans MS">And then he died
+just when I started school, so...</font></b>
+
+795
+01:10:11,136 --> 01:10:14,181
+<b><font face="Comic Sans MS">So I sort of had to make
+me own way, as it were.</font></b>
+
+796
+01:10:14,598 --> 01:10:16,766
+<b><font face="Comic Sans MS">But enough of me. What about you?</font></b>
+
+797
+01:10:34,034 --> 01:10:39,122
+<b><font face="Comic Sans MS">This is mad. At this rate, we'll be
+the only ones in our year without dates.</font></b>
+
+798
+01:10:41,416 --> 01:10:44,127
+<b><font face="Comic Sans MS">Well, us and Neville.</font></b>
+
+799
+01:10:44,294 --> 01:10:46,963
+<b><font face="Comic Sans MS">Yeah, but, then again,
+he can take himself.</font></b>
+
+800
+01:10:47,714 --> 01:10:51,051
+<b><font face="Comic Sans MS">It might interest you to know
+that Neville's already got someone.</font></b>
+
+801
+01:10:53,512 --> 01:10:55,263
+<b><font face="Comic Sans MS">Now I'm really depressed.</font></b>
+
+802
+01:11:01,102 --> 01:11:04,523
+<b><font face="Comic Sans MS">"Get a move on or all the good ones
+will have gone."</font></b>
+
+803
+01:11:06,608 --> 01:11:08,610
+<b><font face="Comic Sans MS">Who you going with, then?</font></b>
+
+804
+01:11:11,321 --> 01:11:13,031
+<b><font face="Comic Sans MS"><i>- Oi, Angelina?
+- What?</i></font></b>
+
+805
+01:11:13,198 --> 01:11:18,495
+<b><font face="Comic Sans MS">Do you wanna go to the ball with me?</font></b>
+
+806
+01:11:18,829 --> 01:11:20,580
+<b><font face="Comic Sans MS">To the ball?</font></b>
+
+807
+01:11:20,747 --> 01:11:22,165
+<b><font face="Comic Sans MS">Yeah, all right.</font></b>
+
+808
+01:11:25,919 --> 01:11:27,462
+<b><font face="Comic Sans MS">Oi, Hermione.</font></b>
+
+809
+01:11:27,629 --> 01:11:29,297
+<b><font face="Comic Sans MS">You're a girl.</font></b>
+
+810
+01:11:29,464 --> 01:11:30,799
+<b><font face="Comic Sans MS">Very well spotted.</font></b>
+
+811
+01:11:30,966 --> 01:11:32,884
+<b><font face="Comic Sans MS">Come with one of us?</font></b>
+
+812
+01:11:37,514 --> 01:11:40,433
+<b><font face="Comic Sans MS">Come on. It's one thing for a bloke
+to show up alone.</font></b>
+
+813
+01:11:40,600 --> 01:11:42,102
+<b><font face="Comic Sans MS">For a girl, it's just sad.</font></b>
+
+814
+01:11:42,269 --> 01:11:46,022
+<b><font face="Comic Sans MS">I won't be going alone, because,
+believe it or not, someone's asked me!</font></b>
+
+815
+01:11:52,988 --> 01:11:54,990
+<b><font face="Comic Sans MS">And I said yes!</font></b>
+
+816
+01:11:56,825 --> 01:11:58,410
+<b><font face="Comic Sans MS">Bloody hell.</font></b>
+
+817
+01:11:58,577 --> 01:12:00,245
+<b><font face="Comic Sans MS">She's lying, right?</font></b>
+
+818
+01:12:00,412 --> 01:12:01,621
+<b><font face="Comic Sans MS">If you say so.</font></b>
+
+819
+01:12:02,330 --> 01:12:05,667
+<b><font face="Comic Sans MS">Look, we've just gotta
+grit our teeth and do it.</font></b>
+
+820
+01:12:05,834 --> 01:12:07,919
+<b><font face="Comic Sans MS">Tonight, when we get back
+to the common room...</font></b>
+
+821
+01:12:08,086 --> 01:12:09,796
+<b><font face="Comic Sans MS">...we'll both have partners. Agreed?</font></b>
+
+822
+01:12:09,963 --> 01:12:11,465
+<b><font face="Comic Sans MS">Agreed.</font></b>
+
+823
+01:12:35,822 --> 01:12:37,157
+<b><font face="Comic Sans MS">- Cho!
+- Harry!</font></b>
+
+824
+01:12:40,702 --> 01:12:43,455
+<b><font face="Comic Sans MS">Watch yourself on the stairs.
+It's a bit icy at the top.</font></b>
+
+825
+01:12:43,622 --> 01:12:45,207
+<b><font face="Comic Sans MS">Okay, thanks.</font></b>
+
+826
+01:12:49,669 --> 01:12:50,712
+<b><font face="Comic Sans MS">Cho?</font></b>
+
+827
+01:12:51,671 --> 01:12:53,215
+<b><font face="Comic Sans MS">Yes?</font></b>
+
+828
+01:12:54,591 --> 01:12:56,843
+<b><font face="Comic Sans MS">Well, I just wondered if you...</font></b>
+
+829
+01:12:57,010 --> 01:12:59,763
+<b><font face="Comic Sans MS">I wondered if maybe
+you wanted to go to the ball with me.</font></b>
+
+830
+01:13:01,473 --> 01:13:03,725
+<b><font face="Comic Sans MS">Sorry, I didn't catch that.</font></b>
+
+831
+01:13:04,643 --> 01:13:09,564
+<b><font face="Comic Sans MS">I was just wondering if maybe
+you wanted to go to the ball with me.</font></b>
+
+832
+01:13:15,570 --> 01:13:17,155
+<b><font face="Comic Sans MS">Harry...</font></b>
+
+833
+01:13:17,322 --> 01:13:20,158
+<b><font face="Comic Sans MS">...I'm sorry, but someone's
+already asked me.</font></b>
+
+834
+01:13:21,159 --> 01:13:22,577
+<b><font face="Comic Sans MS">And...</font></b>
+
+835
+01:13:23,245 --> 01:13:26,498
+<b><font face="Comic Sans MS">Well, I've said I'll go with him.</font></b>
+
+836
+01:13:28,166 --> 01:13:30,669
+<b><font face="Comic Sans MS">Okay. Yeah. Great.</font></b>
+
+837
+01:13:32,045 --> 01:13:34,756
+<b><font face="Comic Sans MS">Fine. No problem.</font></b>
+
+838
+01:13:35,090 --> 01:13:36,675
+<b><font face="Comic Sans MS">Okay. Good.</font></b>
+
+839
+01:13:38,135 --> 01:13:39,678
+<b><font face="Comic Sans MS">Harry?</font></b>
+
+840
+01:13:40,303 --> 01:13:42,097
+<b><font face="Comic Sans MS">I really am...</font></b>
+
+841
+01:13:42,264 --> 01:13:43,932
+<b><font face="Comic Sans MS">...sorry.</font></b>
+
+842
+01:13:53,692 --> 01:13:55,193
+<b><font face="Comic Sans MS">It's all right, Ron.</font></b>
+
+843
+01:13:55,360 --> 01:13:58,572
+<b><font face="Comic Sans MS">It's okay, Ron. It's all right.
+It doesn't matter.</font></b>
+
+844
+01:13:58,738 --> 01:14:00,615
+<b><font face="Comic Sans MS">What happened to you?</font></b>
+
+845
+01:14:00,866 --> 01:14:03,034
+<b><font face="Comic Sans MS">He just asked Fleur Delacour out.</font></b>
+
+846
+01:14:03,201 --> 01:14:05,704
+<b><font face="Comic Sans MS">- What?
+- What did she say?</font></b>
+
+847
+01:14:05,871 --> 01:14:07,247
+<b><font face="Comic Sans MS">No, of course.</font></b>
+
+848
+01:14:08,790 --> 01:14:12,127
+<b><font face="Comic Sans MS">- She said yes?
+- Don't be silly.</font></b>
+
+849
+01:14:12,544 --> 01:14:16,965
+<b><font face="Comic Sans MS">There she was, walking by.
+You know how I like it when they walk.</font></b>
+
+850
+01:14:17,716 --> 01:14:21,344
+<b><font face="Comic Sans MS">I couldn't help it.
+It just sort of slipped out.</font></b>
+
+851
+01:14:21,511 --> 01:14:24,931
+<b><font face="Comic Sans MS">Actually, he sort of screamed at her.
+It was a bit frightening.</font></b>
+
+852
+01:14:26,141 --> 01:14:29,769
+<b><font face="Comic Sans MS">- And what did you do then?
+- What else? I ran for it.</font></b>
+
+853
+01:14:29,936 --> 01:14:33,648
+<b><font face="Comic Sans MS">I'm not cut out for this, Harry.
+I don't know what got into me.</font></b>
+
+854
+01:14:33,815 --> 01:14:35,066
+<b><font face="Comic Sans MS">- Hi, Harry.
+- Hi, Harry.</font></b>
+
+855
+01:14:35,233 --> 01:14:38,320
+<b><font face="Comic Sans MS">I always liked looking at them
+from behind.</font></b>
+
+856
+01:14:39,654 --> 01:14:42,199
+<b><font face="Comic Sans MS">She's never gonna forgive me, ever.</font></b>
+
+857
+01:14:42,783 --> 01:14:43,825
+<b><font face="Comic Sans MS">Hey!</font></b>
+
+858
+01:15:00,926 --> 01:15:02,636
+<b><font face="Comic Sans MS">Bloody hell.</font></b>
+
+859
+01:15:04,846 --> 01:15:06,640
+<b><font face="Comic Sans MS">Bloody hell.</font></b>
+
+860
+01:15:10,143 --> 01:15:11,436
+<b><font face="Comic Sans MS">Bloody...</font></b>
+
+861
+01:15:11,603 --> 01:15:12,813
+<b><font face="Comic Sans MS">Oh, bloody...</font></b>
+
+862
+01:15:16,525 --> 01:15:19,236
+<b><font face="Comic Sans MS">What are those? What are those?</font></b>
+
+863
+01:15:19,402 --> 01:15:22,447
+<b><font face="Comic Sans MS">- My dress robes.
+- Well, they're all right!</font></b>
+
+864
+01:15:22,614 --> 01:15:25,534
+<b><font face="Comic Sans MS">No lace. No dodgy little collar.</font></b>
+
+865
+01:15:25,700 --> 01:15:27,702
+<b><font face="Comic Sans MS">Well, I expect yours are more traditional.</font></b>
+
+866
+01:15:27,869 --> 01:15:32,791
+<b><font face="Comic Sans MS">Traditional?! They're ancient!
+I look like my Great Aunt Tessie!</font></b>
+
+867
+01:15:35,210 --> 01:15:38,296
+<b><font face="Comic Sans MS">I smell like my Great Aunt Tessie.</font></b>
+
+868
+01:15:43,051 --> 01:15:44,886
+<b><font face="Comic Sans MS">Murder me, Harry.</font></b>
+
+869
+01:15:46,263 --> 01:15:47,848
+<b><font face="Comic Sans MS">Leave it alone!</font></b>
+
+870
+01:15:48,807 --> 01:15:52,227
+<b><font face="Comic Sans MS">Poor kid. I bet she's alone in her room,
+crying her eyes out.</font></b>
+
+871
+01:15:52,394 --> 01:15:54,896
+<b><font face="Comic Sans MS">- Who?
+- Hermione, of course.</font></b>
+
+872
+01:15:55,063 --> 01:15:58,650
+<b><font face="Comic Sans MS">Come on, Harry, why do you think she
+wouldn't tell us who she's coming with?</font></b>
+
+873
+01:15:58,817 --> 01:16:01,027
+<b><font face="Comic Sans MS">Because we'd take the mickey out of her
+if she did.</font></b>
+
+874
+01:16:01,194 --> 01:16:06,283
+<b><font face="Comic Sans MS">Nobody asked her. Would've taken her
+myself if she wasn't so bloody proud.</font></b>
+
+875
+01:16:07,242 --> 01:16:08,660
+<b><font face="Comic Sans MS">- Hello, boys.
+- Hello, boys.</font></b>
+
+876
+01:16:08,827 --> 01:16:10,662
+<b><font face="Comic Sans MS">Don't you look...</font></b>
+
+877
+01:16:11,246 --> 01:16:12,414
+<b><font face="Comic Sans MS">...dashing.</font></b>
+
+878
+01:16:12,998 --> 01:16:16,168
+<b><font face="Comic Sans MS">There you are, Potter.
+Are you and Miss Patil ready?</font></b>
+
+879
+01:16:16,334 --> 01:16:18,170
+<b><font face="Comic Sans MS">- Ready, professor?
+- To dance.</font></b>
+
+880
+01:16:18,336 --> 01:16:21,381
+<b><font face="Comic Sans MS">It's traditional that the three champions...
+Well, in this case, four.</font></b>
+
+881
+01:16:21,548 --> 01:16:22,591
+<b><font face="Comic Sans MS">- Are the first to dance.</font></b>
+
+882
+01:16:22,924 --> 01:16:25,510
+<b><font face="Comic Sans MS">- Surely I told you that.
+- No.</font></b>
+
+883
+01:16:26,136 --> 01:16:27,888
+<b><font face="Comic Sans MS">Well, now you know.</font></b>
+
+884
+01:16:29,890 --> 01:16:33,685
+<b><font face="Comic Sans MS">As for you, Mr. Weasley, you may proceed
+into the Great Hall with Miss Patil.</font></b>
+
+885
+01:16:33,852 --> 01:16:36,188
+<b><font face="Comic Sans MS">- Oh, there you are.
+- Come on, then.</font></b>
+
+886
+01:16:36,396 --> 01:16:37,939
+<b><font face="Comic Sans MS">Come along this way.</font></b>
+
+887
+01:16:42,778 --> 01:16:44,613
+<b><font face="Comic Sans MS">Oh, come on.</font></b>
+
+888
+01:16:45,447 --> 01:16:47,449
+<b><font face="Comic Sans MS">- Hi.
+- Now, I need you all to line up...</font></b>
+
+889
+01:16:47,616 --> 01:16:50,994
+<b><font face="Comic Sans MS">...in the procession, please.
+Oh, you are very late.</font></b>
+
+890
+01:16:53,205 --> 01:16:55,624
+<b><font face="Comic Sans MS">This way. This way. Come along.</font></b>
+
+891
+01:16:57,292 --> 01:16:59,544
+<b><font face="Comic Sans MS">She looks beautiful!</font></b>
+
+892
+01:16:59,711 --> 01:17:01,296
+<b><font face="Comic Sans MS">Yeah, she does.</font></b>
+
+893
+01:17:48,677 --> 01:17:52,264
+<b><font face="Comic Sans MS">Is that Hermione Granger?
+With Viktor Krum?</font></b>
+
+894
+01:17:52,889 --> 01:17:55,475
+<b><font face="Comic Sans MS">No. Absolutely not.</font></b>
+
+895
+01:18:00,188 --> 01:18:01,731
+<b><font face="Comic Sans MS">Hi!</font></b>
+
+896
+01:18:10,490 --> 01:18:12,451
+<b><font face="Comic Sans MS">Harry, take my waist.</font></b>
+
+897
+01:18:13,368 --> 01:18:14,786
+<b><font face="Comic Sans MS">- What?
+- Now!</font></b>
+
+898
+01:19:21,394 --> 01:19:23,146
+<b><font face="Comic Sans MS">Are you ready?</font></b>
+
+899
+01:19:23,772 --> 01:19:25,982
+<b><font face="Comic Sans MS"><i>Move your body like a hairy troll</i></font></b>
+
+900
+01:19:26,817 --> 01:19:29,277
+<b><font face="Comic Sans MS"><i>Learning to rock and roll</i></font></b>
+
+901
+01:19:29,694 --> 01:19:32,280
+<b><font face="Comic Sans MS"><i>Spin around like a crazy elf</i></font></b>
+
+902
+01:19:32,781 --> 01:19:35,033
+<b><font face="Comic Sans MS"><i>Dancing by himself</i></font></b>
+
+903
+01:19:35,325 --> 01:19:38,662
+<b><font face="Comic Sans MS"><i>Boogie down like a unicorn</i></font></b>
+
+904
+01:19:38,829 --> 01:19:41,289
+<b><font face="Comic Sans MS"><i>No stopping till the break of dawn</i></font></b>
+
+905
+01:19:41,456 --> 01:19:44,292
+<b><font face="Comic Sans MS"><i>Put your hands up in the air</i></font></b>
+
+906
+01:19:44,459 --> 01:19:47,254
+<b><font face="Comic Sans MS"><i>Like an ogre who just don 't care</i></font></b>
+
+907
+01:19:47,963 --> 01:19:50,632
+<b><font face="Comic Sans MS"><i>Can you dance like a Hippogriff?</i></font></b>
+
+908
+01:19:52,968 --> 01:19:55,137
+<b><font face="Comic Sans MS">Ruddy pumpkinhead, isn't he?</font></b>
+
+909
+01:19:57,305 --> 01:20:00,725
+<b><font face="Comic Sans MS">I don't think it was the books
+that had him going to the library.</font></b>
+
+910
+01:20:02,644 --> 01:20:04,187
+<b><font face="Comic Sans MS">May I have your arm?</font></b>
+
+911
+01:20:04,354 --> 01:20:07,065
+<b><font face="Comic Sans MS">Arm. Leg. I'm yours.</font></b>
+
+912
+01:20:33,008 --> 01:20:34,593
+<b><font face="Comic Sans MS">Hot, isn't it?</font></b>
+
+913
+01:20:35,260 --> 01:20:38,597
+<b><font face="Comic Sans MS">Viktor's gone to go and get drinks.
+Would you care to join us?</font></b>
+
+914
+01:20:38,763 --> 01:20:42,434
+<b><font face="Comic Sans MS">No, we'd not care to join you and Viktor.</font></b>
+
+915
+01:20:44,144 --> 01:20:46,480
+<b><font face="Comic Sans MS">What's got your wand in a knot?</font></b>
+
+916
+01:20:46,772 --> 01:20:50,442
+<b><font face="Comic Sans MS">He's a Durmstrang.
+You're fraternizing with the enemy.</font></b>
+
+917
+01:20:50,609 --> 01:20:54,196
+<b><font face="Comic Sans MS">The enemy?
+Who was it wanting his autograph?</font></b>
+
+918
+01:20:54,905 --> 01:20:57,365
+<b><font face="Comic Sans MS">Besides, the whole point
+of the tournament...</font></b>
+
+919
+01:20:57,532 --> 01:21:01,036
+<b><font face="Comic Sans MS">...is international
+magical cooperation...</font></b>
+
+920
+01:21:01,620 --> 01:21:03,121
+<b><font face="Comic Sans MS">...to make friends.</font></b>
+
+921
+01:21:03,872 --> 01:21:07,042
+<b><font face="Comic Sans MS">I think he's got a bit more
+than friendship on his mind.</font></b>
+
+922
+01:21:17,010 --> 01:21:19,346
+<b><font face="Comic Sans MS">Are you going to ask me
+to dance or not?</font></b>
+
+923
+01:21:19,513 --> 01:21:20,931
+<b><font face="Comic Sans MS">No.</font></b>
+
+924
+01:21:29,189 --> 01:21:31,608
+<b><font face="Comic Sans MS">- He's using you.
+- How dare you?!</font></b>
+
+925
+01:21:31,775 --> 01:21:35,987
+<b><font face="Comic Sans MS">- Besides, I can take care of myself.
+- I doubt it. He's way too old.</font></b>
+
+926
+01:21:36,154 --> 01:21:39,825
+<b><font face="Comic Sans MS">- What?! What? That's what you think?
+- Yeah, that's what I think.</font></b>
+
+927
+01:21:39,991 --> 01:21:42,119
+<b><font face="Comic Sans MS">You know the solution then, don't you?</font></b>
+
+928
+01:21:42,285 --> 01:21:44,287
+<b><font face="Comic Sans MS">- Go on.
+- Next time there's a ball...</font></b>
+
+929
+01:21:44,454 --> 01:21:47,582
+<b><font face="Comic Sans MS">...pluck up the courage and ask me
+before somebody else does!</font></b>
+
+930
+01:21:47,749 --> 01:21:49,793
+<b><font face="Comic Sans MS">And not as a last resort.</font></b>
+
+931
+01:21:49,960 --> 01:21:54,172
+<b><font face="Comic Sans MS">Well, that's... I mean,
+that's just completely off the point.</font></b>
+
+932
+01:21:54,339 --> 01:21:55,674
+<b><font face="Comic Sans MS">Harry.</font></b>
+
+933
+01:21:56,133 --> 01:21:57,425
+<b><font face="Comic Sans MS">Where have you been?</font></b>
+
+934
+01:21:57,592 --> 01:22:00,095
+<b><font face="Comic Sans MS">Never mind! Off to bed, both of you.</font></b>
+
+935
+01:22:02,931 --> 01:22:06,935
+<b><font face="Comic Sans MS">- They get scary when they get older.
+- Ron, you spoiled everything!</font></b>
+
+936
+01:22:07,102 --> 01:22:08,979
+<b><font face="Comic Sans MS">What's this about?</font></b>
+
+937
+01:22:13,275 --> 01:22:16,278
+<b><font face="Comic Sans MS"><i>No, don 't let</i></font></b>
+
+938
+01:22:18,071 --> 01:22:22,409
+<b><font face="Comic Sans MS"><i>This magic die</i></font></b>
+
+939
+01:22:24,161 --> 01:22:26,955
+<b><font face="Comic Sans MS"><i>The answer's there</i></font></b>
+
+940
+01:23:25,263 --> 01:23:27,349
+<b><font face="Comic Sans MS">Let me see it again.</font></b>
+
+941
+01:23:28,683 --> 01:23:31,561
+<b><font face="Comic Sans MS">Yes, the time is close now.</font></b>
+
+942
+01:23:36,274 --> 01:23:38,110
+<b><font face="Comic Sans MS"><i>Harry, at last!</i></font></b>
+
+943
+01:23:39,444 --> 01:23:44,783
+<b><font face="Comic Sans MS">Step aside, Wormtail,
+so I can give our guest a proper greeting.</font></b>
+
+944
+01:23:55,377 --> 01:23:56,795
+<b><font face="Comic Sans MS">You all right, Harry?</font></b>
+
+945
+01:23:58,213 --> 01:24:00,006
+<b><font face="Comic Sans MS">I just got in.</font></b>
+
+946
+01:24:00,590 --> 01:24:01,842
+<b><font face="Comic Sans MS">Me.</font></b>
+
+947
+01:24:13,103 --> 01:24:16,398
+<b><font face="Comic Sans MS">Harry, you told me
+you'd figured the egg out weeks ago.</font></b>
+
+948
+01:24:16,565 --> 01:24:20,735
+<b><font face="Comic Sans MS">- The task is two days from now.
+- Really? I had no idea.</font></b>
+
+949
+01:24:22,279 --> 01:24:24,072
+<b><font face="Comic Sans MS">I suppose Viktor's
+already figured it out.</font></b>
+
+950
+01:24:24,239 --> 01:24:27,075
+<b><font face="Comic Sans MS">Wouldn't know. We don't actually
+talk about the tournament.</font></b>
+
+951
+01:24:28,285 --> 01:24:32,914
+<b><font face="Comic Sans MS">Actually, we don't really talk at all.
+Viktor's more of a physical being.</font></b>
+
+952
+01:24:36,626 --> 01:24:39,838
+<b><font face="Comic Sans MS">I just mean he's not
+particularly loquacious.</font></b>
+
+953
+01:24:40,297 --> 01:24:42,549
+<b><font face="Comic Sans MS">Mostly, he watches me study.</font></b>
+
+954
+01:24:43,341 --> 01:24:45,427
+<b><font face="Comic Sans MS">It's a bit annoying, actually.</font></b>
+
+955
+01:24:46,803 --> 01:24:49,514
+<b><font face="Comic Sans MS">You are trying to figure this egg out,
+aren't you?</font></b>
+
+956
+01:24:50,348 --> 01:24:51,808
+<b><font face="Comic Sans MS">What's that supposed to mean?</font></b>
+
+957
+01:24:52,434 --> 01:24:55,437
+<b><font face="Comic Sans MS">It just means these tasks
+are designed to test you...</font></b>
+
+958
+01:24:55,604 --> 01:24:58,774
+<b><font face="Comic Sans MS">...in the most brutal way.
+They're almost cruel.</font></b>
+
+959
+01:24:59,941 --> 01:25:01,568
+<b><font face="Comic Sans MS">And...</font></b>
+
+960
+01:25:03,904 --> 01:25:05,781
+<b><font face="Comic Sans MS">...I'm scared for you.</font></b>
+
+961
+01:25:06,740 --> 01:25:09,326
+<b><font face="Comic Sans MS">You got by the dragons
+mostly on nerve.</font></b>
+
+962
+01:25:09,951 --> 01:25:12,454
+<b><font face="Comic Sans MS">I'm not sure it's going
+to be enough this time.</font></b>
+
+963
+01:25:12,621 --> 01:25:14,289
+<b><font face="Comic Sans MS">Hey, Potter!</font></b>
+
+964
+01:25:20,045 --> 01:25:21,546
+<b><font face="Comic Sans MS">- Potter!
+- Cedric.</font></b>
+
+965
+01:25:24,257 --> 01:25:25,926
+<b><font face="Comic Sans MS">How...? How are you?</font></b>
+
+966
+01:25:26,968 --> 01:25:28,386
+<b><font face="Comic Sans MS">Spectacular.</font></b>
+
+967
+01:25:29,930 --> 01:25:33,767
+<b><font face="Comic Sans MS">I realize I never really thanked you properly
+for tipping me off about those dragons.</font></b>
+
+968
+01:25:33,934 --> 01:25:36,228
+<b><font face="Comic Sans MS">Forget it. I'm sure you
+would've done the same for me.</font></b>
+
+969
+01:25:36,561 --> 01:25:38,146
+<b><font face="Comic Sans MS">Exactly.</font></b>
+
+970
+01:25:39,231 --> 01:25:41,733
+<b><font face="Comic Sans MS">You know the Prefects' bathroom
+on the fifth floor?</font></b>
+
+971
+01:25:45,654 --> 01:25:48,240
+<b><font face="Comic Sans MS">It's not a bad place for a bath.</font></b>
+
+972
+01:25:50,617 --> 01:25:52,494
+<b><font face="Comic Sans MS">Just take your egg...</font></b>
+
+973
+01:25:53,245 --> 01:25:55,997
+<b><font face="Comic Sans MS">...and mull things over
+in the hot water.</font></b>
+
+974
+01:26:31,199 --> 01:26:33,368
+<b><font face="Comic Sans MS">I must be out of my mind.</font></b>
+
+975
+01:26:43,545 --> 01:26:45,714
+<b><font face="Comic Sans MS">I'm definitely out of my mind.</font></b>
+
+976
+01:26:48,383 --> 01:26:51,678
+<b><font face="Comic Sans MS">I'd try putting it in the water
+if I were you.</font></b>
+
+977
+01:26:51,845 --> 01:26:53,722
+<b><font face="Comic Sans MS">Myrtle!</font></b>
+
+978
+01:26:53,889 --> 01:26:55,640
+<b><font face="Comic Sans MS">Hello, Harry.</font></b>
+
+979
+01:26:56,433 --> 01:26:59,644
+<b><font face="Comic Sans MS">Long time no see.</font></b>
+
+980
+01:27:03,899 --> 01:27:07,569
+<b><font face="Comic Sans MS">I was circling a blocked drain
+the other day...</font></b>
+
+981
+01:27:07,736 --> 01:27:11,198
+<b><font face="Comic Sans MS">...and could swear I saw a bit
+of Polyjuice Potion.</font></b>
+
+982
+01:27:11,364 --> 01:27:13,700
+<b><font face="Comic Sans MS">Not being a bad boy again,
+are you, Harry?</font></b>
+
+983
+01:27:13,867 --> 01:27:15,619
+<b><font face="Comic Sans MS">Polyjuice Potion?</font></b>
+
+984
+01:27:16,411 --> 01:27:20,415
+<b><font face="Comic Sans MS">Kicked the habit. Myrtle, did you say,
+"Try putting it in the water"?</font></b>
+
+985
+01:27:27,255 --> 01:27:28,924
+<b><font face="Comic Sans MS">That's what he did.</font></b>
+
+986
+01:27:29,758 --> 01:27:31,426
+<b><font face="Comic Sans MS">The other boy...</font></b>
+
+987
+01:27:32,844 --> 01:27:34,930
+<b><font face="Comic Sans MS">...the handsome one...</font></b>
+
+988
+01:27:36,223 --> 01:27:37,557
+<b><font face="Comic Sans MS">...Cedric.</font></b>
+
+989
+01:27:40,852 --> 01:27:43,522
+<b><font face="Comic Sans MS">Well, go on. Open it.</font></b>
+
+990
+01:27:51,613 --> 01:27:56,618
+<b><font face="Comic Sans MS"><i>Come seek us
+Where our voices sound</i></font></b>
+
+991
+01:27:56,785 --> 01:28:01,456
+<b><font face="Comic Sans MS"><i>We cannot sing
+Above the ground</i></font></b>
+
+992
+01:28:01,623 --> 01:28:05,961
+<b><font face="Comic Sans MS"><i>An hour long you'll have to look</i></font></b>
+
+993
+01:28:06,753 --> 01:28:11,424
+<b><font face="Comic Sans MS"><i>To recover what we took</i></font></b>
+
+994
+01:28:19,599 --> 01:28:21,101
+<b><font face="Comic Sans MS">Myrtle...</font></b>
+
+995
+01:28:22,477 --> 01:28:25,939
+<b><font face="Comic Sans MS">...there aren't merpeople
+in the Black Lake, are there?</font></b>
+
+996
+01:28:26,815 --> 01:28:28,483
+<b><font face="Comic Sans MS">Very good.</font></b>
+
+997
+01:28:29,359 --> 01:28:33,738
+<b><font face="Comic Sans MS">It took Cedric ages to riddle it out.</font></b>
+
+998
+01:28:34,239 --> 01:28:37,993
+<b><font face="Comic Sans MS">Almost all the bubbles were gone.</font></b>
+
+999
+01:28:55,677 --> 01:28:57,637
+<b><font face="Comic Sans MS">Harry, tell me again.</font></b>
+
+1000
+01:28:59,347 --> 01:29:02,184
+<b><font face="Comic Sans MS">"Come seek us
+where our voices sound."</font></b>
+
+1001
+01:29:02,350 --> 01:29:04,895
+<b><font face="Comic Sans MS">The Black Lake, that's obvious.</font></b>
+
+1002
+01:29:05,854 --> 01:29:08,398
+<b><font face="Comic Sans MS">"An hour long you'll have to look."</font></b>
+
+1003
+01:29:08,565 --> 01:29:12,027
+<b><font face="Comic Sans MS">Again, obvious. Though, admittedly,
+potentially problematic.</font></b>
+
+1004
+01:29:13,403 --> 01:29:15,280
+<b><font face="Comic Sans MS">"Potentially problematic"?</font></b>
+
+1005
+01:29:15,447 --> 01:29:18,700
+<b><font face="Comic Sans MS">When's the last time you held your breath
+underwater for an hour, Hermione?</font></b>
+
+1006
+01:29:19,242 --> 01:29:23,580
+<b><font face="Comic Sans MS">Look, Harry, we can do this.
+The three of us can figure it out.</font></b>
+
+1007
+01:29:23,747 --> 01:29:26,249
+<b><font face="Comic Sans MS">Hate to break up the skull session.</font></b>
+
+1008
+01:29:26,416 --> 01:29:28,418
+<b><font face="Comic Sans MS">Professor McGonagall
+wants you in her office.</font></b>
+
+1009
+01:29:28,668 --> 01:29:31,046
+<b><font face="Comic Sans MS">Not you, Potter,
+just Weasley and Granger.</font></b>
+
+1010
+01:29:31,213 --> 01:29:33,882
+<b><font face="Comic Sans MS">But, sir, the second task
+is only hours away, and...</font></b>
+
+1011
+01:29:34,049 --> 01:29:36,676
+<b><font face="Comic Sans MS">Exactly. Presumably Potter
+is well prepared by now...</font></b>
+
+1012
+01:29:36,843 --> 01:29:38,720
+<b><font face="Comic Sans MS">...and could do with
+a good night's sleep.</font></b>
+
+1013
+01:29:38,887 --> 01:29:41,389
+<b><font face="Comic Sans MS">Go. Now!</font></b>
+
+1014
+01:29:51,358 --> 01:29:53,151
+<b><font face="Comic Sans MS">Longbottom!</font></b>
+
+1015
+01:29:53,318 --> 01:29:55,320
+<b><font face="Comic Sans MS">Why don't you help Potter
+put his books back.</font></b>
+
+1016
+01:30:03,995 --> 01:30:06,206
+<b><font face="Comic Sans MS">You know,
+if you're interested in plants...</font></b>
+
+1017
+01:30:06,373 --> 01:30:08,959
+<b><font face="Comic Sans MS"><i>...you'd be better off with
+Goshawk's Guide to Herbology.</i></font></b>
+
+1018
+01:30:09,584 --> 01:30:13,880
+<b><font face="Comic Sans MS">Do you know there's a wizard in Nepal
+who's growing gravity-resistant trees?</font></b>
+
+1019
+01:30:14,047 --> 01:30:17,801
+<b><font face="Comic Sans MS">Neville, no offense,
+but I really don't care...</font></b>
+
+1020
+01:30:18,426 --> 01:30:20,137
+<b><font face="Comic Sans MS">...about plants.</font></b>
+
+1021
+01:30:20,470 --> 01:30:22,180
+<b><font face="Comic Sans MS">Now, if there's...</font></b>
+
+1022
+01:30:22,347 --> 01:30:27,144
+<b><font face="Comic Sans MS">...a Tibetan turnip that will allow me
+to breathe underwater for an hour...</font></b>
+
+1023
+01:30:27,310 --> 01:30:29,813
+<b><font face="Comic Sans MS">...then great. But otherwise...</font></b>
+
+1024
+01:30:29,980 --> 01:30:33,775
+<b><font face="Comic Sans MS">I don't know about a turnip.
+But you could always use gillyweed.</font></b>
+
+1025
+01:30:35,026 --> 01:30:37,863
+<b><font face="Comic Sans MS">- Any bets? Any bets?
+- Come on, place your bets!</font></b>
+
+1026
+01:30:38,029 --> 01:30:39,489
+<b><font face="Comic Sans MS">Step up, mates! Don't be shy.</font></b>
+
+1027
+01:30:39,656 --> 01:30:41,116
+<b><font face="Comic Sans MS">- Three lads.
+- One lady.</font></b>
+
+1028
+01:30:41,283 --> 01:30:43,452
+<b><font face="Comic Sans MS">- Four go down.
+- But do four come up?</font></b>
+
+1029
+01:30:43,618 --> 01:30:45,120
+<b><font face="Comic Sans MS">Don't be so mean.</font></b>
+
+1030
+01:30:45,745 --> 01:30:47,539
+<b><font face="Comic Sans MS">- Any bets?
+- Fleur's 10-1.</font></b>
+
+1031
+01:30:49,749 --> 01:30:51,751
+<b><font face="Comic Sans MS">- You're sure about this, Neville?
+- Absolutely.</font></b>
+
+1032
+01:30:51,918 --> 01:30:53,837
+<b><font face="Comic Sans MS">- For an hour?
+- Most likely.</font></b>
+
+1033
+01:30:54,004 --> 01:30:55,505
+<b><font face="Comic Sans MS">Most likely?</font></b>
+
+1034
+01:30:55,672 --> 01:30:57,883
+<b><font face="Comic Sans MS">Well, there is some debate
+among herbologists...</font></b>
+
+1035
+01:30:58,049 --> 01:31:00,510
+<b><font face="Comic Sans MS">...as to the effects of fresh water
+versus salt water...</font></b>
+
+1036
+01:31:00,677 --> 01:31:03,346
+<b><font face="Comic Sans MS">You're telling me this now?
+You must be joking!</font></b>
+
+1037
+01:31:03,513 --> 01:31:05,474
+<b><font face="Comic Sans MS">I just wanted to help.</font></b>
+
+1038
+01:31:05,640 --> 01:31:08,769
+<b><font face="Comic Sans MS">Well, that makes you a right sight
+better than Ron and Hermione.</font></b>
+
+1039
+01:31:08,935 --> 01:31:10,687
+<b><font face="Comic Sans MS">Where are they anyway?</font></b>
+
+1040
+01:31:10,854 --> 01:31:13,899
+<b><font face="Comic Sans MS">- You seem a little tense, Harry.
+- Do I?</font></b>
+
+1041
+01:31:20,906 --> 01:31:23,158
+<b><font face="Comic Sans MS"><i>Welcome to the second task.</i></font></b>
+
+1042
+01:31:23,325 --> 01:31:26,995
+<b><font face="Comic Sans MS"><i>Last night, something was stolen
+from each of our champions.</i></font></b>
+
+1043
+01:31:27,162 --> 01:31:28,538
+<b><font face="Comic Sans MS"><i>A treasure of sorts.</i></font></b>
+
+1044
+01:31:28,705 --> 01:31:31,333
+<b><font face="Comic Sans MS"><i>These four treasures,
+one for each champion...</i></font></b>
+
+1045
+01:31:31,500 --> 01:31:34,211
+<b><font face="Comic Sans MS"><i>... now lie on the bottom
+of the Black Lake.</i></font></b>
+
+1046
+01:31:34,377 --> 01:31:35,962
+<b><font face="Comic Sans MS"><i>In order to win...</i></font></b>
+
+1047
+01:31:36,129 --> 01:31:39,966
+<b><font face="Comic Sans MS"><i>... each champion need only find
+their treasure and return to the surface.</i></font></b>
+
+1048
+01:31:40,133 --> 01:31:42,761
+<b><font face="Comic Sans MS"><i>- Simple enough, except for this:
+- Put that in your mouth.</i></font></b>
+
+1049
+01:31:42,928 --> 01:31:46,556
+<b><font face="Comic Sans MS"><i>They will have but one hour to do so,
+and one hour only.</i></font></b>
+
+1050
+01:31:46,723 --> 01:31:50,602
+<b><font face="Comic Sans MS"><i>After that, they'll be on their own.
+No magic will save them.</i></font></b>
+
+1051
+01:31:51,144 --> 01:31:53,396
+<b><font face="Comic Sans MS"><i>You may begin
+at the sound of the cannon.</i></font></b>
+
+1052
+01:32:19,923 --> 01:32:22,884
+<b><font face="Comic Sans MS">- What's the matter with him?
+- I don't know, I can't see him.</font></b>
+
+1053
+01:32:24,219 --> 01:32:27,139
+<b><font face="Comic Sans MS">Oh, my God.
+I've killed Harry Potter.</font></b>
+
+1054
+01:32:29,057 --> 01:32:30,934
+<b><font face="Comic Sans MS">Yeah!</font></b>
+
+1055
+01:32:32,102 --> 01:32:33,728
+<b><font face="Comic Sans MS">What?</font></b>
+
+1056
+01:33:53,308 --> 01:33:55,477
+<b><font face="Comic Sans MS"><i>The Beauxbatons champion,
+Miss Delacour...</i></font></b>
+
+1057
+01:33:55,644 --> 01:33:58,146
+<b><font face="Comic Sans MS"><i>... has unfortunately
+been forced to retire...</i></font></b>
+
+1058
+01:33:58,814 --> 01:34:01,900
+<b><font face="Comic Sans MS"><i>... so she will take no further part
+in this task.</i></font></b>
+
+1059
+01:35:19,686 --> 01:35:21,480
+<b><font face="Comic Sans MS">But she's my friend too!</font></b>
+
+1060
+01:35:23,106 --> 01:35:24,858
+<b><font face="Comic Sans MS">Only one!</font></b>
+
+1061
+01:36:16,201 --> 01:36:18,078
+<b><font face="Comic Sans MS">Let's get down below.</font></b>
+
+1062
+01:36:28,130 --> 01:36:30,966
+<b><font face="Comic Sans MS"><i>Krum! Krum! Krum!</i></font></b>
+
+1063
+01:37:28,440 --> 01:37:30,192
+<b><font face="Comic Sans MS">Yes!</font></b>
+
+1064
+01:37:48,293 --> 01:37:50,378
+<b><font face="Comic Sans MS"><i>Ascendio!</i></font></b>
+
+1065
+01:37:55,592 --> 01:37:57,302
+<b><font face="Comic Sans MS">Harry!</font></b>
+
+1066
+01:37:59,596 --> 01:38:01,056
+<b><font face="Comic Sans MS">He's all right.</font></b>
+
+1067
+01:38:02,265 --> 01:38:03,725
+<b><font face="Comic Sans MS">He's all right. Barty!</font></b>
+
+1068
+01:38:03,892 --> 01:38:07,312
+<b><font face="Comic Sans MS">- Go get him another towel.
+- I want all the judges over here now!</font></b>
+
+1069
+01:38:07,896 --> 01:38:11,358
+<b><font face="Comic Sans MS">You saved her, even though
+she wasn't yours to save.</font></b>
+
+1070
+01:38:12,067 --> 01:38:13,693
+<b><font face="Comic Sans MS">My little sister.</font></b>
+
+1071
+01:38:14,152 --> 01:38:15,737
+<b><font face="Comic Sans MS">Thank you.</font></b>
+
+1072
+01:38:16,530 --> 01:38:19,241
+<b><font face="Comic Sans MS">And you! You helped.</font></b>
+
+1073
+01:38:19,908 --> 01:38:22,911
+<b><font face="Comic Sans MS">Well, yeah, a bit.</font></b>
+
+1074
+01:38:30,127 --> 01:38:31,294
+<b><font face="Comic Sans MS">- Harry!
+- Hermione!</font></b>
+
+1075
+01:38:31,461 --> 01:38:34,131
+<b><font face="Comic Sans MS">Are you all right? You must be freezing.</font></b>
+
+1076
+01:38:35,382 --> 01:38:37,300
+<b><font face="Comic Sans MS">Personally, I think
+you behaved admirably.</font></b>
+
+1077
+01:38:37,467 --> 01:38:39,511
+<b><font face="Comic Sans MS">I finished last, Hermione.</font></b>
+
+1078
+01:38:40,345 --> 01:38:44,474
+<b><font face="Comic Sans MS">Next to last.
+Fleur never got past the Grindylows.</font></b>
+
+1079
+01:38:44,641 --> 01:38:47,894
+<b><font face="Comic Sans MS">Krum! Krum! Krum!</font></b>
+
+1080
+01:38:48,061 --> 01:38:50,939
+<b><font face="Comic Sans MS">- Come on! Come on!
+- Attention!</font></b>
+
+1081
+01:38:53,275 --> 01:38:55,902
+<b><font face="Comic Sans MS">Attention!</font></b>
+
+1082
+01:38:56,361 --> 01:39:00,240
+<b><font face="Comic Sans MS">The winner is Mr. Diggory...</font></b>
+
+1083
+01:39:00,657 --> 01:39:04,161
+<b><font face="Comic Sans MS">...who showed innate command
+of the Bubble-Head Charm.</font></b>
+
+1084
+01:39:04,327 --> 01:39:06,997
+<b><font face="Comic Sans MS">However, seeing as Mr. Potter
+would have finished first...</font></b>
+
+1085
+01:39:07,164 --> 01:39:12,127
+<b><font face="Comic Sans MS">...had it not been for his determination
+to rescue not only Mr. Weasley...</font></b>
+
+1086
+01:39:12,294 --> 01:39:16,590
+<b><font face="Comic Sans MS">...but the others as well,
+we've agreed to award him...</font></b>
+
+1087
+01:39:16,756 --> 01:39:18,758
+<b><font face="Comic Sans MS">...second place...</font></b>
+
+1088
+01:39:18,925 --> 01:39:20,385
+<b><font face="Comic Sans MS">- Second place!
+- Well done!</font></b>
+
+1089
+01:39:20,552 --> 01:39:23,221
+<b><font face="Comic Sans MS">...for outstanding moral fiber!</font></b>
+
+1090
+01:39:24,473 --> 01:39:26,016
+<b><font face="Comic Sans MS">Yes!</font></b>
+
+1091
+01:39:29,519 --> 01:39:31,313
+<b><font face="Comic Sans MS">- Right on.
+- All that moral fiber, eh?</font></b>
+
+1092
+01:39:31,480 --> 01:39:33,148
+<b><font face="Comic Sans MS">- It's great.
+- Moral fiber?</font></b>
+
+1093
+01:39:33,315 --> 01:39:35,650
+<b><font face="Comic Sans MS">Blimey. Even when you go wrong,
+it turns out right.</font></b>
+
+1094
+01:39:35,817 --> 01:39:38,487
+<b><font face="Comic Sans MS">- Yeah, well done, Moral Fiber.
+- Congratulations, Potter.</font></b>
+
+1095
+01:39:38,653 --> 01:39:40,322
+<b><font face="Comic Sans MS">- A fine achievement.
+- Thank you.</font></b>
+
+1096
+01:39:40,489 --> 01:39:42,032
+<b><font face="Comic Sans MS">Well done, boy.</font></b>
+
+1097
+01:39:42,199 --> 01:39:45,452
+<b><font face="Comic Sans MS">- See you at Hagrid's, Harry.
+- I'm sorry we haven't spoken.</font></b>
+
+1098
+01:39:45,619 --> 01:39:49,623
+<b><font face="Comic Sans MS">After all, your story is one
+I've heard so many times.</font></b>
+
+1099
+01:39:50,624 --> 01:39:54,085
+<b><font face="Comic Sans MS">Quite remarkable, really.
+Tragic, of course...</font></b>
+
+1100
+01:39:54,252 --> 01:39:56,213
+<b><font face="Comic Sans MS">...to lose one's family.</font></b>
+
+1101
+01:39:58,256 --> 01:40:00,425
+<b><font face="Comic Sans MS">Never whole again, are we?</font></b>
+
+1102
+01:40:02,677 --> 01:40:04,721
+<b><font face="Comic Sans MS">Still, life goes on...</font></b>
+
+1103
+01:40:05,430 --> 01:40:07,099
+<b><font face="Comic Sans MS">...and here we stand.</font></b>
+
+1104
+01:40:10,018 --> 01:40:12,687
+<b><font face="Comic Sans MS">I'm sure your parents would be
+very proud of you today, Potter.</font></b>
+
+1105
+01:40:12,854 --> 01:40:14,356
+<b><font face="Comic Sans MS">Bartemius!</font></b>
+
+1106
+01:40:14,523 --> 01:40:18,652
+<b><font face="Comic Sans MS">Not trying to lure Potter into one of the
+Ministry's summer internships, are we?</font></b>
+
+1107
+01:40:18,819 --> 01:40:22,239
+<b><font face="Comic Sans MS">The last boy who went into the
+Department of Mysteries never came out!</font></b>
+
+1108
+01:40:34,501 --> 01:40:36,378
+<b><font face="Comic Sans MS">And they say I'm mad.</font></b>
+
+1109
+01:40:45,679 --> 01:40:49,391
+<b><font face="Comic Sans MS">Now, I remember...
+I remember when I first met you all.</font></b>
+
+1110
+01:40:49,558 --> 01:40:52,561
+<b><font face="Comic Sans MS">Biggest bunch of misfits
+I ever set eyes on.</font></b>
+
+1111
+01:40:53,103 --> 01:40:55,689
+<b><font face="Comic Sans MS">Suppose you remind me
+of meself a little.</font></b>
+
+1112
+01:40:55,856 --> 01:40:59,901
+<b><font face="Comic Sans MS">- And here we all are, four years later.
+- We're still a bunch of misfits.</font></b>
+
+1113
+01:41:00,068 --> 01:41:03,405
+<b><font face="Comic Sans MS">Well, maybe,
+but we've all got each other.</font></b>
+
+1114
+01:41:03,572 --> 01:41:05,115
+<b><font face="Comic Sans MS">And Harry, of course.</font></b>
+
+1115
+01:41:05,282 --> 01:41:10,662
+<b><font face="Comic Sans MS">Soon to be the youngest
+Triwizard champion there's ever been!</font></b>
+
+1116
+01:41:10,871 --> 01:41:12,914
+<b><font face="Comic Sans MS">Hooray!</font></b>
+
+1117
+01:41:14,332 --> 01:41:16,835
+<b><font face="Comic Sans MS"><i>Hogwarts, Hogwarts
+Hoggy Warty Hogwarts</i></font></b>
+
+1118
+01:41:17,002 --> 01:41:19,629
+<b><font face="Comic Sans MS"><i>Teach us something, please</i></font></b>
+
+1119
+01:41:29,598 --> 01:41:31,099
+<b><font face="Comic Sans MS">Mr. Crouch?</font></b>
+
+1120
+01:41:38,190 --> 01:41:41,777
+<b><font face="Comic Sans MS">A man has died here, Fudge. And he
+won't be the last. You must take action.</font></b>
+
+1121
+01:41:41,943 --> 01:41:43,528
+<b><font face="Comic Sans MS">I will not.</font></b>
+
+1122
+01:41:43,695 --> 01:41:47,783
+<b><font face="Comic Sans MS">In times like these, the wizard world looks
+to its leaders for strength, Dumbledore!</font></b>
+
+1123
+01:41:47,949 --> 01:41:49,326
+<b><font face="Comic Sans MS">Then for once show them some!</font></b>
+
+1124
+01:41:49,493 --> 01:41:53,538
+<b><font face="Comic Sans MS">The Triwizard Tournament will not be
+canceled. I will not be seen as a coward!</font></b>
+
+1125
+01:41:53,705 --> 01:41:56,917
+<b><font face="Comic Sans MS">A true leader does what is right,
+no matter what others think.</font></b>
+
+1126
+01:41:57,083 --> 01:41:59,878
+<b><font face="Comic Sans MS">- What did you say to me?
+- Excuse me, gentlemen.</font></b>
+
+1127
+01:42:00,045 --> 01:42:03,715
+<b><font face="Comic Sans MS">It may interest you to know
+this conversation is no longer private.</font></b>
+
+1128
+01:42:08,053 --> 01:42:09,638
+<b><font face="Comic Sans MS">Oh, Harry!</font></b>
+
+1129
+01:42:09,805 --> 01:42:12,099
+<b><font face="Comic Sans MS">Harry, how good to see you again.</font></b>
+
+1130
+01:42:12,933 --> 01:42:14,434
+<b><font face="Comic Sans MS">I can come back later, professor.</font></b>
+
+1131
+01:42:14,601 --> 01:42:17,979
+<b><font face="Comic Sans MS">Not necessary, Harry. The minister and I
+are done. I'll be back in a moment.</font></b>
+
+1132
+01:42:18,146 --> 01:42:20,690
+<b><font face="Comic Sans MS">Minister, after you.</font></b>
+
+1133
+01:42:21,233 --> 01:42:23,235
+<b><font face="Comic Sans MS">There you are. Your hat.</font></b>
+
+1134
+01:42:23,401 --> 01:42:27,072
+<b><font face="Comic Sans MS">Oh, Harry, do feel free to indulge in
+a little Licorice Snap in my absence.</font></b>
+
+1135
+01:42:27,239 --> 01:42:30,408
+<b><font face="Comic Sans MS">But I have to warn you,
+they're a wee bit sharp.</font></b>
+
+1136
+01:44:01,917 --> 01:44:03,502
+<b><font face="Comic Sans MS">Professor?</font></b>
+
+1137
+01:44:03,668 --> 01:44:06,213
+<b><font face="Comic Sans MS">- Professor.
+- Yeah.</font></b>
+
+1138
+01:44:17,099 --> 01:44:20,894
+<b><font face="Comic Sans MS">Igor Karkaroff, you have been brought
+from Azkaban at your own request...</font></b>
+
+1139
+01:44:21,061 --> 01:44:22,979
+<b><font face="Comic Sans MS">...to present evidence to this council.</font></b>
+
+1140
+01:44:23,146 --> 01:44:25,857
+<b><font face="Comic Sans MS">Should your testimony
+prove consequential...</font></b>
+
+1141
+01:44:26,024 --> 01:44:30,112
+<b><font face="Comic Sans MS">...council may be prepared
+to order your immediate release.</font></b>
+
+1142
+01:44:30,278 --> 01:44:34,866
+<b><font face="Comic Sans MS">Until such time, you remain in the eyes
+of the Ministry a convicted Death Eater.</font></b>
+
+1143
+01:44:35,033 --> 01:44:36,660
+<b><font face="Comic Sans MS">Do you accept these terms?</font></b>
+
+1144
+01:44:37,285 --> 01:44:39,955
+<b><font face="Comic Sans MS">- I do, sir.
+- And what do you wish to present?</font></b>
+
+1145
+01:44:40,330 --> 01:44:42,791
+<b><font face="Comic Sans MS">I have names, sir.</font></b>
+
+1146
+01:44:43,333 --> 01:44:46,962
+<b><font face="Comic Sans MS">There was Rosier, Evan Rosier.</font></b>
+
+1147
+01:44:49,631 --> 01:44:52,134
+<b><font face="Comic Sans MS">- Rosier is dead.
+- He took a piece of me with him...</font></b>
+
+1148
+01:44:52,300 --> 01:44:54,428
+<b><font face="Comic Sans MS">...though, didn't he?
+- I didn't know.</font></b>
+
+1149
+01:44:54,636 --> 01:44:57,264
+<b><font face="Comic Sans MS">- Lf that is all the witness has to offer...
+- No, no, no.</font></b>
+
+1150
+01:44:57,431 --> 01:45:00,725
+<b><font face="Comic Sans MS">There was Rookwood! He was a spy.</font></b>
+
+1151
+01:45:00,892 --> 01:45:03,270
+<b><font face="Comic Sans MS">Augustus Rookwood?
+Of the Department of Mysteries?</font></b>
+
+1152
+01:45:03,437 --> 01:45:04,604
+<b><font face="Comic Sans MS">Yeah, the same.</font></b>
+
+1153
+01:45:04,771 --> 01:45:08,483
+<b><font face="Comic Sans MS">He passed information to You-Know-Who
+from inside the Ministry itself.</font></b>
+
+1154
+01:45:09,693 --> 01:45:12,988
+<b><font face="Comic Sans MS">Very well. Council will deliberate.</font></b>
+
+1155
+01:45:13,155 --> 01:45:15,115
+<b><font face="Comic Sans MS">In the meantime,
+you will return to Azkaban.</font></b>
+
+1156
+01:45:15,282 --> 01:45:19,995
+<b><font face="Comic Sans MS">No! Wait, please! Please, I have more!
+What about Snape? Severus Snape?</font></b>
+
+1157
+01:45:20,162 --> 01:45:23,165
+<b><font face="Comic Sans MS">As the council is aware,
+I've given evidence on this matter.</font></b>
+
+1158
+01:45:23,331 --> 01:45:27,294
+<b><font face="Comic Sans MS">Severus Snape was indeed a Death Eater
+and, prior to Lord Voldemort's downfall...</font></b>
+
+1159
+01:45:27,461 --> 01:45:30,464
+<b><font face="Comic Sans MS">...turned spy for us at great personal risk.
+- It's a lie!</font></b>
+
+1160
+01:45:30,630 --> 01:45:34,092
+<b><font face="Comic Sans MS">- Today he's no more a Death Eater than I.
+- Snape remains faithful to the Dark Lord!</font></b>
+
+1161
+01:45:34,259 --> 01:45:36,511
+<b><font face="Comic Sans MS">Silence!</font></b>
+
+1162
+01:45:37,137 --> 01:45:40,557
+<b><font face="Comic Sans MS">Unless the witness possesses
+any genuine name of consequence...</font></b>
+
+1163
+01:45:40,724 --> 01:45:42,851
+<b><font face="Comic Sans MS">...this session is now concluded.</font></b>
+
+1164
+01:45:43,018 --> 01:45:45,061
+<b><font face="Comic Sans MS">Oh, no, no, no.</font></b>
+
+1165
+01:45:46,021 --> 01:45:47,522
+<b><font face="Comic Sans MS">I've heard about one more.</font></b>
+
+1166
+01:45:47,689 --> 01:45:50,233
+<b><font face="Comic Sans MS">- What's that?
+- The name.</font></b>
+
+1167
+01:45:50,400 --> 01:45:51,860
+<b><font face="Comic Sans MS">- Yes?
+- I know for a fact...</font></b>
+
+1168
+01:45:52,027 --> 01:45:54,070
+<b><font face="Comic Sans MS">...this person took part
+in the capture...</font></b>
+
+1169
+01:45:54,237 --> 01:45:56,406
+<b><font face="Comic Sans MS">...and, by means
+of the Cruciatus Curse...</font></b>
+
+1170
+01:45:56,573 --> 01:46:00,076
+<b><font face="Comic Sans MS">...torture of the Auror Frank Longbottom
+and his wife!</font></b>
+
+1171
+01:46:00,243 --> 01:46:02,579
+<b><font face="Comic Sans MS">The name.
+Give me the wretched name!</font></b>
+
+1172
+01:46:02,746 --> 01:46:05,290
+<b><font face="Comic Sans MS">Barty Crouch...</font></b>
+
+1173
+01:46:08,001 --> 01:46:09,044
+<b><font face="Comic Sans MS">...Junior.</font></b>
+
+1174
+01:46:18,512 --> 01:46:20,222
+<b><font face="Comic Sans MS">Hold him down!</font></b>
+
+1175
+01:46:23,850 --> 01:46:27,479
+<b><font face="Comic Sans MS">Get your filthy hands off me,
+you pathetic little men!</font></b>
+
+1176
+01:46:29,189 --> 01:46:30,774
+<b><font face="Comic Sans MS">Hello, Father.</font></b>
+
+1177
+01:46:32,192 --> 01:46:34,236
+<b><font face="Comic Sans MS">You are no son of mine.</font></b>
+
+1178
+01:46:45,580 --> 01:46:50,043
+<b><font face="Comic Sans MS">Curiosity is not a sin, Harry.
+But you should exercise caution.</font></b>
+
+1179
+01:46:51,419 --> 01:46:52,796
+<b><font face="Comic Sans MS">It's a Pensieve.</font></b>
+
+1180
+01:46:52,963 --> 01:46:57,634
+<b><font face="Comic Sans MS">Very useful if, like me,
+you find your mind a wee bit stretched.</font></b>
+
+1181
+01:46:57,801 --> 01:47:01,346
+<b><font face="Comic Sans MS">It allows me to see once more
+things I've already seen.</font></b>
+
+1182
+01:47:01,805 --> 01:47:04,766
+<b><font face="Comic Sans MS">You see, Harry, I have searched
+and searched for something...</font></b>
+
+1183
+01:47:04,933 --> 01:47:06,518
+<b><font face="Comic Sans MS">...some small detail...</font></b>
+
+1184
+01:47:07,936 --> 01:47:10,063
+<b><font face="Comic Sans MS">...something I might have overlooked...</font></b>
+
+1185
+01:47:10,230 --> 01:47:14,443
+<b><font face="Comic Sans MS">...something that would explain why
+these terrible things have happened.</font></b>
+
+1186
+01:47:15,235 --> 01:47:19,114
+<b><font face="Comic Sans MS">Every time I get close to an answer,
+it slips away.</font></b>
+
+1187
+01:47:20,157 --> 01:47:21,783
+<b><font face="Comic Sans MS">It's maddening.</font></b>
+
+1188
+01:47:24,161 --> 01:47:25,871
+<b><font face="Comic Sans MS">Sir? Mr. Crouch's son.</font></b>
+
+1189
+01:47:26,621 --> 01:47:28,707
+<b><font face="Comic Sans MS">What exactly happened to him?</font></b>
+
+1190
+01:47:28,874 --> 01:47:33,670
+<b><font face="Comic Sans MS">He was sent to Azkaban.
+Destroyed Barty to do it.</font></b>
+
+1191
+01:47:34,337 --> 01:47:37,966
+<b><font face="Comic Sans MS">But he had no choice.
+The evidence was overwhelming.</font></b>
+
+1192
+01:47:39,426 --> 01:47:42,387
+<b><font face="Comic Sans MS">- Why do you ask?
+- It's just that I...</font></b>
+
+1193
+01:47:43,138 --> 01:47:45,265
+<b><font face="Comic Sans MS">I had a dream about him.</font></b>
+
+1194
+01:47:47,517 --> 01:47:50,312
+<b><font face="Comic Sans MS">It was in the summer, before school.</font></b>
+
+1195
+01:47:52,481 --> 01:47:55,484
+<b><font face="Comic Sans MS"><i>In the dream, I was in a house.</i></font></b>
+
+1196
+01:47:55,650 --> 01:48:00,447
+<b><font face="Comic Sans MS"><i>And Voldemort was there,
+only he wasn 't quite human.</i></font></b>
+
+1197
+01:48:00,614 --> 01:48:04,242
+<b><font face="Comic Sans MS"><i>And Wormtail was there too.
+And Mr. Crouch 's son.</i></font></b>
+
+1198
+01:48:04,618 --> 01:48:07,454
+<b><font face="Comic Sans MS"><i>- Have there been others like this dream?
+- Yes.</i></font></b>
+
+1199
+01:48:08,288 --> 01:48:09,915
+<b><font face="Comic Sans MS">Always the same one.</font></b>
+
+1200
+01:48:12,959 --> 01:48:15,295
+<b><font face="Comic Sans MS">Sir, these dreams...</font></b>
+
+1201
+01:48:15,462 --> 01:48:20,675
+<b><font face="Comic Sans MS">...what I see, you don't think
+it's actually happening, do you?</font></b>
+
+1202
+01:48:22,260 --> 01:48:25,263
+<b><font face="Comic Sans MS">I think it's unwise for you
+to linger over these dreams, Harry.</font></b>
+
+1203
+01:48:25,764 --> 01:48:27,724
+<b><font face="Comic Sans MS">I think it's best if you simply...</font></b>
+
+1204
+01:48:33,355 --> 01:48:35,148
+<b><font face="Comic Sans MS">...cast them away.</font></b>
+
+1205
+01:48:44,407 --> 01:48:48,370
+<b><font face="Comic Sans MS">It's a sign, Severus.
+You know what it means as well as I.</font></b>
+
+1206
+01:48:57,087 --> 01:48:58,296
+<b><font face="Comic Sans MS">Potter!</font></b>
+
+1207
+01:48:58,463 --> 01:49:01,007
+<b><font face="Comic Sans MS">What's your hurry?</font></b>
+
+1208
+01:49:06,096 --> 01:49:09,891
+<b><font face="Comic Sans MS">Congratulations, your performance
+in the Black Lake was inspiring.</font></b>
+
+1209
+01:49:10,058 --> 01:49:12,310
+<b><font face="Comic Sans MS">Gillyweed, am I correct?</font></b>
+
+1210
+01:49:13,061 --> 01:49:14,604
+<b><font face="Comic Sans MS">Yes, sir.</font></b>
+
+1211
+01:49:15,564 --> 01:49:16,940
+<b><font face="Comic Sans MS">Ingenious.</font></b>
+
+1212
+01:49:18,775 --> 01:49:22,737
+<b><font face="Comic Sans MS">A rather rare herb, gillyweed.</font></b>
+
+1213
+01:49:23,572 --> 01:49:27,075
+<b><font face="Comic Sans MS">Not something found
+in your everyday garden.</font></b>
+
+1214
+01:49:28,743 --> 01:49:30,704
+<b><font face="Comic Sans MS">Nor is this.</font></b>
+
+1215
+01:49:34,916 --> 01:49:36,585
+<b><font face="Comic Sans MS">Know what it is?</font></b>
+
+1216
+01:49:37,878 --> 01:49:39,296
+<b><font face="Comic Sans MS">Bubble juice, sir?</font></b>
+
+1217
+01:49:39,880 --> 01:49:41,757
+<b><font face="Comic Sans MS">Veritaserum.</font></b>
+
+1218
+01:49:42,507 --> 01:49:46,219
+<b><font face="Comic Sans MS">Three drops of this and You-Know-Who
+himself would spill his darkest secrets.</font></b>
+
+1219
+01:49:46,386 --> 01:49:51,558
+<b><font face="Comic Sans MS">The use of it on a student is,
+regrettably, forbidden. However...</font></b>
+
+1220
+01:49:52,225 --> 01:49:55,270
+<b><font face="Comic Sans MS">...should you ever steal
+from my personal stores again...</font></b>
+
+1221
+01:49:55,437 --> 01:50:00,275
+<b><font face="Comic Sans MS">...my hand might just slip over
+your morning pumpkin juice.</font></b>
+
+1222
+01:50:00,442 --> 01:50:04,863
+<b><font face="Comic Sans MS">- I haven't stolen anything.
+- Don't lie to me.</font></b>
+
+1223
+01:50:05,989 --> 01:50:11,703
+<b><font face="Comic Sans MS">Gillyweed may be innocuous,
+but boomslang skin, lacewing flies?</font></b>
+
+1224
+01:50:12,412 --> 01:50:15,749
+<b><font face="Comic Sans MS">You and your little friends are brewing
+Polyjuice Potion, and believe me...</font></b>
+
+1225
+01:50:15,916 --> 01:50:18,126
+<b><font face="Comic Sans MS">...I'm going to find out why!</font></b>
+
+1226
+01:50:44,945 --> 01:50:46,530
+<b><font face="Comic Sans MS">- Yeah!
+- Yeah!</font></b>
+
+1227
+01:51:05,715 --> 01:51:07,259
+<b><font face="Comic Sans MS"><i>Sonorus!</i></font></b>
+
+1228
+01:51:11,513 --> 01:51:16,852
+<b><font face="Comic Sans MS">Earlier today, Professor Moody placed
+the Triwizard Cup deep within the maze.</font></b>
+
+1229
+01:51:17,018 --> 01:51:21,982
+<b><font face="Comic Sans MS">Only he knows its exact position.
+Now, as Mr. Diggory...</font></b>
+
+1230
+01:51:24,067 --> 01:51:25,861
+<b><font face="Comic Sans MS">...and Mr. Potter...</font></b>
+
+1231
+01:51:27,737 --> 01:51:29,489
+<b><font face="Comic Sans MS">...are tied for first position...</font></b>
+
+1232
+01:51:29,656 --> 01:51:33,785
+<b><font face="Comic Sans MS">...they will be the first to enter the maze,
+followed by Mr. Krum...</font></b>
+
+1233
+01:51:35,036 --> 01:51:38,498
+<b><font face="Comic Sans MS">...and Miss Delacour.
+- Come on! Krum! Krum! Krum!</font></b>
+
+1234
+01:51:39,416 --> 01:51:42,461
+<b><font face="Comic Sans MS">The first person to touch the cup
+will be the winner!</font></b>
+
+1235
+01:51:46,798 --> 01:51:49,551
+<b><font face="Comic Sans MS">I've instructed the staff
+to patrol the perimeter.</font></b>
+
+1236
+01:51:49,718 --> 01:51:52,637
+<b><font face="Comic Sans MS">Should, at any point, a contestant wish
+to withdraw from the task...</font></b>
+
+1237
+01:51:52,804 --> 01:51:57,309
+<b><font face="Comic Sans MS">...he or she need only send up
+red sparks with their wands.</font></b>
+
+1238
+01:51:57,642 --> 01:52:01,563
+<b><font face="Comic Sans MS">Contestants! Gather around. Quickly!</font></b>
+
+1239
+01:52:04,691 --> 01:52:09,029
+<b><font face="Comic Sans MS">In the maze, you'll find no dragons
+or creatures of the deep.</font></b>
+
+1240
+01:52:09,196 --> 01:52:12,574
+<b><font face="Comic Sans MS">Instead, you'll face something
+even more challenging.</font></b>
+
+1241
+01:52:12,741 --> 01:52:15,744
+<b><font face="Comic Sans MS">You see, people change in the maze.</font></b>
+
+1242
+01:52:15,911 --> 01:52:17,621
+<b><font face="Comic Sans MS">Oh, find the cup if you can.</font></b>
+
+1243
+01:52:17,788 --> 01:52:22,584
+<b><font face="Comic Sans MS">But be very wary, you could just
+lose yourselves along the way.</font></b>
+
+1244
+01:52:24,044 --> 01:52:27,047
+<b><font face="Comic Sans MS">Champions, prepare yourselves!</font></b>
+
+1245
+01:52:36,098 --> 01:52:37,557
+<b><font face="Comic Sans MS">Good luck.</font></b>
+
+1246
+01:52:37,933 --> 01:52:39,893
+<b><font face="Comic Sans MS">- My boy.
+- See you later, Dad.</font></b>
+
+1247
+01:52:42,270 --> 01:52:44,856
+<b><font face="Comic Sans MS">On the count of three. One...</font></b>
+
+1248
+01:56:12,647 --> 01:56:13,857
+<b><font face="Comic Sans MS">Fleur?</font></b>
+
+1249
+01:56:15,525 --> 01:56:16,985
+<b><font face="Comic Sans MS">Fleur.</font></b>
+
+1250
+01:56:20,530 --> 01:56:22,365
+<b><font face="Comic Sans MS"><i>Periculum!</i></font></b>
+
+1251
+01:57:01,029 --> 01:57:02,531
+<b><font face="Comic Sans MS">Get down!</font></b>
+
+1252
+01:57:03,073 --> 01:57:04,825
+<b><font face="Comic Sans MS">Get down!</font></b>
+
+1253
+01:57:05,450 --> 01:57:06,701
+<b><font face="Comic Sans MS"><i>Expelliarmus!</i></font></b>
+
+1254
+01:57:16,294 --> 01:57:19,506
+<b><font face="Comic Sans MS">No, don't! Stop!
+He's bewitched, Cedric!</font></b>
+
+1255
+01:57:19,673 --> 01:57:21,716
+<b><font face="Comic Sans MS">- Get off me!
+- He's bewitched!</font></b>
+
+1256
+01:57:33,395 --> 01:57:35,063
+<b><font face="Comic Sans MS">Yes.</font></b>
+
+1257
+01:57:55,917 --> 01:57:57,711
+<b><font face="Comic Sans MS">Harry!</font></b>
+
+1258
+01:58:00,046 --> 01:58:01,673
+<b><font face="Comic Sans MS">Harry!</font></b>
+
+1259
+01:58:04,050 --> 01:58:05,469
+<b><font face="Comic Sans MS">Harry!</font></b>
+
+1260
+01:58:07,929 --> 01:58:09,514
+<b><font face="Comic Sans MS">Harry!</font></b>
+
+1261
+01:58:11,516 --> 01:58:13,268
+<b><font face="Comic Sans MS"><i>Reducto!</i></font></b>
+
+1262
+01:58:30,076 --> 01:58:32,579
+<b><font face="Comic Sans MS">- Thanks.
+- No problem.</font></b>
+
+1263
+01:58:32,954 --> 01:58:37,667
+<b><font face="Comic Sans MS">You know, for a moment there,
+I thought you were gonna let it get me.</font></b>
+
+1264
+01:58:37,834 --> 01:58:39,586
+<b><font face="Comic Sans MS">For a moment, so did I.</font></b>
+
+1265
+01:58:41,463 --> 01:58:42,631
+<b><font face="Comic Sans MS">Some game, huh?</font></b>
+
+1266
+01:58:43,632 --> 01:58:45,050
+<b><font face="Comic Sans MS">Some game.</font></b>
+
+1267
+01:58:50,472 --> 01:58:52,140
+<b><font face="Comic Sans MS">Go!</font></b>
+
+1268
+01:59:02,275 --> 01:59:05,320
+<b><font face="Comic Sans MS">Go on, take it.
+You saved me, take it!</font></b>
+
+1269
+01:59:05,487 --> 01:59:07,489
+<b><font face="Comic Sans MS">- Together. One, two...
+- Two...</font></b>
+
+1270
+01:59:07,656 --> 01:59:08,865
+<b><font face="Comic Sans MS">...three!
+...three!</font></b>
+
+1271
+01:59:21,378 --> 01:59:24,256
+<b><font face="Comic Sans MS">- You okay?
+- Yeah. You?</font></b>
+
+1272
+01:59:31,346 --> 01:59:32,681
+<b><font face="Comic Sans MS">Where are we?</font></b>
+
+1273
+01:59:38,353 --> 01:59:40,021
+<b><font face="Comic Sans MS">I've been here before.</font></b>
+
+1274
+01:59:43,650 --> 01:59:45,235
+<b><font face="Comic Sans MS">It's a Portkey.</font></b>
+
+1275
+01:59:47,070 --> 01:59:51,283
+<b><font face="Comic Sans MS">- Harry, the cup is a Portkey.
+- I've been here before, in a dream.</font></b>
+
+1276
+01:59:53,368 --> 01:59:56,746
+<b><font face="Comic Sans MS">Cedric! We have to get back
+to the cup. Now!</font></b>
+
+1277
+01:59:56,913 --> 01:59:58,874
+<b><font face="Comic Sans MS">What are you talking about?</font></b>
+
+1278
+02:00:04,129 --> 02:00:07,048
+<b><font face="Comic Sans MS">- Harry! What is it?
+- Get back to the cup!</font></b>
+
+1279
+02:00:14,681 --> 02:00:17,017
+<b><font face="Comic Sans MS">- Who are you? What do you want?
+- Kill the spare.</font></b>
+
+1280
+02:00:17,184 --> 02:00:19,936
+<b><font face="Comic Sans MS"><i>- Avada Kedavra!
+- No! Cedric!</i></font></b>
+
+1281
+02:00:31,239 --> 02:00:33,116
+<b><font face="Comic Sans MS">Do it! Now!</font></b>
+
+1282
+02:00:45,087 --> 02:00:47,589
+<b><font face="Comic Sans MS">Bone of the father...</font></b>
+
+1283
+02:00:47,756 --> 02:00:50,675
+<b><font face="Comic Sans MS">...unwillingly given.</font></b>
+
+1284
+02:00:57,516 --> 02:01:00,560
+<b><font face="Comic Sans MS">Flesh of the servant...</font></b>
+
+1285
+02:01:02,604 --> 02:01:05,774
+<b><font face="Comic Sans MS">...willingly sacrificed.</font></b>
+
+1286
+02:01:09,861 --> 02:01:13,615
+<b><font face="Comic Sans MS">And blood of the enemy...</font></b>
+
+1287
+02:01:19,412 --> 02:01:21,915
+<b><font face="Comic Sans MS">...forcibly taken.</font></b>
+
+1288
+02:01:27,963 --> 02:01:30,924
+<b><font face="Comic Sans MS">The Dark Lord shall rise...</font></b>
+
+1289
+02:01:31,675 --> 02:01:33,635
+<b><font face="Comic Sans MS">...again.</font></b>
+
+1290
+02:02:37,032 --> 02:02:40,410
+<b><font face="Comic Sans MS">My wand, Wormtail.</font></b>
+
+1291
+02:02:49,961 --> 02:02:51,922
+<b><font face="Comic Sans MS">Hold out your arm.</font></b>
+
+1292
+02:02:52,089 --> 02:02:53,715
+<b><font face="Comic Sans MS">Master.</font></b>
+
+1293
+02:02:53,882 --> 02:02:56,510
+<b><font face="Comic Sans MS">Thank you, master.</font></b>
+
+1294
+02:02:56,676 --> 02:02:58,136
+<b><font face="Comic Sans MS">The other arm, Wormtail.</font></b>
+
+1295
+02:03:38,760 --> 02:03:40,679
+<b><font face="Comic Sans MS">Welcome, my friends.</font></b>
+
+1296
+02:03:42,097 --> 02:03:44,850
+<b><font face="Comic Sans MS">Thirteen years it's been, and yet...</font></b>
+
+1297
+02:03:45,475 --> 02:03:50,981
+<b><font face="Comic Sans MS">...here you stand before me
+as though it were only yesterday.</font></b>
+
+1298
+02:03:51,940 --> 02:03:54,860
+<b><font face="Comic Sans MS">I confess myself...</font></b>
+
+1299
+02:03:55,318 --> 02:03:56,903
+<b><font face="Comic Sans MS">...disappointed.</font></b>
+
+1300
+02:03:57,571 --> 02:03:59,656
+<b><font face="Comic Sans MS">Not one of you tried to find me.</font></b>
+
+1301
+02:03:59,823 --> 02:04:03,201
+<b><font face="Comic Sans MS">Crabbe! Macnair!</font></b>
+
+1302
+02:04:04,119 --> 02:04:05,454
+<b><font face="Comic Sans MS">Goyle!</font></b>
+
+1303
+02:04:07,956 --> 02:04:09,583
+<b><font face="Comic Sans MS">Not even you...</font></b>
+
+1304
+02:04:13,462 --> 02:04:15,380
+<b><font face="Comic Sans MS">...Lucius.</font></b>
+
+1305
+02:04:17,215 --> 02:04:22,053
+<b><font face="Comic Sans MS">My Lord, had I detected any sign,
+a whisper of your whereabouts...</font></b>
+
+1306
+02:04:22,220 --> 02:04:25,223
+<b><font face="Comic Sans MS">There were signs, my slippery friend.
+And more than whispers.</font></b>
+
+1307
+02:04:25,390 --> 02:04:30,562
+<b><font face="Comic Sans MS">I assure you, my Lord,
+I have never renounced the old ways.</font></b>
+
+1308
+02:04:32,272 --> 02:04:37,903
+<b><font face="Comic Sans MS">The face I have been obliged to present
+each day since your absence...</font></b>
+
+1309
+02:04:39,905 --> 02:04:42,532
+<b><font face="Comic Sans MS">...that is my true mask.</font></b>
+
+1310
+02:04:42,908 --> 02:04:44,493
+<b><font face="Comic Sans MS">I returned.</font></b>
+
+1311
+02:04:46,953 --> 02:04:50,832
+<b><font face="Comic Sans MS">Out of fear, not loyalty.</font></b>
+
+1312
+02:04:52,000 --> 02:04:57,756
+<b><font face="Comic Sans MS">Still, you have proved yourself useful
+these past few months, Wormtail.</font></b>
+
+1313
+02:05:02,969 --> 02:05:05,305
+<b><font face="Comic Sans MS">Thank you, master.</font></b>
+
+1314
+02:05:05,889 --> 02:05:07,641
+<b><font face="Comic Sans MS">Thank you.</font></b>
+
+1315
+02:05:10,727 --> 02:05:13,105
+<b><font face="Comic Sans MS">- Such a handsome boy.
+- Don't touch him!</font></b>
+
+1316
+02:05:14,564 --> 02:05:16,066
+<b><font face="Comic Sans MS">Harry.</font></b>
+
+1317
+02:05:16,233 --> 02:05:19,027
+<b><font face="Comic Sans MS">I'd almost forgotten you were here.</font></b>
+
+1318
+02:05:19,194 --> 02:05:23,615
+<b><font face="Comic Sans MS">Standing on the bones
+of my father. Yeah.</font></b>
+
+1319
+02:05:23,782 --> 02:05:25,158
+<b><font face="Comic Sans MS">I'd introduce you...</font></b>
+
+1320
+02:05:25,325 --> 02:05:29,621
+<b><font face="Comic Sans MS">...but word has it you're almost
+as famous as me these days.</font></b>
+
+1321
+02:05:32,290 --> 02:05:34,960
+<b><font face="Comic Sans MS">The boy who lived.</font></b>
+
+1322
+02:05:35,127 --> 02:05:38,046
+<b><font face="Comic Sans MS">How lies have fed your legend, Harry.</font></b>
+
+1323
+02:05:38,213 --> 02:05:42,217
+<b><font face="Comic Sans MS">Shall I reveal what really happened
+that night 13 years ago?</font></b>
+
+1324
+02:05:42,384 --> 02:05:47,097
+<b><font face="Comic Sans MS">Shall I divulge how
+I truly lost my powers?</font></b>
+
+1325
+02:05:47,264 --> 02:05:48,765
+<b><font face="Comic Sans MS">Yes, shall I?</font></b>
+
+1326
+02:05:49,224 --> 02:05:50,559
+<b><font face="Comic Sans MS">It was love.</font></b>
+
+1327
+02:05:50,725 --> 02:05:55,230
+<b><font face="Comic Sans MS">You see, when dear, sweet Lily Potter
+gave her life for her only son...</font></b>
+
+1328
+02:05:55,397 --> 02:05:57,983
+<b><font face="Comic Sans MS">...she provided the ultimate protection.</font></b>
+
+1329
+02:05:58,400 --> 02:06:00,193
+<b><font face="Comic Sans MS">I could not touch him.</font></b>
+
+1330
+02:06:01,403 --> 02:06:03,572
+<b><font face="Comic Sans MS">It was old magic.</font></b>
+
+1331
+02:06:03,738 --> 02:06:05,991
+<b><font face="Comic Sans MS">Something I should have foreseen.</font></b>
+
+1332
+02:06:06,158 --> 02:06:07,951
+<b><font face="Comic Sans MS">But no matter, no matter.</font></b>
+
+1333
+02:06:08,118 --> 02:06:10,328
+<b><font face="Comic Sans MS">Things have changed.</font></b>
+
+1334
+02:06:11,079 --> 02:06:14,583
+<b><font face="Comic Sans MS">I can touch you...</font></b>
+
+1335
+02:06:15,208 --> 02:06:16,918
+<b><font face="Comic Sans MS">...now.</font></b>
+
+1336
+02:06:25,093 --> 02:06:26,428
+<b><font face="Comic Sans MS">Yeah.</font></b>
+
+1337
+02:06:32,768 --> 02:06:36,438
+<b><font face="Comic Sans MS">Astonishing what a few drops
+of your blood will do, eh, Harry?</font></b>
+
+1338
+02:06:37,647 --> 02:06:39,316
+<b><font face="Comic Sans MS">Pick up your wand, Potter.</font></b>
+
+1339
+02:06:40,942 --> 02:06:43,153
+<b><font face="Comic Sans MS">I said, pick it up! Get up! Get up!</font></b>
+
+1340
+02:06:44,780 --> 02:06:47,073
+<b><font face="Comic Sans MS">You've been taught how to duel,
+I presume, yes?</font></b>
+
+1341
+02:06:47,240 --> 02:06:49,659
+<b><font face="Comic Sans MS">First, we bow to each other.</font></b>
+
+1342
+02:06:49,826 --> 02:06:52,245
+<b><font face="Comic Sans MS">Come on, now, Harry.
+The niceties must be observed.</font></b>
+
+1343
+02:06:52,412 --> 02:06:55,624
+<b><font face="Comic Sans MS">Dumbledore wouldn't want you
+to forget your manners, would he?</font></b>
+
+1344
+02:06:55,791 --> 02:06:57,125
+<b><font face="Comic Sans MS">I said, bow.</font></b>
+
+1345
+02:06:58,960 --> 02:07:03,298
+<b><font face="Comic Sans MS">- That's better. And now...
+- No.</font></b>
+
+1346
+02:07:03,715 --> 02:07:05,592
+<b><font face="Comic Sans MS"><i>Crucio!</i></font></b>
+
+1347
+02:07:08,053 --> 02:07:09,805
+<b><font face="Comic Sans MS"><i>Crucio!</i></font></b>
+
+1348
+02:07:10,847 --> 02:07:12,808
+<b><font face="Comic Sans MS">Attaboy, Harry.</font></b>
+
+1349
+02:07:12,974 --> 02:07:15,102
+<b><font face="Comic Sans MS">Your parents would be proud.</font></b>
+
+1350
+02:07:15,393 --> 02:07:18,814
+<b><font face="Comic Sans MS">Especially your filthy Muggle mother.</font></b>
+
+1351
+02:07:18,980 --> 02:07:20,565
+<b><font face="Comic Sans MS"><i>Expelliar...</i></font></b>
+
+1352
+02:07:23,568 --> 02:07:25,987
+<b><font face="Comic Sans MS">I'm going to kill you, Harry Potter.</font></b>
+
+1353
+02:07:26,154 --> 02:07:28,156
+<b><font face="Comic Sans MS">I'm going to destroy you.</font></b>
+
+1354
+02:07:30,325 --> 02:07:35,914
+<b><font face="Comic Sans MS">After tonight, no one will ever again
+question my powers.</font></b>
+
+1355
+02:07:36,540 --> 02:07:39,126
+<b><font face="Comic Sans MS">After tonight, if they speak of you...</font></b>
+
+1356
+02:07:39,292 --> 02:07:41,962
+<b><font face="Comic Sans MS">...they'll speak only of how you...</font></b>
+
+1357
+02:07:42,254 --> 02:07:44,089
+<b><font face="Comic Sans MS">...begged for death.</font></b>
+
+1358
+02:07:44,256 --> 02:07:48,009
+<b><font face="Comic Sans MS">And I, being a merciful Lord...</font></b>
+
+1359
+02:07:48,552 --> 02:07:50,178
+<b><font face="Comic Sans MS">...obliged.</font></b>
+
+1360
+02:07:50,512 --> 02:07:52,013
+<b><font face="Comic Sans MS">Get up!</font></b>
+
+1361
+02:07:57,018 --> 02:07:58,979
+<b><font face="Comic Sans MS">Don't you turn your back on me,
+Harry Potter!</font></b>
+
+1362
+02:07:59,146 --> 02:08:01,398
+<b><font face="Comic Sans MS">I want you to look at me
+when I kill you!</font></b>
+
+1363
+02:08:01,565 --> 02:08:04,776
+<b><font face="Comic Sans MS">I want to see the light
+leave your eyes!</font></b>
+
+1364
+02:08:18,707 --> 02:08:20,459
+<b><font face="Comic Sans MS">Have it your way.</font></b>
+
+1365
+02:08:21,501 --> 02:08:23,879
+<b><font face="Comic Sans MS"><i>- Expelliarmus!
+- Avada Kedavra!</i></font></b>
+
+1366
+02:08:41,396 --> 02:08:44,065
+<b><font face="Comic Sans MS">Do nothing! He's mine to finish!</font></b>
+
+1367
+02:08:48,653 --> 02:08:50,363
+<b><font face="Comic Sans MS">He's mine!</font></b>
+
+1368
+02:09:23,438 --> 02:09:27,442
+<b><font face="Comic Sans MS">Harry, when the connection is broken,
+you must get to the Portkey.</font></b>
+
+1369
+02:09:27,609 --> 02:09:29,653
+<b><font face="Comic Sans MS">We can linger for a moment
+to give you some time...</font></b>
+
+1370
+02:09:29,820 --> 02:09:31,613
+<b><font face="Comic Sans MS">...but only a moment.
+Do you understand?</font></b>
+
+1371
+02:09:32,781 --> 02:09:35,826
+<b><font face="Comic Sans MS">Harry, take my body back, will you?</font></b>
+
+1372
+02:09:35,992 --> 02:09:38,537
+<b><font face="Comic Sans MS">Take my body back to my father.</font></b>
+
+1373
+02:09:39,579 --> 02:09:40,914
+<b><font face="Comic Sans MS">Let go.</font></b>
+
+1374
+02:09:41,373 --> 02:09:43,333
+<b><font face="Comic Sans MS">Sweetheart, you're ready.</font></b>
+
+1375
+02:09:44,167 --> 02:09:46,795
+<b><font face="Comic Sans MS">Let go! Let go!</font></b>
+
+1376
+02:09:52,551 --> 02:09:53,927
+<b><font face="Comic Sans MS"><i>Accio!</i></font></b>
+
+1377
+02:09:59,641 --> 02:10:01,643
+<b><font face="Comic Sans MS">No!</font></b>
+
+1378
+02:10:14,364 --> 02:10:15,991
+<b><font face="Comic Sans MS">He did it!</font></b>
+
+1379
+02:10:17,200 --> 02:10:18,869
+<b><font face="Comic Sans MS">Harry!</font></b>
+
+1380
+02:10:21,663 --> 02:10:23,165
+<b><font face="Comic Sans MS">Harry!</font></b>
+
+1381
+02:10:24,332 --> 02:10:27,586
+<b><font face="Comic Sans MS">No! No! No, don't!</font></b>
+
+1382
+02:10:27,878 --> 02:10:29,755
+<b><font face="Comic Sans MS">For God's sake, Dumbledore,
+what's happened?</font></b>
+
+1383
+02:10:30,046 --> 02:10:32,632
+<b><font face="Comic Sans MS">He's back. He's back.</font></b>
+
+1384
+02:10:32,799 --> 02:10:34,843
+<b><font face="Comic Sans MS">Voldemort's back.</font></b>
+
+1385
+02:10:35,010 --> 02:10:37,387
+<b><font face="Comic Sans MS">Cedric, he asked me
+to bring his body back.</font></b>
+
+1386
+02:10:37,554 --> 02:10:39,890
+<b><font face="Comic Sans MS">I couldn't leave him, not there.</font></b>
+
+1387
+02:10:40,056 --> 02:10:42,851
+<b><font face="Comic Sans MS">It's all right, Harry. It's all right.</font></b>
+
+1388
+02:10:43,018 --> 02:10:45,353
+<b><font face="Comic Sans MS">He's home. You both are.</font></b>
+
+1389
+02:10:45,520 --> 02:10:49,149
+<b><font face="Comic Sans MS">Keep everybody in their seats.
+A boy has just been killed.</font></b>
+
+1390
+02:10:52,194 --> 02:10:55,822
+<b><font face="Comic Sans MS">The body must be moved, Dumbledore.
+There are too many people.</font></b>
+
+1391
+02:10:56,156 --> 02:10:57,866
+<b><font face="Comic Sans MS">Let me through.</font></b>
+
+1392
+02:10:58,033 --> 02:10:59,534
+<b><font face="Comic Sans MS">Let me through!</font></b>
+
+1393
+02:11:01,453 --> 02:11:02,704
+<b><font face="Comic Sans MS">Let me through!</font></b>
+
+1394
+02:11:02,871 --> 02:11:04,289
+<b><font face="Comic Sans MS">That's my son!</font></b>
+
+1395
+02:11:05,582 --> 02:11:07,042
+<b><font face="Comic Sans MS">That's my boy!</font></b>
+
+1396
+02:11:09,878 --> 02:11:12,589
+<b><font face="Comic Sans MS">It's my boy!</font></b>
+
+1397
+02:11:15,383 --> 02:11:18,970
+<b><font face="Comic Sans MS">- Come on. Get up. Easy, easy!
+- No.</font></b>
+
+1398
+02:11:19,137 --> 02:11:22,099
+<b><font face="Comic Sans MS">This is not where you want to be
+right now. Come on.</font></b>
+
+1399
+02:11:22,766 --> 02:11:24,976
+<b><font face="Comic Sans MS">No!</font></b>
+
+1400
+02:11:28,063 --> 02:11:30,440
+<b><font face="Comic Sans MS">It's all right, I got you.</font></b>
+
+1401
+02:11:30,607 --> 02:11:33,944
+<b><font face="Comic Sans MS">I got you. Come on. Easy, now.</font></b>
+
+1402
+02:11:37,948 --> 02:11:39,741
+<b><font face="Comic Sans MS">No!</font></b>
+
+1403
+02:11:40,867 --> 02:11:42,744
+<b><font face="Comic Sans MS">No!</font></b>
+
+1404
+02:12:25,120 --> 02:12:26,830
+<b><font face="Comic Sans MS">Are you all right, Potter?</font></b>
+
+1405
+02:12:27,414 --> 02:12:29,332
+<b><font face="Comic Sans MS">Does it hurt? That?</font></b>
+
+1406
+02:12:29,499 --> 02:12:31,293
+<b><font face="Comic Sans MS">Not so much now.</font></b>
+
+1407
+02:12:32,252 --> 02:12:34,337
+<b><font face="Comic Sans MS">Perhaps I'd better take a look at it.</font></b>
+
+1408
+02:12:37,466 --> 02:12:39,468
+<b><font face="Comic Sans MS">The cup was a Portkey.</font></b>
+
+1409
+02:12:42,179 --> 02:12:44,014
+<b><font face="Comic Sans MS">Someone had bewitched it.</font></b>
+
+1410
+02:12:44,306 --> 02:12:46,391
+<b><font face="Comic Sans MS">What was it like?</font></b>
+
+1411
+02:12:46,725 --> 02:12:48,393
+<b><font face="Comic Sans MS">- What was he like?
+- Who?</font></b>
+
+1412
+02:12:48,560 --> 02:12:50,312
+<b><font face="Comic Sans MS">The Dark Lord.</font></b>
+
+1413
+02:12:52,647 --> 02:12:55,734
+<b><font face="Comic Sans MS">What was it like
+to stand in his presence?</font></b>
+
+1414
+02:12:56,985 --> 02:12:58,820
+<b><font face="Comic Sans MS">I don't know.</font></b>
+
+1415
+02:13:01,656 --> 02:13:04,576
+<b><font face="Comic Sans MS">It was like I'd fallen
+into one of my dreams...</font></b>
+
+1416
+02:13:07,537 --> 02:13:09,539
+<b><font face="Comic Sans MS">...into one of my nightmares.</font></b>
+
+1417
+02:13:28,266 --> 02:13:29,851
+<b><font face="Comic Sans MS">Were there others?</font></b>
+
+1418
+02:13:30,018 --> 02:13:32,270
+<b><font face="Comic Sans MS">In the graveyard, were there others?</font></b>
+
+1419
+02:13:36,191 --> 02:13:37,609
+<b><font face="Comic Sans MS">I...</font></b>
+
+1420
+02:13:38,318 --> 02:13:42,239
+<b><font face="Comic Sans MS">I don't think I said anything
+about a graveyard, professor.</font></b>
+
+1421
+02:13:49,704 --> 02:13:52,958
+<b><font face="Comic Sans MS">"Marvelous creatures, dragons,
+aren't they?"</font></b>
+
+1422
+02:13:57,379 --> 02:14:00,424
+<b><font face="Comic Sans MS">Did you think that miserable oaf
+would've led you into the woods...</font></b>
+
+1423
+02:14:00,590 --> 02:14:02,509
+<b><font face="Comic Sans MS">...if I hadn't suggested it?</font></b>
+
+1424
+02:14:06,054 --> 02:14:09,724
+<b><font face="Comic Sans MS">Do you think Cedric Diggory would've
+told you to open the egg underwater...</font></b>
+
+1425
+02:14:09,891 --> 02:14:12,394
+<b><font face="Comic Sans MS">...if I hadn't told him first myself?</font></b>
+
+1426
+02:14:14,020 --> 02:14:16,690
+<b><font face="Comic Sans MS">Did you think Neville Longbottom,
+the witless wonder...</font></b>
+
+1427
+02:14:16,857 --> 02:14:20,068
+<b><font face="Comic Sans MS">...could've provided you with gillyweed
+if I hadn't given him the book...</font></b>
+
+1428
+02:14:20,235 --> 02:14:21,778
+<b><font face="Comic Sans MS">...that led him straight to it?</font></b>
+
+1429
+02:14:30,203 --> 02:14:34,207
+<b><font face="Comic Sans MS">It was you from the beginning.
+You put my name in the Goblet of Fire.</font></b>
+
+1430
+02:14:34,750 --> 02:14:38,420
+<b><font face="Comic Sans MS">- You bewitched Krum, but you...
+- "But... But..."</font></b>
+
+1431
+02:14:38,587 --> 02:14:40,756
+<b><font face="Comic Sans MS">You won because I made it so, Potter.</font></b>
+
+1432
+02:14:41,381 --> 02:14:44,885
+<b><font face="Comic Sans MS">You ended up in that graveyard tonight
+because it was meant to be so.</font></b>
+
+1433
+02:14:45,051 --> 02:14:46,344
+<b><font face="Comic Sans MS">And now the deed is done.</font></b>
+
+1434
+02:14:48,013 --> 02:14:52,350
+<b><font face="Comic Sans MS">The blood that runs through these veins
+runs within the Dark Lord.</font></b>
+
+1435
+02:15:00,859 --> 02:15:04,362
+<b><font face="Comic Sans MS">Imagine how he will reward me
+when he learns...</font></b>
+
+1436
+02:15:05,280 --> 02:15:07,783
+<b><font face="Comic Sans MS">...that I have once and for all...</font></b>
+
+1437
+02:15:08,408 --> 02:15:12,746
+<b><font face="Comic Sans MS">...silenced the great Harry Potter.</font></b>
+
+1438
+02:15:12,913 --> 02:15:14,164
+<b><font face="Comic Sans MS"><i>Expelliarmus!</i></font></b>
+
+1439
+02:15:18,877 --> 02:15:20,128
+<b><font face="Comic Sans MS">Severus.</font></b>
+
+1440
+02:15:22,631 --> 02:15:24,132
+<b><font face="Comic Sans MS">That's it, take it.</font></b>
+
+1441
+02:15:26,093 --> 02:15:29,554
+<b><font face="Comic Sans MS">- Do you know who I am?
+- Albus Dumbledore.</font></b>
+
+1442
+02:15:29,721 --> 02:15:32,432
+<b><font face="Comic Sans MS">- Are you Alastor Moody? Are you?
+- No.</font></b>
+
+1443
+02:15:32,599 --> 02:15:35,685
+<b><font face="Comic Sans MS">Is he in this room? Is he in this room?</font></b>
+
+1444
+02:15:38,730 --> 02:15:40,273
+<b><font face="Comic Sans MS">Harry, away from there!</font></b>
+
+1445
+02:16:01,253 --> 02:16:04,589
+<b><font face="Comic Sans MS">- You all right, Alastor?
+- I'm sorry, Albus.</font></b>
+
+1446
+02:16:05,549 --> 02:16:07,634
+<b><font face="Comic Sans MS">That's Moody. But then who's...?</font></b>
+
+1447
+02:16:09,428 --> 02:16:10,512
+<b><font face="Comic Sans MS">Polyjuice Potion.</font></b>
+
+1448
+02:16:10,679 --> 02:16:13,932
+<b><font face="Comic Sans MS">Now we know who's been stealing
+from your stores, Severus.</font></b>
+
+1449
+02:16:14,182 --> 02:16:16,101
+<b><font face="Comic Sans MS">We'll get you up in a minute.</font></b>
+
+1450
+02:16:50,552 --> 02:16:51,928
+<b><font face="Comic Sans MS">Harry!</font></b>
+
+1451
+02:16:55,599 --> 02:16:57,809
+<b><font face="Comic Sans MS">Barty Crouch Junior.</font></b>
+
+1452
+02:16:58,059 --> 02:17:00,979
+<b><font face="Comic Sans MS">I'll show you mine
+if you show me yours.</font></b>
+
+1453
+02:17:03,356 --> 02:17:04,566
+<b><font face="Comic Sans MS">Your arm, Harry.</font></b>
+
+1454
+02:17:08,904 --> 02:17:11,156
+<b><font face="Comic Sans MS">You know what this means, don't you?</font></b>
+
+1455
+02:17:12,073 --> 02:17:13,408
+<b><font face="Comic Sans MS">He's back.</font></b>
+
+1456
+02:17:14,576 --> 02:17:16,745
+<b><font face="Comic Sans MS">Lord Voldemort has returned.</font></b>
+
+1457
+02:17:17,662 --> 02:17:19,998
+<b><font face="Comic Sans MS">I'm sorry, sir. I couldn't help it.</font></b>
+
+1458
+02:17:20,207 --> 02:17:24,753
+<b><font face="Comic Sans MS">Send an owl to Azkaban. I think
+they'll find they're missing a prisoner.</font></b>
+
+1459
+02:17:25,212 --> 02:17:27,714
+<b><font face="Comic Sans MS">- I'll be welcomed back like a hero.
+- Perhaps.</font></b>
+
+1460
+02:17:28,256 --> 02:17:31,134
+<b><font face="Comic Sans MS">Personally, I've never had much time
+for heroes.</font></b>
+
+1461
+02:17:51,029 --> 02:17:53,698
+<b><font face="Comic Sans MS">Today, we acknowledge...</font></b>
+
+1462
+02:17:54,407 --> 02:17:57,160
+<b><font face="Comic Sans MS">...a really terrible loss.</font></b>
+
+1463
+02:17:59,287 --> 02:18:02,040
+<b><font face="Comic Sans MS">Cedric Diggory was, as you all know...</font></b>
+
+1464
+02:18:02,207 --> 02:18:04,543
+<b><font face="Comic Sans MS">...exceptionally hard-working...</font></b>
+
+1465
+02:18:05,502 --> 02:18:07,796
+<b><font face="Comic Sans MS">...infinitely fair-minded...</font></b>
+
+1466
+02:18:08,380 --> 02:18:10,674
+<b><font face="Comic Sans MS">...and, most importantly...</font></b>
+
+1467
+02:18:10,966 --> 02:18:15,554
+<b><font face="Comic Sans MS">...a fierce, fierce friend.</font></b>
+
+1468
+02:18:16,680 --> 02:18:21,059
+<b><font face="Comic Sans MS">Now, I think, therefore, you have
+the right to know exactly how he died.</font></b>
+
+1469
+02:18:24,104 --> 02:18:25,647
+<b><font face="Comic Sans MS">You see...</font></b>
+
+1470
+02:18:26,481 --> 02:18:28,567
+<b><font face="Comic Sans MS">...Cedric Diggory was murdered...</font></b>
+
+1471
+02:18:29,484 --> 02:18:31,486
+<b><font face="Comic Sans MS">...by Lord Voldemort!</font></b>
+
+1472
+02:18:33,363 --> 02:18:36,950
+<b><font face="Comic Sans MS">The Ministry of Magic
+does not wish me to tell you this.</font></b>
+
+1473
+02:18:37,576 --> 02:18:41,288
+<b><font face="Comic Sans MS">But not to do so, I think,
+would be an insult to his memory.</font></b>
+
+1474
+02:18:43,457 --> 02:18:45,125
+<b><font face="Comic Sans MS">Now, the pain...</font></b>
+
+1475
+02:18:45,292 --> 02:18:48,962
+<b><font face="Comic Sans MS">...we all feel at this dreadful loss
+reminds me...</font></b>
+
+1476
+02:18:49,129 --> 02:18:50,464
+<b><font face="Comic Sans MS">...and reminds us...</font></b>
+
+1477
+02:18:50,630 --> 02:18:54,342
+<b><font face="Comic Sans MS">...that while we may come from different
+places and speak in different tongues...</font></b>
+
+1478
+02:18:54,509 --> 02:18:57,929
+<b><font face="Comic Sans MS">...our hearts beat as one.</font></b>
+
+1479
+02:18:58,430 --> 02:19:00,474
+<b><font face="Comic Sans MS">In light of recent events...</font></b>
+
+1480
+02:19:00,807 --> 02:19:05,729
+<b><font face="Comic Sans MS">...the bonds of friendship we've made
+this year will be more important than ever.</font></b>
+
+1481
+02:19:06,605 --> 02:19:11,943
+<b><font face="Comic Sans MS">Remember that, and Cedric Diggory
+will not have died in vain.</font></b>
+
+1482
+02:19:12,360 --> 02:19:14,529
+<b><font face="Comic Sans MS">You remember that...</font></b>
+
+1483
+02:19:15,113 --> 02:19:18,158
+<b><font face="Comic Sans MS">...and we'll celebrate a boy who was...</font></b>
+
+1484
+02:19:18,700 --> 02:19:21,161
+<b><font face="Comic Sans MS">...kind and honest...</font></b>
+
+1485
+02:19:21,661 --> 02:19:26,249
+<b><font face="Comic Sans MS">...and brave and true,
+right to the very end.</font></b>
+
+1486
+02:19:51,483 --> 02:19:53,527
+<b><font face="Comic Sans MS">I never liked these curtains.</font></b>
+
+1487
+02:19:54,111 --> 02:19:56,780
+<b><font face="Comic Sans MS">Set them on fire in my fourth year.</font></b>
+
+1488
+02:19:57,114 --> 02:19:58,949
+<b><font face="Comic Sans MS">By accident, of course.</font></b>
+
+1489
+02:20:04,621 --> 02:20:09,000
+<b><font face="Comic Sans MS">I put you in terrible danger
+this year, Harry. I'm sorry.</font></b>
+
+1490
+02:20:12,421 --> 02:20:14,089
+<b><font face="Comic Sans MS">Professor...</font></b>
+
+1491
+02:20:14,297 --> 02:20:17,300
+<b><font face="Comic Sans MS">...when I was in the graveyard,
+there was a moment...</font></b>
+
+1492
+02:20:18,093 --> 02:20:22,514
+<b><font face="Comic Sans MS">...when Voldemort's wand and mine
+sort of connected.</font></b>
+
+1493
+02:20:24,099 --> 02:20:26,435
+<b><font face="Comic Sans MS"><i>Priori Incantatem.</i></font></b>
+
+1494
+02:20:30,564 --> 02:20:33,275
+<b><font face="Comic Sans MS">You saw your parents that night,
+didn't you?</font></b>
+
+1495
+02:20:33,859 --> 02:20:35,694
+<b><font face="Comic Sans MS">They reappeared.</font></b>
+
+1496
+02:20:37,154 --> 02:20:40,949
+<b><font face="Comic Sans MS">No spell can reawaken the dead, Harry.
+I trust you know that.</font></b>
+
+1497
+02:20:43,493 --> 02:20:46,121
+<b><font face="Comic Sans MS">Dark and difficult times lie ahead.</font></b>
+
+1498
+02:20:46,580 --> 02:20:51,418
+<b><font face="Comic Sans MS">Soon we must all face the choice
+between what is right and what is easy.</font></b>
+
+1499
+02:20:54,796 --> 02:20:56,465
+<b><font face="Comic Sans MS">But remember this:</font></b>
+
+1500
+02:20:56,631 --> 02:20:58,550
+<b><font face="Comic Sans MS">You have friends here.</font></b>
+
+1501
+02:21:00,552 --> 02:21:02,304
+<b><font face="Comic Sans MS">You're not alone.</font></b>
+
+1502
+02:21:22,991 --> 02:21:24,743
+<b><font face="Comic Sans MS">Hermione.</font></b>
+
+1503
+02:21:25,160 --> 02:21:27,162
+<b><font face="Comic Sans MS">This is for you.</font></b>
+
+1504
+02:21:27,746 --> 02:21:29,956
+<b><font face="Comic Sans MS">Write to me. Promise.</font></b>
+
+1505
+02:21:31,041 --> 02:21:32,459
+<b><font face="Comic Sans MS">Bye.</font></b>
+
+1506
+02:21:38,673 --> 02:21:40,634
+<b><font face="Comic Sans MS"><i>Au revoir, Ron.</i></font></b>
+
+1507
+02:22:24,553 --> 02:22:27,097
+<b><font face="Comic Sans MS">Do you think we'll ever just have
+a quiet year at Hogwarts?</font></b>
+
+1508
+02:22:27,264 --> 02:22:28,390
+<b><font face="Comic Sans MS">- No.
+- No.</font></b>
+
+1509
+02:22:28,557 --> 02:22:32,936
+<b><font face="Comic Sans MS">No, I didn't think so. Oh, well.
+What's life without a few dragons?</font></b>
+
+1510
+02:22:37,357 --> 02:22:40,193
+<b><font face="Comic Sans MS">Everything's going to change now,
+isn't it?</font></b>
+
+1511
+02:22:47,492 --> 02:22:48,952
+<b><font face="Comic Sans MS">Yes.</font></b>
+
+1512
+02:22:53,707 --> 02:22:57,002
+<b><font face="Comic Sans MS">Promise you'll write this summer.
+Both of you.</font></b>
+
+1513
+02:22:57,169 --> 02:22:59,755
+<b><font face="Comic Sans MS">I won't. You know I won't.</font></b>
+
+1514
+02:23:01,006 --> 02:23:04,760
+<b><font face="Comic Sans MS">- Harry will, won't you?
+- Yeah. Every week.</font></b>

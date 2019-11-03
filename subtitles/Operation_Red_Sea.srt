@@ -1,0 +1,5607 @@
+﻿1
+00:02:06,792 --> 00:02:07,708
+<font face="Comic Sans MS">Quick! To the safe room!</font>
+
+2
+00:02:07,792 --> 00:02:10,542
+<font face="Comic Sans MS">Run and you're dead!</font>
+
+3
+00:02:11,875 --> 00:02:13,500
+<font face="Comic Sans MS">We want hostages, not dead bodies!</font>
+
+4
+00:02:13,583 --> 00:02:15,208
+<font face="Comic Sans MS">Open up or we'll kill you!</font>
+
+5
+00:02:15,875 --> 00:02:18,333
+<font face="Comic Sans MS">Hurry! I can't hold on much longer!</font>
+
+6
+00:02:19,208 --> 00:02:20,125
+<font face="Comic Sans MS"><i>Mayday! mayday!</font>
+
+7
+00:02:20,208 --> 00:02:21,833
+<font face="Comic Sans MS">This is Chinese merchant ship, Guangdong.</font>
+
+8
+00:02:21,917 --> 00:02:24,333
+<font face="Comic Sans MS"><i>We're under pirates attack!
+We're under pirates attack!</font>
+
+9
+00:02:34,167 --> 00:02:35,417
+<font face="Comic Sans MS">They're coming up!</font>
+
+10
+00:02:45,750 --> 00:02:47,167
+<font face="Comic Sans MS"><i>This is the Chinese Navy.</font>
+
+11
+00:02:47,250 --> 00:02:48,958
+<font face="Comic Sans MS"><i>Stop the ship immediately!</font>
+
+12
+00:02:49,042 --> 00:02:50,625
+<font face="Comic Sans MS"><i>This is the Chinese Navy.</font>
+
+13
+00:02:50,708 --> 00:02:52,167
+<font face="Comic Sans MS"><i>Stop the ship immediately!</font>
+
+14
+00:02:52,417 --> 00:02:53,458
+<font face="Comic Sans MS"><i>Captain.</font>
+
+15
+00:02:53,542 --> 00:02:56,792
+<font face="Comic Sans MS"><i>Jiaolong Unit 1 and Unit 2
+are near the hostage area.</font>
+
+16
+00:02:57,042 --> 00:03:00,667
+<font face="Comic Sans MS"><i>Jiaolong Unit 3 is in the engine room
+trying to stop the ship.</font>
+
+17
+00:03:00,750 --> 00:03:02,417
+<font face="Comic Sans MS"><i>Alpha position, report your situation.</font>
+
+18
+00:03:05,167 --> 00:03:08,667
+<font face="Comic Sans MS"><i>Reporting. There are 3 pirates
+and 15 hostages on the bridge.</font>
+
+19
+00:03:20,417 --> 00:03:21,917
+<font face="Comic Sans MS"><i>Beta position, report your situation.</font>
+
+20
+00:03:38,917 --> 00:03:42,292
+<font face="Comic Sans MS">Canteen target locked. Over.</font>
+
+21
+00:03:52,500 --> 00:03:54,625
+<font face="Comic Sans MS">Reporting. They disabled the fuel valves.</font>
+
+22
+00:03:54,708 --> 00:03:56,417
+<font face="Comic Sans MS"><i>We can't turn off the fuel supply.</font>
+
+23
+00:03:56,500 --> 00:03:58,625
+<font face="Comic Sans MS"><i>I'll cut the power and stop the ship.</font>
+
+24
+00:03:59,042 --> 00:03:59,917
+<font face="Comic Sans MS"><i>Captain, Commissar.</font>
+
+25
+00:04:00,000 --> 00:04:01,375
+<font face="Comic Sans MS">They picked up the speed!</font>
+
+26
+00:04:01,500 --> 00:04:02,917
+<font face="Comic Sans MS">How much time is left?</font>
+
+27
+00:04:03,125 --> 00:04:04,000
+<font face="Comic Sans MS">Sir.</font>
+
+28
+00:04:04,083 --> 00:04:06,333
+<font face="Comic Sans MS">The ship is traveling at 23 knots.</font>
+
+29
+00:04:06,583 --> 00:04:07,583
+<font face="Comic Sans MS">At this speed,</font>
+
+30
+00:04:07,667 --> 00:04:09,833
+<font face="Comic Sans MS">we'll be in Somalian waters in 15 minutes.</font>
+
+31
+00:04:10,625 --> 00:04:11,583
+<font face="Comic Sans MS">Captain.</font>
+
+32
+00:04:12,083 --> 00:04:14,125
+<font face="Comic Sans MS">We must not enter territorial waters.</font>
+
+33
+00:04:15,083 --> 00:04:16,000
+<font face="Comic Sans MS">Rui Yang,</font>
+
+34
+00:04:16,542 --> 00:04:18,958
+<font face="Comic Sans MS">you have 10 minutes.</font>
+
+35
+00:04:19,625 --> 00:04:20,667
+<font face="Comic Sans MS">Attention, everyone.</font>
+
+36
+00:04:21,375 --> 00:04:24,750
+<font face="Comic Sans MS">For the hostages' safety, attack as one.</font>
+
+37
+00:04:24,875 --> 00:04:26,250
+<font face="Comic Sans MS">Wait for the orders. Over.</font>
+
+38
+00:04:28,083 --> 00:04:29,167
+<font face="Comic Sans MS">Left flank, roger.</font>
+
+39
+00:04:29,292 --> 00:04:30,333
+<font face="Comic Sans MS">Sniper's hide.</font>
+
+40
+00:04:30,417 --> 00:04:31,542
+<font face="Comic Sans MS"><i>Roger.</font>
+
+41
+00:04:31,625 --> 00:04:33,083
+<font face="Comic Sans MS"><i>Can you get a fix on them?</font>
+
+42
+00:04:33,167 --> 00:04:34,208
+<font face="Comic Sans MS"><i>If not,</font>
+
+43
+00:04:34,417 --> 00:04:36,292
+<font face="Comic Sans MS"><i>we'll start the attack in 3 minutes.</font>
+
+44
+00:04:37,375 --> 00:04:38,792
+<font face="Comic Sans MS">Captain.</font>
+
+45
+00:04:39,167 --> 00:04:42,250
+<font face="Comic Sans MS">We'll report in 2 minutes. Over.</font>
+
+46
+00:04:42,417 --> 00:04:43,375
+<font face="Comic Sans MS">Dong Li.</font>
+
+47
+00:04:43,542 --> 00:04:45,292
+<font face="Comic Sans MS">What's our opening like?</font>
+
+48
+00:04:45,875 --> 00:04:47,833
+<font face="Comic Sans MS">The ship is rolling,
+the direction is unsteady.</font>
+
+49
+00:04:48,000 --> 00:04:49,958
+<font face="Comic Sans MS">Headwinds at 45-55.</font>
+
+50
+00:04:50,042 --> 00:04:51,667
+<font face="Comic Sans MS"><i>For a reliable line of fire,</font>
+
+51
+00:04:51,750 --> 00:04:54,583
+<font face="Comic Sans MS"><i>we need to be within 120 to 150 meters.</font>
+
+52
+00:04:54,667 --> 00:04:55,958
+<font face="Comic Sans MS"><i>At 23 knots,</font>
+
+53
+00:04:56,042 --> 00:04:57,167
+<font face="Comic Sans MS"><i>we'll have an optimal position</font>
+
+54
+00:04:57,250 --> 00:04:58,583
+<font face="Comic Sans MS">for only 3 seconds,</font>
+
+55
+00:04:58,667 --> 00:04:59,958
+<font face="Comic Sans MS">or we have a risk of collision.</font>
+
+56
+00:05:00,042 --> 00:05:02,375
+<font face="Comic Sans MS"><i>Seabird One, all clear?</font>
+
+57
+00:05:03,375 --> 00:05:04,375
+<font face="Comic Sans MS">All clear.</font>
+
+58
+00:05:04,458 --> 00:05:05,375
+<font face="Comic Sans MS">Captain.</font>
+
+59
+00:05:05,458 --> 00:05:07,083
+<font face="Comic Sans MS">We'll attack in 10 seconds.</font>
+
+60
+00:05:07,167 --> 00:05:08,000
+<font face="Comic Sans MS">Over.</font>
+
+61
+00:05:08,167 --> 00:05:09,125
+<font face="Comic Sans MS">Standby.</font>
+
+62
+00:05:13,750 --> 00:05:15,125
+<font face="Comic Sans MS">Attack!</font>
+
+63
+00:05:24,458 --> 00:05:25,292
+<font face="Comic Sans MS">There is no changes.</font>
+
+64
+00:05:25,375 --> 00:05:26,208
+<font face="Comic Sans MS">Northwest wind.</font>
+
+65
+00:05:26,292 --> 00:05:27,333
+<font face="Comic Sans MS">The velocity is 20.8.</font>
+
+66
+00:05:27,417 --> 00:05:28,417
+<font face="Comic Sans MS">The time is 3 seconds.</font>
+
+67
+00:05:28,500 --> 00:05:29,458
+<font face="Comic Sans MS"><i>Data steady.</font>
+
+68
+00:05:30,000 --> 00:05:30,875
+<font face="Comic Sans MS"><i>Steady.</font>
+
+69
+00:05:31,625 --> 00:05:32,500
+<font face="Comic Sans MS"><i>Steady.</font>
+
+70
+00:05:33,333 --> 00:05:34,208
+<font face="Comic Sans MS"><i>Steady.</font>
+
+71
+00:06:30,417 --> 00:06:32,167
+<font face="Comic Sans MS">Down! Everyone down!</font>
+
+72
+00:06:32,250 --> 00:06:34,083
+<font face="Comic Sans MS"><i>Captain, the hostages are safe,</font>
+
+73
+00:06:34,208 --> 00:06:36,708
+<font face="Comic Sans MS"><i>but we can't stop the ship.</font>
+
+74
+00:06:36,792 --> 00:06:38,417
+<font face="Comic Sans MS">Reporting. If the ship still doesn't stop,</font>
+
+75
+00:06:38,500 --> 00:06:40,167
+<font face="Comic Sans MS">we'll have to abandon the ship
+in 5 minutes.</font>
+
+76
+00:06:40,250 --> 00:06:41,958
+<font face="Comic Sans MS">Hong Xu, report your situation.</font>
+
+77
+00:06:46,083 --> 00:06:47,125
+<font face="Comic Sans MS">They have the generator.</font>
+
+78
+00:06:47,208 --> 00:06:48,458
+<font face="Comic Sans MS">We're running out of time.</font>
+
+79
+00:06:48,542 --> 00:06:52,042
+<font face="Comic Sans MS">We need to storm in
+and blow up the hydraulics.</font>
+
+80
+00:06:53,208 --> 00:06:54,333
+<font face="Comic Sans MS"><i>If the ship doesn't stop,</font>
+
+81
+00:06:54,417 --> 00:06:56,375
+<font face="Comic Sans MS"><i>everyone must leave the ship
+in 5 minutes.</font>
+
+82
+00:06:57,375 --> 00:06:58,458
+<font face="Comic Sans MS">Give me the shield!</font>
+
+83
+00:07:01,875 --> 00:07:03,250
+<font face="Comic Sans MS">You two stay here.</font>
+
+84
+00:07:03,792 --> 00:07:04,625
+<font face="Comic Sans MS">Shitou,</font>
+
+85
+00:07:04,750 --> 00:07:05,750
+<font face="Comic Sans MS">come with me!</font>
+
+86
+00:07:18,500 --> 00:07:20,125
+<font face="Comic Sans MS">Up there. One.</font>
+
+87
+00:07:41,333 --> 00:07:44,208
+<font face="Comic Sans MS">Ready to blow up the hydraulics!</font>
+
+88
+00:07:59,000 --> 00:08:02,208
+<font face="Comic Sans MS"><i>Captain, the hostage-taker
+is escaping on a boat!</font>
+
+89
+00:08:14,125 --> 00:08:15,042
+<font face="Comic Sans MS">Captain!</font>
+
+90
+00:08:15,250 --> 00:08:16,458
+<font face="Comic Sans MS">I'll chase him.</font>
+
+91
+00:08:16,542 --> 00:08:17,458
+<font face="Comic Sans MS">No, Xing Luo!</font>
+
+92
+00:08:17,542 --> 00:08:18,833
+<font face="Comic Sans MS">There are too many of them.</font>
+
+93
+00:08:18,917 --> 00:08:19,917
+<font face="Comic Sans MS">It's too dangerous!</font>
+
+94
+00:08:20,417 --> 00:08:22,792
+<font face="Comic Sans MS">We can't let him go!</font>
+
+95
+00:08:27,958 --> 00:08:28,792
+<font face="Comic Sans MS">All right.</font>
+
+96
+00:08:28,875 --> 00:08:30,083
+<font face="Comic Sans MS">Permission granted,</font>
+
+97
+00:08:30,167 --> 00:08:31,083
+<font face="Comic Sans MS">but be careful.</font>
+
+98
+00:08:31,167 --> 00:08:32,667
+<font face="Comic Sans MS">Don't cross into territorial waters.</font>
+
+99
+00:08:33,333 --> 00:08:37,083
+<font face="Comic Sans MS">I promise I'll get him
+before we cross into territorial waters.</font>
+
+100
+00:08:44,458 --> 00:08:45,708
+<font face="Comic Sans MS">Jiaolong Unit 2.</font>
+
+101
+00:08:45,792 --> 00:08:47,083
+<font face="Comic Sans MS">Board the ship and arrest them!</font>
+
+102
+00:09:01,292 --> 00:09:02,292
+<font face="Comic Sans MS">Captain, Commissar.</font>
+
+103
+00:09:02,375 --> 00:09:04,208
+<font face="Comic Sans MS">3 pirate boats are approaching!</font>
+
+104
+00:09:09,792 --> 00:09:10,667
+<font face="Comic Sans MS"><i>Xing Luo.</font>
+
+105
+00:09:10,750 --> 00:09:13,500
+<font face="Comic Sans MS"><i>We must maintain
+a 300-meters safe distance.</font>
+
+106
+00:09:25,708 --> 00:09:27,167
+<font face="Comic Sans MS">Seabird 1!</font>
+
+107
+00:09:27,292 --> 00:09:28,375
+<font face="Comic Sans MS">You can't go any further.</font>
+
+108
+00:09:28,458 --> 00:09:29,375
+<font face="Comic Sans MS">Stop now!</font>
+
+109
+00:09:29,708 --> 00:09:31,167
+<font face="Comic Sans MS"><i>Roger.</font>
+
+110
+00:09:31,458 --> 00:09:32,958
+<font face="Comic Sans MS">Give me one more chance!</font>
+
+111
+00:09:33,042 --> 00:09:34,583
+<font face="Comic Sans MS">Pull up the plane!</font>
+
+112
+00:09:44,958 --> 00:09:45,792
+<font face="Comic Sans MS"><i>Dong Li.</font>
+
+113
+00:09:45,875 --> 00:09:47,417
+<font face="Comic Sans MS"><i>You should handle the others!</font>
+
+114
+00:09:54,375 --> 00:09:55,667
+<font face="Comic Sans MS"><i>Steady!</font>
+
+115
+00:10:10,917 --> 00:10:11,792
+<font face="Comic Sans MS"><i>Sea 1 and 2.</font>
+
+116
+00:10:11,875 --> 00:10:12,958
+<font face="Comic Sans MS"><i>The target has stopped.</font>
+
+117
+00:10:13,042 --> 00:10:15,417
+<font face="Comic Sans MS"><i>Arrest them, I'll cover you!</font>
+
+118
+00:10:15,500 --> 00:10:16,750
+<font face="Comic Sans MS"><i>Sea 1 and 2 copy that!</font>
+
+119
+00:10:25,500 --> 00:10:26,333
+<font face="Comic Sans MS">I got it!</font>
+
+120
+00:10:43,542 --> 00:10:44,750
+<font face="Comic Sans MS">Xing Luo!</font>
+
+121
+00:10:44,833 --> 00:10:45,750
+<font face="Comic Sans MS"><i>Man down!</font>
+
+122
+00:10:45,833 --> 00:10:47,167
+<font face="Comic Sans MS"><i>Repeating. Man down!</font>
+
+123
+00:10:47,292 --> 00:10:48,417
+<font face="Comic Sans MS">Who? Who was shot?</font>
+
+124
+00:10:48,750 --> 00:10:50,375
+<font face="Comic Sans MS"><i>Xing Luo. It's Xing Luo.</font>
+
+125
+00:10:53,583 --> 00:10:54,708
+<font face="Comic Sans MS"><i>Captain, Commissar.</font>
+
+126
+00:10:54,792 --> 00:10:56,333
+<font face="Comic Sans MS"><i>The pirates are in custody.</font>
+
+127
+00:12:16,958 --> 00:12:18,208
+<font face="Comic Sans MS">Xing Luo is safe.</font>
+
+128
+00:12:18,292 --> 00:12:19,625
+<font face="Comic Sans MS">His condition is stable.</font>
+
+129
+00:12:21,958 --> 00:12:22,917
+<font face="Comic Sans MS">But</font>
+
+130
+00:12:23,417 --> 00:12:25,667
+<font face="Comic Sans MS">he has to stay in Djibouti
+to get treatment.</font>
+
+131
+00:12:27,375 --> 00:12:28,583
+<font face="Comic Sans MS">Don't worry.</font>
+
+132
+00:12:28,750 --> 00:12:29,792
+<font face="Comic Sans MS">Get some rest.</font>
+
+133
+00:12:47,250 --> 00:12:48,125
+<font face="Comic Sans MS">Captain.</font>
+
+134
+00:12:50,125 --> 00:12:51,542
+<font face="Comic Sans MS">Have you told them?</font>
+
+135
+00:12:51,875 --> 00:12:52,792
+<font face="Comic Sans MS">Yes.</font>
+
+136
+00:12:55,000 --> 00:12:55,917
+<font face="Comic Sans MS">Except that</font>
+
+137
+00:12:57,292 --> 00:12:59,125
+<font face="Comic Sans MS">it pierced his spinal nerve.</font>
+
+138
+00:12:59,875 --> 00:13:01,000
+<font face="Comic Sans MS">I didn't tell them that.</font>
+
+139
+00:13:08,542 --> 00:13:09,667
+<font face="Comic Sans MS">Rui.</font>
+
+140
+00:13:10,583 --> 00:13:11,792
+<font face="Comic Sans MS">Have you heard this?</font>
+
+141
+00:13:12,042 --> 00:13:13,833
+<font face="Comic Sans MS">A soldier should know about sacrifice.</font>
+
+142
+00:13:14,375 --> 00:13:16,500
+<font face="Comic Sans MS">And that he may never return.</font>
+
+143
+00:13:18,000 --> 00:13:20,667
+<font face="Comic Sans MS">They should understand the soldiers' duty.</font>
+
+144
+00:13:24,417 --> 00:13:26,958
+<font face="Comic Sans MS">You can tell them the truth.</font>
+
+145
+00:13:29,208 --> 00:13:31,542
+<font face="Comic Sans MS">You're the captain, not their parent.</font>
+
+146
+00:13:33,333 --> 00:13:36,875
+<font face="Comic Sans MS">Don't take all of this personally</font>
+
+147
+00:13:37,833 --> 00:13:39,625
+<font face="Comic Sans MS">or the stress will kill you.</font>
+
+148
+00:13:39,833 --> 00:13:42,417
+<font face="Comic Sans MS">I can't help it. It's my responsibility.</font>
+
+149
+00:13:45,875 --> 00:13:49,000
+<font face="Comic Sans MS">ONE WEEK LATER</font>
+
+150
+00:14:01,083 --> 00:14:02,083
+<font face="Comic Sans MS">Bye-bye.</font>
+
+151
+00:14:05,083 --> 00:14:07,708
+<font face="Comic Sans MS">This is our target. William Parsons.</font>
+
+152
+00:14:08,542 --> 00:14:11,750
+<font face="Comic Sans MS">He is the head of development
+at an energy company in Yewaire.</font>
+
+153
+00:14:12,792 --> 00:14:15,750
+<font face="Comic Sans MS">His department works on
+the mining of uranium</font>
+
+154
+00:14:15,833 --> 00:14:18,833
+<font face="Comic Sans MS">and obtaining yellowcake
+in foreign countries.</font>
+
+155
+00:14:18,917 --> 00:14:22,750
+<font face="Comic Sans MS">That's why we couldn't figure out
+where the yellowcake came from.</font>
+
+156
+00:14:24,625 --> 00:14:26,625
+<font face="Comic Sans MS">October, 2014.</font>
+
+157
+00:14:26,833 --> 00:14:28,583
+<font face="Comic Sans MS">The month he was investigated.</font>
+
+158
+00:14:28,667 --> 00:14:31,583
+<font face="Comic Sans MS">That was the same time
+the unmarked yellowcake was smuggled in.</font>
+
+159
+00:14:31,708 --> 00:14:32,917
+<font face="Comic Sans MS">Exactly.</font>
+
+160
+00:14:33,000 --> 00:14:38,042
+<font face="Comic Sans MS">My guy says that William still has access
+to an abundant amount of yellowcake.</font>
+
+161
+00:14:38,750 --> 00:14:42,958
+<font face="Comic Sans MS">And he has just acquired the technology
+to make 30 bombs.</font>
+
+162
+00:14:47,375 --> 00:14:49,250
+<font face="Comic Sans MS">The situation in Yewaire is tense.</font>
+
+163
+00:14:49,333 --> 00:14:51,250
+<font face="Comic Sans MS">If that yellowcake is still there,</font>
+
+164
+00:14:51,333 --> 00:14:53,500
+<font face="Comic Sans MS">he wants to finish the deal
+and get rid of it.</font>
+
+165
+00:14:54,167 --> 00:14:55,708
+<font face="Comic Sans MS">We must follow this lead.</font>
+
+166
+00:14:56,292 --> 00:14:58,292
+<font face="Comic Sans MS">There is another report on William</font>
+
+167
+00:14:58,375 --> 00:15:01,667
+<font face="Comic Sans MS">about a sexual abuse case of a young girl.</font>
+
+168
+00:15:02,167 --> 00:15:04,917
+<font face="Comic Sans MS">Okay? And all evidence points to him.</font>
+
+169
+00:15:05,208 --> 00:15:07,542
+<font face="Comic Sans MS">My guy talked to the girl and she said</font>
+
+170
+00:15:07,625 --> 00:15:10,417
+<font face="Comic Sans MS">William never took off his necklace</font>
+
+171
+00:15:10,500 --> 00:15:12,958
+<font face="Comic Sans MS">because he said it contains a secret</font>
+
+172
+00:15:13,042 --> 00:15:15,958
+<font face="Comic Sans MS">that would turn the world into chaos.</font>
+
+173
+00:15:21,792 --> 00:15:22,792
+<font face="Comic Sans MS">I've got it.</font>
+
+174
+00:15:22,958 --> 00:15:23,958
+<font face="Comic Sans MS">I'm going straight there.</font>
+
+175
+00:15:24,042 --> 00:15:25,125
+<font face="Comic Sans MS">And tomorrow morning,</font>
+
+176
+00:15:25,208 --> 00:15:27,333
+<font face="Comic Sans MS">Abu will publish a full-page report.</font>
+
+177
+00:15:27,417 --> 00:15:29,125
+<font face="Comic Sans MS">Let's do something to sabotage their plan.</font>
+
+178
+00:15:29,625 --> 00:15:30,958
+<font face="Comic Sans MS">Don't take this any further.</font>
+
+179
+00:15:31,958 --> 00:15:33,000
+<font face="Comic Sans MS">You already know</font>
+
+180
+00:15:33,625 --> 00:15:35,000
+<font face="Comic Sans MS">the terrorists are onto you.</font>
+
+181
+00:15:35,083 --> 00:15:36,083
+<font face="Comic Sans MS">So what?</font>
+
+182
+00:15:37,958 --> 00:15:39,792
+<font face="Comic Sans MS">It's not about scaring you,</font>
+
+183
+00:15:40,833 --> 00:15:42,875
+<font face="Comic Sans MS">nor it is about you being scared.</font>
+
+184
+00:15:45,875 --> 00:15:47,833
+<font face="Comic Sans MS">Albert, you know better than anyone</font>
+
+185
+00:15:48,125 --> 00:15:50,042
+<font face="Comic Sans MS">why I left those big newspapers.</font>
+
+186
+00:15:50,125 --> 00:15:52,333
+<font face="Comic Sans MS">It's because they always do
+selective reporting</font>
+
+187
+00:15:52,583 --> 00:15:54,375
+<font face="Comic Sans MS">and covered up the truth!</font>
+
+188
+00:15:54,458 --> 00:15:56,458
+<font face="Comic Sans MS">- When you hired me, you said--
+- No!</font>
+
+189
+00:15:56,667 --> 00:15:58,792
+<font face="Comic Sans MS">- I have the guts to go expose the truth.
+- No!</font>
+
+190
+00:15:58,875 --> 00:16:00,083
+<font face="Comic Sans MS">- That's why I'm here!
+- No!</font>
+
+191
+00:16:01,625 --> 00:16:03,042
+<font face="Comic Sans MS">I appreciate your tenacity,</font>
+
+192
+00:16:03,958 --> 00:16:05,667
+<font face="Comic Sans MS">but there are limits.</font>
+
+193
+00:16:06,208 --> 00:16:09,333
+<font face="Comic Sans MS">Did you forget what you stand for?</font>
+
+194
+00:16:50,625 --> 00:16:52,667
+<font face="Comic Sans MS"><i>I definitely won't risk</font>
+
+195
+00:16:52,750 --> 00:16:54,417
+<font face="Comic Sans MS">the lives of my staff!</font>
+
+196
+00:16:59,708 --> 00:17:01,875
+<font face="Comic Sans MS">But there are things that are
+more important than life.</font>
+
+197
+00:17:10,708 --> 00:17:12,417
+<font face="Comic Sans MS">At 0300 hours this morning,</font>
+
+198
+00:17:12,500 --> 00:17:15,583
+<font face="Comic Sans MS">the Foreign Ministry sent
+an urgent message.</font>
+
+199
+00:17:16,083 --> 00:17:18,875
+<font face="Comic Sans MS">5 days ago,
+there was a coup in Yewaire.</font>
+
+200
+00:17:18,958 --> 00:17:20,500
+<font face="Comic Sans MS">By order of
+the Central Military Commission,</font>
+
+201
+00:17:20,583 --> 00:17:21,875
+<font face="Comic Sans MS">the Naval Command appoints us</font>
+
+202
+00:17:21,958 --> 00:17:24,542
+<font face="Comic Sans MS">to head to Yewaire immediately</font>
+
+203
+00:17:24,625 --> 00:17:26,542
+<font face="Comic Sans MS">and evacuate all Chinese citizens.</font>
+
+204
+00:17:30,167 --> 00:17:33,792
+<font face="Comic Sans MS">It has been 5 days since the civil war
+broke out in the Republic of Ihwea.</font>
+
+205
+00:17:33,875 --> 00:17:36,292
+<font face="Comic Sans MS">And the insurgence played
+by General Sharaf</font>
+
+206
+00:17:36,375 --> 00:17:38,833
+<font face="Comic Sans MS">have already seized
+the Republic's major cities.</font>
+
+207
+00:17:39,250 --> 00:17:42,542
+<font face="Comic Sans MS">Our footage shows that large
+groups of citizens and expats</font>
+
+208
+00:17:42,625 --> 00:17:44,625
+<font face="Comic Sans MS">are fleeing the war zone.</font>
+
+209
+00:17:44,750 --> 00:17:48,750
+<font face="Comic Sans MS">In addition, sources claim
+that many people were missing</font>
+
+210
+00:17:48,833 --> 00:17:50,667
+<font face="Comic Sans MS">or abducted during the civil war</font>
+
+211
+00:17:50,750 --> 00:17:53,542
+<font face="Comic Sans MS">including expats and high-level officials</font>
+
+212
+00:17:53,625 --> 00:17:55,583
+<font face="Comic Sans MS">of the Ihwea government.</font>
+
+213
+00:17:55,667 --> 00:17:57,292
+<font face="Comic Sans MS">And is is expected to be</font>
+
+214
+00:17:57,375 --> 00:18:00,333
+<font face="Comic Sans MS">an act by the country's
+extremist group Zaka.</font>
+
+215
+00:18:01,333 --> 00:18:05,000
+<font face="Comic Sans MS">This group, Zaka,
+has been spreading terrorism</font>
+
+216
+00:18:05,250 --> 00:18:06,833
+<font face="Comic Sans MS">in the bid for recognition.</font>
+
+217
+00:18:07,667 --> 00:18:08,583
+<font face="Comic Sans MS">For the past 2 years,</font>
+
+218
+00:18:08,667 --> 00:18:11,333
+<font face="Comic Sans MS"><i>they joined other extremist groups</font>
+
+219
+00:18:11,542 --> 00:18:13,417
+<font face="Comic Sans MS">across Europe and Asia
+and get into action.</font>
+
+220
+00:18:14,083 --> 00:18:15,917
+<font face="Comic Sans MS">During this coup,</font>
+
+221
+00:18:16,125 --> 00:18:17,667
+<font face="Comic Sans MS">Zaka has supported</font>
+
+222
+00:18:17,750 --> 00:18:19,833
+<font face="Comic Sans MS">General Sharaf who also known as Madman.</font>
+
+223
+00:18:20,417 --> 00:18:22,625
+<font face="Comic Sans MS"><i>According to the list given by
+the Foreign Ministry,</font>
+
+224
+00:18:22,708 --> 00:18:26,833
+<font face="Comic Sans MS"><i>we need to evacuate
+a total of 130 Chinese citizens</font>
+
+225
+00:18:27,167 --> 00:18:29,875
+<font face="Comic Sans MS"><i>and 30 foreign staff of Chinese companies.</font>
+
+226
+00:18:30,583 --> 00:18:33,250
+<font face="Comic Sans MS"><i>Linyi is to sail for Yewaire.</font>
+
+227
+00:18:33,458 --> 00:18:35,458
+<font face="Comic Sans MS"><i>The other ships will return home.</font>
+
+228
+00:19:05,208 --> 00:19:06,833
+<font face="Comic Sans MS">- What are you doing?
+- Sorry.</font>
+
+229
+00:19:11,375 --> 00:19:12,375
+<font face="Comic Sans MS">Let's go.</font>
+
+230
+00:19:13,500 --> 00:19:14,708
+<font face="Comic Sans MS"><i>Listen up!</font>
+
+231
+00:19:15,042 --> 00:19:16,417
+<font face="Comic Sans MS"><i>For this mission,</font>
+
+232
+00:19:16,958 --> 00:19:19,167
+<font face="Comic Sans MS"><i>we'll break into small teams.</font>
+
+233
+00:19:19,500 --> 00:19:21,042
+<font face="Comic Sans MS"><i>We can't carry much ammunition.</font>
+
+234
+00:19:21,417 --> 00:19:23,583
+<font face="Comic Sans MS"><i>The local army</font>
+
+235
+00:19:23,667 --> 00:19:25,125
+<font face="Comic Sans MS"><i>will supply materials.</font>
+
+236
+00:19:25,417 --> 00:19:27,625
+<font face="Comic Sans MS"><i>But their weapons and calibers</font>
+
+237
+00:19:27,708 --> 00:19:29,000
+<font face="Comic Sans MS"><i>are different from ours.</font>
+
+238
+00:19:29,250 --> 00:19:31,417
+<font face="Comic Sans MS"><i>So we'll be using defensive weapons</font>
+
+239
+00:19:31,500 --> 00:19:33,167
+<font face="Comic Sans MS"><i>from the EU.</font>
+
+240
+00:19:48,625 --> 00:19:49,583
+<font face="Comic Sans MS">Did you touch my candy?</font>
+
+241
+00:20:04,583 --> 00:20:06,333
+<font face="Comic Sans MS">So they've sent us Shun Gu.</font>
+
+242
+00:20:07,000 --> 00:20:08,417
+<font face="Comic Sans MS">I heard he's pretty arrogant.</font>
+
+243
+00:20:08,583 --> 00:20:10,000
+<font face="Comic Sans MS">See for yourself.</font>
+
+244
+00:20:15,625 --> 00:20:16,625
+<font face="Comic Sans MS">Captain!</font>
+
+245
+00:20:16,708 --> 00:20:18,417
+<font face="Comic Sans MS">Sniper Shun Gu is reporting.</font>
+
+246
+00:20:20,792 --> 00:20:21,625
+<font face="Comic Sans MS">Welcome.</font>
+
+247
+00:20:21,917 --> 00:20:23,458
+<font face="Comic Sans MS">- Dong Li!
+- Present!</font>
+
+248
+00:20:23,542 --> 00:20:24,417
+<font face="Comic Sans MS">Come here.</font>
+
+249
+00:20:25,833 --> 00:20:27,792
+<font face="Comic Sans MS">Meet Xing Luo's replacement.</font>
+
+250
+00:20:29,667 --> 00:20:30,583
+<font face="Comic Sans MS">I'm the spotter, Dong Li.</font>
+
+251
+00:20:30,667 --> 00:20:31,708
+<font face="Comic Sans MS">I'm Shun Gu.</font>
+
+252
+00:20:32,625 --> 00:20:33,500
+<font face="Comic Sans MS">Captain.</font>
+
+253
+00:20:33,583 --> 00:20:34,583
+<font face="Comic Sans MS">We have a special mission.</font>
+
+254
+00:20:34,667 --> 00:20:35,792
+<font face="Comic Sans MS">They need us now.</font>
+
+255
+00:20:35,875 --> 00:20:38,125
+<font face="Comic Sans MS">Right.
+You should introduce him to the rest.</font>
+
+256
+00:20:38,500 --> 00:20:39,375
+<font face="Comic Sans MS">Yes, sir!</font>
+
+257
+00:20:45,833 --> 00:20:47,208
+<font face="Comic Sans MS">If you were Xing Luo's spotter,</font>
+
+258
+00:20:47,292 --> 00:20:48,792
+<font face="Comic Sans MS">you must know your stuff.</font>
+
+259
+00:20:48,958 --> 00:20:49,875
+<font face="Comic Sans MS">I look forward</font>
+
+260
+00:20:49,958 --> 00:20:51,167
+<font face="Comic Sans MS">to seeing that.</font>
+
+261
+00:20:52,750 --> 00:20:54,583
+<font face="Comic Sans MS">The feeling is mutual.</font>
+
+262
+00:20:55,792 --> 00:20:57,292
+<font face="Comic Sans MS">You'll have your chance.</font>
+
+263
+00:21:05,583 --> 00:21:09,125
+<font face="Comic Sans MS">Listen, when the troop comes to take
+Dr. William and the others,</font>
+
+264
+00:21:09,208 --> 00:21:12,083
+<font face="Comic Sans MS">I will stop them and you will
+take care of the rest.</font>
+
+265
+00:21:12,583 --> 00:21:14,250
+<font face="Comic Sans MS">You got it?</font>
+
+266
+00:21:14,417 --> 00:21:15,458
+<font face="Comic Sans MS">You got it?</font>
+
+267
+00:21:15,833 --> 00:21:18,333
+<font face="Comic Sans MS">Yeah, yes. I got it. Relax.</font>
+
+268
+00:21:19,583 --> 00:21:20,958
+<font face="Comic Sans MS"><i>Stop pushing me, Doctor.</font>
+
+269
+00:21:21,083 --> 00:21:23,583
+<font face="Comic Sans MS"><i>Look at the news.
+The military is everywhere.</font>
+
+270
+00:21:23,875 --> 00:21:25,375
+<font face="Comic Sans MS"><i>And the chaos, it is everywhere.</font>
+
+271
+00:21:25,458 --> 00:21:27,250
+<font face="Comic Sans MS">I'm not in the mood to hear any excuses.</font>
+
+272
+00:21:27,833 --> 00:21:30,458
+<font face="Comic Sans MS">You took the money,
+now the job is to have it done.</font>
+
+273
+00:21:31,833 --> 00:21:33,625
+<font face="Comic Sans MS">You promised me one week.</font>
+
+274
+00:21:34,042 --> 00:21:36,208
+<font face="Comic Sans MS">So the shipment must be on the plane.</font>
+
+275
+00:21:37,292 --> 00:21:39,917
+<font face="Comic Sans MS">If it's not, I'm not the only one
+who's going to be in trouble.</font>
+
+276
+00:21:41,375 --> 00:21:42,833
+<font face="Comic Sans MS">You are the General.</font>
+
+277
+00:21:42,917 --> 00:21:45,625
+<font face="Comic Sans MS">And I'm sure that you can handle
+this situation.</font>
+
+278
+00:22:07,042 --> 00:22:10,167
+<font face="Comic Sans MS"><i>Consul He, the third group
+has reached the port.</font>
+
+279
+00:22:15,292 --> 00:22:16,292
+<font face="Comic Sans MS"><i>Dr. Lu.</font>
+
+280
+00:22:16,833 --> 00:22:17,667
+<font face="Comic Sans MS"><i>Consul He.</font>
+
+281
+00:22:17,792 --> 00:22:18,833
+<font face="Comic Sans MS">Hello.</font>
+
+282
+00:22:20,625 --> 00:22:21,500
+<font face="Comic Sans MS">Where's your wife?</font>
+
+283
+00:22:21,583 --> 00:22:23,750
+<font face="Comic Sans MS">Her company is doing the evacuation.</font>
+
+284
+00:22:23,875 --> 00:22:25,208
+<font face="Comic Sans MS">How is it going over there?</font>
+
+285
+00:22:25,417 --> 00:22:26,250
+<font face="Comic Sans MS">You can't even imagine.</font>
+
+286
+00:22:26,333 --> 00:22:27,625
+<font face="Comic Sans MS">I rushed here in panic,</font>
+
+287
+00:22:27,708 --> 00:22:29,000
+<font face="Comic Sans MS">I don't even know where my phone is.</font>
+
+288
+00:22:29,083 --> 00:22:30,708
+<font face="Comic Sans MS">- Call her now.
+- Thank you.</font>
+
+289
+00:22:32,167 --> 00:22:33,000
+<font face="Comic Sans MS"><i>Hello?</font>
+
+290
+00:22:33,167 --> 00:22:35,375
+<font face="Comic Sans MS">- Mei?
+- Why didn't you pick up?</font>
+
+291
+00:22:35,458 --> 00:22:36,500
+<font face="Comic Sans MS">I was so worried!</font>
+
+292
+00:22:36,583 --> 00:22:38,958
+<font face="Comic Sans MS"><i>Don't worry, we're at the consulate.</font>
+
+293
+00:22:39,042 --> 00:22:39,875
+<font face="Comic Sans MS">How is it over there?</font>
+
+294
+00:22:39,958 --> 00:22:41,042
+<font face="Comic Sans MS"><i>Are you there with Xuan-xuan?</font>
+
+295
+00:22:41,125 --> 00:22:42,167
+<font face="Comic Sans MS">Yes, don't worry.</font>
+
+296
+00:22:42,250 --> 00:22:44,208
+<font face="Comic Sans MS">- Let me talk to her.
+- Make sure Xuan-xuan is with you.</font>
+
+297
+00:22:44,292 --> 00:22:46,083
+<font face="Comic Sans MS">- Consul He wants a word.
+- Mei Deng?</font>
+
+298
+00:22:46,167 --> 00:22:47,125
+<font face="Comic Sans MS">It's Qing-liu He.</font>
+
+299
+00:22:47,208 --> 00:22:48,417
+<font face="Comic Sans MS"><i>What's your plan over there?</font>
+
+300
+00:22:48,500 --> 00:22:49,542
+<font face="Comic Sans MS">Hello, Consul He.</font>
+
+301
+00:22:49,917 --> 00:22:52,500
+<font face="Comic Sans MS">Government troops are coming</font>
+
+302
+00:22:52,583 --> 00:22:53,708
+<font face="Comic Sans MS">to coordinate our evacuation.</font>
+
+303
+00:22:53,792 --> 00:22:55,958
+<font face="Comic Sans MS"><i>Remember to keep in touch.</font>
+
+304
+00:22:56,042 --> 00:22:56,875
+<font face="Comic Sans MS">I know.</font>
+
+305
+00:22:56,958 --> 00:22:58,333
+<font face="Comic Sans MS">I'll call as soon as the troops arrive.</font>
+
+306
+00:22:58,417 --> 00:23:02,083
+<font face="Comic Sans MS">The situation could change so fast,
+and that's not under my control or yours.</font>
+
+307
+00:23:02,375 --> 00:23:06,375
+<font face="Comic Sans MS">Yes, I'm using all of my resources
+to settle this issue.</font>
+
+308
+00:23:06,500 --> 00:23:07,875
+<font face="Comic Sans MS">You have to trust me.</font>
+
+309
+00:23:15,208 --> 00:23:16,042
+<font face="Comic Sans MS"><i>Captain, Commissar.</font>
+
+310
+00:23:16,125 --> 00:23:18,208
+<font face="Comic Sans MS"><i>We have permission to enter the port!</font>
+
+311
+00:23:19,542 --> 00:23:22,083
+<font face="Comic Sans MS">- Battle-ready deployment grade two!
+- Yes, sir!</font>
+
+312
+00:23:36,625 --> 00:23:37,917
+<font face="Comic Sans MS">That's our warship!</font>
+
+313
+00:23:38,000 --> 00:23:38,958
+<font face="Comic Sans MS">It's here!</font>
+
+314
+00:24:09,875 --> 00:24:11,000
+<font face="Comic Sans MS">Captain.</font>
+
+315
+00:24:12,625 --> 00:24:13,958
+<font face="Comic Sans MS">We have a new situation in Yewaire.</font>
+
+316
+00:24:14,042 --> 00:24:15,917
+<font face="Comic Sans MS">There is an assassination attempt
+on the President.</font>
+
+317
+00:24:16,000 --> 00:24:18,583
+<font face="Comic Sans MS">The Chief Secretary Mohadi
+has taken charge for now.</font>
+
+318
+00:24:18,667 --> 00:24:21,667
+<font face="Comic Sans MS">Their government is asking us</font>
+
+319
+00:24:22,083 --> 00:24:24,750
+<font face="Comic Sans MS">to take his family to safety.</font>
+
+320
+00:24:24,833 --> 00:24:26,292
+<font face="Comic Sans MS">Our superior has agreed</font>
+
+321
+00:24:26,542 --> 00:24:28,167
+<font face="Comic Sans MS">and given Linyi this duty.</font>
+
+322
+00:24:29,750 --> 00:24:30,750
+<font face="Comic Sans MS">Understood.</font>
+
+323
+00:24:31,250 --> 00:24:32,708
+<font face="Comic Sans MS">I'll check the security.</font>
+
+324
+00:24:35,042 --> 00:24:35,958
+<font face="Comic Sans MS"><i>Consul!</font>
+
+325
+00:24:36,208 --> 00:24:37,250
+<font face="Comic Sans MS">We've got everyone.</font>
+
+326
+00:24:37,417 --> 00:24:39,125
+<font face="Comic Sans MS">- How about the escort?
+- They're here.</font>
+
+327
+00:24:39,208 --> 00:24:40,583
+<font face="Comic Sans MS">We'll leave straight away.</font>
+
+328
+00:24:40,792 --> 00:24:41,833
+<font face="Comic Sans MS">- Go tell them!
+- Okay.</font>
+
+329
+00:24:41,917 --> 00:24:43,167
+<font face="Comic Sans MS">Get your bags quickly.</font>
+
+330
+00:24:43,250 --> 00:24:44,333
+<font face="Comic Sans MS">We're leaving now!</font>
+
+331
+00:24:44,542 --> 00:24:45,375
+<font face="Comic Sans MS">Quick!</font>
+
+332
+00:24:56,417 --> 00:24:59,083
+<font face="Comic Sans MS">The Chinese consul has left.</font>
+
+333
+00:24:59,958 --> 00:25:02,542
+<font face="Comic Sans MS">Let's go!
+Let's force them into the war zone!</font>
+
+334
+00:25:25,333 --> 00:25:26,458
+<font face="Comic Sans MS">Hey, get down.</font>
+
+335
+00:25:33,958 --> 00:25:35,917
+<font face="Comic Sans MS">Shit, it's Zaka.</font>
+
+336
+00:25:44,792 --> 00:25:47,375
+<font face="Comic Sans MS">Zaka is coming! They've killed the guards!</font>
+
+337
+00:25:47,708 --> 00:25:49,250
+<font face="Comic Sans MS">Run! Hide yourselves!</font>
+
+338
+00:26:05,250 --> 00:26:06,250
+<font face="Comic Sans MS">Just push through!</font>
+
+339
+00:26:07,542 --> 00:26:09,667
+<font face="Comic Sans MS">Inform the army vehicle at the back
+to overtake</font>
+
+340
+00:26:09,750 --> 00:26:11,750
+<font face="Comic Sans MS">and let the consul's vehicle
+follow their back.</font>
+
+341
+00:26:14,250 --> 00:26:17,167
+<font face="Comic Sans MS">The convoy is in the war zone.</font>
+
+342
+00:26:23,875 --> 00:26:25,375
+<font face="Comic Sans MS">Reverse! Quick!</font>
+
+343
+00:26:25,458 --> 00:26:26,542
+<font face="Comic Sans MS">Hurry, reverse!</font>
+
+344
+00:26:30,625 --> 00:26:32,083
+<font face="Comic Sans MS">There are rebels behind us.</font>
+
+345
+00:26:34,583 --> 00:26:35,792
+<font face="Comic Sans MS">Contact the warship now!</font>
+
+346
+00:26:36,833 --> 00:26:37,917
+<font face="Comic Sans MS">Set up a defensive line!</font>
+
+347
+00:26:48,750 --> 00:26:50,417
+<font face="Comic Sans MS">Stay there, get down!</font>
+
+348
+00:26:57,333 --> 00:26:58,417
+<font face="Comic Sans MS">Don't let them trap us!</font>
+
+349
+00:26:58,500 --> 00:26:59,833
+<font face="Comic Sans MS">We need to hide, quick!</font>
+
+350
+00:26:59,958 --> 00:27:01,542
+<font face="Comic Sans MS">Everyone, get down from the car now!</font>
+
+351
+00:27:02,458 --> 00:27:04,375
+<font face="Comic Sans MS">- Hurry!
+- Don't panic, one at a time!</font>
+
+352
+00:27:05,417 --> 00:27:06,333
+<font face="Comic Sans MS">Hurry!</font>
+
+353
+00:27:10,250 --> 00:27:11,750
+<font face="Comic Sans MS">Quick, quick!</font>
+
+354
+00:27:12,250 --> 00:27:13,375
+<font face="Comic Sans MS">Take the consul!</font>
+
+355
+00:27:14,333 --> 00:27:15,625
+<font face="Comic Sans MS">Consul, hurry!</font>
+
+356
+00:27:19,917 --> 00:27:22,792
+<font face="Comic Sans MS">The consul and others went into a factory.</font>
+
+357
+00:27:31,250 --> 00:27:32,167
+<font face="Comic Sans MS">Captain.</font>
+
+358
+00:27:41,375 --> 00:27:42,208
+<font face="Comic Sans MS">Rui Yang speaking.</font>
+
+359
+00:27:42,292 --> 00:27:45,083
+<font face="Comic Sans MS"><i>Consul Qing-liu He just sent an SOS.</font>
+
+360
+00:27:45,292 --> 00:27:48,250
+<font face="Comic Sans MS"><i>His convoy was ambushed.</font>
+
+361
+00:27:48,333 --> 00:27:51,125
+<font face="Comic Sans MS"><i>Yewaire can't spare any troops,</font>
+
+362
+00:27:51,250 --> 00:27:53,750
+<font face="Comic Sans MS"><i>but we have their permission to go in.</font>
+
+363
+00:27:53,833 --> 00:27:56,083
+<font face="Comic Sans MS"><i>They'll clear the roads out of the port.</font>
+
+364
+00:28:46,042 --> 00:28:47,250
+<font face="Comic Sans MS">Listen up, everyone.</font>
+
+365
+00:28:47,333 --> 00:28:49,542
+<font face="Comic Sans MS"><i>We can't get to the factory by road,</font>
+
+366
+00:28:49,625 --> 00:28:52,333
+<font face="Comic Sans MS"><i>so we'll go over the roofs.</font>
+
+367
+00:28:52,417 --> 00:28:54,167
+<font face="Comic Sans MS"><i>Unit 1, Shun Gu, Dong Li.</font>
+
+368
+00:28:54,250 --> 00:28:56,042
+<font face="Comic Sans MS"><i>Your duty is to establish an overwatch.</font>
+
+369
+00:28:56,125 --> 00:28:57,833
+<font face="Comic Sans MS"><i>The rest are on search and rescue.</font>
+
+370
+00:28:57,917 --> 00:29:00,542
+<font face="Comic Sans MS"><i>Unit 2, send 3 people
+to help the military police.</font>
+
+371
+00:29:00,667 --> 00:29:01,875
+<font face="Comic Sans MS"><i>The rest will guard the convoy.</font>
+
+372
+00:29:01,958 --> 00:29:02,917
+<font face="Comic Sans MS">Over.</font>
+
+373
+00:29:17,583 --> 00:29:19,375
+<font face="Comic Sans MS"><i>What? We lost the 5th Road?</font>
+
+374
+00:29:19,458 --> 00:29:21,750
+<font face="Comic Sans MS"><i>No, don't go by Lafayette.</font>
+
+375
+00:29:21,833 --> 00:29:25,292
+<font face="Comic Sans MS"><i>There are no escape routes. Try Zima Road.</font>
+
+376
+00:30:06,375 --> 00:30:07,792
+<font face="Comic Sans MS"><i>Did you find Dr. William?</font>
+
+377
+00:30:08,208 --> 00:30:09,292
+<font face="Comic Sans MS">Not yet.</font>
+
+378
+00:30:09,583 --> 00:30:12,458
+<font face="Comic Sans MS"><i>Find him! He's the key.</font>
+
+379
+00:31:10,417 --> 00:31:11,708
+<font face="Comic Sans MS">Move it!</font>
+
+380
+00:31:25,542 --> 00:31:28,042
+<font face="Comic Sans MS">1 minute before our target.
+Grab your guns!</font>
+
+381
+00:31:42,542 --> 00:31:43,542
+<font face="Comic Sans MS"><i>Support the military police.</font>
+
+382
+00:31:49,292 --> 00:31:51,250
+<font face="Comic Sans MS">We are under fire.
+Permission to return fire!</font>
+
+383
+00:31:51,333 --> 00:31:52,250
+<font face="Comic Sans MS"><i>Granted.</font>
+
+384
+00:31:57,500 --> 00:31:59,208
+<font face="Comic Sans MS">Base, we've arrived at the target.</font>
+
+385
+00:32:02,042 --> 00:32:03,750
+<font face="Comic Sans MS"><i>Unit 2, defend the convoy!</font>
+
+386
+00:32:13,958 --> 00:32:15,250
+<font face="Comic Sans MS">Smoke bomb!</font>
+
+387
+00:32:25,958 --> 00:32:28,250
+<font face="Comic Sans MS"><i>Flanks, set up a defensive line!</font>
+
+388
+00:32:53,917 --> 00:32:55,667
+<font face="Comic Sans MS">Base, we're on the roof.</font>
+
+389
+00:32:59,750 --> 00:33:00,667
+<font face="Comic Sans MS">All clear.</font>
+
+390
+00:33:01,917 --> 00:33:03,750
+<font face="Comic Sans MS">Shun Gu, Dong Li, find an overwatch.</font>
+
+391
+00:33:25,417 --> 00:33:26,500
+<font face="Comic Sans MS">Approaching overwatch.</font>
+
+392
+00:33:52,042 --> 00:33:54,167
+<font face="Comic Sans MS">Base, we're on the factory roof.</font>
+
+393
+00:33:57,250 --> 00:33:58,250
+<font face="Comic Sans MS">Unit One is in!</font>
+
+394
+00:34:00,333 --> 00:34:03,000
+<font face="Comic Sans MS">If you stop, the kids will die!</font>
+
+395
+00:34:03,083 --> 00:34:05,083
+<font face="Comic Sans MS">Crash into them!</font>
+
+396
+00:34:05,167 --> 00:34:08,000
+<font face="Comic Sans MS">Or I'll blow their brains out!</font>
+
+397
+00:34:08,083 --> 00:34:10,667
+<font face="Comic Sans MS">Do you think I'm kidding?</font>
+
+398
+00:34:10,750 --> 00:34:13,167
+<font face="Comic Sans MS">See this? If you stop, they will be dead.</font>
+
+399
+00:34:13,250 --> 00:34:15,958
+<font face="Comic Sans MS">Go on, blow them up!</font>
+
+400
+00:34:16,042 --> 00:34:17,250
+<font face="Comic Sans MS">I understand!</font>
+
+401
+00:34:23,000 --> 00:34:24,083
+<font face="Comic Sans MS">Sniper in position.</font>
+
+402
+00:34:40,250 --> 00:34:42,417
+<font face="Comic Sans MS">It's a car bomb! Stop it!</font>
+
+403
+00:34:48,917 --> 00:34:51,000
+<font face="Comic Sans MS">Everyone, take cover!</font>
+
+404
+00:34:57,292 --> 00:34:58,792
+<font face="Comic Sans MS">What was that explosion?</font>
+
+405
+00:35:00,625 --> 00:35:02,167
+<font face="Comic Sans MS"><i>There is a car bomb at the checkpoint.</font>
+
+406
+00:35:02,375 --> 00:35:03,875
+<font face="Comic Sans MS"><i>Heavy casualties for government troops.</font>
+
+407
+00:35:06,750 --> 00:35:08,250
+<font face="Comic Sans MS"><i>Unit 2, step it up!</font>
+
+408
+00:35:08,333 --> 00:35:09,417
+<font face="Comic Sans MS"><i>Hold the evacuation point!</font>
+
+409
+00:35:35,292 --> 00:35:36,792
+<font face="Comic Sans MS">What's wrong? Do you need the inhaler?</font>
+
+410
+00:35:52,500 --> 00:35:55,333
+<font face="Comic Sans MS">- Hurry up!
+- This is the fastest I can go.</font>
+
+411
+00:36:14,542 --> 00:36:16,458
+<font face="Comic Sans MS">Block all exits!</font>
+
+412
+00:36:17,625 --> 00:36:19,083
+<font face="Comic Sans MS">Find those Chinese people!</font>
+
+413
+00:37:41,667 --> 00:37:43,125
+<font face="Comic Sans MS">Got them. Move!</font>
+
+414
+00:37:46,000 --> 00:37:46,833
+<font face="Comic Sans MS">Who's there?</font>
+
+415
+00:37:46,917 --> 00:37:47,792
+<font face="Comic Sans MS">Chinese military police!</font>
+
+416
+00:37:48,167 --> 00:37:49,792
+<font face="Comic Sans MS">- Chen Lu, check his wounds.
+- Yes, sir!</font>
+
+417
+00:37:55,000 --> 00:37:55,917
+<font face="Comic Sans MS">Chinese Navy.</font>
+
+418
+00:37:56,625 --> 00:37:59,000
+<font face="Comic Sans MS">- We'll take you home.
+- An-zi, can you hear me?</font>
+
+419
+00:37:59,083 --> 00:38:01,083
+<font face="Comic Sans MS">- I'm Consul Qing-liu He.
+- Yes, I'm here.</font>
+
+420
+00:38:01,167 --> 00:38:03,375
+<font face="Comic Sans MS">- Where are you?
+- We are trapped in the workshop!</font>
+
+421
+00:38:05,125 --> 00:38:07,292
+<font face="Comic Sans MS">Hong Xu, Yu Zhuang, Tian-de Zhang.
+Evacuate the citizens.</font>
+
+422
+00:38:07,375 --> 00:38:08,542
+<font face="Comic Sans MS">Everyone else, come with me.</font>
+
+423
+00:38:34,917 --> 00:38:35,875
+<font face="Comic Sans MS">Grenade!</font>
+
+424
+00:38:41,875 --> 00:38:43,625
+<font face="Comic Sans MS">There are two in the room
+and one is outside!</font>
+
+425
+00:38:54,417 --> 00:38:55,708
+<font face="Comic Sans MS">Li Tong! Let them taste hell!</font>
+
+426
+00:39:04,958 --> 00:39:06,083
+<font face="Comic Sans MS">One down!</font>
+
+427
+00:39:10,833 --> 00:39:12,375
+<font face="Comic Sans MS">Watch out! Bazooka!</font>
+
+428
+00:39:21,542 --> 00:39:22,625
+<font face="Comic Sans MS">Move!</font>
+
+429
+00:39:26,375 --> 00:39:28,375
+<font face="Comic Sans MS">- Hold on!
+- Yu Zhuang, move out!</font>
+
+430
+00:39:28,667 --> 00:39:29,583
+<font face="Comic Sans MS">Go!</font>
+
+431
+00:39:29,667 --> 00:39:30,500
+<font face="Comic Sans MS">Shitou!</font>
+
+432
+00:39:32,958 --> 00:39:34,208
+<font face="Comic Sans MS">Come on, go!</font>
+
+433
+00:39:34,292 --> 00:39:36,208
+<font face="Comic Sans MS"><i>Evacuation point! We're on the way!</font>
+
+434
+00:39:36,292 --> 00:39:37,292
+<font face="Comic Sans MS"><i>Be ready!</font>
+
+435
+00:39:38,000 --> 00:39:39,417
+<font face="Comic Sans MS"><i>Everyone, covering fire!</font>
+
+436
+00:39:42,875 --> 00:39:44,292
+<font face="Comic Sans MS">Unit 1 is going through!</font>
+
+437
+00:39:45,125 --> 00:39:47,917
+<font face="Comic Sans MS">Quick, stay low!</font>
+
+438
+00:39:55,292 --> 00:39:58,333
+<font face="Comic Sans MS">Watch out, it is suspected that
+there is a car bomb at 12 o'clock!</font>
+
+439
+00:40:01,708 --> 00:40:03,458
+<font face="Comic Sans MS">Quick, get in!</font>
+
+440
+00:40:03,625 --> 00:40:06,167
+<font face="Comic Sans MS"><i>Unit 1! Hurry! There is a car bomb!</font>
+
+441
+00:40:12,833 --> 00:40:14,417
+<font face="Comic Sans MS">Stop the car!</font>
+
+442
+00:40:22,042 --> 00:40:24,042
+<font face="Comic Sans MS">Don't kill me! Don't shoot!</font>
+
+443
+00:40:24,125 --> 00:40:26,417
+<font face="Comic Sans MS">I'm not with them! They forced me!</font>
+
+444
+00:40:26,500 --> 00:40:28,708
+<font face="Comic Sans MS">He's not with Zaka! Lower your weapons!</font>
+
+445
+00:40:30,458 --> 00:40:31,333
+<font face="Comic Sans MS">What's wrong?</font>
+
+446
+00:40:31,958 --> 00:40:35,458
+<font face="Comic Sans MS">Those terrorists.
+They've been bombing civilians.</font>
+
+447
+00:40:36,958 --> 00:40:38,000
+<font face="Comic Sans MS">I'll handle it.</font>
+
+448
+00:40:38,083 --> 00:40:39,292
+<font face="Comic Sans MS">Tell your men to stay calm.</font>
+
+449
+00:40:39,375 --> 00:40:41,083
+<font face="Comic Sans MS">Shitou! Take my position.</font>
+
+450
+00:40:42,042 --> 00:40:43,250
+<font face="Comic Sans MS">Sniper's hide.</font>
+
+451
+00:40:43,375 --> 00:40:44,208
+<font face="Comic Sans MS">I read you.</font>
+
+452
+00:40:44,375 --> 00:40:46,917
+<font face="Comic Sans MS">- Cover me. I'm going to that car.
+- Roger.</font>
+
+453
+00:41:06,542 --> 00:41:08,958
+<font face="Comic Sans MS">Relax, it's okay. It's okay.</font>
+
+454
+00:41:22,417 --> 00:41:23,292
+<font face="Comic Sans MS">Don't move.</font>
+
+455
+00:42:18,958 --> 00:42:21,958
+<font face="Comic Sans MS">American, please. Save my kid.</font>
+
+456
+00:42:23,958 --> 00:42:26,333
+<font face="Comic Sans MS">My kid, please.</font>
+
+457
+00:42:26,417 --> 00:42:27,875
+<font face="Comic Sans MS">Let's go.</font>
+
+458
+00:42:28,417 --> 00:42:29,375
+<font face="Comic Sans MS">Please.</font>
+
+459
+00:42:29,625 --> 00:42:30,917
+<font face="Comic Sans MS">We're coming out!</font>
+
+460
+00:42:35,208 --> 00:42:36,500
+<font face="Comic Sans MS">Tian-de Zhang, move out!</font>
+
+461
+00:42:38,917 --> 00:42:40,333
+<font face="Comic Sans MS">Quick, move out!</font>
+
+462
+00:42:41,042 --> 00:42:43,042
+<font face="Comic Sans MS">Sniper's hide! Move out!</font>
+
+463
+00:42:43,292 --> 00:42:44,708
+<font face="Comic Sans MS">Roger! Moving out!</font>
+
+464
+00:43:48,542 --> 00:43:50,667
+<font face="Comic Sans MS">Abu, are you okay?</font>
+
+465
+00:43:52,333 --> 00:43:53,458
+<font face="Comic Sans MS">I...</font>
+
+466
+00:43:53,958 --> 00:43:55,875
+<font face="Comic Sans MS">I will get his necklace first.</font>
+
+467
+00:45:03,667 --> 00:45:05,458
+<font face="Comic Sans MS"><i>We just received news
+from The Foreign Ministry.</font>
+
+468
+00:45:05,542 --> 00:45:06,958
+<font face="Comic Sans MS">A French-Chinese reporter</font>
+
+469
+00:45:07,042 --> 00:45:08,375
+<font face="Comic Sans MS">called Nan Xia</font>
+
+470
+00:45:08,708 --> 00:45:11,167
+<font face="Comic Sans MS">contacted their 12308 hotline.</font>
+
+471
+00:45:11,375 --> 00:45:13,958
+<font face="Comic Sans MS"><i>She said she saw Zaka</font>
+
+472
+00:45:14,042 --> 00:45:16,375
+<font face="Comic Sans MS">kidnapping the staff of an energy company,</font>
+
+473
+00:45:16,875 --> 00:45:19,208
+<font face="Comic Sans MS">including a Chinese citizen, Mei Deng.</font>
+
+474
+00:45:19,708 --> 00:45:20,833
+<font face="Comic Sans MS">Is that reliable info?</font>
+
+475
+00:45:21,583 --> 00:45:23,875
+<font face="Comic Sans MS">We made contact with Nan Xia</font>
+
+476
+00:45:24,000 --> 00:45:25,250
+<font face="Comic Sans MS">and confirmed her identity.</font>
+
+477
+00:45:25,708 --> 00:45:28,083
+<font face="Comic Sans MS">The Yewaire government will help.</font>
+
+478
+00:45:28,167 --> 00:45:30,042
+<font face="Comic Sans MS"><i>They'll supply ground and air support</font>
+
+479
+00:45:30,125 --> 00:45:31,417
+<font face="Comic Sans MS"><i>for the joint rescue mission.</font>
+
+480
+00:45:32,000 --> 00:45:33,750
+<font face="Comic Sans MS"><i>Our mission this time</font>
+
+481
+00:45:33,833 --> 00:45:35,833
+<font face="Comic Sans MS"><i>is to give a message to all terrorists</font>
+
+482
+00:45:35,917 --> 00:45:37,500
+<font face="Comic Sans MS"><i>that you can never harm a Chinese citizen.</font>
+
+483
+00:45:38,042 --> 00:45:38,958
+<font face="Comic Sans MS"><i>Unit 2,</font>
+
+484
+00:45:39,042 --> 00:45:40,625
+<font face="Comic Sans MS"><i>take the citizens to the port.</font>
+
+485
+00:45:41,167 --> 00:45:42,042
+<font face="Comic Sans MS"><i>Unit 1,</font>
+
+486
+00:45:42,208 --> 00:45:45,083
+<font face="Comic Sans MS">go with their government troops
+and wait for orders.</font>
+
+487
+00:45:45,583 --> 00:45:47,917
+<font face="Comic Sans MS"><i>We'll send in the materials, supplies,</font>
+
+488
+00:45:48,000 --> 00:45:49,875
+<font face="Comic Sans MS">- and wingsuits.</i>
+- Yes, sir!</font>
+
+489
+00:45:55,292 --> 00:45:57,500
+<font face="Comic Sans MS">When he asked me to save his kids,</font>
+
+490
+00:45:58,083 --> 00:45:59,583
+<font face="Comic Sans MS">I felt awful.</font>
+
+491
+00:46:00,708 --> 00:46:01,667
+<font face="Comic Sans MS">We saved their lives,</font>
+
+492
+00:46:02,917 --> 00:46:03,917
+<font face="Comic Sans MS">but not their homes.</font>
+
+493
+00:46:05,500 --> 00:46:06,875
+<font face="Comic Sans MS">This country of theirs</font>
+
+494
+00:46:07,542 --> 00:46:08,917
+<font face="Comic Sans MS">is in such a mess.</font>
+
+495
+00:46:10,292 --> 00:46:12,375
+<font face="Comic Sans MS">At most, we complete our mission</font>
+
+496
+00:46:13,333 --> 00:46:14,750
+<font face="Comic Sans MS">and that's it.</font>
+
+497
+00:46:19,375 --> 00:46:20,958
+<font face="Comic Sans MS">Why do you like candy so much?</font>
+
+498
+00:46:21,958 --> 00:46:24,167
+<font face="Comic Sans MS">You still don't know after all this time?</font>
+
+499
+00:46:24,625 --> 00:46:26,000
+<font face="Comic Sans MS">I was a naughty kid.</font>
+
+500
+00:46:26,083 --> 00:46:27,083
+<font face="Comic Sans MS">I always got spanked.</font>
+
+501
+00:46:27,250 --> 00:46:28,292
+<font face="Comic Sans MS">But each time,</font>
+
+502
+00:46:28,458 --> 00:46:29,833
+<font face="Comic Sans MS">my mom gave me a candy.</font>
+
+503
+00:46:30,042 --> 00:46:31,208
+<font face="Comic Sans MS">So even now,</font>
+
+504
+00:46:31,292 --> 00:46:32,125
+<font face="Comic Sans MS">when I'm on a mission,</font>
+
+505
+00:46:32,208 --> 00:46:33,083
+<font face="Comic Sans MS">if I have candy,</font>
+
+506
+00:46:33,167 --> 00:46:34,375
+<font face="Comic Sans MS">I can handle anything.</font>
+
+507
+00:46:37,792 --> 00:46:39,292
+<font face="Comic Sans MS">What was that for?</font>
+
+508
+00:46:39,792 --> 00:46:40,875
+<font face="Comic Sans MS">Didn't you say</font>
+
+509
+00:46:40,958 --> 00:46:42,792
+<font face="Comic Sans MS">if you have candy, there is no pain?</font>
+
+510
+00:46:51,042 --> 00:46:53,750
+<font face="Comic Sans MS">Do you know Xing Luo and I were rivals?</font>
+
+511
+00:46:54,167 --> 00:46:55,083
+<font face="Comic Sans MS">Yes.</font>
+
+512
+00:46:56,042 --> 00:46:58,083
+<font face="Comic Sans MS">You guys were fighting for a spot
+in a sniper training camp</font>
+
+513
+00:46:58,167 --> 00:47:00,292
+<font face="Comic Sans MS">at a commando school in Venezuela.</font>
+
+514
+00:47:01,125 --> 00:47:02,958
+<font face="Comic Sans MS">There's only one spot for Jiaolong.</font>
+
+515
+00:47:04,750 --> 00:47:05,833
+<font face="Comic Sans MS">It's a pity.</font>
+
+516
+00:47:06,208 --> 00:47:07,583
+<font face="Comic Sans MS">There is no chance to compete now.</font>
+
+517
+00:47:08,625 --> 00:47:10,667
+<font face="Comic Sans MS">He was the best sniper I ever saw.</font>
+
+518
+00:47:13,292 --> 00:47:14,708
+<font face="Comic Sans MS">Were you always like this?</font>
+
+519
+00:47:16,042 --> 00:47:16,958
+<font face="Comic Sans MS">Like what?</font>
+
+520
+00:47:17,042 --> 00:47:18,208
+<font face="Comic Sans MS">Tense.</font>
+
+521
+00:47:18,417 --> 00:47:19,833
+<font face="Comic Sans MS">Shaky under pressure.</font>
+
+522
+00:47:23,250 --> 00:47:24,333
+<font face="Comic Sans MS">On the battlefield,</font>
+
+523
+00:47:24,583 --> 00:47:25,667
+<font face="Comic Sans MS">you can't dodge bullets.</font>
+
+524
+00:47:26,375 --> 00:47:28,625
+<font face="Comic Sans MS">Take this as a free lesson for you.</font>
+
+525
+00:47:29,333 --> 00:47:30,917
+<font face="Comic Sans MS">Next time, I'll ask for fees.</font>
+
+526
+00:47:35,417 --> 00:47:37,333
+<font face="Comic Sans MS">Captain, we received news.</font>
+
+527
+00:47:38,333 --> 00:47:40,583
+<font face="Comic Sans MS">Yewaire can't spare any choppers.</font>
+
+528
+00:47:41,083 --> 00:47:42,708
+<font face="Comic Sans MS">We'll have to escort the convoy</font>
+
+529
+00:47:42,792 --> 00:47:44,750
+<font face="Comic Sans MS">of civilian evacuees by road.</font>
+
+530
+00:47:46,292 --> 00:47:47,375
+<font face="Comic Sans MS">If we go by road,</font>
+
+531
+00:47:47,625 --> 00:47:49,875
+<font face="Comic Sans MS">it'll take twice as long.</font>
+
+532
+00:47:50,000 --> 00:47:51,917
+<font face="Comic Sans MS">I worry they won't get back in time.</font>
+
+533
+00:47:55,167 --> 00:47:56,417
+<font face="Comic Sans MS">Get me Jiaolong Unit 1.</font>
+
+534
+00:47:56,500 --> 00:47:57,333
+<font face="Comic Sans MS">Yes, sir!</font>
+
+535
+00:47:58,542 --> 00:47:59,625
+<font face="Comic Sans MS">Nan Xia's phone</font>
+
+536
+00:47:59,708 --> 00:48:02,042
+<font face="Comic Sans MS">was last found in the Northeast.</font>
+
+537
+00:48:02,375 --> 00:48:04,625
+<font face="Comic Sans MS">According to the Yewaire authorities,</font>
+
+538
+00:48:04,833 --> 00:48:07,250
+<font face="Comic Sans MS">there's a town there called Basem.</font>
+
+539
+00:48:07,500 --> 00:48:08,708
+<font face="Comic Sans MS">Zaka took over it</font>
+
+540
+00:48:08,792 --> 00:48:10,083
+<font face="Comic Sans MS"><i>a week ago.</font>
+
+541
+00:48:10,417 --> 00:48:13,792
+<font face="Comic Sans MS"><i>Go to the Yewaire Army Meeting Point.</font>
+
+542
+00:48:13,875 --> 00:48:15,750
+<font face="Comic Sans MS"><i>Follow the evacuation convoy.</font>
+
+543
+00:48:15,917 --> 00:48:18,167
+<font face="Comic Sans MS">Their commandos will work with you</font>
+
+544
+00:48:18,250 --> 00:48:19,125
+<font face="Comic Sans MS"><i>to rescue Mei Deng.</font>
+
+545
+00:48:19,250 --> 00:48:20,167
+<font face="Comic Sans MS">Roger.</font>
+
+546
+00:48:20,333 --> 00:48:21,500
+<font face="Comic Sans MS">The operation is confirmed.</font>
+
+547
+00:48:22,375 --> 00:48:24,292
+<font face="Comic Sans MS">But we only have 3 hours.</font>
+
+548
+00:48:25,792 --> 00:48:27,500
+<font face="Comic Sans MS">We'll be deep in enemy territory.</font>
+
+549
+00:48:27,583 --> 00:48:30,458
+<font face="Comic Sans MS">But we don't have
+any reliable Intel until now.</font>
+
+550
+00:48:31,417 --> 00:48:33,083
+<font face="Comic Sans MS">Only one thing is certain.</font>
+
+551
+00:48:34,917 --> 00:48:36,167
+<font face="Comic Sans MS">It will be a tough battle.</font>
+
+552
+00:48:39,333 --> 00:48:40,958
+<font face="Comic Sans MS">I want each of you</font>
+
+553
+00:48:42,292 --> 00:48:43,667
+<font face="Comic Sans MS">to give it your all</font>
+
+554
+00:48:45,375 --> 00:48:46,542
+<font face="Comic Sans MS">and return safely.</font>
+
+555
+00:48:48,542 --> 00:48:49,667
+<font face="Comic Sans MS">Do you understand?</font>
+
+556
+00:48:49,750 --> 00:48:50,667
+<font face="Comic Sans MS">Yes, sir!</font>
+
+557
+00:48:50,750 --> 00:48:51,667
+<font face="Comic Sans MS">Move now!</font>
+
+558
+00:49:10,458 --> 00:49:11,542
+<font face="Comic Sans MS">Sayyid.</font>
+
+559
+00:49:11,958 --> 00:49:13,750
+<font face="Comic Sans MS">The Chief Secretary's wife is at the port.</font>
+
+560
+00:49:13,833 --> 00:49:16,667
+<font face="Comic Sans MS">The Chinese hostage
+is our bargaining chip.</font>
+
+561
+00:49:17,792 --> 00:49:19,875
+<font face="Comic Sans MS">But they won't give in easily.</font>
+
+562
+00:49:20,417 --> 00:49:22,917
+<font face="Comic Sans MS"><i>Stay there and observe everything.</font>
+
+563
+00:49:24,542 --> 00:49:26,125
+<font face="Comic Sans MS">There are 3 trucks on the hill.</font>
+
+564
+00:49:26,208 --> 00:49:27,375
+<font face="Comic Sans MS">2 are armed.</font>
+
+565
+00:49:27,458 --> 00:49:29,000
+<font face="Comic Sans MS">I'm not sure about the 3rd.</font>
+
+566
+00:49:29,083 --> 00:49:30,917
+<font face="Comic Sans MS">- When did they appear?
+- 3 minutes ago.</font>
+
+567
+00:49:49,083 --> 00:49:50,583
+<font face="Comic Sans MS">Prepare the auxiliary gun.</font>
+
+568
+00:49:50,792 --> 00:49:51,792
+<font face="Comic Sans MS">Yes, sir!</font>
+
+569
+00:50:21,167 --> 00:50:22,125
+<font face="Comic Sans MS">Thank you.</font>
+
+570
+00:50:28,500 --> 00:50:31,083
+<font face="Comic Sans MS">I understand. But I have to go to Basem.</font>
+
+571
+00:50:31,167 --> 00:50:32,542
+<font face="Comic Sans MS">It's not just to save my assistant.</font>
+
+572
+00:50:32,625 --> 00:50:34,208
+<font face="Comic Sans MS">There's something very important</font>
+
+573
+00:50:34,292 --> 00:50:35,708
+<font face="Comic Sans MS">I have to do there.</font>
+
+574
+00:50:36,250 --> 00:50:37,375
+<font face="Comic Sans MS">I'm sorry, Ms. Xia.</font>
+
+575
+00:50:37,875 --> 00:50:39,750
+<font face="Comic Sans MS">We can't take you with us.</font>
+
+576
+00:50:40,042 --> 00:50:42,417
+<font face="Comic Sans MS">We don't know the situation there. Right?</font>
+
+577
+00:50:42,500 --> 00:50:44,917
+<font face="Comic Sans MS">Captain Yang,
+can you let me explain first?</font>
+
+578
+00:50:45,125 --> 00:50:46,083
+<font face="Comic Sans MS">Okay.</font>
+
+579
+00:50:46,375 --> 00:50:49,125
+<font face="Comic Sans MS">Hong Xu, get them moving. Quick.</font>
+
+580
+00:50:50,000 --> 00:50:52,708
+<font face="Comic Sans MS">It's about the black-market yellowcake.</font>
+
+581
+00:50:53,083 --> 00:50:54,917
+<font face="Comic Sans MS">Zaka has William Parsons,</font>
+
+582
+00:50:55,000 --> 00:50:56,292
+<font face="Comic Sans MS">the biggest dealer in the market.</font>
+
+583
+00:50:56,375 --> 00:50:57,292
+<font face="Comic Sans MS">We found out</font>
+
+584
+00:50:57,375 --> 00:50:59,208
+<font face="Comic Sans MS">that he's in touch with terrorist groups.</font>
+
+585
+00:50:59,292 --> 00:51:00,250
+<font face="Comic Sans MS">One of them</font>
+
+586
+00:51:00,333 --> 00:51:02,083
+<font face="Comic Sans MS">now has the technology</font>
+
+587
+00:51:02,167 --> 00:51:04,917
+<font face="Comic Sans MS">for large-scale dirty bombs.</font>
+
+588
+00:51:05,000 --> 00:51:05,875
+<font face="Comic Sans MS">Which means</font>
+
+589
+00:51:05,958 --> 00:51:07,542
+<font face="Comic Sans MS">once they get the yellowcake,</font>
+
+590
+00:51:07,625 --> 00:51:10,292
+<font face="Comic Sans MS">who knows how many they will kill?</font>
+
+591
+00:51:10,542 --> 00:51:11,667
+<font face="Comic Sans MS">Are you talking about Zaka?</font>
+
+592
+00:51:11,750 --> 00:51:13,708
+<font face="Comic Sans MS">Yes, all they want is the yellowcake.</font>
+
+593
+00:51:13,792 --> 00:51:15,667
+<font face="Comic Sans MS">- It's not our business.
+- I hope you can save Abu,</font>
+
+594
+00:51:15,750 --> 00:51:18,083
+<font face="Comic Sans MS">- Our mission--
+- William and all of them!</font>
+
+595
+00:51:19,875 --> 00:51:21,458
+<font face="Comic Sans MS">Ms. Xia, our mission</font>
+
+596
+00:51:21,542 --> 00:51:23,125
+<font face="Comic Sans MS">is to rescue a Chinese hostage.</font>
+
+597
+00:51:23,208 --> 00:51:24,292
+<font face="Comic Sans MS">If we can,</font>
+
+598
+00:51:24,375 --> 00:51:25,583
+<font face="Comic Sans MS">we'll rescue the others.</font>
+
+599
+00:51:25,667 --> 00:51:26,500
+<font face="Comic Sans MS">But I'm sorry,</font>
+
+600
+00:51:26,583 --> 00:51:28,417
+<font face="Comic Sans MS">you can't come with us.</font>
+
+601
+00:51:28,500 --> 00:51:29,500
+<font face="Comic Sans MS">If I don't go with you,</font>
+
+602
+00:51:29,583 --> 00:51:31,250
+<font face="Comic Sans MS">I'll never get what I came for!</font>
+
+603
+00:51:32,500 --> 00:51:33,458
+<font face="Comic Sans MS">Please get in the car.</font>
+
+604
+00:51:34,875 --> 00:51:36,167
+<font face="Comic Sans MS">Sorry, you can't leave.</font>
+
+605
+00:51:36,250 --> 00:51:37,542
+<font face="Comic Sans MS">Why not?</font>
+
+606
+00:51:37,625 --> 00:51:38,708
+<font face="Comic Sans MS">I already told you.</font>
+
+607
+00:51:38,792 --> 00:51:40,125
+<font face="Comic Sans MS">We were ordered</font>
+
+608
+00:51:40,208 --> 00:51:42,375
+<font face="Comic Sans MS">to take you to an army base.</font>
+
+609
+00:51:42,458 --> 00:51:44,208
+<font face="Comic Sans MS">You'll be evacuated from there.</font>
+
+610
+00:51:44,292 --> 00:51:45,125
+<font face="Comic Sans MS">Sir, this is Nan Xia.</font>
+
+611
+00:51:45,208 --> 00:51:46,375
+<font face="Comic Sans MS">- We have a situation.
+- Ms. Xia.</font>
+
+612
+00:51:46,458 --> 00:51:47,875
+<font face="Comic Sans MS">In the next terrorist attack,</font>
+
+613
+00:51:47,958 --> 00:51:50,708
+<font face="Comic Sans MS">countless people will die
+because of William's yellowcake.</font>
+
+614
+00:52:00,417 --> 00:52:01,417
+<font face="Comic Sans MS">What is it?</font>
+
+615
+00:52:01,708 --> 00:52:03,292
+<font face="Comic Sans MS">Zaka put out a video</font>
+
+616
+00:52:03,375 --> 00:52:05,000
+<font face="Comic Sans MS">addressed to the Chinese Navy.</font>
+
+617
+00:52:05,083 --> 00:52:05,958
+<font face="Comic Sans MS">Look.</font>
+
+618
+00:52:08,833 --> 00:52:10,542
+<font face="Comic Sans MS"><i>Chief Secretary Muhadi is a sinner</font>
+
+619
+00:52:10,625 --> 00:52:14,167
+<font face="Comic Sans MS"><i>who continues to suppress my people
+with his abuse of violence.</font>
+
+620
+00:52:14,958 --> 00:52:19,167
+<font face="Comic Sans MS"><i>We demand that you stop harboring
+the sinner and turn over Muhadi's family.</font>
+
+621
+00:52:19,750 --> 00:52:21,833
+<font face="Comic Sans MS"><i>We must avenge the brothers and sisters</font>
+
+622
+00:52:21,917 --> 00:52:24,458
+<font face="Comic Sans MS"><i>who sacrificed because of Muhad.</font>
+
+623
+00:52:24,542 --> 00:52:25,958
+<font face="Comic Sans MS"><i>If you refuse to cooperate,</font>
+
+624
+00:52:26,042 --> 00:52:29,750
+<font face="Comic Sans MS"><i>the Chinese citizens shall take
+the punishment in their place.</font>
+
+625
+00:52:29,958 --> 00:52:31,542
+<font face="Comic Sans MS"><i>This is just an example.</font>
+
+626
+00:52:35,583 --> 00:52:38,167
+<font face="Comic Sans MS"><i>And this Chinese woman will be next.</font>
+
+627
+00:52:44,208 --> 00:52:45,917
+<font face="Comic Sans MS">Damn it!</font>
+
+628
+00:52:46,542 --> 00:52:48,083
+<font face="Comic Sans MS">Savages!</font>
+
+629
+00:52:48,917 --> 00:52:50,583
+<font face="Comic Sans MS">Our only hope</font>
+
+630
+00:52:51,375 --> 00:52:54,125
+<font face="Comic Sans MS">is for Jiaolong to rescue them all.</font>
+
+631
+00:54:03,375 --> 00:54:04,542
+<font face="Comic Sans MS">- Captain Yang.
+- Yes?</font>
+
+632
+00:54:04,625 --> 00:54:06,875
+<font face="Comic Sans MS">We just got word about
+possible danger ahead.</font>
+
+633
+00:54:07,167 --> 00:54:08,542
+<font face="Comic Sans MS">We have to look for a different route.</font>
+
+634
+00:54:08,625 --> 00:54:09,958
+<font face="Comic Sans MS">What?</font>
+
+635
+00:54:13,333 --> 00:54:14,708
+<font face="Comic Sans MS">Yu Zhuang, contact the base.</font>
+
+636
+00:54:14,792 --> 00:54:16,042
+<font face="Comic Sans MS">- Okay.
+- Hurry!</font>
+
+637
+00:54:16,167 --> 00:54:18,125
+<font face="Comic Sans MS">Base, this is Unit 1.</font>
+
+638
+00:54:19,750 --> 00:54:20,917
+<font face="Comic Sans MS">Do you read me?</font>
+
+639
+00:54:23,833 --> 00:54:25,958
+<font face="Comic Sans MS">Base, this is Unit 1.</font>
+
+640
+00:54:26,042 --> 00:54:27,542
+<font face="Comic Sans MS">Request for signal. Over.</font>
+
+641
+00:54:31,500 --> 00:54:32,542
+<font face="Comic Sans MS">Base.</font>
+
+642
+00:54:37,833 --> 00:54:39,583
+<font face="Comic Sans MS">Mortar attack!</font>
+
+643
+00:55:00,333 --> 00:55:02,708
+<font face="Comic Sans MS">Is everyone okay? Answer me!</font>
+
+644
+00:55:02,792 --> 00:55:04,167
+<font face="Comic Sans MS">I'm okay!</font>
+
+645
+00:55:04,250 --> 00:55:05,625
+<font face="Comic Sans MS">- Chen Lu's okay!
+- Hong Xu's okay!</font>
+
+646
+00:55:05,708 --> 00:55:06,792
+<font face="Comic Sans MS">Shun Gu, Dong Li, okay!</font>
+
+647
+00:55:06,917 --> 00:55:08,250
+<font face="Comic Sans MS">Tian-de Zhang and Li Tong, okay!</font>
+
+648
+00:55:25,292 --> 00:55:26,458
+<font face="Comic Sans MS">Don't move!</font>
+
+649
+00:55:27,500 --> 00:55:28,708
+<font face="Comic Sans MS">Shitou, go to the rear!</font>
+
+650
+00:55:28,792 --> 00:55:30,375
+<font face="Comic Sans MS">Li Tong, take the wing!</font>
+
+651
+00:55:43,958 --> 00:55:45,875
+<font face="Comic Sans MS">Come on! Get your gun!</font>
+
+652
+00:55:54,208 --> 00:55:56,583
+<font face="Comic Sans MS">Chen Lu, get me the enemy's position!</font>
+
+653
+00:56:01,708 --> 00:56:03,667
+<font face="Comic Sans MS">Hong Xu, bring everyone out!</font>
+
+654
+00:56:04,667 --> 00:56:06,792
+<font face="Comic Sans MS">Yu Zhuang, look for
+any ammunition that is left!</font>
+
+655
+00:56:06,875 --> 00:56:07,792
+<font face="Comic Sans MS">Roger!</font>
+
+656
+00:56:26,458 --> 00:56:27,958
+<font face="Comic Sans MS">Open the door!</font>
+
+657
+00:56:37,000 --> 00:56:39,042
+<font face="Comic Sans MS">Mortars at 2 o'clock!</font>
+
+658
+00:57:26,333 --> 00:57:29,042
+<font face="Comic Sans MS">Hide!</font>
+
+659
+00:57:30,792 --> 00:57:31,667
+<font face="Comic Sans MS">Hong Xu!</font>
+
+660
+00:57:34,833 --> 00:57:35,708
+<font face="Comic Sans MS">I'm okay.</font>
+
+661
+00:57:36,875 --> 00:57:37,708
+<font face="Comic Sans MS">Save them!</font>
+
+662
+00:57:37,958 --> 00:57:38,792
+<font face="Comic Sans MS">Hurry!</font>
+
+663
+00:57:39,583 --> 00:57:41,000
+<font face="Comic Sans MS">Chen Lu, let's go!</font>
+
+664
+00:58:03,750 --> 00:58:04,667
+<font face="Comic Sans MS">Shun Gu, Dong Li.</font>
+
+665
+00:58:04,750 --> 00:58:07,208
+<font face="Comic Sans MS">Find an overwatch, wait for my orders!</font>
+
+666
+00:58:07,458 --> 00:58:08,292
+<font face="Comic Sans MS">Roger!</font>
+
+667
+00:58:08,500 --> 00:58:10,708
+<font face="Comic Sans MS">Tian-de Zhang, cover me!</font>
+
+668
+00:58:14,333 --> 00:58:15,208
+<font face="Comic Sans MS">Move!</font>
+
+669
+00:58:21,542 --> 00:58:23,375
+<font face="Comic Sans MS">Li Tong, cover me!</font>
+
+670
+00:58:43,417 --> 00:58:45,292
+<font face="Comic Sans MS">Dong Li, move!</font>
+
+671
+00:58:58,375 --> 00:58:59,417
+<font face="Comic Sans MS">His leg's gone,</font>
+
+672
+00:58:59,500 --> 00:59:00,750
+<font face="Comic Sans MS">let's cut it off!</font>
+
+673
+00:59:00,833 --> 00:59:01,708
+<font face="Comic Sans MS">Come on!</font>
+
+674
+00:59:14,625 --> 00:59:15,583
+<font face="Comic Sans MS">Take him.</font>
+
+675
+00:59:19,083 --> 00:59:20,000
+<font face="Comic Sans MS">Stay calm.</font>
+
+676
+00:59:37,917 --> 00:59:39,417
+<font face="Comic Sans MS">Captain, it's Hong Xu.</font>
+
+677
+00:59:40,083 --> 00:59:42,167
+<font face="Comic Sans MS">There's a live bomb on the bus.</font>
+
+678
+00:59:56,667 --> 00:59:58,250
+<font face="Comic Sans MS"><i>Shun Gu, are you in position?</font>
+
+679
+00:59:59,333 --> 01:00:00,458
+<font face="Comic Sans MS">Not yet.</font>
+
+680
+01:00:07,458 --> 01:00:08,583
+<font face="Comic Sans MS">Last round!</font>
+
+681
+01:00:26,417 --> 01:00:28,500
+<font face="Comic Sans MS">Watch out! There is a sniper!</font>
+
+682
+01:00:28,583 --> 01:00:29,792
+<font face="Comic Sans MS">Be careful, everyone!</font>
+
+683
+01:00:35,125 --> 01:00:36,042
+<font face="Comic Sans MS"><i>Dong Li.</font>
+
+684
+01:00:36,125 --> 01:00:37,000
+<font face="Comic Sans MS">Listen to me.</font>
+
+685
+01:00:37,208 --> 01:00:38,583
+<font face="Comic Sans MS">I'll hit their base.</font>
+
+686
+01:00:38,833 --> 01:00:39,708
+<font face="Comic Sans MS"><i>But as soon as I fire,</font>
+
+687
+01:00:39,792 --> 01:00:41,458
+<font face="Comic Sans MS"><i>they'll have a fix on my position.</font>
+
+688
+01:00:41,542 --> 01:00:42,458
+<font face="Comic Sans MS"><i>Find them quickly.</font>
+
+689
+01:00:42,542 --> 01:00:43,667
+<font face="Comic Sans MS"><i>Do you read me?</font>
+
+690
+01:00:43,750 --> 01:00:44,583
+<font face="Comic Sans MS">Roger!</font>
+
+691
+01:01:01,167 --> 01:01:02,000
+<font face="Comic Sans MS"><i>Shun Gu, quick!</font>
+
+692
+01:01:02,083 --> 01:01:03,167
+<font face="Comic Sans MS"><i>The smoke is clearing up!</font>
+
+693
+01:01:18,625 --> 01:01:19,750
+<font face="Comic Sans MS">Shun Gu in position.</font>
+
+694
+01:01:58,333 --> 01:01:59,833
+<font face="Comic Sans MS"><i>There is a sniper at 2 o'clock,</font>
+
+695
+01:01:59,917 --> 01:02:01,708
+<font face="Comic Sans MS"><i>on the hill, near the peak,</font>
+
+696
+01:02:01,792 --> 01:02:03,042
+<font face="Comic Sans MS"><i>by a boulder.</font>
+
+697
+01:02:03,417 --> 01:02:07,333
+<font face="Comic Sans MS">It's 22 degrees east, 602 meters.</font>
+
+698
+01:02:40,333 --> 01:02:42,625
+<font face="Comic Sans MS">Dong Li. Can you see him?</font>
+
+699
+01:02:45,000 --> 01:02:46,750
+<font face="Comic Sans MS">I see him.</font>
+
+700
+01:02:47,667 --> 01:02:49,500
+<font face="Comic Sans MS">On the highest ridge,</font>
+
+701
+01:02:49,667 --> 01:02:51,583
+<font face="Comic Sans MS">10 meters to the right.</font>
+
+702
+01:02:53,042 --> 01:02:54,625
+<font face="Comic Sans MS">Dong Li, pin him down.</font>
+
+703
+01:02:54,708 --> 01:02:55,875
+<font face="Comic Sans MS">I'll get the mortar.</font>
+
+704
+01:03:37,292 --> 01:03:39,292
+<font face="Comic Sans MS"><i>Shun Gu, I've pinned him down.</font>
+
+705
+01:05:10,375 --> 01:05:12,458
+<font face="Comic Sans MS">Everyone, retreat!</font>
+
+706
+01:05:14,000 --> 01:05:16,083
+<font face="Comic Sans MS">Don't move! Don't move!</font>
+
+707
+01:05:19,083 --> 01:05:20,833
+<font face="Comic Sans MS">Hold him down, I'll pull it out.</font>
+
+708
+01:05:22,208 --> 01:05:23,125
+<font face="Comic Sans MS">Okay.</font>
+
+709
+01:05:26,542 --> 01:05:27,500
+<font face="Comic Sans MS">Pull!</font>
+
+710
+01:05:30,458 --> 01:05:31,583
+<font face="Comic Sans MS">Hold him down.</font>
+
+711
+01:05:52,333 --> 01:05:53,500
+<font face="Comic Sans MS">Let's go.</font>
+
+712
+01:06:17,417 --> 01:06:18,375
+<font face="Comic Sans MS">Hurry!</font>
+
+713
+01:06:18,458 --> 01:06:19,917
+<font face="Comic Sans MS">Everyone, go now!</font>
+
+714
+01:06:20,000 --> 01:06:21,833
+<font face="Comic Sans MS">The bomb is going off!</font>
+
+715
+01:06:22,000 --> 01:06:23,042
+<font face="Comic Sans MS">Run!</font>
+
+716
+01:06:24,167 --> 01:06:25,583
+<font face="Comic Sans MS">Hong Xu, run!</font>
+
+717
+01:06:35,833 --> 01:06:36,792
+<font face="Comic Sans MS"><i>Captain.</font>
+
+718
+01:06:37,375 --> 01:06:38,458
+<font face="Comic Sans MS">Captain, are you okay?</font>
+
+719
+01:06:39,167 --> 01:06:40,167
+<font face="Comic Sans MS">Captain!</font>
+
+720
+01:06:44,833 --> 01:06:45,833
+<font face="Comic Sans MS">Where are the others?</font>
+
+721
+01:06:59,625 --> 01:07:01,500
+<font face="Comic Sans MS">- Are you okay?
+- Hurry and save the others!</font>
+
+722
+01:07:03,375 --> 01:07:04,958
+<font face="Comic Sans MS">Come on!</font>
+
+723
+01:07:10,417 --> 01:07:11,417
+<font face="Comic Sans MS">Shitou!</font>
+
+724
+01:07:11,708 --> 01:07:13,083
+<font face="Comic Sans MS">- Hong Xu...
+- Save the others!</font>
+
+725
+01:07:13,167 --> 01:07:14,375
+<font face="Comic Sans MS">Hong Xu...</font>
+
+726
+01:07:15,083 --> 01:07:16,083
+<font face="Comic Sans MS">Harder!</font>
+
+727
+01:07:16,250 --> 01:07:17,083
+<font face="Comic Sans MS">Pull!</font>
+
+728
+01:07:17,750 --> 01:07:18,708
+<font face="Comic Sans MS">Hurry!</font>
+
+729
+01:07:19,292 --> 01:07:20,500
+<font face="Comic Sans MS">Nan Xia!</font>
+
+730
+01:07:20,750 --> 01:07:22,208
+<font face="Comic Sans MS">- Nan Xia!
+- Over here!</font>
+
+731
+01:07:24,083 --> 01:07:25,000
+<font face="Comic Sans MS">Pull!</font>
+
+732
+01:07:26,042 --> 01:07:27,000
+<font face="Comic Sans MS">Harder!</font>
+
+733
+01:07:27,750 --> 01:07:30,042
+<font face="Comic Sans MS">Are you okay?</font>
+
+734
+01:07:52,708 --> 01:07:54,375
+<font face="Comic Sans MS">We're 80 kilometers from our target.</font>
+
+735
+01:07:54,917 --> 01:07:57,292
+<font face="Comic Sans MS">But the ship sails in 90 minutes.</font>
+
+736
+01:07:57,542 --> 01:07:58,583
+<font face="Comic Sans MS">We only have one vehicle left</font>
+
+737
+01:07:58,667 --> 01:08:00,667
+<font face="Comic Sans MS"><i>and that's under repair.</font>
+
+738
+01:08:01,042 --> 01:08:02,333
+<font face="Comic Sans MS">We won't make it back in time.</font>
+
+739
+01:08:02,750 --> 01:08:04,792
+<font face="Comic Sans MS">Can their troops give us more support?</font>
+
+740
+01:08:06,167 --> 01:08:09,417
+<font face="Comic Sans MS">Our superiors put in a request,</font>
+
+741
+01:08:09,917 --> 01:08:12,958
+<font face="Comic Sans MS">but they've no troops to spare.</font>
+
+742
+01:08:13,417 --> 01:08:15,750
+<font face="Comic Sans MS">They can only get us out at a point</font>
+
+743
+01:08:16,208 --> 01:08:18,583
+<font face="Comic Sans MS"><i>60 kilometers north of the target.</font>
+
+744
+01:08:19,292 --> 01:08:20,583
+<font face="Comic Sans MS"><i>After the rescue,</font>
+
+745
+01:08:20,792 --> 01:08:22,000
+<font face="Comic Sans MS">go straight there.</font>
+
+746
+01:08:23,042 --> 01:08:27,500
+<font face="Comic Sans MS">But it's a very dangerous route.</font>
+
+747
+01:08:28,167 --> 01:08:30,417
+<font face="Comic Sans MS">You need to be on high alert.</font>
+
+748
+01:08:30,667 --> 01:08:31,583
+<font face="Comic Sans MS"><i>Roger that!</font>
+
+749
+01:08:31,667 --> 01:08:34,917
+<font face="Comic Sans MS"><i>Also, Zaka released a video.</font>
+
+750
+01:08:35,667 --> 01:08:38,167
+<font face="Comic Sans MS">They beheaded the reporter's assistant.</font>
+
+751
+01:09:44,958 --> 01:09:46,583
+<font face="Comic Sans MS">Despite all those drills</font>
+
+752
+01:09:48,000 --> 01:09:48,958
+<font face="Comic Sans MS">and training,</font>
+
+753
+01:09:52,208 --> 01:09:54,042
+<font face="Comic Sans MS">I never thought</font>
+
+754
+01:09:55,792 --> 01:09:57,458
+<font face="Comic Sans MS">I'd lose control like that.</font>
+
+755
+01:10:02,792 --> 01:10:03,708
+<font face="Comic Sans MS">Sir.</font>
+
+756
+01:10:05,375 --> 01:10:06,958
+<font face="Comic Sans MS">I'm not good enough for Jiaolong.</font>
+
+757
+01:10:11,250 --> 01:10:13,500
+<font face="Comic Sans MS">Do you remember how we became a team?</font>
+
+758
+01:10:17,458 --> 01:10:19,167
+<font face="Comic Sans MS">We went through tough times.</font>
+
+759
+01:10:20,042 --> 01:10:22,125
+<font face="Comic Sans MS">We were all tempted to quit,</font>
+
+760
+01:10:23,625 --> 01:10:25,875
+<font face="Comic Sans MS">but we held on, right?</font>
+
+761
+01:10:28,292 --> 01:10:29,583
+<font face="Comic Sans MS">The fact that we are here now</font>
+
+762
+01:10:29,875 --> 01:10:32,500
+<font face="Comic Sans MS">proves we are all qualified.</font>
+
+763
+01:10:35,333 --> 01:10:36,875
+<font face="Comic Sans MS">Think of our motto.</font>
+
+764
+01:10:43,917 --> 01:10:45,458
+<font face="Comic Sans MS">"Conquer fear, conquer all."</font>
+
+765
+01:11:19,125 --> 01:11:20,750
+<font face="Comic Sans MS">You did well just now.</font>
+
+766
+01:11:24,333 --> 01:11:25,833
+<font face="Comic Sans MS">It wasn't for show.</font>
+
+767
+01:11:29,042 --> 01:11:30,083
+<font face="Comic Sans MS">Well, I saw it.</font>
+
+768
+01:11:42,542 --> 01:11:43,500
+<font face="Comic Sans MS">Does it hurt?</font>
+
+769
+01:11:44,875 --> 01:11:45,833
+<font face="Comic Sans MS">A little.</font>
+
+770
+01:12:00,625 --> 01:12:02,000
+<font face="Comic Sans MS">Don't think too much.</font>
+
+771
+01:12:19,375 --> 01:12:20,917
+<font face="Comic Sans MS">You can come to Basem with us.</font>
+
+772
+01:12:22,667 --> 01:12:24,958
+<font face="Comic Sans MS">Are we getting reinforcements? When?</font>
+
+773
+01:12:28,792 --> 01:12:30,083
+<font face="Comic Sans MS">Listen.</font>
+
+774
+01:12:31,000 --> 01:12:32,208
+<font face="Comic Sans MS">If you come with us,</font>
+
+775
+01:12:32,375 --> 01:12:33,750
+<font face="Comic Sans MS">you have to follow orders, okay?</font>
+
+776
+01:12:33,833 --> 01:12:34,708
+<font face="Comic Sans MS">Captain, let me tell you.</font>
+
+777
+01:12:34,792 --> 01:12:36,750
+<font face="Comic Sans MS">Without reinforcements,
+you have to be really careful.</font>
+
+778
+01:12:36,833 --> 01:12:37,958
+<font face="Comic Sans MS">It's more than an hour away.</font>
+
+779
+01:12:38,042 --> 01:12:39,042
+<font face="Comic Sans MS">Can you fix the vehicle?</font>
+
+780
+01:12:39,125 --> 01:12:41,292
+<font face="Comic Sans MS">We're doing our best.</font>
+
+781
+01:12:41,542 --> 01:12:42,917
+<font face="Comic Sans MS">That's none of your concern.</font>
+
+782
+01:12:43,000 --> 01:12:44,792
+<font face="Comic Sans MS">I'm talking about the orders.</font>
+
+783
+01:12:45,458 --> 01:12:46,333
+<font face="Comic Sans MS">It's about</font>
+
+784
+01:12:47,292 --> 01:12:48,417
+<font face="Comic Sans MS">the battle just now.</font>
+
+785
+01:12:48,750 --> 01:12:50,292
+<font face="Comic Sans MS">I told you to stay put.</font>
+
+786
+01:12:50,375 --> 01:12:52,167
+<font face="Comic Sans MS">Sure, it was to save a life.</font>
+
+787
+01:12:52,292 --> 01:12:54,500
+<font face="Comic Sans MS">But when there is action next time,</font>
+
+788
+01:12:54,875 --> 01:12:56,083
+<font face="Comic Sans MS">considering the danger,</font>
+
+789
+01:12:56,167 --> 01:12:58,167
+<font face="Comic Sans MS">no matter what happens,</font>
+
+790
+01:12:58,875 --> 01:13:01,125
+<font face="Comic Sans MS">you do exactly as we say.</font>
+
+791
+01:13:01,208 --> 01:13:03,333
+<font face="Comic Sans MS">- Okay?
+- What if the order is wrong?</font>
+
+792
+01:13:04,583 --> 01:13:06,708
+<font face="Comic Sans MS">How do you know it's right?</font>
+
+793
+01:13:07,292 --> 01:13:08,583
+<font face="Comic Sans MS">Yes, we have different roles,</font>
+
+794
+01:13:08,667 --> 01:13:11,958
+<font face="Comic Sans MS">- but as for our beliefs--
+- If I'm wrong, I take responsibility!</font>
+
+795
+01:13:12,292 --> 01:13:15,167
+<font face="Comic Sans MS">But if you disobey and you die,
+who will be responsible then?</font>
+
+796
+01:13:15,250 --> 01:13:16,417
+<font face="Comic Sans MS">If that's the case,</font>
+
+797
+01:13:17,708 --> 01:13:19,125
+<font face="Comic Sans MS">then don't save me.</font>
+
+798
+01:13:20,917 --> 01:13:22,417
+<font face="Comic Sans MS"><i>Captain, the vehicle has been fixed.</font>
+
+799
+01:13:22,625 --> 01:13:23,792
+<font face="Comic Sans MS"><i>Will be right there.</font>
+
+800
+01:13:28,625 --> 01:13:29,833
+<font face="Comic Sans MS">Roger.</font>
+
+801
+01:13:31,542 --> 01:13:32,792
+<font face="Comic Sans MS">Everyone, move now.</font>
+
+802
+01:13:39,667 --> 01:13:42,375
+<font face="Comic Sans MS"><i>Sayyid, how is Dr. William?</font>
+
+803
+01:13:42,458 --> 01:13:43,417
+<font face="Comic Sans MS"><i>He is alive.</font>
+
+804
+01:13:44,417 --> 01:13:46,042
+<font face="Comic Sans MS">But still unconscious.</font>
+
+805
+01:13:48,208 --> 01:13:52,250
+<font face="Comic Sans MS"><i>Besides the yellowcake,</font>
+
+806
+01:13:53,833 --> 01:13:57,667
+<font face="Comic Sans MS"><i>we need the formula for the dirty bomb.</font>
+
+807
+01:13:59,000 --> 01:13:59,917
+<font face="Comic Sans MS"><i>Understand?</font>
+
+808
+01:14:00,833 --> 01:14:01,917
+<font face="Comic Sans MS">Yes.</font>
+
+809
+01:14:47,833 --> 01:14:48,750
+<font face="Comic Sans MS">Yu Zhuang.</font>
+
+810
+01:14:48,833 --> 01:14:49,875
+<font face="Comic Sans MS">Find a high place.</font>
+
+811
+01:14:50,083 --> 01:14:51,125
+<font face="Comic Sans MS">Set up an antenna.</font>
+
+812
+01:14:51,250 --> 01:14:52,417
+<font face="Comic Sans MS">Keep contact with base.</font>
+
+813
+01:14:52,542 --> 01:14:53,375
+<font face="Comic Sans MS"><i>Roger that.</font>
+
+814
+01:15:00,542 --> 01:15:01,708
+<font face="Comic Sans MS">Testing, testing.</font>
+
+815
+01:15:41,458 --> 01:15:43,500
+<font face="Comic Sans MS">Don't be scared.</font>
+
+816
+01:15:44,125 --> 01:15:49,542
+<font face="Comic Sans MS">The Chinese Navy is here to rescue people.</font>
+
+817
+01:15:49,625 --> 01:15:50,750
+<font face="Comic Sans MS">Don't be scared.</font>
+
+818
+01:15:56,458 --> 01:15:57,458
+<font face="Comic Sans MS">The house owner, Bella,</font>
+
+819
+01:15:57,542 --> 01:15:59,792
+<font face="Comic Sans MS">says they came a week ago,</font>
+
+820
+01:15:59,917 --> 01:16:01,000
+<font face="Comic Sans MS">killed all the men,</font>
+
+821
+01:16:01,083 --> 01:16:02,167
+<font face="Comic Sans MS">chased off the others,</font>
+
+822
+01:16:02,250 --> 01:16:03,667
+<font face="Comic Sans MS">and kept them here to cook.</font>
+
+823
+01:16:03,750 --> 01:16:04,667
+<font face="Comic Sans MS">In the town now,</font>
+
+824
+01:16:04,750 --> 01:16:06,583
+<font face="Comic Sans MS">there are about 150 terrorists.</font>
+
+825
+01:16:06,667 --> 01:16:08,208
+<font face="Comic Sans MS">They stay around the square.</font>
+
+826
+01:16:08,292 --> 01:16:09,542
+<font face="Comic Sans MS">She drew a map.</font>
+
+827
+01:16:11,250 --> 01:16:13,167
+<font face="Comic Sans MS">This is their headquarters.</font>
+
+828
+01:16:13,833 --> 01:16:15,792
+<font face="Comic Sans MS">The hostage camp is to the north.</font>
+
+829
+01:16:15,875 --> 01:16:16,917
+<font face="Comic Sans MS">They have about 10 guards</font>
+
+830
+01:16:17,000 --> 01:16:18,625
+<font face="Comic Sans MS">and 25 hostages in there.</font>
+
+831
+01:16:18,917 --> 01:16:20,083
+<font face="Comic Sans MS">They are all foreigners</font>
+
+832
+01:16:20,167 --> 01:16:21,292
+<font face="Comic Sans MS">except for 5 soldiers.</font>
+
+833
+01:16:21,500 --> 01:16:23,250
+<font face="Comic Sans MS">There are 3 women,
+one of them is Asian.</font>
+
+834
+01:16:23,333 --> 01:16:25,083
+<font face="Comic Sans MS">Her description matches Mei Deng's.</font>
+
+835
+01:16:25,167 --> 01:16:26,083
+<font face="Comic Sans MS">Hold on.</font>
+
+836
+01:16:26,250 --> 01:16:28,250
+<font face="Comic Sans MS">How can we access the camp?</font>
+
+837
+01:16:31,792 --> 01:16:33,083
+<font face="Comic Sans MS">Only through the square.</font>
+
+838
+01:16:34,375 --> 01:16:36,167
+<font face="Comic Sans MS">Send a situation report to the ship.</font>
+
+839
+01:16:36,292 --> 01:16:37,250
+<font face="Comic Sans MS">Yes, sir.</font>
+
+840
+01:16:41,417 --> 01:16:42,917
+<font face="Comic Sans MS">It's 8 against 150 people.</font>
+
+841
+01:16:43,583 --> 01:16:45,125
+<font face="Comic Sans MS">Have you ever done anything
+like this before?</font>
+
+842
+01:16:45,208 --> 01:16:46,083
+<font face="Comic Sans MS">Our unit's mission</font>
+
+843
+01:16:46,167 --> 01:16:47,708
+<font face="Comic Sans MS">is not to deal with those 150 people.</font>
+
+844
+01:16:48,542 --> 01:16:51,208
+<font face="Comic Sans MS">It's to rescue the Chinese hostage.</font>
+
+845
+01:16:56,000 --> 01:16:58,250
+<font face="Comic Sans MS">So is there no hope for the others?</font>
+
+846
+01:16:59,958 --> 01:17:00,958
+<font face="Comic Sans MS">There's no time.</font>
+
+847
+01:17:05,167 --> 01:17:06,833
+<font face="Comic Sans MS">Is it possible</font>
+
+848
+01:17:07,500 --> 01:17:09,042
+<font face="Comic Sans MS">for you</font>
+
+849
+01:17:09,583 --> 01:17:11,000
+<font face="Comic Sans MS">to save one more person?</font>
+
+850
+01:17:11,250 --> 01:17:12,625
+<font face="Comic Sans MS">Is there any chance of that?</font>
+
+851
+01:17:18,250 --> 01:17:19,750
+<font face="Comic Sans MS">Your assistant, Abu</font>
+
+852
+01:17:21,250 --> 01:17:22,458
+<font face="Comic Sans MS">has been executed.</font>
+
+853
+01:17:31,375 --> 01:17:32,625
+<font face="Comic Sans MS">When did that happened?</font>
+
+854
+01:17:33,167 --> 01:17:34,292
+<font face="Comic Sans MS">Before we got here.</font>
+
+855
+01:18:12,958 --> 01:18:14,208
+<font face="Comic Sans MS">My husband and child</font>
+
+856
+01:18:14,292 --> 01:18:16,292
+<font face="Comic Sans MS">died on a bus just like today.</font>
+
+857
+01:18:26,000 --> 01:18:27,250
+<font face="Comic Sans MS"><i>In 2005,</font>
+
+858
+01:18:28,750 --> 01:18:31,000
+<font face="Comic Sans MS"><i>when they blew up the bus in London.</font>
+
+859
+01:18:34,917 --> 01:18:36,958
+<font face="Comic Sans MS">The police told me</font>
+
+860
+01:18:38,250 --> 01:18:39,917
+<font face="Comic Sans MS">that nothing was left of them,</font>
+
+861
+01:18:43,083 --> 01:18:45,500
+<font face="Comic Sans MS">but a little blue bracelet.</font>
+
+862
+01:18:50,333 --> 01:18:51,625
+<font face="Comic Sans MS">That's when</font>
+
+863
+01:18:52,250 --> 01:18:54,167
+<font face="Comic Sans MS">I vowed to fight against them to the end.</font>
+
+864
+01:18:54,917 --> 01:18:56,708
+<font face="Comic Sans MS">To fight against the terrorist groups.</font>
+
+865
+01:18:56,792 --> 01:18:58,292
+<font face="Comic Sans MS">I'm not afraid of anything,</font>
+
+866
+01:18:59,000 --> 01:19:00,500
+<font face="Comic Sans MS">even death.</font>
+
+867
+01:19:01,917 --> 01:19:04,167
+<font face="Comic Sans MS">I'm only afraid
+of being powerless to help.</font>
+
+868
+01:19:06,958 --> 01:19:08,875
+<font face="Comic Sans MS">I've failed to protect anyone.</font>
+
+869
+01:19:10,167 --> 01:19:12,708
+<font face="Comic Sans MS">Not even Abu. I've failed to protect him.</font>
+
+870
+01:19:12,792 --> 01:19:14,292
+<font face="Comic Sans MS">I've failed.</font>
+
+871
+01:19:20,667 --> 01:19:22,542
+<font face="Comic Sans MS">The captain says, the only support</font>
+
+872
+01:19:22,667 --> 01:19:25,375
+<font face="Comic Sans MS">will be a chopper for evacuation,</font>
+
+873
+01:19:25,458 --> 01:19:26,917
+<font face="Comic Sans MS">but they can't say when.</font>
+
+874
+01:19:29,542 --> 01:19:30,708
+<font face="Comic Sans MS">In addition to Mei Deng,</font>
+
+875
+01:19:31,083 --> 01:19:33,417
+<font face="Comic Sans MS">I want to rescue the others too.</font>
+
+876
+01:19:34,583 --> 01:19:35,792
+<font face="Comic Sans MS">Do you have a strategy?</font>
+
+877
+01:19:40,250 --> 01:19:41,875
+<font face="Comic Sans MS">With so many people,</font>
+
+878
+01:19:42,333 --> 01:19:43,667
+<font face="Comic Sans MS">we can't take that road back.</font>
+
+879
+01:19:44,000 --> 01:19:44,875
+<font face="Comic Sans MS">It's better</font>
+
+880
+01:19:44,958 --> 01:19:47,167
+<font face="Comic Sans MS">to go north through the desert,</font>
+
+881
+01:19:47,292 --> 01:19:48,208
+<font face="Comic Sans MS">straight to the army base.</font>
+
+882
+01:19:48,292 --> 01:19:51,042
+<font face="Comic Sans MS">The problem is we'll be exposed
+if they started to chase us.</font>
+
+883
+01:19:51,375 --> 01:19:52,708
+<font face="Comic Sans MS">Mei Deng is the priority.</font>
+
+884
+01:19:52,833 --> 01:19:55,000
+<font face="Comic Sans MS">Once she's safely out,</font>
+
+885
+01:19:55,292 --> 01:19:57,083
+<font face="Comic Sans MS">we regroup and get the hostages.</font>
+
+886
+01:19:58,375 --> 01:20:00,792
+<font face="Comic Sans MS">Quickly tell Shitou and Li Tong</font>
+
+887
+01:20:01,208 --> 01:20:02,792
+<font face="Comic Sans MS">to disguise themselves as terrorists</font>
+
+888
+01:20:02,875 --> 01:20:03,958
+<font face="Comic Sans MS">and infiltrate the camp.</font>
+
+889
+01:20:04,292 --> 01:20:08,083
+<font face="Comic Sans MS">Remember.
+Li Tong and Mei Deng will trade clothes.</font>
+
+890
+01:20:08,292 --> 01:20:10,583
+<font face="Comic Sans MS">Shitou will take her back the way we came.</font>
+
+891
+01:20:10,792 --> 01:20:12,542
+<font face="Comic Sans MS">Tell Shun Gu and Dong Li.</font>
+
+892
+01:20:12,833 --> 01:20:13,792
+<font face="Comic Sans MS">Find an overwatch</font>
+
+893
+01:20:13,875 --> 01:20:15,833
+<font face="Comic Sans MS">where they can control the square.</font>
+
+894
+01:20:16,792 --> 01:20:18,208
+<font face="Comic Sans MS">Once we enter the town,</font>
+
+895
+01:20:18,833 --> 01:20:20,542
+<font face="Comic Sans MS">all our signals will be jammed.</font>
+
+896
+01:20:20,625 --> 01:20:22,042
+<font face="Comic Sans MS">So I have to tell Yu Zhuang</font>
+
+897
+01:20:22,375 --> 01:20:23,750
+<font face="Comic Sans MS">to set up an anti-jamming device</font>
+
+898
+01:20:23,833 --> 01:20:26,042
+<font face="Comic Sans MS">to secure our communications.</font>
+
+899
+01:20:27,042 --> 01:20:27,917
+<font face="Comic Sans MS">As for Nan Xia,</font>
+
+900
+01:20:28,000 --> 01:20:29,750
+<font face="Comic Sans MS">have her stay here with Yu Zhuang.</font>
+
+901
+01:20:29,833 --> 01:20:31,583
+<font face="Comic Sans MS">They'll go as soon as Mei Deng's out.</font>
+
+902
+01:20:31,792 --> 01:20:33,458
+<font face="Comic Sans MS">Finally, you, Chen Lu and I</font>
+
+903
+01:20:33,542 --> 01:20:35,208
+<font face="Comic Sans MS">will watch the square.</font>
+
+904
+01:20:35,417 --> 01:20:39,000
+<font face="Comic Sans MS">Once we know Mei Deng is safe
+and has arrived at Bella's house,</font>
+
+905
+01:20:39,083 --> 01:20:40,208
+<font face="Comic Sans MS">we'll blow up</font>
+
+906
+01:20:40,292 --> 01:20:41,958
+<font face="Comic Sans MS">their access to the camp.</font>
+
+907
+01:20:42,208 --> 01:20:43,958
+<font face="Comic Sans MS">The 3 of us will go into the camp</font>
+
+908
+01:20:44,042 --> 01:20:46,375
+<font face="Comic Sans MS">and rescue the other hostages.</font>
+
+909
+01:20:47,917 --> 01:20:49,542
+<font face="Comic Sans MS">But if Li Tong is with them,</font>
+
+910
+01:20:49,917 --> 01:20:51,375
+<font face="Comic Sans MS">and a battle breaks out in the square,</font>
+
+911
+01:20:51,500 --> 01:20:52,958
+<font face="Comic Sans MS">we won't have enough firepower.</font>
+
+912
+01:20:53,125 --> 01:20:54,375
+<font face="Comic Sans MS">You're already outnumbered.</font>
+
+913
+01:20:54,542 --> 01:20:55,542
+<font face="Comic Sans MS">I'll switch with Mei Deng.</font>
+
+914
+01:20:55,625 --> 01:20:57,167
+<font face="Comic Sans MS">I look more like her too.</font>
+
+915
+01:21:00,167 --> 01:21:02,167
+<font face="Comic Sans MS">Captain, I think that's not a bad idea.</font>
+
+916
+01:21:02,250 --> 01:21:03,542
+<font face="Comic Sans MS">I disagree.</font>
+
+917
+01:21:18,375 --> 01:21:20,500
+<font face="Comic Sans MS">I know nothing.</font>
+
+918
+01:21:33,917 --> 01:21:35,208
+<font face="Comic Sans MS">Do you have nothing to say?</font>
+
+919
+01:21:35,292 --> 01:21:36,417
+<font face="Comic Sans MS">Please.</font>
+
+920
+01:21:37,542 --> 01:21:39,542
+<font face="Comic Sans MS">What do you want to know?</font>
+
+921
+01:21:43,958 --> 01:21:45,583
+<font face="Comic Sans MS">Your wound is not looking so good.</font>
+
+922
+01:21:46,208 --> 01:21:48,292
+<font face="Comic Sans MS">- I really don't know--
+- Let me fix it.</font>
+
+923
+01:21:56,542 --> 01:21:59,000
+<font face="Comic Sans MS">Please, I know nothing!</font>
+
+924
+01:21:59,667 --> 01:22:02,583
+<font face="Comic Sans MS">You're hiding something. Where is it?</font>
+
+925
+01:22:02,667 --> 01:22:07,417
+<font face="Comic Sans MS">I really don't know...</font>
+
+926
+01:22:08,667 --> 01:22:10,083
+<font face="Comic Sans MS">Think it over.</font>
+
+927
+01:22:14,208 --> 01:22:16,042
+<font face="Comic Sans MS">Aluka Desert!</font>
+
+928
+01:22:16,292 --> 01:22:18,000
+<font face="Comic Sans MS">Aluka Desert!</font>
+
+929
+01:22:42,333 --> 01:22:44,458
+<font face="Comic Sans MS"><i>Dong Li, you cover this area.</font>
+
+930
+01:22:46,542 --> 01:22:48,667
+<font face="Comic Sans MS"><i>Shun Gu, you take the arches.</font>
+
+931
+01:22:49,542 --> 01:22:51,208
+<font face="Comic Sans MS">No problem. Got them.</font>
+
+932
+01:22:55,375 --> 01:22:57,333
+<font face="Comic Sans MS">Captain, we're in.</font>
+
+933
+01:23:39,583 --> 01:23:40,792
+<font face="Comic Sans MS">Do as I say.</font>
+
+934
+01:23:40,875 --> 01:23:42,458
+<font face="Comic Sans MS">The Chinese Navy is here to save you.</font>
+
+935
+01:24:03,417 --> 01:24:05,500
+<font face="Comic Sans MS"><i>Chen Lu, I found a truck.</font>
+
+936
+01:24:05,750 --> 01:24:07,625
+<font face="Comic Sans MS"><i>I'll stop it near the hostage camp.</font>
+
+937
+01:24:07,750 --> 01:24:08,708
+<font face="Comic Sans MS"><i>Guard the right flank.</font>
+
+938
+01:24:08,792 --> 01:24:10,000
+<font face="Comic Sans MS"><i>I'll prepare the bomb.</font>
+
+939
+01:24:39,875 --> 01:24:41,542
+<font face="Comic Sans MS">Base, this is Unit 1.</font>
+
+940
+01:24:41,958 --> 01:24:43,042
+<font face="Comic Sans MS">Can you read me?</font>
+
+941
+01:24:43,875 --> 01:24:45,500
+<font face="Comic Sans MS"><i>Yu Zhuang, what's wrong?</font>
+
+942
+01:24:46,000 --> 01:24:48,417
+<font face="Comic Sans MS">Captain, we lost contact with the ship.</font>
+
+943
+01:24:48,750 --> 01:24:49,958
+<font face="Comic Sans MS">I'll go check.</font>
+
+944
+01:24:50,667 --> 01:24:52,250
+<font face="Comic Sans MS"><i>Roger. Stay safe.</font>
+
+945
+01:24:52,917 --> 01:24:53,792
+<font face="Comic Sans MS">Will do.</font>
+
+946
+01:25:14,375 --> 01:25:15,250
+<font face="Comic Sans MS"><i>Boss.</font>
+
+947
+01:25:15,333 --> 01:25:17,583
+<font face="Comic Sans MS"><i>There's a Chinese soldier on the hill.</font>
+
+948
+01:25:19,458 --> 01:25:20,958
+<font face="Comic Sans MS">Execute the Chinese hostage.</font>
+
+949
+01:25:21,500 --> 01:25:23,125
+<font face="Comic Sans MS">If they want to rescue her,</font>
+
+950
+01:25:23,333 --> 01:25:26,083
+<font face="Comic Sans MS">let them rescue a corpse.</font>
+
+951
+01:25:27,042 --> 01:25:28,458
+<font face="Comic Sans MS"><i>And tell our brothers</font>
+
+952
+01:25:28,542 --> 01:25:30,375
+<font face="Comic Sans MS"><i>to attack the ship.</font>
+
+953
+01:25:40,333 --> 01:25:41,958
+<font face="Comic Sans MS">What are you doing?</font>
+
+954
+01:25:42,667 --> 01:25:44,167
+<font face="Comic Sans MS">What are you doing?</font>
+
+955
+01:25:46,083 --> 01:25:48,250
+<font face="Comic Sans MS">Captain, they just took Nan Xia.</font>
+
+956
+01:25:50,042 --> 01:25:52,083
+<font face="Comic Sans MS"><i>Hong Xu, why was Nan Xia there?</font>
+
+957
+01:25:55,708 --> 01:25:56,750
+<font face="Comic Sans MS">Shitou,</font>
+
+958
+01:25:57,042 --> 01:25:58,167
+<font face="Comic Sans MS">once you've left the camp,</font>
+
+959
+01:25:58,250 --> 01:26:00,417
+<font face="Comic Sans MS"><i>jump out and prepare to attack it.</font>
+
+960
+01:26:00,667 --> 01:26:01,917
+<font face="Comic Sans MS"><i>Everyone else,</font>
+
+961
+01:26:02,000 --> 01:26:04,667
+<font face="Comic Sans MS">hold fire until Mei Deng is safe.</font>
+
+962
+01:26:12,542 --> 01:26:14,042
+<font face="Comic Sans MS">What are you doing?</font>
+
+963
+01:26:17,958 --> 01:26:20,042
+<font face="Comic Sans MS">Dong Li, I'm going into the headquarters.</font>
+
+964
+01:26:20,125 --> 01:26:21,375
+<font face="Comic Sans MS">Cover me.</font>
+
+965
+01:26:37,833 --> 01:26:39,250
+<font face="Comic Sans MS"><i>I'm on the second floor, left passage.</font>
+
+966
+01:26:39,333 --> 01:26:40,167
+<font face="Comic Sans MS"><i>Can you see me?</font>
+
+967
+01:26:40,250 --> 01:26:41,125
+<font face="Comic Sans MS">I see you.</font>
+
+968
+01:26:41,458 --> 01:26:42,375
+<font face="Comic Sans MS"><i>Secure the area.</font>
+
+969
+01:26:42,667 --> 01:26:43,542
+<font face="Comic Sans MS">Roger.</font>
+
+970
+01:26:56,708 --> 01:26:57,583
+<font face="Comic Sans MS">She's so loud.</font>
+
+971
+01:26:57,667 --> 01:26:58,917
+<font face="Comic Sans MS">Turn up the music.</font>
+
+972
+01:27:13,792 --> 01:27:14,833
+<font face="Comic Sans MS">Captain, Commissar.</font>
+
+973
+01:27:14,917 --> 01:27:16,542
+<font face="Comic Sans MS">Reporting, the weapons on the hill</font>
+
+974
+01:27:16,708 --> 01:27:17,667
+<font face="Comic Sans MS">are aiming at us!</font>
+
+975
+01:27:17,833 --> 01:27:19,458
+<font face="Comic Sans MS">Battle-ready deployment grade one!</font>
+
+976
+01:27:19,542 --> 01:27:21,750
+<font face="Comic Sans MS">- Yes, sir!
+- Grade 1!</font>
+
+977
+01:27:27,417 --> 01:27:28,708
+<font face="Comic Sans MS">Auxiliary gun on intercept!</font>
+
+978
+01:27:41,000 --> 01:27:43,042
+<font face="Comic Sans MS">- Main gun target the hill!
+- Yes, sir!</font>
+
+979
+01:27:45,042 --> 01:27:46,000
+<font face="Comic Sans MS">Target is locked!</font>
+
+980
+01:27:46,208 --> 01:27:47,042
+<font face="Comic Sans MS">Fire!</font>
+
+981
+01:27:55,500 --> 01:27:58,583
+<font face="Comic Sans MS">Mohadi is ruining
+our people's lives every day.</font>
+
+982
+01:27:58,792 --> 01:28:01,292
+<font face="Comic Sans MS">And brave soldiers like us
+can wait no longer.</font>
+
+983
+01:28:02,208 --> 01:28:03,958
+<font face="Comic Sans MS">We must punish this Chinese citizen.</font>
+
+984
+01:28:04,042 --> 01:28:05,833
+<font face="Comic Sans MS">- Only blood will teach--
+- Wait!</font>
+
+985
+01:28:11,958 --> 01:28:13,000
+<font face="Comic Sans MS">Who are you?</font>
+
+986
+01:28:14,917 --> 01:28:15,833
+<font face="Comic Sans MS">Who are you?</font>
+
+987
+01:28:16,375 --> 01:28:17,417
+<font face="Comic Sans MS">Where is the other girl?</font>
+
+988
+01:28:18,250 --> 01:28:19,333
+<font face="Comic Sans MS">Where is the other girl?</font>
+
+989
+01:28:20,083 --> 01:28:21,083
+<font face="Comic Sans MS">Who brought you here?</font>
+
+990
+01:28:22,333 --> 01:28:23,542
+<font face="Comic Sans MS">How many of you are here?</font>
+
+991
+01:28:23,833 --> 01:28:24,833
+<font face="Comic Sans MS">Answer me!</font>
+
+992
+01:28:25,208 --> 01:28:26,292
+<font face="Comic Sans MS">Answer me!</font>
+
+993
+01:28:26,958 --> 01:28:28,042
+<font face="Comic Sans MS">How many of you are here?</font>
+
+994
+01:28:28,333 --> 01:28:30,417
+<font face="Comic Sans MS">Start talking or I'll break your legs!</font>
+
+995
+01:28:31,083 --> 01:28:32,167
+<font face="Comic Sans MS">Answer me now!</font>
+
+996
+01:28:32,375 --> 01:28:33,833
+<font face="Comic Sans MS">Do you want me to kill you?</font>
+
+997
+01:28:55,792 --> 01:28:56,958
+<font face="Comic Sans MS">I'm sorry.</font>
+
+998
+01:28:57,917 --> 01:29:00,667
+<font face="Comic Sans MS">Don't take it personally.</font>
+
+999
+01:29:13,708 --> 01:29:16,083
+<font face="Comic Sans MS">Captain, we're leaving the camp.</font>
+
+1000
+01:30:07,625 --> 01:30:08,458
+<font face="Comic Sans MS">Come on!</font>
+
+1001
+01:30:08,667 --> 01:30:10,042
+<font face="Comic Sans MS">This is William. His necklace is gone.</font>
+
+1002
+01:30:10,125 --> 01:30:11,625
+<font face="Comic Sans MS">- What necklace?
+- It has the information.</font>
+
+1003
+01:30:11,708 --> 01:30:12,542
+<font face="Comic Sans MS">Let's go.</font>
+
+1004
+01:30:20,250 --> 01:30:22,500
+<font face="Comic Sans MS"><i>Captain, I'm about to enter the square.</font>
+
+1005
+01:30:22,583 --> 01:30:23,833
+<font face="Comic Sans MS"><i>But I got a flat tire.</font>
+
+1006
+01:30:27,417 --> 01:30:28,875
+<font face="Comic Sans MS">Keep calm, everyone.</font>
+
+1007
+01:30:43,167 --> 01:30:45,375
+<font face="Comic Sans MS"><i>Dong Li, I'm coming out.</font>
+
+1008
+01:30:45,458 --> 01:30:46,833
+<font face="Comic Sans MS"><i>Is the path clear?</font>
+
+1009
+01:30:47,208 --> 01:30:48,250
+<font face="Comic Sans MS">All clear.</font>
+
+1010
+01:30:49,167 --> 01:30:50,583
+<font face="Comic Sans MS"><i>Everyone, listen to me.</font>
+
+1011
+01:30:50,667 --> 01:30:52,583
+<font face="Comic Sans MS"><i>No matter what happens over here,</font>
+
+1012
+01:30:52,875 --> 01:30:54,250
+<font face="Comic Sans MS"><i>stick to the plan.</font>
+
+1013
+01:30:57,333 --> 01:30:59,125
+<font face="Comic Sans MS">Your tire is flat!</font>
+
+1014
+01:30:59,750 --> 01:31:01,250
+<font face="Comic Sans MS">Remember.</font>
+
+1015
+01:31:01,333 --> 01:31:03,208
+<font face="Comic Sans MS">No matter what happens, take the girl</font>
+
+1016
+01:31:03,292 --> 01:31:04,250
+<font face="Comic Sans MS">and follow me.</font>
+
+1017
+01:31:04,792 --> 01:31:07,833
+<font face="Comic Sans MS">Don't be scared, Aisha. Stay with me.</font>
+
+1018
+01:31:09,417 --> 01:31:11,750
+<font face="Comic Sans MS">Wait, the tire is leaking air.</font>
+
+1019
+01:31:11,958 --> 01:31:14,083
+<font face="Comic Sans MS">Captain, they stopped Li Tong's truck.</font>
+
+1020
+01:31:38,083 --> 01:31:39,917
+<font face="Comic Sans MS">Intruders!</font>
+
+1021
+01:32:44,208 --> 01:32:45,750
+<font face="Comic Sans MS">We're retreating to the junkyard.</font>
+
+1022
+01:32:45,958 --> 01:32:46,875
+<font face="Comic Sans MS">Cover us!</font>
+
+1023
+01:32:51,833 --> 01:32:52,917
+<font face="Comic Sans MS">Follow me.</font>
+
+1024
+01:32:58,583 --> 01:32:59,542
+<font face="Comic Sans MS">Go!</font>
+
+1025
+01:33:04,125 --> 01:33:05,208
+<font face="Comic Sans MS">Go in!</font>
+
+1026
+01:33:07,000 --> 01:33:08,042
+<font face="Comic Sans MS">Hide!</font>
+
+1027
+01:33:08,333 --> 01:33:09,417
+<font face="Comic Sans MS">Find cover!</font>
+
+1028
+01:33:13,208 --> 01:33:14,458
+<font face="Comic Sans MS">Put this on!</font>
+
+1029
+01:33:23,042 --> 01:33:24,708
+<font face="Comic Sans MS">Hong Xu, what's your status?</font>
+
+1030
+01:33:24,792 --> 01:33:27,417
+<font face="Comic Sans MS"><i>Captain, we're trapped in the square.</font>
+
+1031
+01:33:27,667 --> 01:33:28,792
+<font face="Comic Sans MS"><i>What about you?</font>
+
+1032
+01:33:29,000 --> 01:33:29,958
+<font face="Comic Sans MS">When you have the chance,</font>
+
+1033
+01:33:30,042 --> 01:33:32,667
+<font face="Comic Sans MS">take them all out using the back way.</font>
+
+1034
+01:33:32,750 --> 01:33:33,667
+<font face="Comic Sans MS"><i>Roger.</font>
+
+1035
+01:33:34,042 --> 01:33:35,042
+<font face="Comic Sans MS"><i>What's your plan?</font>
+
+1036
+01:33:35,125 --> 01:33:36,208
+<font face="Comic Sans MS">I'll think of one.</font>
+
+1037
+01:33:36,292 --> 01:33:38,625
+<font face="Comic Sans MS">Remember, make sure Mei Deng is safe!</font>
+
+1038
+01:33:41,500 --> 01:33:44,583
+<font face="Comic Sans MS">YELLOWCAKE 27 TONS</font>
+
+1039
+01:34:21,583 --> 01:34:23,792
+<font face="Comic Sans MS">Keep on going.
+I'll take care of the snipers.</font>
+
+1040
+01:34:25,208 --> 01:34:27,375
+<font face="Comic Sans MS">Dong Li, they saw me.</font>
+
+1041
+01:34:27,583 --> 01:34:28,792
+<font face="Comic Sans MS">He's close by.</font>
+
+1042
+01:34:29,000 --> 01:34:30,083
+<font face="Comic Sans MS">He know where I am.</font>
+
+1043
+01:34:30,542 --> 01:34:31,917
+<font face="Comic Sans MS">Find him quickly.</font>
+
+1044
+01:34:32,542 --> 01:34:33,625
+<font face="Comic Sans MS">Do you read me?</font>
+
+1045
+01:34:33,792 --> 01:34:34,667
+<font face="Comic Sans MS">Roger!</font>
+
+1046
+01:34:39,167 --> 01:34:41,375
+<font face="Comic Sans MS">Captain, their sniper found me.</font>
+
+1047
+01:34:42,042 --> 01:34:43,167
+<font face="Comic Sans MS"><i>I've lost my position.</font>
+
+1048
+01:34:43,250 --> 01:34:44,333
+<font face="Comic Sans MS"><i>Be careful.</font>
+
+1049
+01:35:31,875 --> 01:35:34,125
+<font face="Comic Sans MS">Get up! We'll go that way! Heads down!</font>
+
+1050
+01:35:40,875 --> 01:35:41,917
+<font face="Comic Sans MS">Li Tong!</font>
+
+1051
+01:35:42,333 --> 01:35:43,292
+<font face="Comic Sans MS">Are you okay?</font>
+
+1052
+01:35:43,375 --> 01:35:44,500
+<font face="Comic Sans MS">Answer me!</font>
+
+1053
+01:35:44,750 --> 01:35:46,000
+<font face="Comic Sans MS"><i>Our exit is cut off by fire.</font>
+
+1054
+01:35:46,083 --> 01:35:47,250
+<font face="Comic Sans MS"><i>It's coming our way!</font>
+
+1055
+01:35:51,583 --> 01:35:53,583
+<font face="Comic Sans MS">Chen Lu! Give me a grenade!</font>
+
+1056
+01:35:55,500 --> 01:35:56,375
+<font face="Comic Sans MS">Here!</font>
+
+1057
+01:35:59,250 --> 01:36:01,167
+<font face="Comic Sans MS"><i>Li Tong! Get to the back.</font>
+
+1058
+01:36:02,167 --> 01:36:03,333
+<font face="Comic Sans MS">Stay right here.</font>
+
+1059
+01:36:04,458 --> 01:36:06,042
+<font face="Comic Sans MS">Hong Xu!</font>
+
+1060
+01:36:10,625 --> 01:36:12,333
+<font face="Comic Sans MS">Li Tong, blast your way out.</font>
+
+1061
+01:36:12,417 --> 01:36:13,375
+<font face="Comic Sans MS">I'll cover you!</font>
+
+1062
+01:36:13,458 --> 01:36:14,375
+<font face="Comic Sans MS">Go!</font>
+
+1063
+01:36:24,667 --> 01:36:25,875
+<font face="Comic Sans MS">Let's go!</font>
+
+1064
+01:36:30,958 --> 01:36:32,458
+<font face="Comic Sans MS"><i>Chen Lu, cover Li Tong.</font>
+
+1065
+01:36:32,542 --> 01:36:34,417
+<font face="Comic Sans MS"><i>We'll retreat to the camp.</font>
+
+1066
+01:36:37,083 --> 01:36:38,500
+<font face="Comic Sans MS">Li Tong, go!</font>
+
+1067
+01:36:38,583 --> 01:36:39,875
+<font face="Comic Sans MS">Follow me!</font>
+
+1068
+01:36:40,500 --> 01:36:41,500
+<font face="Comic Sans MS">Go back!</font>
+
+1069
+01:36:51,917 --> 01:36:54,167
+<font face="Comic Sans MS">Chen Lu, fall back!</font>
+
+1070
+01:36:55,833 --> 01:36:57,167
+<font face="Comic Sans MS">We have to escape.</font>
+
+1071
+01:36:57,792 --> 01:36:59,042
+<font face="Comic Sans MS">Pull this pin.</font>
+
+1072
+01:36:59,125 --> 01:37:01,000
+<font face="Comic Sans MS">When I say throw, you throw. Got it?</font>
+
+1073
+01:37:02,958 --> 01:37:04,375
+<font face="Comic Sans MS">We'll fight to the end!</font>
+
+1074
+01:37:08,250 --> 01:37:09,167
+<font face="Comic Sans MS">Let's go!</font>
+
+1075
+01:37:10,375 --> 01:37:12,333
+<font face="Comic Sans MS">Nan Xia, throw!</font>
+
+1076
+01:37:25,167 --> 01:37:26,042
+<font face="Comic Sans MS">Move!</font>
+
+1077
+01:37:33,333 --> 01:37:34,917
+<font face="Comic Sans MS">Blow them up!</font>
+
+1078
+01:37:39,208 --> 01:37:40,083
+<font face="Comic Sans MS">Do you hear me?</font>
+
+1079
+01:37:40,167 --> 01:37:41,958
+<font face="Comic Sans MS">Kill the hostages!</font>
+
+1080
+01:37:42,458 --> 01:37:44,542
+<font face="Comic Sans MS">They're going to kill the hostages!</font>
+
+1081
+01:37:44,750 --> 01:37:46,083
+<font face="Comic Sans MS">Shitou, go to the camp now!</font>
+
+1082
+01:37:46,167 --> 01:37:48,208
+<font face="Comic Sans MS">Save the hostages!
+Don't let them kill the hostages!</font>
+
+1083
+01:38:32,917 --> 01:38:34,667
+<font face="Comic Sans MS"><i>Sir, the exit is clear.</font>
+
+1084
+01:38:34,750 --> 01:38:35,917
+<font face="Comic Sans MS"><i>The hostages are all safe.</font>
+
+1085
+01:38:36,000 --> 01:38:37,042
+<font face="Comic Sans MS"><i>Hurry over here!</font>
+
+1086
+01:38:47,750 --> 01:38:49,875
+<font face="Comic Sans MS"><i>Shitou, the exit's blocked!</font>
+
+1087
+01:38:49,958 --> 01:38:51,125
+<font face="Comic Sans MS"><i>Help us!</font>
+
+1088
+01:38:57,875 --> 01:38:59,250
+<font face="Comic Sans MS">Stay back, hide!</font>
+
+1089
+01:38:59,708 --> 01:39:01,250
+<font face="Comic Sans MS"><i>Hong Xu, I'm out of ammunition!</font>
+
+1090
+01:39:01,333 --> 01:39:02,375
+<font face="Comic Sans MS">Shitou! Go and help Chen Lu!</font>
+
+1091
+01:39:02,458 --> 01:39:03,917
+<font face="Comic Sans MS">Hang in there. I have a plan.</font>
+
+1092
+01:39:04,000 --> 01:39:04,917
+<font face="Comic Sans MS">Roger.</font>
+
+1093
+01:39:22,750 --> 01:39:25,208
+<font face="Comic Sans MS"><i>There is a way out to the small plaza
+at right of the junkyard.</font>
+
+1094
+01:39:25,292 --> 01:39:26,292
+<font face="Comic Sans MS"><i>Use that way to get out.</font>
+
+1095
+01:39:26,375 --> 01:39:27,583
+<font face="Comic Sans MS"><i>I'll cover you.</font>
+
+1096
+01:39:27,667 --> 01:39:28,583
+<font face="Comic Sans MS"><i>Wait for my signal.</font>
+
+1097
+01:39:38,167 --> 01:39:39,083
+<font face="Comic Sans MS">Chen Lu, Li Tong.</font>
+
+1098
+01:39:39,167 --> 01:39:40,375
+<font face="Comic Sans MS"><i>I've taken over a tank.</font>
+
+1099
+01:39:40,458 --> 01:39:41,958
+<font face="Comic Sans MS"><i>I'll deal with the enemies around you.</font>
+
+1100
+01:39:42,042 --> 01:39:43,500
+<font face="Comic Sans MS"><i>Stay hidden and wait for my signal.</font>
+
+1101
+01:39:43,917 --> 01:39:45,125
+<font face="Comic Sans MS"><i>Li Tong.</font>
+
+1102
+01:39:45,208 --> 01:39:46,417
+<font face="Comic Sans MS">After you have escaped,</font>
+
+1103
+01:39:46,500 --> 01:39:48,000
+<font face="Comic Sans MS">- go to the meeting point.
+<i>- Roger.</font>
+
+1104
+01:39:48,083 --> 01:39:50,500
+<font face="Comic Sans MS"><i>Captain, I'll rescue you next!</font>
+
+1105
+01:39:51,667 --> 01:39:52,542
+<font face="Comic Sans MS">Ready.</font>
+
+1106
+01:39:53,625 --> 01:39:54,542
+<font face="Comic Sans MS">Ready.</font>
+
+1107
+01:39:56,000 --> 01:39:56,917
+<font face="Comic Sans MS">Fire!</font>
+
+1108
+01:40:34,125 --> 01:40:35,375
+<font face="Comic Sans MS">Captain, what's your position?</font>
+
+1109
+01:40:35,458 --> 01:40:36,833
+<font face="Comic Sans MS"><i>I'm at the right of the main passage.</font>
+
+1110
+01:40:37,000 --> 01:40:38,792
+<font face="Comic Sans MS"><i>But I'm surrounded
+by the terrorists on the left.</font>
+
+1111
+01:40:38,875 --> 01:40:39,958
+<font face="Comic Sans MS">Got it.</font>
+
+1112
+01:40:40,417 --> 01:40:41,375
+<font face="Comic Sans MS"><i>Ready!</font>
+
+1113
+01:40:41,625 --> 01:40:42,542
+<font face="Comic Sans MS"><i>Take cover!</font>
+
+1114
+01:40:43,083 --> 01:40:44,042
+<font face="Comic Sans MS"><i>Fire!</font>
+
+1115
+01:40:56,958 --> 01:40:57,875
+<font face="Comic Sans MS">Wear this!</font>
+
+1116
+01:41:13,125 --> 01:41:14,000
+<font face="Comic Sans MS">Move!</font>
+
+1117
+01:41:14,083 --> 01:41:16,167
+<font face="Comic Sans MS">Captain, we found a truck.</font>
+
+1118
+01:41:16,250 --> 01:41:17,125
+<font face="Comic Sans MS">We're moving now.</font>
+
+1119
+01:41:17,208 --> 01:41:18,250
+<font face="Comic Sans MS">Mei Deng is safe.</font>
+
+1120
+01:41:23,833 --> 01:41:24,875
+<font face="Comic Sans MS">Go!</font>
+
+1121
+01:41:41,750 --> 01:41:43,125
+<font face="Comic Sans MS"><i>Yu Zhuang, do you read me?</font>
+
+1122
+01:41:43,250 --> 01:41:44,083
+<font face="Comic Sans MS">Yes.</font>
+
+1123
+01:41:44,292 --> 01:41:45,250
+<font face="Comic Sans MS">Contact base.</font>
+
+1124
+01:41:45,542 --> 01:41:47,500
+<font face="Comic Sans MS"><i>Then take Yuna to the meeting point
+and wait for orders.</font>
+
+1125
+01:41:47,583 --> 01:41:49,000
+<font face="Comic Sans MS"><i>- Do you read me?</i>
+- Roger.</font>
+
+1126
+01:41:49,292 --> 01:41:51,417
+<font face="Comic Sans MS">Base, this is Unit 1.</font>
+
+1127
+01:41:53,167 --> 01:41:54,833
+<font face="Comic Sans MS">Base, this is Unit 1!</font>
+
+1128
+01:41:55,875 --> 01:41:58,333
+<font face="Comic Sans MS"><i>Unit 1, do you read me?</font>
+
+1129
+01:41:58,667 --> 01:42:00,917
+<font face="Comic Sans MS">Captain, we've lost Jiaolong's signal.</font>
+
+1130
+01:42:03,667 --> 01:42:04,917
+<font face="Comic Sans MS">We tried to reach them,</font>
+
+1131
+01:42:05,000 --> 01:42:06,167
+<font face="Comic Sans MS">but to no avail.</font>
+
+1132
+01:42:06,750 --> 01:42:08,083
+<font face="Comic Sans MS">How about their individual positions?</font>
+
+1133
+01:42:08,333 --> 01:42:09,833
+<font face="Comic Sans MS">We've lost those too.</font>
+
+1134
+01:42:11,833 --> 01:42:13,583
+<font face="Comic Sans MS">Stay on high alert, keep trying.</font>
+
+1135
+01:42:13,667 --> 01:42:14,625
+<font face="Comic Sans MS">Yes, sir!</font>
+
+1136
+01:42:15,500 --> 01:42:16,500
+<font face="Comic Sans MS">Captain.</font>
+
+1137
+01:42:18,375 --> 01:42:19,958
+<font face="Comic Sans MS">The ship is under threat.</font>
+
+1138
+01:42:20,208 --> 01:42:21,583
+<font face="Comic Sans MS">To protect the citizens on board,</font>
+
+1139
+01:42:21,667 --> 01:42:23,542
+<font face="Comic Sans MS">we'll move away from the port.</font>
+
+1140
+01:42:23,625 --> 01:42:24,542
+<font face="Comic Sans MS">Okay.</font>
+
+1141
+01:42:26,125 --> 01:42:28,750
+<font face="Comic Sans MS">Let me see if our superiors</font>
+
+1142
+01:42:28,917 --> 01:42:30,583
+<font face="Comic Sans MS">will approve of sending in a drone.</font>
+
+1143
+01:42:32,417 --> 01:42:33,333
+<font face="Comic Sans MS">Follow me!</font>
+
+1144
+01:42:33,750 --> 01:42:35,000
+<font face="Comic Sans MS">Come on! Come on!</font>
+
+1145
+01:44:40,208 --> 01:44:41,208
+<font face="Comic Sans MS">Shun Gu!</font>
+
+1146
+01:45:55,917 --> 01:45:57,667
+<font face="Comic Sans MS">Captain, do you read me?</font>
+
+1147
+01:46:03,250 --> 01:46:05,125
+<font face="Comic Sans MS">Get down!</font>
+
+1148
+01:46:28,417 --> 01:46:29,458
+<font face="Comic Sans MS">Shitou!</font>
+
+1149
+01:47:06,708 --> 01:47:07,750
+<font face="Comic Sans MS">Any Signal yet?</font>
+
+1150
+01:47:07,875 --> 01:47:08,750
+<font face="Comic Sans MS">No.</font>
+
+1151
+01:47:08,833 --> 01:47:09,792
+<font face="Comic Sans MS">To the meeting point.</font>
+
+1152
+01:47:09,958 --> 01:47:10,792
+<font face="Comic Sans MS">Go.</font>
+
+1153
+01:47:14,667 --> 01:47:16,000
+<font face="Comic Sans MS">Shitou, don't move!</font>
+
+1154
+01:47:17,000 --> 01:47:18,167
+<font face="Comic Sans MS">Don't move!</font>
+
+1155
+01:47:40,125 --> 01:47:41,708
+<font face="Comic Sans MS">Out of the car!</font>
+
+1156
+01:47:46,833 --> 01:47:48,125
+<font face="Comic Sans MS">Hurry!</font>
+
+1157
+01:47:49,083 --> 01:47:50,417
+<font face="Comic Sans MS">Get down!</font>
+
+1158
+01:48:00,083 --> 01:48:02,000
+<font face="Comic Sans MS">Take cover!</font>
+
+1159
+01:48:10,042 --> 01:48:10,917
+<font face="Comic Sans MS">Don't move!</font>
+
+1160
+01:48:12,417 --> 01:48:13,458
+<font face="Comic Sans MS">Don't move!</font>
+
+1161
+01:48:26,417 --> 01:48:27,625
+<font face="Comic Sans MS">Shitou, hold on!</font>
+
+1162
+01:49:22,375 --> 01:49:23,708
+<font face="Comic Sans MS">Li Tong and the others are in danger.</font>
+
+1163
+01:49:24,292 --> 01:49:25,292
+<font face="Comic Sans MS">They are down there.</font>
+
+1164
+01:49:28,917 --> 01:49:29,792
+<font face="Comic Sans MS"><i>Reporting.</font>
+
+1165
+01:49:29,875 --> 01:49:31,375
+<font face="Comic Sans MS">We have Jiaolong but the signal's weak.</font>
+
+1166
+01:49:31,792 --> 01:49:34,000
+<font face="Comic Sans MS">But there's a sandstorm nearby.</font>
+
+1167
+01:49:34,083 --> 01:49:35,042
+<font face="Comic Sans MS">Did you make contact?</font>
+
+1168
+01:49:35,125 --> 01:49:36,958
+<font face="Comic Sans MS">Not yet for now due
+to weather interference.</font>
+
+1169
+01:49:37,042 --> 01:49:38,083
+<font face="Comic Sans MS">How much longer?</font>
+
+1170
+01:49:38,667 --> 01:49:39,708
+<font face="Comic Sans MS">We have 7 minutes.</font>
+
+1171
+01:50:00,208 --> 01:50:01,667
+<font face="Comic Sans MS">You need it more.</font>
+
+1172
+01:50:07,500 --> 01:50:08,750
+<font face="Comic Sans MS">Stay there!</font>
+
+1173
+01:50:09,083 --> 01:50:10,708
+<font face="Comic Sans MS"><i>Li Tong, hang on!</font>
+
+1174
+01:50:10,792 --> 01:50:11,875
+<font face="Comic Sans MS"><i>We're nearly there.</font>
+
+1175
+01:50:11,958 --> 01:50:13,833
+<font face="Comic Sans MS">Hurry!</font>
+
+1176
+01:50:20,667 --> 01:50:22,167
+<font face="Comic Sans MS">Chen Lu, secure the entrance.</font>
+
+1177
+01:51:11,375 --> 01:51:12,750
+<font face="Comic Sans MS">It's okay, Shitou.</font>
+
+1178
+01:51:13,417 --> 01:51:14,417
+<font face="Comic Sans MS">It's okay.</font>
+
+1179
+01:51:23,958 --> 01:51:25,708
+<font face="Comic Sans MS">It hurts...</font>
+
+1180
+01:51:31,875 --> 01:51:32,833
+<font face="Comic Sans MS">Have a candy.</font>
+
+1181
+01:51:33,125 --> 01:51:34,000
+<font face="Comic Sans MS">The candy will help.</font>
+
+1182
+01:51:34,083 --> 01:51:35,083
+<font face="Comic Sans MS">Didn't you say</font>
+
+1183
+01:51:35,167 --> 01:51:36,500
+<font face="Comic Sans MS">that candy can kill the pain.</font>
+
+1184
+01:51:36,625 --> 01:51:37,917
+<font face="Comic Sans MS">It takes away the pain.</font>
+
+1185
+01:51:44,958 --> 01:51:46,708
+<font face="Comic Sans MS">Here. Eat this candy.</font>
+
+1186
+01:51:46,958 --> 01:51:47,875
+<font face="Comic Sans MS">Come on.</font>
+
+1187
+01:51:48,708 --> 01:51:51,208
+<font face="Comic Sans MS">Candy takes away the pain...</font>
+
+1188
+01:51:51,292 --> 01:51:52,458
+<font face="Comic Sans MS">We're going home.</font>
+
+1189
+01:51:53,208 --> 01:51:54,250
+<font face="Comic Sans MS">Going home...</font>
+
+1190
+01:51:56,500 --> 01:51:57,917
+<font face="Comic Sans MS">Going home...</font>
+
+1191
+01:52:11,167 --> 01:52:13,250
+<font face="Comic Sans MS">Shitou!</font>
+
+1192
+01:52:14,333 --> 01:52:16,042
+<font face="Comic Sans MS">No more pain.</font>
+
+1193
+01:52:16,125 --> 01:52:19,042
+<font face="Comic Sans MS">We're going home...</font>
+
+1194
+01:52:57,458 --> 01:53:00,083
+<font face="Comic Sans MS">Tank Alpha, attack from the right!</font>
+
+1195
+01:53:00,875 --> 01:53:01,750
+<font face="Comic Sans MS"><i>Hong Xu.</font>
+
+1196
+01:53:01,833 --> 01:53:04,167
+<font face="Comic Sans MS">Turn 20 degrees left, hurry!</font>
+
+1197
+01:53:14,625 --> 01:53:15,625
+<font face="Comic Sans MS">Hong Xu.</font>
+
+1198
+01:53:16,167 --> 01:53:18,417
+<font face="Comic Sans MS">The reactive armor protects them.</font>
+
+1199
+01:53:18,875 --> 01:53:20,125
+<font face="Comic Sans MS"><i>Turn a sharp left.</font>
+
+1200
+01:53:20,208 --> 01:53:21,917
+<font face="Comic Sans MS"><i>Shoot at their treads.</font>
+
+1201
+01:53:30,875 --> 01:53:32,125
+<font face="Comic Sans MS">Got them!</font>
+
+1202
+01:53:40,250 --> 01:53:41,958
+<font face="Comic Sans MS">Captain, they hit our cooling system.</font>
+
+1203
+01:53:42,042 --> 01:53:43,375
+<font face="Comic Sans MS">We won't last much longer.</font>
+
+1204
+01:53:52,458 --> 01:53:54,375
+<font face="Comic Sans MS">Captain, there is a sandstorm ahead!</font>
+
+1205
+01:53:55,125 --> 01:53:56,583
+<font face="Comic Sans MS">Charge straight at it.</font>
+
+1206
+01:53:56,833 --> 01:53:58,625
+<font face="Comic Sans MS"><i>It will cover us.</font>
+
+1207
+01:54:16,292 --> 01:54:17,417
+<font face="Comic Sans MS">Hong Xu.</font>
+
+1208
+01:54:17,542 --> 01:54:18,958
+<font face="Comic Sans MS">Our turret took a hit.</font>
+
+1209
+01:54:19,083 --> 01:54:20,417
+<font face="Comic Sans MS"><i>Don't let them lock onto us!</font>
+
+1210
+01:54:32,458 --> 01:54:33,417
+<font face="Comic Sans MS">Hong Xu.</font>
+
+1211
+01:54:33,875 --> 01:54:36,250
+<font face="Comic Sans MS">I'll use your steering for aim.</font>
+
+1212
+01:54:36,542 --> 01:54:37,750
+<font face="Comic Sans MS">Do you understand?</font>
+
+1213
+01:54:38,292 --> 01:54:39,250
+<font face="Comic Sans MS">Roger!</font>
+
+1214
+01:54:40,375 --> 01:54:41,208
+<font face="Comic Sans MS">Nan Xia.</font>
+
+1215
+01:54:41,875 --> 01:54:43,542
+<font face="Comic Sans MS">We have to switch places.</font>
+
+1216
+01:54:43,708 --> 01:54:45,750
+<font face="Comic Sans MS">The handset has a trigger.</font>
+
+1217
+01:54:46,333 --> 01:54:48,000
+<font face="Comic Sans MS">When I say fire, press it.</font>
+
+1218
+01:54:48,083 --> 01:54:49,458
+<font face="Comic Sans MS">I'll help you.</font>
+
+1219
+01:55:10,292 --> 01:55:11,125
+<font face="Comic Sans MS">Hong Xu.</font>
+
+1220
+01:55:11,667 --> 01:55:13,667
+<font face="Comic Sans MS">Let the reactive armor take a hit.</font>
+
+1221
+01:55:14,167 --> 01:55:15,625
+<font face="Comic Sans MS"><i>Follow my orders.</font>
+
+1222
+01:55:15,708 --> 01:55:17,750
+<font face="Comic Sans MS"><i>First, take a sharp left
+and then sharp right!</font>
+
+1223
+01:55:21,917 --> 01:55:24,000
+<font face="Comic Sans MS">Hong Xu, turn left!</font>
+
+1224
+01:55:42,417 --> 01:55:43,708
+<font face="Comic Sans MS"><i>Turn right!</font>
+
+1225
+01:55:45,708 --> 01:55:47,583
+<font face="Comic Sans MS">Nan Xia, get ready!</font>
+
+1226
+01:55:53,458 --> 01:55:55,125
+<font face="Comic Sans MS">Fire!</font>
+
+1227
+01:56:08,708 --> 01:56:09,750
+<font face="Comic Sans MS"><i>Captain!</font>
+
+1228
+01:56:09,833 --> 01:56:11,458
+<font face="Comic Sans MS">We're stuck!</font>
+
+1229
+01:56:21,500 --> 01:56:23,958
+<font face="Comic Sans MS"><i>Captain, I'll deal with their tanks!</font>
+
+1230
+01:56:24,750 --> 01:56:25,667
+<font face="Comic Sans MS">Hong Xu!</font>
+
+1231
+01:56:25,750 --> 01:56:26,750
+<font face="Comic Sans MS">Hong Xu!</font>
+
+1232
+01:56:41,208 --> 01:56:43,083
+<font face="Comic Sans MS">Nan Xia, we're going out.</font>
+
+1233
+01:56:43,708 --> 01:56:44,625
+<font face="Comic Sans MS">Remember.</font>
+
+1234
+01:56:44,708 --> 01:56:46,458
+<font face="Comic Sans MS">When we go out,
+keep your hand on my shoulder.</font>
+
+1235
+01:56:46,542 --> 01:56:47,583
+<font face="Comic Sans MS">Understand?</font>
+
+1236
+01:57:29,917 --> 01:57:31,208
+<font face="Comic Sans MS">Wait here, don't move!</font>
+
+1237
+01:58:06,375 --> 01:58:07,500
+<font face="Comic Sans MS">Captain, Commissar.</font>
+
+1238
+01:58:07,583 --> 01:58:09,833
+<font face="Comic Sans MS">The drone has found Rui Yang and Hong Xu.</font>
+
+1239
+01:58:09,917 --> 01:58:11,375
+<font face="Comic Sans MS">But we still don't have contact.</font>
+
+1240
+01:58:12,458 --> 01:58:14,125
+<font face="Comic Sans MS">Reporting, the drone is losing power</font>
+
+1241
+01:58:14,250 --> 01:58:15,458
+<font face="Comic Sans MS">and could drop at any time.</font>
+
+1242
+01:58:38,250 --> 01:58:40,000
+<font face="Comic Sans MS">They're attacking, quick!</font>
+
+1243
+01:58:58,417 --> 01:58:59,750
+<font face="Comic Sans MS">Load up, hurry!</font>
+
+1244
+01:59:07,583 --> 01:59:08,625
+<font face="Comic Sans MS"><i>Prepare to fire!</font>
+
+1245
+01:59:23,667 --> 01:59:24,625
+<font face="Comic Sans MS">Are you okay?</font>
+
+1246
+01:59:24,708 --> 01:59:26,583
+<font face="Comic Sans MS">Yes, I am...</font>
+
+1247
+01:59:47,333 --> 01:59:48,583
+<font face="Comic Sans MS">You're a good shot.</font>
+
+1248
+02:00:27,375 --> 02:00:28,500
+<font face="Comic Sans MS">Captain.</font>
+
+1249
+02:00:29,083 --> 02:00:30,583
+<font face="Comic Sans MS">Our mission is accomplished.</font>
+
+1250
+02:00:50,667 --> 02:00:51,625
+<font face="Comic Sans MS">Captain Yang.</font>
+
+1251
+02:00:52,583 --> 02:00:53,750
+<font face="Comic Sans MS">Thank you so much.</font>
+
+1252
+02:01:12,583 --> 02:01:13,958
+<font face="Comic Sans MS">- Captain Yang.
+- Thank you.</font>
+
+1253
+02:01:16,583 --> 02:01:18,833
+<font face="Comic Sans MS"><i>The weather is preventing us
+from contacting your warship,</font>
+
+1254
+02:01:18,917 --> 02:01:22,125
+<font face="Comic Sans MS"><i>and we are unable to deal with the
+yellowcake situation at the moment.</font>
+
+1255
+02:01:22,292 --> 02:01:24,167
+<font face="Comic Sans MS"><i>All we can provide is a helicopter.</font>
+
+1256
+02:01:26,583 --> 02:01:27,875
+<font face="Comic Sans MS">This</font>
+
+1257
+02:01:29,750 --> 02:01:31,125
+<font face="Comic Sans MS">works pretty well.</font>
+
+1258
+02:01:33,417 --> 02:01:34,875
+<font face="Comic Sans MS">Remember to give it back.</font>
+
+1259
+02:01:39,667 --> 02:01:41,083
+<font face="Comic Sans MS">We can't just ignore</font>
+
+1260
+02:01:41,167 --> 02:01:42,583
+<font face="Comic Sans MS">this yellowcake crisis.</font>
+
+1261
+02:01:43,167 --> 02:01:44,875
+<font face="Comic Sans MS">The hiding place for the yellowcake</font>
+
+1262
+02:01:45,042 --> 02:01:46,458
+<font face="Comic Sans MS">is 80 kilometers from here.</font>
+
+1263
+02:01:46,542 --> 02:01:47,625
+<font face="Comic Sans MS">But in 40 minutes,</font>
+
+1264
+02:01:47,708 --> 02:01:49,333
+<font face="Comic Sans MS">the terrorists will leave
+with the yellowcake.</font>
+
+1265
+02:01:50,417 --> 02:01:51,875
+<font face="Comic Sans MS">We have to hurry.</font>
+
+1266
+02:01:51,958 --> 02:01:53,375
+<font face="Comic Sans MS">But I need to stress one thing.</font>
+
+1267
+02:01:53,458 --> 02:01:54,625
+<font face="Comic Sans MS">This operation</font>
+
+1268
+02:01:55,333 --> 02:01:56,875
+<font face="Comic Sans MS">hasn't been authorized yet.</font>
+
+1269
+02:02:00,417 --> 02:02:01,333
+<font face="Comic Sans MS">If we do this,</font>
+
+1270
+02:02:01,417 --> 02:02:02,292
+<font face="Comic Sans MS">we do it together.</font>
+
+1271
+02:02:04,042 --> 02:02:04,958
+<font face="Comic Sans MS">Captain.</font>
+
+1272
+02:02:05,375 --> 02:02:06,708
+<font face="Comic Sans MS">I'll wait for your orders.</font>
+
+1273
+02:02:19,958 --> 02:02:21,292
+<font face="Comic Sans MS">"Conquer fear, conquer all."</font>
+
+1274
+02:02:52,250 --> 02:02:54,208
+<font face="Comic Sans MS"><i>2 kilometers from destination!</font>
+
+1275
+02:03:43,250 --> 02:03:44,917
+<font face="Comic Sans MS"><i>Our target is the yellowcake.</font>
+
+1276
+02:03:45,083 --> 02:03:46,500
+<font face="Comic Sans MS"><i>Avoid engaging.</font>
+
+1277
+02:03:46,875 --> 02:03:49,083
+<font face="Comic Sans MS"><i>Li Tong, we'll take the plane
+and yellowcake.</font>
+
+1278
+02:03:49,292 --> 02:03:51,500
+<font face="Comic Sans MS"><i>Shun Gu, Dong Li.
+Find an overwatch and cover us.</font>
+
+1279
+02:03:51,667 --> 02:03:52,708
+<font face="Comic Sans MS"><i>Split up!</font>
+
+1280
+02:04:15,125 --> 02:04:16,875
+<font face="Comic Sans MS"><i>Captain, we're in position.</font>
+
+1281
+02:04:22,417 --> 02:04:23,375
+<font face="Comic Sans MS">Clear.</font>
+
+1282
+02:04:42,875 --> 02:04:44,792
+<font face="Comic Sans MS">Captain, we've taken the control tower.</font>
+
+1283
+02:04:45,333 --> 02:04:47,208
+<font face="Comic Sans MS"><i>Roger. Wait for orders.</font>
+
+1284
+02:04:53,583 --> 02:04:55,667
+<font face="Comic Sans MS">You go first.
+I'll wait for the next truck.</font>
+
+1285
+02:05:07,625 --> 02:05:08,625
+<font face="Comic Sans MS">Boss.</font>
+
+1286
+02:05:09,208 --> 02:05:11,833
+<font face="Comic Sans MS">The rebels' representative will arrive
+in 5 minutes.</font>
+
+1287
+02:05:14,292 --> 02:05:16,875
+<font face="Comic Sans MS"><i>Attention, sniper's hide.</font>
+
+1288
+02:05:16,958 --> 02:05:19,042
+<font face="Comic Sans MS"><i>Li Tong is under the truck.</font>
+
+1289
+02:05:20,083 --> 02:05:21,125
+<font face="Comic Sans MS">I see her.</font>
+
+1290
+02:05:25,042 --> 02:05:27,375
+<font face="Comic Sans MS">You did a good job just then.</font>
+
+1291
+02:05:28,125 --> 02:05:29,333
+<font face="Comic Sans MS">When we go back,</font>
+
+1292
+02:05:29,417 --> 02:05:31,458
+<font face="Comic Sans MS">you can train as a sniper.</font>
+
+1293
+02:05:32,667 --> 02:05:33,875
+<font face="Comic Sans MS">If I were that good,</font>
+
+1294
+02:05:34,708 --> 02:05:36,250
+<font face="Comic Sans MS">I should have hit it at once.</font>
+
+1295
+02:05:37,583 --> 02:05:40,417
+<font face="Comic Sans MS">Even the experienced feel pressure.</font>
+
+1296
+02:05:41,083 --> 02:05:42,292
+<font face="Comic Sans MS">Embrace it.</font>
+
+1297
+02:05:42,792 --> 02:05:44,625
+<font face="Comic Sans MS">Pressure keeps you focused.</font>
+
+1298
+02:06:36,375 --> 02:06:38,083
+<font face="Comic Sans MS">I didn't know it'd be you.</font>
+
+1299
+02:06:39,583 --> 02:06:41,625
+<font face="Comic Sans MS">It's been a long time, boss!</font>
+
+1300
+02:06:41,875 --> 02:06:44,875
+<font face="Comic Sans MS">You've not been home in a long time.</font>
+
+1301
+02:06:45,875 --> 02:06:47,167
+<font face="Comic Sans MS">We're fighting...</font>
+
+1302
+02:06:49,167 --> 02:06:50,708
+<font face="Comic Sans MS">for a better life.</font>
+
+1303
+02:06:51,333 --> 02:06:54,083
+<font face="Comic Sans MS">Why go home?</font>
+
+1304
+02:06:55,833 --> 02:07:02,167
+<font face="Comic Sans MS">We're not fighting this war for you.</font>
+
+1305
+02:07:04,750 --> 02:07:06,917
+<font face="Comic Sans MS">What about the formula, boss?</font>
+
+1306
+02:07:32,083 --> 02:07:33,917
+<font face="Comic Sans MS">Everyone, listen up.
+There is a change in our plan.</font>
+
+1307
+02:07:34,083 --> 02:07:35,833
+<font face="Comic Sans MS"><i>I'm going to go for their leader.</font>
+
+1308
+02:07:36,042 --> 02:07:37,958
+<font face="Comic Sans MS"><i>Dong Li, when I come out,</font>
+
+1309
+02:07:38,042 --> 02:07:40,167
+<font face="Comic Sans MS"><i>they'll be after me. Cover me.</font>
+
+1310
+02:07:40,333 --> 02:07:41,250
+<font face="Comic Sans MS"><i>Shun Gu,</font>
+
+1311
+02:07:41,333 --> 02:07:43,458
+<font face="Comic Sans MS"><i>help Li Tong take the plane.</font>
+
+1312
+02:07:43,542 --> 02:07:44,458
+<font face="Comic Sans MS"><i>Over.</font>
+
+1313
+02:07:47,042 --> 02:07:47,958
+<font face="Comic Sans MS">Yes, sir.</font>
+
+1314
+02:07:48,208 --> 02:07:50,750
+<font face="Comic Sans MS"><i>The rebels will eat us alive.</font>
+
+1315
+02:07:50,875 --> 02:07:54,167
+<font face="Comic Sans MS"><i>You must bring back all the yellowcakes.</font>
+
+1316
+02:07:54,542 --> 02:07:56,042
+<font face="Comic Sans MS"><i>Kill them all.</font>
+
+1317
+02:07:56,625 --> 02:07:57,583
+<font face="Comic Sans MS"><i>From now on</font>
+
+1318
+02:07:57,667 --> 02:07:58,958
+<font face="Comic Sans MS"><i>this war belongs to us.</font>
+
+1319
+02:07:59,042 --> 02:08:00,042
+<font face="Comic Sans MS">I understand.</font>
+
+1320
+02:08:06,000 --> 02:08:07,625
+<font face="Comic Sans MS">Calling base! Mayday!</font>
+
+1321
+02:08:07,708 --> 02:08:08,708
+<font face="Comic Sans MS">We're under attack! Help...</font>
+
+1322
+02:08:11,875 --> 02:08:13,583
+<font face="Comic Sans MS">Li Tong, take control of the plane!</font>
+
+1323
+02:08:18,417 --> 02:08:21,167
+<font face="Comic Sans MS">Don't move!</font>
+
+1324
+02:08:51,000 --> 02:08:52,500
+<font face="Comic Sans MS"><i>Everyone, I'm coming out.</font>
+
+1325
+02:08:52,833 --> 02:08:54,250
+<font face="Comic Sans MS">Dong Li, be careful!</font>
+
+1326
+02:09:03,083 --> 02:09:04,667
+<font face="Comic Sans MS">Dong Li, take out the last car!</font>
+
+1327
+02:09:33,958 --> 02:09:35,458
+<font face="Comic Sans MS">Shun Gu, Dong Li!</font>
+
+1328
+02:09:36,333 --> 02:09:37,917
+<font face="Comic Sans MS"><i>Shun Gu, Dong Li!</font>
+
+1329
+02:09:38,500 --> 02:09:40,458
+<font face="Comic Sans MS">Li Tong, do you read me?</font>
+
+1330
+02:10:25,833 --> 02:10:27,917
+<font face="Comic Sans MS">Don't move!</font>
+
+1331
+02:10:30,750 --> 02:10:31,708
+<font face="Comic Sans MS">Shun Gu!</font>
+
+1332
+02:10:31,917 --> 02:10:32,958
+<font face="Comic Sans MS">Are you okay?</font>
+
+1333
+02:10:46,000 --> 02:10:46,917
+<font face="Comic Sans MS">Get out!</font>
+
+1334
+02:10:47,292 --> 02:10:48,167
+<font face="Comic Sans MS">Hurry!</font>
+
+1335
+02:10:49,583 --> 02:10:50,458
+<font face="Comic Sans MS">Dong Li,</font>
+
+1336
+02:10:50,833 --> 02:10:51,833
+<font face="Comic Sans MS">use my gun.</font>
+
+1337
+02:10:57,583 --> 02:10:58,583
+<font face="Comic Sans MS"><i>Let him go!</font>
+
+1338
+02:10:59,875 --> 02:11:01,250
+<font face="Comic Sans MS">There's no time to think!</font>
+
+1339
+02:11:12,542 --> 02:11:13,583
+<font face="Comic Sans MS">Dong Li,</font>
+
+1340
+02:11:14,125 --> 02:11:15,458
+<font face="Comic Sans MS">conquer the pressure.</font>
+
+1341
+02:11:16,417 --> 02:11:18,125
+<font face="Comic Sans MS">Xing Luo chose you for a reason.</font>
+
+1342
+02:11:19,667 --> 02:11:20,625
+<font face="Comic Sans MS">Captain,</font>
+
+1343
+02:11:20,792 --> 02:11:22,542
+<font face="Comic Sans MS">I'll take down the guy with Li Tong.</font>
+
+1344
+02:11:23,917 --> 02:11:25,125
+<font face="Comic Sans MS">I'm counting on you.</font>
+
+1345
+02:11:28,417 --> 02:11:30,917
+<font face="Comic Sans MS">Do it now! I'll kill her!</font>
+
+1346
+02:11:36,167 --> 02:11:37,042
+<font face="Comic Sans MS">Fuck!</font>
+
+1347
+02:11:37,375 --> 02:11:38,708
+<font face="Comic Sans MS"><i>Fucking Chinese!</font>
+
+1348
+02:11:48,792 --> 02:11:51,500
+<font face="Comic Sans MS">We need the yellowcake for this war!</font>
+
+1349
+02:11:51,750 --> 02:11:54,625
+<font face="Comic Sans MS">To become stronger!</font>
+
+1350
+02:12:43,625 --> 02:12:45,583
+<font face="Comic Sans MS"><i>Captain, the rebels are behind us!</font>
+
+1351
+02:13:01,000 --> 02:13:02,083
+<font face="Comic Sans MS">Calm down!</font>
+
+1352
+02:13:02,375 --> 02:13:03,667
+<font face="Comic Sans MS">I'm from the Chinese military.</font>
+
+1353
+02:13:05,000 --> 02:13:06,500
+<font face="Comic Sans MS">Start the engine! Hurry up!</font>
+
+1354
+02:13:14,333 --> 02:13:15,708
+<font face="Comic Sans MS">Hurry!</font>
+
+1355
+02:14:00,708 --> 02:14:02,542
+<font face="Comic Sans MS">March forward!</font>
+
+1356
+02:14:10,000 --> 02:14:11,542
+<font face="Comic Sans MS">Turn right!</font>
+
+1357
+02:14:26,125 --> 02:14:27,375
+<font face="Comic Sans MS">Attention!</font>
+
+1358
+02:14:35,792 --> 02:14:38,667
+<font face="Comic Sans MS">YU ZHUANG</font>
+
+1359
+02:14:45,000 --> 02:14:47,917
+<font face="Comic Sans MS">TIAN-DE ZHANG</font>
+
+1360
+02:15:00,833 --> 02:15:02,125
+<font face="Comic Sans MS">Salute!</font>
+
+1361
+02:15:43,833 --> 02:15:46,375
+<font face="Comic Sans MS"><i>Attention! This is Chinese Navy.</font>
+
+1362
+02:15:46,583 --> 02:15:48,750
+<font face="Comic Sans MS"><i>You're about to enter Chinese waters.</font>
+
+1363
+02:15:48,833 --> 02:15:52,042
+<font face="Comic Sans MS"><i>Please turn around immediately!</font>
+
+1364
+02:15:52,708 --> 02:15:55,708
+<font face="Comic Sans MS"><i>Attention! This is Chinese Navy.</font>
+
+1365
+02:15:55,708 --> 02:15:57,792
+<font face="Comic Sans MS"><i>You're about to enter Chinese waters.</font>
+
+1366
+02:15:58,375 --> 02:16:00,417
+<font face="Comic Sans MS"><i>Please turn around immediately!</font>
+
+1367
+02:16:00,417 --> 02:16:01,667
+<font face="Comic Sans MS"><i>I repeat!</font>
+
+1368
+02:16:01,667 --> 02:16:53,958
+<font face="Comic Sans MS"><i>Please turn around immediately!</font>

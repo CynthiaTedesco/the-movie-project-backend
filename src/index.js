@@ -17,6 +17,7 @@ async function execute() {
 
         // const data = fs.readFileSync('movies.json');
         // const allTheMovies = JSON.parse(data);
+
         await populate(allTheMovies, db);
         await closeConnection();
     });

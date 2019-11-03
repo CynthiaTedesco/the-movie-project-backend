@@ -27,27 +27,62 @@ const languages = {
     }
 };
 
-async function execute() {
-    console.log('==========================================================================');
+export default function getSubtitleFileName(title, year, lang) {
+    return new Promise((resolve, reject) =>{
+        //gets Subscene language code
+        const language = (languages[lang]||languages.en).code;
 
-    //TODO de- hard code
-    const title = 'the lion king';
-    const year = '2019';
-    const language = languages.en.code;
+        console.log('1. = ', title, 'finding path');
+        findPath(title, year, language)
+            .then((path='no results') => {
+                if (path === 'no results') {
+                    console.log('1.1. = NOT found it');
+                    return path;
+                } else {
+                    console.log('1.1. = Found it', path);
+                }
 
-    const path = await findPath(title, year, language);
-    const subtitlesListLink = await findSubtitlesListPath(path, language);
-    const subtitleDownloadPath = await findSubtitleDownloadPath(subtitlesListLink, language);
+                console.log('2. ==== ', title, 'first path=', path);
+                return findSubtitlesListPath(path, language);
+            })
+            .then((subtitlesListLink='no results')=>{
+                if (subtitlesListLink === 'no results') {
+                    console.log('2.1. === Not found');
+                    return subtitlesListLink;
+                } else {
+                    console.log('2.1. === Found it', subtitlesListLink)
+                }
 
-    const url = baseURL + subtitleDownloadPath;
+                console.log('3. ======== ', title, 'subtitlesListLink', subtitlesListLink);
+                return findSubtitleDownloadPath(subtitlesListLink, language);
+            })
+            .then((subtitleDownloadPath='no results')=>{
+                if (subtitleDownloadPath === 'no results'){
+                    console.log('3.1. ======== Not found');
+                    return subtitleDownloadPath;
+                } else {
+                    console.log('3.1. ======= Found it!', subtitleDownloadPath);
+                }
 
-    const movieName = title.split(' ').join('_');
-    downloadSubtitle(url, movieName);
+                console.log('4. ============ ', title, 'subtitleDownloadPath', subtitleDownloadPath);
+                const url = baseURL + subtitleDownloadPath;
+                const movieName = title.split(' ').join('_');
+                return downloadSubtitle(url, movieName);
+            })
+            .then((fileName='no results') => {
+                console.log('5. ================ ', title, 'filename', fileName);
+                resolve(fileName === 'no results' ? '' : fileName);
+            })
+            .catch(error=>{
+                console.log('++++error with movie', title, error);
+                reject(error);
+            })
+    });
 }
 
-execute();
-
 function findSubtitleDownloadPath(path, language) {
+    if(!path) return 'no results';
+
     const url = baseURL + path;
 
     return axios.get(url, {
@@ -62,6 +97,8 @@ function findSubtitleDownloadPath(path, language) {
 }
 
 function findSubtitlesListPath(path, language) {
+    if(!path) return 'no results';
+
     const url = baseURL + path;
 
     return axios.get(url, {
@@ -76,64 +113,70 @@ function findSubtitlesListPath(path, language) {
 }
 
 function findPath(title, year, language) {
+    // const encodedTitle = encodeURIComponent(title).replace(/%20/g,'+');
     return axios.post(baseURL + searchByTitle, {query: title}, {
         withCredentials: true,
         headers: {
             'cookie': 'LanguageFilter=' + language
         }
-    }).then(results => {
-        const vDom = new JSDOM(results.data);
+    })
+        .then(results => {
 
-        const thereAreExactResults = vDom.window.document
-            .querySelector('.search-result h2').textContent === 'Exact';
-        const appliedLanguageFilter = vDom.window.document
-            .querySelector('#search .filter ul').textContent.indexOf('English') > -1;
+            if(results.status === 200){
+                const vDom = new JSDOM(results.data);
 
-        if (!thereAreExactResults) {
-            return 'no results';
-        } else {
-            if (appliedLanguageFilter) {
-                const exactList = vDom.window.document.querySelector('.search-result ul');
-                const exactItems = exactList.querySelectorAll('li');
-                let found = false;
-                for (let i = 0; i < exactItems.length; i++) {
-                    if (exactItems[i].textContent.indexOf(year) > -1) {
-                        found = true;
-                        return exactItems[i].querySelector('a').href;
+                const thereAreExactResults = vDom.window.document
+                    .querySelector('.search-result h2').textContent === 'Exact';
+                const appliedLanguageFilter = vDom.window.document
+                    .querySelector('#search .filter ul').textContent.indexOf('English') > -1;
+
+                if (!thereAreExactResults) {
+                    return 'no results';
+                } else {
+                    if (appliedLanguageFilter) {
+                        const exactList = vDom.window.document.querySelector('.search-result ul');
+                        const exactItems = exactList.querySelectorAll('li');
+                        let found = false;
+                        for (let i = 0; i < exactItems.length; i++) {
+                            if (exactItems[i].textContent.indexOf(year) > -1) {
+                                found = true;
+                                return exactItems[i].querySelector('a').href;
+                            }
+                        }
+
+                        if (!found) {
+                            return 'no results';
+                        }
+                    } else {
+                        return 'no filter applied';
                     }
                 }
-
-                if (!found) {
-                    return 'no results';
-                }
             } else {
-                return 'no filter applied';
+                return 'no results';
             }
-        }
 
-    });
+        }).catch(error=>{
+            console.log('++++++ error while getting searchByPath', error.response?error.response.config.data: error);
+            return 'no results';
+        });
 }
 
 function downloadSubtitle(downloadLink, movieName) {
-    fetch(downloadLink)
-        .then(function (subtitle) {
-            // Convert to UTF8
-            subtitle.content = convertToUTF8(subtitle.content);
-            return subtitle;
-        }).then(function (subtitle) {
-            // Save the subtitle to a file with a matching name
-            return saveSubtitle(subtitle.content, subtitle.type, movieName);
-        }).then(function () {
-            // Done
-            console.log('Done !');
-
-        }).catch(function (error) {
-
-            // Something went wrong
-            if (error) {
-                console.error(error.toString());
-            }
-
+    return new Promise(function (resolve, reject) {
+        fetch(downloadLink)
+            .then(function (subtitle) {
+                // Convert to UTF8
+                subtitle.content = convertToUTF8(subtitle.content);
+                return subtitle;
+            }).then(function (subtitle) {
+                // Save the subtitle to a file with a matching name
+                return saveSubtitle(subtitle.content, subtitle.type, movieName);
+            }).then(fileName =>{
+                resolve(fileName);
+            }).catch(function (error) {
+                // Something went wrong
+                reject(error);
+            });
         });
 }
 
@@ -148,15 +191,17 @@ function downloadSubtitle(downloadLink, movieName) {
 function saveSubtitle(content, type, movieName) {
 
     return new Promise(function (resolve, reject) {
+        const fileName = './subtitles/' + movieName + '.' + type;
+
         // Save the subtitle file
-        fs.writeFile('./subtitles/' + movieName + '.' + type, content, 'utf8', function (error) {
+        fs.writeFile(fileName, content, 'utf8', function (error) {
 
             // Something went wrong
             if (error) {
                 return reject(error);
             }
 
-            resolve();
+            resolve(fileName);
 
         });
     });
@@ -188,7 +233,6 @@ function convertToUTF8(buffer) {
  * @return {Promise} resolve with {content: buffer, type: (srt, ass, sub)}
  */
 function fetch(downloadLink) {
-
     return new Promise(function (resolve, reject) {
 
         var tmpDir = tmp.dirSync().name;
@@ -227,4 +271,50 @@ function fetch(downloadLink) {
 
     });
 
+}
+
+// getSubtitleFileName('Avengers: Infinity War','2018', 'en');
+
+function promiseSerial(functions) {
+    return functions.reduce((promise, func) =>
+            promise.then(result =>{
+                return func().then(Array.prototype.concat.bind(result))
+            }),
+        Promise.resolve([]));
+}
+
+export function addSubsFileNames(moviesList) {
+    return promiseSerial(moviesList.map((l,i)=> () => subsPromise(l,i)))
+        .then(results=>{
+            return results;
+        });
+}
+
+function subsPromise(movie, index){
+    return new Promise((resolve) => {
+        console.log(' ');
+        console.log(movie.title, '0. !!!!!! Started subsPromise');
+
+        if (movie.subsFileName){
+            return resolve(movie.subsFileName);
+        }
+
+        return getSubsFileName(movie)
+            .then(async fileName=>{
+                console.log(movie.title, '99. -!!!!!! Finished subsPromise. Resolving...', fileName);
+                movie.subsFileName = fileName;
+
+                const resolution = await new Promise(resolve => {
+                    setTimeout(()=>resolve(movie), 3000)
+                });
+
+                resolve(resolution);
+            });
+    })
+}
+
+function getSubsFileName(movie){
+    const year = (new Date(movie.release_date)).getFullYear();
+    const language = movie.original_language || 'en';
+    return getSubtitleFileName(movie.title, year, language)
 }
