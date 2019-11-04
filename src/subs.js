@@ -1,4 +1,5 @@
 import axios from 'axios';
+import * as stringSimilarity from "string-similarity";
 
 const jsdom = require("jsdom");
 const {JSDOM} = jsdom;
@@ -31,6 +32,15 @@ export default function getSubtitleFileName(title, year, lang) {
     return new Promise((resolve, reject) =>{
         //gets Subscene language code
         const language = (languages[lang]||languages.en).code;
+
+        try {
+            const path = './subtitles/'+title.split(' ').join('_')+'.srt';
+            if (fs.existsSync(path)) {
+                return resolve(path);
+            }
+        } catch(err) {
+            console.error(err)
+        }
 
         console.log('1. = ', title, 'finding path');
         findPath(title, year, language)
@@ -113,7 +123,6 @@ function findSubtitlesListPath(path, language) {
 }
 
 function findPath(title, year, language) {
-    // const encodedTitle = encodeURIComponent(title).replace(/%20/g,'+');
     return axios.post(baseURL + searchByTitle, {query: title}, {
         withCredentials: true,
         headers: {
@@ -125,32 +134,37 @@ function findPath(title, year, language) {
             if(results.status === 200){
                 const vDom = new JSDOM(results.data);
 
-                const thereAreExactResults = vDom.window.document
-                    .querySelector('.search-result h2').textContent === 'Exact';
-                const appliedLanguageFilter = vDom.window.document
-                    .querySelector('#search .filter ul').textContent.indexOf('English') > -1;
+                const li_results = vDom.window.document.querySelectorAll('.search-result ul li');
+                let found = false;
+                for (let i = 0; i < li_results.length; i++) {
+                    if (li_results[i].textContent.indexOf(year) > -1) {
+                        let cleanLiTitle = li_results[i].querySelector('div.title a').textContent
+                            .replace('('+year+')', '');
 
-                if (!thereAreExactResults) {
-                    return 'no results';
-                } else {
-                    if (appliedLanguageFilter) {
-                        const exactList = vDom.window.document.querySelector('.search-result ul');
-                        const exactItems = exactList.querySelectorAll('li');
-                        let found = false;
-                        for (let i = 0; i < exactItems.length; i++) {
-                            if (exactItems[i].textContent.indexOf(year) > -1) {
-                                found = true;
-                                return exactItems[i].querySelector('a').href;
+                        if(cleanLiTitle.indexOf(title)>-1 && cleanLiTitle.indexOf(('(')>-1)){
+                            cleanLiTitle = cleanLiTitle.split(' (')[0];
+                        }
+
+                        const similarity = stringSimilarity.compareTwoStrings(title, cleanLiTitle);
+                        if (similarity > 0.75){
+                            found = true;
+                            return li_results[i].querySelector('a').href;
+                        }
+
+                        if (cleanLiTitle.indexOf(':')>-1){
+                            const titleParts = cleanLiTitle.split(':');
+                            for(let y=0; y<titleParts.length; y++){
+                                const similarity = stringSimilarity.compareTwoStrings(title, titleParts[i]||'');
+                                if (similarity > 0.75){
+                                    found = true;
+                                    return li_results[i].querySelector('a').href;
+                                }
                             }
                         }
-
-                        if (!found) {
-                            return 'no results';
-                        }
-                    } else {
-                        return 'no filter applied';
                     }
                 }
+                return 'no results';
+
             } else {
                 return 'no results';
             }
@@ -273,8 +287,6 @@ function fetch(downloadLink) {
 
 }
 
-// getSubtitleFileName('Avengers: Infinity War','2018', 'en');
-
 function promiseSerial(functions) {
     return functions.reduce((promise, func) =>
             promise.then(result =>{
@@ -290,13 +302,13 @@ export function addSubsFileNames(moviesList) {
         });
 }
 
-function subsPromise(movie, index){
+function subsPromise(movie){
     return new Promise((resolve) => {
         console.log(' ');
         console.log(movie.title, '0. !!!!!! Started subsPromise');
 
         if (movie.subsFileName){
-            return resolve(movie.subsFileName);
+            return resolve(movie);
         }
 
         return getSubsFileName(movie)

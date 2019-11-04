@@ -31,6 +31,7 @@ const theMovieDB_data = JSON.parse(data);
         omdb.data(movies, successCB, errorCB);
 
     //TODO look at theMovieDB restrictions
+    //TODO add gender from theMovieDB
 
     const consolidatedAPIs = await Promise.all(movies.map(async lm => {
         let movie = lm.dataValues ? lm.dataValues : lm;
