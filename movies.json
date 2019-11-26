@@ -13,7 +13,7 @@
     "budget": "190000000",
     "cast_quantity": null,
     "website": "http://www.furious7.com/",
-    "word_count": null,
+    "word_count": 8468,
     "revenue": "1506249360",
     "valid": true,
     "poster_id": 38,
@@ -42,7 +42,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTQxOTA2NDUzOV5BMl5BanBnXkFtZTgwNzY2MTMxMzE@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$316,986,481",
-    "subsFileName": "./subtitles/Furious_7.srt"
+    "subsFileName": "./subtitles/Furious_7.srt",
+    "most_used_word": "YOU"
   },
   {
     "id": 13,
@@ -58,7 +59,7 @@
     "budget": "125000000",
     "cast_quantity": null,
     "website": "http://hpwishlist.warnerbros.com/",
-    "word_count": null,
+    "word_count": 5288,
     "revenue": "1342000000",
     "valid": true,
     "poster_id": 100,
@@ -87,7 +88,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMjIyZGU4YzUtNDkzYi00ZDRhLTljYzctYTMxMDQ4M2E0Y2YxXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$381,000,185",
-    "subsFileName": "./subtitles/Harry_Potter_and_the_Deathly_Hallows:_Part_2.srt"
+    "subsFileName": "./subtitles/Harry_Potter_and_the_Deathly_Hallows:_Part_2.srt",
+    "most_used_word": "YOU"
   },
   {
     "id": 14,
@@ -103,7 +105,7 @@
     "budget": "200000000",
     "cast_quantity": null,
     "website": "https://www.starwars.com/films/star-wars-episode-viii-the-last-jedi",
-    "word_count": null,
+    "word_count": 7954,
     "revenue": "1332459537",
     "valid": true,
     "poster_id": 111,
@@ -132,7 +134,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMjQ1MzcxNjg4N15BMl5BanBnXkFtZTgwNzgwMjY4MzI@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$619,117,636",
-    "subsFileName": "./subtitles/Star_Wars:_The_Last_Jedi.srt"
+    "subsFileName": "./subtitles/Star_Wars:_The_Last_Jedi.srt",
+    "most_used_word": "THE"
   },
   {
     "id": 15,
@@ -148,7 +151,7 @@
     "budget": "170000000",
     "cast_quantity": null,
     "website": "http://www.jurassicworld.com",
-    "word_count": null,
+    "word_count": 7064,
     "revenue": "1303459585",
     "valid": true,
     "poster_id": 151,
@@ -178,7 +181,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BNzIxMjYwNDEwN15BMl5BanBnXkFtZTgwMzk5MDI3NTM@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "",
-    "subsFileName": "./subtitles/Jurassic_World:_Fallen_Kingdom.srt"
+    "subsFileName": "./subtitles/Jurassic_World:_Fallen_Kingdom.srt",
+    "most_used_word": "THE"
   },
   {
     "id": 6,
@@ -194,7 +198,7 @@
     "budget": "200000000",
     "cast_quantity": null,
     "website": null,
-    "word_count": null,
+    "word_count": 12056,
     "revenue": "1845034188",
     "valid": true,
     "poster_id": 6,
@@ -222,7 +226,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMDdmZGU3NDQtY2E5My00ZTliLWIzOTUtMTY4ZGI1YjdiNjk3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "",
-    "subsFileName": "./subtitles/Titanic.srt"
+    "subsFileName": "./subtitles/Titanic.srt",
+    "most_used_word": "THE"
   },
   {
     "id": 16,
@@ -238,7 +243,7 @@
     "budget": "150000000",
     "cast_quantity": null,
     "website": "http://movies.disney.com/frozen",
-    "word_count": null,
+    "word_count": 8863,
     "revenue": "1274219009",
     "valid": true,
     "poster_id": 34,
@@ -271,7 +276,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTQ1MjQwMTE5OF5BMl5BanBnXkFtZTgwNjk3MTcyMDE@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$400,736,600",
-    "subsFileName": "./subtitles/Frozen.srt"
+    "subsFileName": "./subtitles/Frozen.srt",
+    "most_used_word": ""
   },
   {
     "id": 29,
@@ -287,7 +293,7 @@
     "budget": "210000000",
     "cast_quantity": null,
     "website": null,
-    "word_count": null,
+    "word_count": 13702,
     "revenue": "1091405097",
     "valid": true,
     "poster_id": 93,
@@ -315,7 +321,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMjEwNTg1MTA5Nl5BMl5BanBnXkFtZTgwOTg2OTM4MTE@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$206,755,538",
-    "subsFileName": "./subtitles/Transformers:_Age_of_Extinction.srt"
+    "subsFileName": "./subtitles/Transformers:_Age_of_Extinction.srt",
+    "most_used_word": "YOU"
   },
   {
     "id": 25,
@@ -331,7 +338,7 @@
     "budget": "152000000",
     "cast_quantity": null,
     "website": "https://www.marvel.com/movies/captain-marvel",
-    "word_count": null,
+    "word_count": 13733,
     "revenue": "1128274794",
     "valid": true,
     "poster_id": 17,
@@ -367,7 +374,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTE0YWFmOTMtYTU2ZS00ZTIxLWE3OTEtYTNiYzBkZjViZThiXkEyXkFqcGdeQXVyODMzMzQ4OTI@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "",
-    "subsFileName": "./subtitles/Captain_Marvel.srt"
+    "subsFileName": "./subtitles/Captain_Marvel.srt",
+    "most_used_word": ""
   },
   {
     "id": 26,
@@ -383,7 +391,7 @@
     "budget": "195000000",
     "cast_quantity": null,
     "website": "http://www.transformersmovie.com/",
-    "word_count": null,
+    "word_count": 13976,
     "revenue": "1123746996",
     "valid": true,
     "poster_id": 82,
@@ -411,7 +419,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTkwOTY0MTc1NV5BMl5BanBnXkFtZTcwMDQwNjA2NQ@@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$352,358,779",
-    "subsFileName": "./subtitles/Transformers:_Dark_of_the_Moon.srt"
+    "subsFileName": "./subtitles/Transformers:_Dark_of_the_Moon.srt",
+    "most_used_word": "YOU"
   },
   {
     "id": 11,
@@ -427,7 +436,7 @@
     "budget": "280000000",
     "cast_quantity": null,
     "website": "http://marvel.com/movies/movie/193/avengers_age_of_ultron",
-    "word_count": null,
+    "word_count": 10605,
     "revenue": "1405403694",
     "valid": true,
     "poster_id": 27,
@@ -460,7 +469,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTM4OGJmNWMtOTM4Ni00NTE3LTg3MDItZmQxYjc4N2JhNmUxXkEyXkFqcGdeQXVyNTgzMDMzMTg@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$429,113,729",
-    "subsFileName": "./subtitles/Avengers:_Age_of_Ultron.srt"
+    "subsFileName": "./subtitles/Avengers:_Age_of_Ultron.srt",
+    "most_used_word": "THE"
   },
   {
     "id": 17,
@@ -476,7 +486,7 @@
     "budget": "160000000",
     "cast_quantity": null,
     "website": "http://movies.disney.com/beauty-and-the-beast-2017",
-    "word_count": null,
+    "word_count": 8290,
     "revenue": "1263521126",
     "valid": true,
     "poster_id": null,
@@ -486,7 +496,8 @@
     "set_in_time_id": null,
     "createdAt": "2019-10-12T21:22:33.203Z",
     "updatedAt": "2019-11-03T23:47:39.309Z",
-    "subsFileName": "./subtitles/Beauty_and_the_Beast.srt"
+    "subsFileName": "./subtitles/Beauty_and_the_Beast.srt",
+    "most_used_word": "YOU"
   },
   {
     "id": 34,
@@ -502,7 +513,7 @@
     "budget": "183000000",
     "cast_quantity": null,
     "website": "https://movies.disney.com/aladdin-2019",
-    "word_count": null,
+    "word_count": 11748,
     "revenue": "1047612394",
     "valid": true,
     "poster_id": null,
@@ -512,7 +523,8 @@
     "set_in_time_id": null,
     "createdAt": "2019-10-13T08:51:46.595Z",
     "updatedAt": "2019-11-03T23:47:39.310Z",
-    "subsFileName": "./subtitles/Aladdin.srt"
+    "subsFileName": "./subtitles/Aladdin.srt",
+    "most_used_word": "YOU"
   },
   {
     "id": 36,
@@ -528,7 +540,7 @@
     "budget": "80000000",
     "cast_quantity": null,
     "website": "http://www.despicable.me",
-    "word_count": null,
+    "word_count": 6481,
     "revenue": "1031552585",
     "valid": true,
     "poster_id": 145,
@@ -559,7 +571,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BNjUyNzQ2MTg3Ml5BMl5BanBnXkFtZTgwNzE4NDM3MTI@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$264,194,540",
-    "subsFileName": "./subtitles/Despicable_Me_3.srt"
+    "subsFileName": "./subtitles/Despicable_Me_3.srt",
+    "most_used_word": "YOU"
   },
   {
     "id": 23,
@@ -575,7 +588,7 @@
     "budget": "160000000",
     "cast_quantity": null,
     "website": "http://www.aquamanmovie.com",
-    "word_count": null,
+    "word_count": 10905,
     "revenue": "1143689193",
     "valid": true,
     "poster_id": 169,
@@ -609,7 +622,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BOTk5ODg0OTU5M15BMl5BanBnXkFtZTgwMDQ3MDY3NjM@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "",
-    "subsFileName": "./subtitles/Aquaman.srt"
+    "subsFileName": "./subtitles/Aquaman.srt",
+    "most_used_word": "-->"
   },
   {
     "id": 105,
@@ -625,7 +639,7 @@
     "budget": "180000000",
     "cast_quantity": null,
     "website": null,
-    "word_count": null,
+    "word_count": 6275,
     "revenue": "745013115",
     "valid": true,
     "poster_id": 60,
@@ -657,7 +671,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTc0NTUwMTU5OV5BMl5BanBnXkFtZTcwNjAwNzQzMw@@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$291,685,219",
-    "subsFileName": "./subtitles/The_Chronicles_of_Narnia:_The_Lion,_the_Witch_and_the_Wardrobe.srt"
+    "subsFileName": "./subtitles/The_Chronicles_of_Narnia:_The_Lion,_the_Witch_and_the_Wardrobe.srt",
+    "most_used_word": "YOU"
   },
   {
     "id": 115,
@@ -673,7 +688,7 @@
     "budget": "150000000",
     "cast_quantity": null,
     "website": "http://www.transformersmovie.com/",
-    "word_count": null,
+    "word_count": 13705,
     "revenue": "709709780",
     "valid": true,
     "poster_id": 132,
@@ -705,7 +720,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BNDg1NTU2OWEtM2UzYi00ZWRmLWEwMTktZWNjYWQ1NWM1OThjXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$319,014,499",
-    "subsFileName": "./subtitles/Transformers.srt"
+    "subsFileName": "./subtitles/Transformers.srt",
+    "most_used_word": "-"
   },
   {
     "id": 21,
@@ -721,7 +737,7 @@
     "budget": "74000000",
     "cast_quantity": null,
     "website": "http://www.minionsmovie.com/",
-    "word_count": null,
+    "word_count": 132,
     "revenue": "1156730962",
     "valid": true,
     "poster_id": 73,
@@ -750,7 +766,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTg2MTMyMzU0M15BMl5BanBnXkFtZTgwOTU3ODk4NTE@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$277,969,969",
-    "subsFileName": "./subtitles/Minions.srt"
+    "subsFileName": "./subtitles/Minions.srt",
+    "most_used_word": "THEY"
   },
   {
     "id": 145,
@@ -766,7 +783,7 @@
     "budget": "150000000",
     "cast_quantity": null,
     "website": "http://disney.go.com/disneypictures/ratatouille",
-    "word_count": null,
+    "word_count": 9512,
     "revenue": "623722818",
     "valid": true,
     "poster_id": 33,
@@ -801,7 +818,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTMzODU0NTkxMF5BMl5BanBnXkFtZTcwMjQ4MzMzMw@@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$112,408,657",
-    "subsFileName": "./subtitles/Ratatouille.srt"
+    "subsFileName": "./subtitles/Ratatouille.srt",
+    "most_used_word": "YOU"
   },
   {
     "id": 197,
@@ -817,7 +835,7 @@
     "budget": "102000000",
     "cast_quantity": null,
     "website": "https://cutt.ly/terminatorofficial",
-    "word_count": null,
+    "word_count": 6393,
     "revenue": "520000000",
     "valid": true,
     "poster_id": 10,
@@ -846,7 +864,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMGU2NzRmZjUtOGUxYS00ZjdjLWEwZWItY2NlM2JhNjkxNTFmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$198,116,802",
-    "subsFileName": "./subtitles/Terminator_2:_Judgment_Day.srt"
+    "subsFileName": "./subtitles/Terminator_2:_Judgment_Day.srt",
+    "most_used_word": "YOU"
   },
   {
     "id": 125,
@@ -862,7 +881,7 @@
     "budget": "165000000",
     "cast_quantity": null,
     "website": "http://www.interstellarmovie.net/",
-    "word_count": null,
+    "word_count": 7146,
     "revenue": "675120017",
     "valid": true,
     "poster_id": 191,
@@ -891,7 +910,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$158,737,441",
-    "subsFileName": "./subtitles/Interstellar.srt"
+    "subsFileName": "./subtitles/Interstellar.srt",
+    "most_used_word": "THE"
   },
   {
     "id": 57,
@@ -907,7 +927,7 @@
     "budget": "150000000",
     "cast_quantity": null,
     "website": "http://www.shrek2.com/",
-    "word_count": null,
+    "word_count": 8298,
     "revenue": "919838758",
     "valid": true,
     "poster_id": 5,
@@ -947,7 +967,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMDJhMGRjN2QtNDUxYy00NGM3LThjNGQtMmZiZTRhNjM4YzUxL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$436,471,036",
-    "subsFileName": "./subtitles/Shrek_2.srt"
+    "subsFileName": "./subtitles/Shrek_2.srt",
+    "most_used_word": "-"
   },
   {
     "id": 31,
@@ -963,7 +984,7 @@
     "budget": "200000000",
     "cast_quantity": null,
     "website": "http://disney.go.com/toystory/",
-    "word_count": null,
+    "word_count": 8405,
     "revenue": "1066969703",
     "valid": true,
     "poster_id": 76,
@@ -994,7 +1015,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTgxOTY4Mjc0MF5BMl5BanBnXkFtZTcwNTA4MDQyMw@@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$414,984,497",
-    "subsFileName": "./subtitles/Toy_Story_3.srt"
+    "subsFileName": "./subtitles/Toy_Story_3.srt",
+    "most_used_word": "-"
   },
   {
     "id": 95,
@@ -1010,7 +1032,7 @@
     "budget": "200000000",
     "cast_quantity": null,
     "website": "https://cutt.ly/UwdDT9a",
-    "word_count": null,
+    "word_count": 496,
     "revenue": "769653595",
     "valid": true,
     "poster_id": 47,
@@ -1039,7 +1061,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTY0MjEyODQzMF5BMl5BanBnXkFtZTcwMTczMjQ4Mg@@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$166,112,167",
-    "subsFileName": "./subtitles/2012.srt"
+    "subsFileName": "./subtitles/2012.srt",
+    "most_used_word": "THE"
   },
   {
     "id": 97,
@@ -1081,7 +1104,7 @@
     "budget": "178000000",
     "cast_quantity": null,
     "website": "https://www.missionimpossible.com/",
-    "word_count": null,
+    "word_count": 9197,
     "revenue": "791017452",
     "valid": true,
     "poster_id": 144,
@@ -1110,7 +1133,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BNjRlZmM0ODktY2RjNS00ZDdjLWJhZGYtNDljNWZkMGM5MTg0XkEyXkFqcGdeQXVyNjAwMjI5MDk@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "",
-    "subsFileName": "./subtitles/Mission:_Impossible_-_Fallout.srt"
+    "subsFileName": "./subtitles/Mission:_Impossible_-_Fallout.srt",
+    "most_used_word": "THE"
   },
   {
     "id": 37,
@@ -1126,7 +1150,7 @@
     "budget": "200000000",
     "cast_quantity": null,
     "website": "http://movies.disney.com/finding-dory",
-    "word_count": null,
+    "word_count": 11794,
     "revenue": "1028570889",
     "valid": true,
     "poster_id": 155,
@@ -1159,7 +1183,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BNzg4MjM2NDQ4MV5BMl5BanBnXkFtZTgwMzk3MTgyODE@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$486,292,984",
-    "subsFileName": "./subtitles/Finding_Dory.srt"
+    "subsFileName": "./subtitles/Finding_Dory.srt",
+    "most_used_word": "-"
   },
   {
     "id": 45,
@@ -1175,7 +1200,7 @@
     "budget": "175000000",
     "cast_quantity": null,
     "website": "http://movies.disney.com/the-jungle-book-2016",
-    "word_count": null,
+    "word_count": 7562,
     "revenue": "966550600",
     "valid": true,
     "poster_id": 62,
@@ -1204,7 +1229,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTc3NTUzNTI4MV5BMl5BanBnXkFtZTgwNjU0NjU5NzE@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$363,995,937",
-    "subsFileName": "./subtitles/The_Jungle_Book.srt"
+    "subsFileName": "./subtitles/The_Jungle_Book.srt",
+    "most_used_word": "♪"
   },
   {
     "id": 158,
@@ -1220,7 +1246,7 @@
     "budget": "200000000",
     "cast_quantity": null,
     "website": "https://www.hobbsandshawmovie.com",
-    "word_count": null,
+    "word_count": 10701,
     "revenue": "591212350",
     "valid": true,
     "poster_id": null,
@@ -1230,7 +1256,8 @@
     "set_in_time_id": null,
     "createdAt": "2019-10-13T08:51:46.742Z",
     "updatedAt": "2019-11-03T23:47:39.357Z",
-    "subsFileName": "./subtitles/Fast_&_Furious_Presents:_Hobbs_&_Shaw.srt"
+    "subsFileName": "./subtitles/Fast_&_Furious_Presents:_Hobbs_&_Shaw.srt",
+    "most_used_word": "YOU"
   },
   {
     "id": 33,
@@ -1246,7 +1273,7 @@
     "budget": "200000000",
     "cast_quantity": null,
     "website": "http://www.starwars.com/films/rogue-one",
-    "word_count": null,
+    "word_count": 8284,
     "revenue": "1056057273",
     "valid": true,
     "poster_id": 92,
@@ -1278,7 +1305,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMjEwMzMxODIzOV5BMl5BanBnXkFtZTgwNzg3OTAzMDI@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$532,171,696",
-    "subsFileName": "./subtitles/Rogue_One:_A_Star_Wars_Story.srt"
+    "subsFileName": "./subtitles/Rogue_One:_A_Star_Wars_Story.srt",
+    "most_used_word": "THE"
   },
   {
     "id": 118,
@@ -1294,7 +1322,7 @@
     "budget": "68000000",
     "cast_quantity": null,
     "website": "http://eclipsethemovie.com",
-    "word_count": null,
+    "word_count": 8632,
     "revenue": "698491347",
     "valid": true,
     "poster_id": 126,
@@ -1323,7 +1351,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BNDMwNjAzNzYwOF5BMl5BanBnXkFtZTcwMDY5NzcyMw@@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$300,523,113",
-    "subsFileName": "./subtitles/The_Twilight_Saga:_Eclipse.srt"
+    "subsFileName": "./subtitles/The_Twilight_Saga:_Eclipse.srt",
+    "most_used_word": "YOU"
   },
   {
     "id": 88,
@@ -1339,7 +1368,7 @@
     "budget": "130000000",
     "cast_quantity": null,
     "website": null,
-    "word_count": null,
+    "word_count": 9808,
     "revenue": "789804554",
     "valid": true,
     "poster_id": 52,
@@ -1368,7 +1397,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTY4NTIwODg0N15BMl5BanBnXkFtZTcwOTc0MjEzMw@@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$249,358,727",
-    "subsFileName": "./subtitles/Harry_Potter_and_the_Prisoner_of_Azkaban.srt"
+    "subsFileName": "./subtitles/Harry_Potter_and_the_Prisoner_of_Azkaban.srt",
+    "most_used_word": "-"
   },
   {
     "id": 127,
@@ -1384,7 +1414,7 @@
     "budget": "225000000",
     "cast_quantity": null,
     "website": "http://www.manofsteel.com/",
-    "word_count": null,
+    "word_count": 7181,
     "revenue": "668045518",
     "valid": true,
     "poster_id": 81,
@@ -1416,7 +1446,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTk5ODk1NDkxMF5BMl5BanBnXkFtZTcwNTA5OTY0OQ@@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$291,021,565",
-    "subsFileName": "./subtitles/Man_of_Steel.srt"
+    "subsFileName": "./subtitles/Man_of_Steel.srt",
+    "most_used_word": "YOU"
   },
   {
     "id": 48,
@@ -1432,7 +1463,7 @@
     "budget": "250000000",
     "cast_quantity": null,
     "website": "http://www.thehobbit.com/",
-    "word_count": null,
+    "word_count": 9387,
     "revenue": "958400000",
     "valid": true,
     "poster_id": 117,
@@ -1464,7 +1495,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMzU0NDY0NDEzNV5BMl5BanBnXkFtZTgwOTIxNDU1MDE@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$180,443,783",
-    "subsFileName": "./subtitles/The_Hobbit:_The_Desolation_of_Smaug.srt"
+    "subsFileName": "./subtitles/The_Hobbit:_The_Desolation_of_Smaug.srt",
+    "most_used_word": "THE"
   },
   {
     "id": 169,
@@ -1480,7 +1512,7 @@
     "budget": "40000000",
     "cast_quantity": null,
     "website": "https://www.facebook.com/fiftyshadesofgreymovie",
-    "word_count": null,
+    "word_count": 180,
     "revenue": "571006128",
     "valid": true,
     "poster_id": 89,
@@ -1509,7 +1541,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMjE1MTM4NDAzOF5BMl5BanBnXkFtZTgwNTMwNjI0MzE@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$189,859,585",
-    "subsFileName": "./subtitles/Fifty_Shades_of_Grey.srt"
+    "subsFileName": "./subtitles/Fifty_Shades_of_Grey.srt",
+    "most_used_word": "YOU"
   },
   {
     "id": 100,
@@ -1525,7 +1558,7 @@
     "budget": "215000000",
     "cast_quantity": null,
     "website": "http://www.theamazingspiderman.com",
-    "word_count": null,
+    "word_count": 7932,
     "revenue": "752215857",
     "valid": true,
     "poster_id": 109,
@@ -1558,7 +1591,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMjMyOTM4MDMxNV5BMl5BanBnXkFtZTcwNjIyNzExOA@@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$262,030,663",
-    "subsFileName": "./subtitles/The_Amazing_Spider-Man.srt"
+    "subsFileName": "./subtitles/The_Amazing_Spider-Man.srt",
+    "most_used_word": "-"
   },
   {
     "id": 179,
@@ -1574,7 +1608,7 @@
     "budget": "125000000",
     "cast_quantity": null,
     "website": null,
-    "word_count": null,
+    "word_count": 6120,
     "revenue": "546388105",
     "valid": true,
     "poster_id": 123,
@@ -1605,7 +1639,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BN2RkYWVkZDQtNTMxMi00NWQ4LWE2ODctNmQzOWM2NjQzYzdlXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "",
-    "subsFileName": "./subtitles/Mission:_Impossible_II.srt"
+    "subsFileName": "./subtitles/Mission:_Impossible_II.srt",
+    "most_used_word": "YOU"
   },
   {
     "id": 135,
@@ -1621,7 +1656,7 @@
     "budget": "120000000",
     "cast_quantity": null,
     "website": null,
-    "word_count": null,
+    "word_count": 9248,
     "revenue": "649398328",
     "valid": true,
     "poster_id": 1,
@@ -1651,7 +1686,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMDAzM2M0Y2UtZjRmZi00MzVlLTg4MjEtOTE3NzU5ZDVlMTU5XkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$307,900,000",
-    "subsFileName": "./subtitles/Star_Wars:_Episode_II_-_Attack_of_the_Clones.srt"
+    "subsFileName": "./subtitles/Star_Wars:_Episode_II_-_Attack_of_the_Clones.srt",
+    "most_used_word": "THE"
   },
   {
     "id": 137,
@@ -1667,7 +1703,7 @@
     "budget": "75000000",
     "cast_quantity": null,
     "website": "http://www.singmovie.com/",
-    "word_count": null,
+    "word_count": 755,
     "revenue": "632443719",
     "valid": true,
     "poster_id": 59,
@@ -1696,7 +1732,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTYzODYzODU2Ml5BMl5BanBnXkFtZTgwNTc1MTA2NzE@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$270,322,940",
-    "subsFileName": "./subtitles/Sing.srt"
+    "subsFileName": "./subtitles/Sing.srt",
+    "most_used_word": ""
   },
   {
     "id": 79,
@@ -1712,7 +1749,7 @@
     "budget": "149000000",
     "cast_quantity": null,
     "website": "http://www.warnerbros.com/wonder-woman",
-    "word_count": null,
+    "word_count": 8750,
     "revenue": "821847012",
     "valid": true,
     "poster_id": 125,
@@ -1744,7 +1781,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BNDFmZjgyMTEtYTk5MC00NmY0LWJhZjktOWY2MzI5YjkzODNlXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$412,400,625",
-    "subsFileName": "./subtitles/Wonder_Woman.srt"
+    "subsFileName": "./subtitles/Wonder_Woman.srt",
+    "most_used_word": "YOU"
   },
   {
     "id": 89,
@@ -1760,7 +1798,7 @@
     "budget": "160000000",
     "cast_quantity": null,
     "website": "http://www.thefastandthefurious.com/",
-    "word_count": null,
+    "word_count": 7529,
     "revenue": "788679850",
     "valid": true,
     "poster_id": 26,
@@ -1789,7 +1827,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTM3NTg2NDQzOF5BMl5BanBnXkFtZTcwNjc2NzQzOQ@@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$238,700,000",
-    "subsFileName": "./subtitles/Fast_&_Furious_6.srt"
+    "subsFileName": "./subtitles/Fast_&_Furious_6.srt",
+    "most_used_word": "YOU"
   },
   {
     "id": 139,
@@ -1805,7 +1844,7 @@
     "budget": "92000000",
     "cast_quantity": null,
     "website": "http://disney.go.com/disneyvideos/animatedfilms/incredibles/main.html",
-    "word_count": null,
+    "word_count": 9528,
     "revenue": "631442092",
     "valid": true,
     "poster_id": 54,
@@ -1833,7 +1872,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTY5OTU0OTc2NV5BMl5BanBnXkFtZTcwMzU4MDcyMQ@@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "",
-    "subsFileName": "./subtitles/The_Incredibles.srt"
+    "subsFileName": "./subtitles/The_Incredibles.srt",
+    "most_used_word": "-"
   },
   {
     "id": 170,
@@ -1849,7 +1889,7 @@
     "budget": "185000000",
     "cast_quantity": null,
     "website": "http://kongskullislandmovie.com/",
-    "word_count": null,
+    "word_count": 7063,
     "revenue": "566652812",
     "valid": true,
     "poster_id": 42,
@@ -1880,7 +1920,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTUwMzI5ODEwNF5BMl5BanBnXkFtZTgwNjAzNjI2MDI@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$167,986,460",
-    "subsFileName": "./subtitles/Kong:_Skull_Island.srt"
+    "subsFileName": "./subtitles/Kong:_Skull_Island.srt",
+    "most_used_word": "THE"
   },
   {
     "id": 180,
@@ -1896,7 +1937,7 @@
     "budget": "125000000",
     "cast_quantity": null,
     "website": "http://www.thedayaftertomorrow.com/",
-    "word_count": null,
+    "word_count": 8594,
     "revenue": "544272402",
     "valid": true,
     "poster_id": 53,
@@ -1926,7 +1967,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTY4YWMzMTMtZjUyOS00OGY1LTljMGUtOWU5ZjYzMjc2ZTMwXkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$186,583,549",
-    "subsFileName": "./subtitles/The_Day_After_Tomorrow.srt"
+    "subsFileName": "./subtitles/The_Day_After_Tomorrow.srt",
+    "most_used_word": "THE"
   },
   {
     "id": 60,
@@ -1942,7 +1984,7 @@
     "budget": "258000000",
     "cast_quantity": null,
     "website": "http://www.sonypictures.com/movies/spider-man3",
-    "word_count": null,
+    "word_count": 7012,
     "revenue": "890871626",
     "valid": true,
     "poster_id": 177,
@@ -1976,7 +2018,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BYTk3MDljOWQtNGI2My00OTEzLTlhYjQtOTQ4ODM2MzUwY2IwXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$336,530,303",
-    "subsFileName": "./subtitles/Spider-Man_3.srt"
+    "subsFileName": "./subtitles/Spider-Man_3.srt",
+    "most_used_word": "YOU"
   },
   {
     "id": 22,
@@ -1992,7 +2035,7 @@
     "budget": "240000000",
     "cast_quantity": null,
     "website": "http://marvel.com/captainamericapremiere",
-    "word_count": null,
+    "word_count": 10171,
     "revenue": "1153304495",
     "valid": true,
     "poster_id": 110,
@@ -2024,7 +2067,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMjQ0MTgyNjAxMV5BMl5BanBnXkFtZTgwNjUzMDkyODE@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$408,080,554",
-    "subsFileName": "./subtitles/Captain_America:_Civil_War.srt"
+    "subsFileName": "./subtitles/Captain_America:_Civil_War.srt",
+    "most_used_word": "YOU"
   },
   {
     "id": 70,
@@ -2040,7 +2084,7 @@
     "budget": "200000000",
     "cast_quantity": null,
     "website": "http://marvel.com/movies/movie/221/guardians_of_the_galaxy_vol_2",
-    "word_count": null,
+    "word_count": 9327,
     "revenue": "863756051",
     "valid": true,
     "poster_id": 142,
@@ -2080,7 +2124,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BNjM0NTc0NzItM2FlYS00YzEwLWE0YmUtNTA2ZWIzODc2OTgxXkEyXkFqcGdeQXVyNTgwNzIyNzg@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$389,804,217",
-    "subsFileName": "./subtitles/Guardians_of_the_Galaxy_Vol._2.srt"
+    "subsFileName": "./subtitles/Guardians_of_the_Galaxy_Vol._2.srt",
+    "most_used_word": "YOU"
   },
   {
     "id": 90,
@@ -2096,7 +2141,7 @@
     "budget": "185000000",
     "cast_quantity": null,
     "website": "http://www.indianajones.com/site/index.html",
-    "word_count": null,
+    "word_count": 7082,
     "revenue": "786636033",
     "valid": true,
     "poster_id": 21,
@@ -2128,7 +2173,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTIxNDUxNzcyMl5BMl5BanBnXkFtZTcwNTgwOTI3MQ@@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$316,957,122",
-    "subsFileName": "./subtitles/Indiana_Jones_and_the_Kingdom_of_the_Crystal_Skull.srt"
+    "subsFileName": "./subtitles/Indiana_Jones_and_the_Kingdom_of_the_Crystal_Skull.srt",
+    "most_used_word": "THE"
   },
   {
     "id": 165,
@@ -2144,7 +2190,7 @@
     "budget": "70000000",
     "cast_quantity": null,
     "website": null,
-    "word_count": null,
+    "word_count": 6361,
     "revenue": "579220560",
     "valid": false,
     "poster_id": 165,
@@ -2174,7 +2220,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BOTViMmI4ZTEtMzY0Zi00NjMwLWJhMzAtMmU2OTE4N2M4MzI4XkEyXkFqcGdeQXVyNjc2NjA2NTE@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$1,526,248",
-    "subsFileName": "./subtitles/Operation_Red_Sea.srt"
+    "subsFileName": "./subtitles/Operation_Red_Sea.srt",
+    "most_used_word": "THE"
   },
   {
     "id": 157,
@@ -2190,7 +2237,7 @@
     "budget": "132000000",
     "cast_quantity": null,
     "website": null,
-    "word_count": null,
+    "word_count": 7569,
     "revenue": "591739379",
     "valid": true,
     "poster_id": 128,
@@ -2220,7 +2267,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BNDUyODAzNDI1Nl5BMl5BanBnXkFtZTcwMDA2NDAzMw@@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$234,141,872",
-    "subsFileName": "./subtitles/War_of_the_Worlds.srt"
+    "subsFileName": "./subtitles/War_of_the_Worlds.srt",
+    "most_used_word": "-"
   },
   {
     "id": 68,
@@ -2236,7 +2284,7 @@
     "budget": "93000000",
     "cast_quantity": null,
     "website": "http://www.lordoftherings.net/",
-    "word_count": null,
+    "word_count": 9869,
     "revenue": "871368364",
     "valid": true,
     "poster_id": 121,
@@ -2267,7 +2315,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$314,000,000",
-    "subsFileName": "./subtitles/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring.srt"
+    "subsFileName": "./subtitles/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring.srt",
+    "most_used_word": "YOU"
   },
   {
     "id": 55,
@@ -2283,7 +2332,7 @@
     "budget": "115000000",
     "cast_quantity": null,
     "website": "http://www.starwars.com/films/star-wars-episode-i-the-phantom-menace",
-    "word_count": null,
+    "word_count": 7554,
     "revenue": "924317558",
     "valid": true,
     "poster_id": 175,
@@ -2311,7 +2360,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BYTRhNjcwNWQtMGJmMi00NmQyLWE2YzItODVmMTdjNWI0ZDA2XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$431,000,000",
-    "subsFileName": "./subtitles/Star_Wars:_Episode_I_-_The_Phantom_Menace.srt"
+    "subsFileName": "./subtitles/Star_Wars:_Episode_I_-_The_Phantom_Menace.srt",
+    "most_used_word": "THE"
   },
   {
     "id": 187,
@@ -2327,7 +2377,7 @@
     "budget": "135000000",
     "cast_quantity": null,
     "website": "http://www.foxmovies.com/movies/the-revenant",
-    "word_count": null,
+    "word_count": 6144,
     "revenue": "532950503",
     "valid": true,
     "poster_id": 2,
@@ -2357,7 +2407,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMDE5OWMzM2QtOTU2ZS00NzAyLWI2MDEtOTRlYjIxZGM0OWRjXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "",
-    "subsFileName": "./subtitles/The_Revenant.srt"
+    "subsFileName": "./subtitles/The_Revenant.srt",
+    "most_used_word": "YOU"
   },
   {
     "id": 101,
@@ -2373,7 +2424,7 @@
     "budget": "125000000",
     "cast_quantity": null,
     "website": "http://www.thehungergames.movie/",
-    "word_count": null,
+    "word_count": 8318,
     "revenue": "752100229",
     "valid": true,
     "poster_id": 66,
@@ -2404,7 +2455,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTcxNDI2NDAzNl5BMl5BanBnXkFtZTgwODM3MTc2MjE@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$295,457,212",
-    "subsFileName": "./subtitles/The_Hunger_Games:_Mockingjay_-_Part_1.srt"
+    "subsFileName": "./subtitles/The_Hunger_Games:_Mockingjay_-_Part_1.srt",
+    "most_used_word": "THE"
   },
   {
     "id": 71,
@@ -2420,7 +2472,7 @@
     "budget": "175000000",
     "cast_quantity": null,
     "website": "http://movies.disney.com/inside-out",
-    "word_count": null,
+    "word_count": 286,
     "revenue": "857611174",
     "valid": true,
     "poster_id": 167,
@@ -2457,7 +2509,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BOTgxMDQwMDk0OF5BMl5BanBnXkFtZTgwNjU5OTg2NDE@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$264,317,903",
-    "subsFileName": "./subtitles/Inside_Out.srt"
+    "subsFileName": "./subtitles/Inside_Out.srt",
+    "most_used_word": "-"
   },
   {
     "id": 148,
@@ -2473,7 +2526,7 @@
     "budget": "97000000",
     "cast_quantity": null,
     "website": "http://www.foxmovies.com/movies/logan",
-    "word_count": null,
+    "word_count": 7751,
     "revenue": "616801808",
     "valid": true,
     "poster_id": 185,
@@ -2504,7 +2557,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BYzc5MTU4N2EtYTkyMi00NjdhLTg3NWEtMTY4OTEyMzJhZTAzXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$226,276,809",
-    "subsFileName": "./subtitles/Logan.srt"
+    "subsFileName": "./subtitles/Logan.srt",
+    "most_used_word": "YOU"
   },
   {
     "id": 81,
@@ -2520,7 +2574,7 @@
     "budget": "75000000",
     "cast_quantity": null,
     "website": null,
-    "word_count": null,
+    "word_count": 12906,
     "revenue": "817400891",
     "valid": true,
     "poster_id": 9,
@@ -2549,7 +2603,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMGQwNDNkMmItYWY1Yy00YTZmLWE5OTAtODU0MGZmMzQ1NDdkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "",
-    "subsFileName": "./subtitles/Independence_Day.srt"
+    "subsFileName": "./subtitles/Independence_Day.srt",
+    "most_used_word": "-"
   },
   {
     "id": 131,
@@ -2565,7 +2620,7 @@
     "budget": "165000000",
     "cast_quantity": null,
     "website": "http://movies.disney.com/big-hero-6",
-    "word_count": null,
+    "word_count": 7884,
     "revenue": "657818612",
     "valid": true,
     "poster_id": 7,
@@ -2599,7 +2654,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMDliOTIzNmUtOTllOC00NDU3LWFiNjYtMGM0NDc1YTMxNjYxXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "",
-    "subsFileName": "./subtitles/Big_Hero_6.srt"
+    "subsFileName": "./subtitles/Big_Hero_6.srt",
+    "most_used_word": "-"
   },
   {
     "id": 12,
@@ -2615,7 +2671,7 @@
     "budget": "200000000",
     "cast_quantity": null,
     "website": "https://marvel.com/movies/movie/224/black_panther",
-    "word_count": null,
+    "word_count": 8001,
     "revenue": "1346739107",
     "valid": true,
     "poster_id": 71,
@@ -2646,7 +2702,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTg1MTY2MjYzNV5BMl5BanBnXkFtZTgwMTc4NTMwNDI@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$501,105,037",
-    "subsFileName": "./subtitles/Black_Panther.srt"
+    "subsFileName": "./subtitles/Black_Panther.srt",
+    "most_used_word": "THE"
   },
   {
     "id": 141,
@@ -2662,7 +2719,7 @@
     "budget": "125000000",
     "cast_quantity": null,
     "website": null,
-    "word_count": null,
+    "word_count": 7496,
     "revenue": "626137675",
     "valid": true,
     "poster_id": 43,
@@ -2691,7 +2748,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTUxNTk5MTE0OF5BMl5BanBnXkFtZTcwMjA2NzY3NA@@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$209,805,005",
-    "subsFileName": "./subtitles/Fast_Five.srt"
+    "subsFileName": "./subtitles/Fast_Five.srt",
+    "most_used_word": "YOU"
   },
   {
     "id": 162,
@@ -2707,7 +2765,7 @@
     "budget": "135000000",
     "cast_quantity": null,
     "website": "http://www.thecroodsmovie.com/",
-    "word_count": null,
+    "word_count": 6610,
     "revenue": "585178928",
     "valid": true,
     "poster_id": 69,
@@ -2740,7 +2798,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTcyOTc2OTA1Ml5BMl5BanBnXkFtZTcwOTI1MjkzOQ@@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$187,165,546",
-    "subsFileName": "./subtitles/The_Croods.srt"
+    "subsFileName": "./subtitles/The_Croods.srt",
+    "most_used_word": "YOU"
   },
   {
     "id": 172,
@@ -2756,7 +2815,7 @@
     "budget": "115000000",
     "cast_quantity": null,
     "website": "http://movies.disney.com/monsters-inc",
-    "word_count": null,
+    "word_count": 9906,
     "revenue": "562816256",
     "valid": true,
     "poster_id": 49,
@@ -2797,7 +2856,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTY1NTI0ODUyOF5BMl5BanBnXkFtZTgwNTEyNjQ0MDE@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$34,034,168",
-    "subsFileName": "./subtitles/Monsters,_Inc..srt"
+    "subsFileName": "./subtitles/Monsters,_Inc..srt",
+    "most_used_word": "-"
   },
   {
     "id": 65,
@@ -2813,7 +2873,7 @@
     "budget": "100000000",
     "cast_quantity": null,
     "website": null,
-    "word_count": null,
+    "word_count": 11595,
     "revenue": "876688482",
     "valid": true,
     "poster_id": 67,
@@ -2842,7 +2902,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTcxODgwMDkxNV5BMl5BanBnXkFtZTYwMDk2MDg3._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$261,835,892",
-    "subsFileName": "./subtitles/Harry_Potter_and_the_Chamber_of_Secrets.srt"
+    "subsFileName": "./subtitles/Harry_Potter_and_the_Chamber_of_Secrets.srt",
+    "most_used_word": "YOU"
   },
   {
     "id": 107,
@@ -2858,7 +2919,7 @@
     "budget": "110000000",
     "cast_quantity": null,
     "website": "https://www.foxmovies.com/movies/deadpool-2",
-    "word_count": null,
+    "word_count": 9767,
     "revenue": "741547413",
     "valid": true,
     "poster_id": 147,
@@ -2888,7 +2949,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BNjk1Njk3YjctMmMyYS00Y2I4LThhMzktN2U0MTMyZTFlYWQ5XkEyXkFqcGdeQXVyODM2ODEzMDA@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "",
-    "subsFileName": "./subtitles/Deadpool_2.srt"
+    "subsFileName": "./subtitles/Deadpool_2.srt",
+    "most_used_word": "-"
   },
   {
     "id": 47,
@@ -2904,7 +2966,7 @@
     "budget": "300000000",
     "cast_quantity": null,
     "website": "http://disney.go.com/disneypictures/pirates",
-    "word_count": null,
+    "word_count": 9330,
     "revenue": "961000000",
     "valid": true,
     "poster_id": 99,
@@ -2937,7 +2999,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMjIyNjkxNzEyMl5BMl5BanBnXkFtZTYwMjc3MDE3._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$309,404,152",
-    "subsFileName": "./subtitles/Pirates_of_the_Caribbean:_At_World's_End.srt"
+    "subsFileName": "./subtitles/Pirates_of_the_Caribbean:_At_World's_End.srt",
+    "most_used_word": "THE"
   },
   {
     "id": 182,
@@ -2953,7 +3016,7 @@
     "budget": "95000000",
     "cast_quantity": null,
     "website": "http://movies.disney.com/cinderella",
-    "word_count": null,
+    "word_count": 7537,
     "revenue": "543514353",
     "valid": true,
     "poster_id": 106,
@@ -2982,7 +3045,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMjMxODYyODEzN15BMl5BanBnXkFtZTgwMDk4OTU0MzE@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$183,327,144",
-    "subsFileName": "./subtitles/Cinderella.srt"
+    "subsFileName": "./subtitles/Cinderella.srt",
+    "most_used_word": "YOU"
   },
   {
     "id": 3,
@@ -3043,7 +3107,7 @@
     "budget": "75000000",
     "cast_quantity": null,
     "website": "http://www.simpsonsmovie.com/",
-    "word_count": null,
+    "word_count": 6844,
     "revenue": "527068851",
     "valid": true,
     "poster_id": 75,
@@ -3085,7 +3149,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTgxMDczMTA5N15BMl5BanBnXkFtZTcwMzk1MzMzMw@@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$183,100,000",
-    "subsFileName": "./subtitles/The_Simpsons_Movie.srt"
+    "subsFileName": "./subtitles/The_Simpsons_Movie.srt",
+    "most_used_word": "YOU"
   },
   {
     "id": 82,
@@ -3101,7 +3166,7 @@
     "budget": "180000000",
     "cast_quantity": null,
     "website": "http://www.fantasticbeasts.com/",
-    "word_count": null,
+    "word_count": 6861,
     "revenue": "809342332",
     "valid": true,
     "poster_id": 107,
@@ -3129,7 +3194,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMjMxOTM1OTI4MV5BMl5BanBnXkFtZTgwODE5OTYxMDI@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$234,018,657",
-    "subsFileName": "./subtitles/Fantastic_Beasts_and_Where_to_Find_Them.srt"
+    "subsFileName": "./subtitles/Fantastic_Beasts_and_Where_to_Find_Them.srt",
+    "most_used_word": "YOU"
   },
   {
     "id": 72,
@@ -3145,7 +3211,7 @@
     "budget": "116000000",
     "cast_quantity": null,
     "website": "http://www.venom.movie/site/",
-    "word_count": null,
+    "word_count": 8717,
     "revenue": "855013954",
     "valid": true,
     "poster_id": 150,
@@ -3179,7 +3245,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BNzAwNzUzNjY4MV5BMl5BanBnXkFtZTgwMTQ5MzM0NjM@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "",
-    "subsFileName": "./subtitles/Venom.srt"
+    "subsFileName": "./subtitles/Venom.srt",
+    "most_used_word": "-"
   },
   {
     "id": 67,
@@ -3195,7 +3262,7 @@
     "budget": "250000000",
     "cast_quantity": null,
     "website": "http://www.batmanvsupermandawnofjustice.com/",
-    "word_count": null,
+    "word_count": 9076,
     "revenue": "873260194",
     "valid": true,
     "poster_id": 176,
@@ -3229,7 +3296,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BYThjYzcyYzItNTVjNy00NDk0LTgwMWQtYjMwNmNlNWJhMzMyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$293,792,936",
-    "subsFileName": "./subtitles/Batman_v_Superman:_Dawn_of_Justice.srt"
+    "subsFileName": "./subtitles/Batman_v_Superman:_Dawn_of_Justice.srt",
+    "most_used_word": "THE"
   },
   {
     "id": 153,
@@ -3245,7 +3313,7 @@
     "budget": "217000000",
     "cast_quantity": null,
     "website": "http://www.transformersmovie.com/",
-    "word_count": null,
+    "word_count": 13403,
     "revenue": "605425157",
     "valid": true,
     "poster_id": 79,
@@ -3279,7 +3347,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTk3OTI3MDk4N15BMl5BanBnXkFtZTgwNDg2ODIyMjI@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$130,104,634",
-    "subsFileName": "./subtitles/Transformers:_The_Last_Knight.srt"
+    "subsFileName": "./subtitles/Transformers:_The_Last_Knight.srt",
+    "most_used_word": "YOU"
   },
   {
     "id": 177,
@@ -3295,7 +3364,7 @@
     "budget": "207000000",
     "cast_quantity": null,
     "website": null,
-    "word_count": null,
+    "word_count": 7957,
     "revenue": "550517357",
     "valid": true,
     "poster_id": 113,
@@ -3327,7 +3396,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMjYxYmRlZWYtMzAwNC00MDA1LWJjNTItOTBjMzlhNGMzYzk3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$218,100,000",
-    "subsFileName": "./subtitles/King_Kong.srt"
+    "subsFileName": "./subtitles/King_Kong.srt",
+    "most_used_word": "YOU"
   },
   {
     "id": 163,
@@ -3343,7 +3413,7 @@
     "budget": "140000000",
     "cast_quantity": null,
     "website": "https://www.marvel.com/movies/iron-man",
-    "word_count": null,
+    "word_count": 10337,
     "revenue": "585174222",
     "valid": true,
     "poster_id": 70,
@@ -3378,7 +3448,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTczNTI2ODUwOF5BMl5BanBnXkFtZTcwMTU0NTIzMw@@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$318,298,180",
-    "subsFileName": "./subtitles/Iron_Man.srt"
+    "subsFileName": "./subtitles/Iron_Man.srt",
+    "most_used_word": "-"
   },
   {
     "id": 173,
@@ -3394,7 +3465,7 @@
     "budget": "200000000",
     "cast_quantity": null,
     "website": "http://www.disney.go.com/cars/",
-    "word_count": null,
+    "word_count": 11888,
     "revenue": "559852396",
     "valid": true,
     "poster_id": 46,
@@ -3426,7 +3497,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTUzNTc3MTU3M15BMl5BanBnXkFtZTcwMzIxNTc3NA@@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$191,450,875",
-    "subsFileName": "./subtitles/Cars_2.srt"
+    "subsFileName": "./subtitles/Cars_2.srt",
+    "most_used_word": "-"
   },
   {
     "id": 183,
@@ -3442,7 +3514,7 @@
     "budget": "69000000",
     "cast_quantity": null,
     "website": "http://www.despicable.me/",
-    "word_count": null,
+    "word_count": 6203,
     "revenue": "543513985",
     "valid": true,
     "poster_id": 50,
@@ -3473,7 +3545,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTY3NjY0MTQ0Nl5BMl5BanBnXkFtZTcwMzQ2MTc0Mw@@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$251,476,985",
-    "subsFileName": "./subtitles/Despicable_Me.srt"
+    "subsFileName": "./subtitles/Despicable_Me.srt",
+    "most_used_word": "YOU"
   },
   {
     "id": 193,
@@ -3489,7 +3562,7 @@
     "budget": "100000000",
     "cast_quantity": null,
     "website": "http://www.dunkirkmovie.com/",
-    "word_count": null,
+    "word_count": 3470,
     "revenue": "525573161",
     "valid": true,
     "poster_id": 124,
@@ -3517,7 +3590,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BN2YyZjQ0NTEtNzU5MS00NGZkLTg0MTEtYzJmMWY3MWRhZjM2XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$188,042,171",
-    "subsFileName": "./subtitles/Dunkirk.srt"
+    "subsFileName": "./subtitles/Dunkirk.srt",
+    "most_used_word": "THE"
   },
   {
     "id": 138,
@@ -3533,7 +3607,7 @@
     "budget": "130000000",
     "cast_quantity": null,
     "website": "http://www.kungfupanda.com/",
-    "word_count": null,
+    "word_count": 5889,
     "revenue": "631744560",
     "valid": true,
     "poster_id": 158,
@@ -3565,7 +3639,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BODJkZTZhMWItMDI3Yy00ZWZlLTk4NjQtOTI1ZjU5NjBjZTVjXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$215,395,021",
-    "subsFileName": "./subtitles/Kung_Fu_Panda.srt"
+    "subsFileName": "./subtitles/Kung_Fu_Panda.srt",
+    "most_used_word": "YOU"
   },
   {
     "id": 63,
@@ -3581,7 +3656,7 @@
     "budget": "175000000",
     "cast_quantity": null,
     "website": "http://www.spidermanhomecoming.com",
-    "word_count": null,
+    "word_count": 11998,
     "revenue": "880166924",
     "valid": true,
     "poster_id": 139,
@@ -3620,7 +3695,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BNTk4ODQ1MzgzNl5BMl5BanBnXkFtZTgwMTMyMzM4MTI@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$334,166,825",
-    "subsFileName": "./subtitles/Spider-Man:_Homecoming.srt"
+    "subsFileName": "./subtitles/Spider-Man:_Homecoming.srt",
+    "most_used_word": "-"
   },
   {
     "id": 117,
@@ -3636,7 +3712,7 @@
     "budget": "35000000",
     "cast_quantity": null,
     "website": "http://itthemovie.com/",
-    "word_count": null,
+    "word_count": 6611,
     "revenue": "700381748",
     "valid": true,
     "poster_id": 187,
@@ -3667,7 +3743,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BZDVkZmI0YzAtNzdjYi00ZjhhLWE1ODEtMWMzMWMzNDA0NmQ4XkEyXkFqcGdeQXVyNzYzODM3Mzg@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$326,898,358",
-    "subsFileName": "./subtitles/It.srt"
+    "subsFileName": "./subtitles/It.srt",
+    "most_used_word": "YOU"
   },
   {
     "id": 58,
@@ -3683,7 +3760,7 @@
     "budget": "150000000",
     "cast_quantity": null,
     "website": "http://harrypotter.warnerbros.com/",
-    "word_count": null,
+    "word_count": 9661,
     "revenue": "895921036",
     "valid": true,
     "poster_id": 19,
@@ -3712,7 +3789,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTI1NDMyMjExOF5BMl5BanBnXkFtZTcwOTc4MjQzMQ@@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$289,994,397",
-    "subsFileName": "./subtitles/Harry_Potter_and_the_Goblet_of_Fire.srt"
+    "subsFileName": "./subtitles/Harry_Potter_and_the_Goblet_of_Fire.srt",
+    "most_used_word": "-"
   },
   {
     "id": 184,
@@ -3728,7 +3806,7 @@
     "budget": "58800000",
     "cast_quantity": null,
     "website": "http://www.americansnipermovie.com",
-    "word_count": null,
+    "word_count": 11415,
     "revenue": "542307423",
     "valid": true,
     "poster_id": 83,
@@ -3759,7 +3837,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTkxNzI3ODI4Nl5BMl5BanBnXkFtZTgwMjkwMjY4MjE@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$274,377,268",
-    "subsFileName": "./subtitles/American_Sniper.srt"
+    "subsFileName": "./subtitles/American_Sniper.srt",
+    "most_used_word": "YOU"
   },
   {
     "id": 54,
@@ -3775,7 +3854,7 @@
     "budget": "79000000",
     "cast_quantity": null,
     "website": "http://www.lordoftherings.net/",
-    "word_count": null,
+    "word_count": 300,
     "revenue": "926287400",
     "valid": true,
     "poster_id": 133,
@@ -3807,7 +3886,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BNGE5MzIyNTAtNWFlMC00NDA2LWJiMjItMjc4Yjg1OWM5NzhhXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$339,700,000",
-    "subsFileName": "./subtitles/The_Lord_of_the_Rings:_The_Two_Towers.srt"
+    "subsFileName": "./subtitles/The_Lord_of_the_Rings:_The_Two_Towers.srt",
+    "most_used_word": "YOU"
   },
   {
     "id": 62,
@@ -3823,7 +3903,7 @@
     "budget": "245000000",
     "cast_quantity": null,
     "website": "http://www.sonypictures.com/movies/spectre/",
-    "word_count": null,
+    "word_count": 82,
     "revenue": "880674609",
     "valid": true,
     "poster_id": 171,
@@ -3858,7 +3938,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BOWQ1MDE1NzgtNTQ4OC00ZjliLTllZDAtN2IyOTVmMTc5YjUxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$208,777,731",
-    "subsFileName": "./subtitles/Spectre.srt"
+    "subsFileName": "./subtitles/Spectre.srt",
+    "most_used_word": "A"
   },
   {
     "id": 59,
@@ -3874,7 +3955,7 @@
     "budget": "52000000",
     "cast_quantity": null,
     "website": "http://bohemianrhapsody.com",
-    "word_count": null,
+    "word_count": 11050,
     "revenue": "894027543",
     "valid": true,
     "poster_id": 13,
@@ -3904,7 +3985,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTA2NDc3Njg5NDVeQTJeQWpwZ15BbWU4MDc1NDcxNTUz._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "",
-    "subsFileName": "./subtitles/Bohemian_Rhapsody.srt"
+    "subsFileName": "./subtitles/Bohemian_Rhapsody.srt",
+    "most_used_word": "YOU"
   },
   {
     "id": 104,
@@ -3920,7 +4002,7 @@
     "budget": "176000000",
     "cast_quantity": null,
     "website": "http://www.suicidesquad.com/",
-    "word_count": null,
+    "word_count": 337,
     "revenue": "745600054",
     "valid": true,
     "poster_id": 102,
@@ -3948,7 +4030,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMjM1OTMxNzUyM15BMl5BanBnXkFtZTgwNjYzMTIzOTE@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$325,021,779",
-    "subsFileName": "./subtitles/Suicide_Squad.srt"
+    "subsFileName": "./subtitles/Suicide_Squad.srt",
+    "most_used_word": "YOU"
   },
   {
     "id": 76,
@@ -3964,7 +4047,7 @@
     "budget": "150000000",
     "cast_quantity": null,
     "website": null,
-    "word_count": null,
+    "word_count": 14230,
     "revenue": "836297228",
     "valid": true,
     "poster_id": 148,
@@ -3994,7 +4077,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BNjk4OTczOTk0NF5BMl5BanBnXkFtZTcwNjQ0NzMzMw@@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$402,076,689",
-    "subsFileName": "./subtitles/Transformers:_Revenge_of_the_Fallen.srt"
+    "subsFileName": "./subtitles/Transformers:_Revenge_of_the_Fallen.srt",
+    "most_used_word": "-"
   },
   {
     "id": 196,
@@ -4010,7 +4094,7 @@
     "budget": "145000000",
     "cast_quantity": null,
     "website": "http://www.kungfupanda.com/",
-    "word_count": null,
+    "word_count": 330,
     "revenue": "521170825",
     "valid": true,
     "poster_id": 44,
@@ -4040,7 +4124,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTUyNzgxNjg2M15BMl5BanBnXkFtZTgwMTY1NDI1NjE@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$128,341,070",
-    "subsFileName": "./subtitles/Kung_Fu_Panda_3.srt"
+    "subsFileName": "./subtitles/Kung_Fu_Panda_3.srt",
+    "most_used_word": ""
   },
   {
     "id": 78,
@@ -4056,7 +4141,7 @@
     "budget": "160000000",
     "cast_quantity": null,
     "website": "http://inceptionmovie.warnerbros.com/",
-    "word_count": null,
+    "word_count": 11572,
     "revenue": "825532764",
     "valid": true,
     "poster_id": 88,
@@ -4084,7 +4169,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$292,568,851",
-    "subsFileName": "./subtitles/Inception.srt"
+    "subsFileName": "./subtitles/Inception.srt",
+    "most_used_word": "YOU"
   },
   {
     "id": 66,
@@ -4100,7 +4186,7 @@
     "budget": "75000000",
     "cast_quantity": null,
     "website": "http://www.thesecretlifeofpets.com/",
-    "word_count": null,
+    "word_count": 7531,
     "revenue": "875457937",
     "valid": true,
     "poster_id": 101,
@@ -4131,7 +4217,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMjIzMzA1OTkzNV5BMl5BanBnXkFtZTgwODE3MjM4NzE@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$368,305,960",
-    "subsFileName": "./subtitles/The_Secret_Life_of_Pets.srt"
+    "subsFileName": "./subtitles/The_Secret_Life_of_Pets.srt",
+    "most_used_word": "-"
   },
   {
     "id": 69,
@@ -4147,7 +4234,7 @@
     "budget": "29700000",
     "cast_quantity": null,
     "website": null,
-    "word_count": null,
+    "word_count": 4510,
     "revenue": "870322670",
     "valid": false,
     "poster_id": 166,
@@ -4178,7 +4265,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BOTczYWIyZTItYzA0Yi00ZTc3LThiNTYtYjQwMGQ1YTAxMzVlXkEyXkFqcGdeQXVyNzc2MTYxMzI@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$2,720,898",
-    "subsFileName": "./subtitles/Wolf_Warrior_2.srt"
+    "subsFileName": "./subtitles/Wolf_Warrior_2.srt",
+    "most_used_word": "THE"
   },
   {
     "id": 80,
@@ -4194,7 +4282,7 @@
     "budget": "139000000",
     "cast_quantity": null,
     "website": "http://www.sonypictures.com/movies/spider-man/",
-    "word_count": null,
+    "word_count": 7891,
     "revenue": "821708551",
     "valid": true,
     "poster_id": 186,
@@ -4224,7 +4312,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BZDEyN2NhMjgtMjdhNi00MmNlLWE5YTgtZGE4MzNjMTRlMGEwXkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$403,706,375",
-    "subsFileName": "./subtitles/Spider-Man.srt"
+    "subsFileName": "./subtitles/Spider-Man.srt",
+    "most_used_word": "-"
   },
   {
     "id": 166,
@@ -4240,7 +4329,7 @@
     "budget": "110000000",
     "cast_quantity": null,
     "website": null,
-    "word_count": null,
+    "word_count": 8142,
     "revenue": "574480841",
     "valid": true,
     "poster_id": 40,
@@ -4272,7 +4361,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTQyOTM4MDMxN15BMl5BanBnXkFtZTcwODg5NTQzMw@@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$249,300,000",
-    "subsFileName": "./subtitles/Night_at_the_Museum.srt"
+    "subsFileName": "./subtitles/Night_at_the_Museum.srt",
+    "most_used_word": "YOU"
   },
   {
     "id": 50,
@@ -4288,7 +4378,7 @@
     "budget": "250000000",
     "cast_quantity": null,
     "website": "http://www.harrypotter.com",
-    "word_count": null,
+    "word_count": 8721,
     "revenue": "954305868",
     "valid": true,
     "poster_id": 37,
@@ -4317,7 +4407,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTQ2OTE1Mjk0N15BMl5BanBnXkFtZTcwODE3MDAwNA@@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$294,980,434",
-    "subsFileName": "./subtitles/Harry_Potter_and_the_Deathly_Hallows:_Part_1.srt"
+    "subsFileName": "./subtitles/Harry_Potter_and_the_Deathly_Hallows:_Part_1.srt",
+    "most_used_word": "THE"
   },
   {
     "id": 108,
@@ -4333,7 +4424,7 @@
     "budget": "150000000",
     "cast_quantity": null,
     "website": null,
-    "word_count": null,
+    "word_count": 8683,
     "revenue": "738599701",
     "valid": true,
     "poster_id": 157,
@@ -4365,7 +4456,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BODE0MzZhZTgtYzkwYi00YmI5LThlZWYtOWRmNWE5ODk0NzMxXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$281,500,000",
-    "subsFileName": "./subtitles/The_Matrix_Reloaded.srt"
+    "subsFileName": "./subtitles/The_Matrix_Reloaded.srt",
+    "most_used_word": "-"
   },
   {
     "id": 85,
@@ -4381,7 +4473,7 @@
     "budget": "230000000",
     "cast_quantity": null,
     "website": "http://pirates.disney.com/pirates-of-the-caribbean-dead-men-tell-no-tales",
-    "word_count": null,
+    "word_count": 7565,
     "revenue": "794191988",
     "valid": true,
     "poster_id": 56,
@@ -4416,7 +4508,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTYyMTcxNzc5M15BMl5BanBnXkFtZTgwOTg2ODE2MTI@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$172,537,139",
-    "subsFileName": "./subtitles/Pirates_of_the_Caribbean:_Dead_Men_Tell_No_Tales.srt"
+    "subsFileName": "./subtitles/Pirates_of_the_Caribbean:_Dead_Men_Tell_No_Tales.srt",
+    "most_used_word": "THE"
   },
   {
     "id": 130,
@@ -4432,7 +4525,7 @@
     "budget": "500000000",
     "cast_quantity": null,
     "website": "http://www.justiceleaguethemovie.com",
-    "word_count": null,
+    "word_count": 2529,
     "revenue": "657924295",
     "valid": true,
     "poster_id": 178,
@@ -4470,7 +4563,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BYWVhZjZkYTItOGIwYS00NmRkLWJlYjctMWM0ZjFmMDU4ZjEzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$227,032,490",
-    "subsFileName": "./subtitles/Justice_League.srt"
+    "subsFileName": "./subtitles/Justice_League.srt",
+    "most_used_word": "THE"
   },
   {
     "id": 132,
@@ -4486,7 +4580,7 @@
     "budget": "140000000",
     "cast_quantity": null,
     "website": "http://disney.go.com/disneyvideos/liveaction/pirates/main_site/main.html",
-    "word_count": null,
+    "word_count": 8721,
     "revenue": "655011224",
     "valid": true,
     "poster_id": 136,
@@ -4519,7 +4613,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BNGYyZGM5MGMtYTY2Ni00M2Y1LWIzNjQtYWUzM2VlNGVhMDNhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$305,343,252",
-    "subsFileName": "./subtitles/Pirates_of_the_Caribbean:_The_Curse_of_the_Black_Pearl.srt"
+    "subsFileName": "./subtitles/Pirates_of_the_Caribbean:_The_Curse_of_the_Black_Pearl.srt",
+    "most_used_word": "THE"
   },
   {
     "id": 113,
@@ -4535,7 +4630,7 @@
     "budget": "170000000",
     "cast_quantity": null,
     "website": "http://www.dawnofapes.com/",
-    "word_count": null,
+    "word_count": 3979,
     "revenue": "710644566",
     "valid": true,
     "poster_id": 74,
@@ -4567,7 +4662,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTgwODk3NDc1N15BMl5BanBnXkFtZTgwNTc1NjQwMjE@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$183,278,877",
-    "subsFileName": "./subtitles/Dawn_of_the_Planet_of_the_Apes.srt"
+    "subsFileName": "./subtitles/Dawn_of_the_Planet_of_the_Apes.srt",
+    "most_used_word": "YOU"
   },
   {
     "id": 53,
@@ -4583,7 +4679,7 @@
     "budget": "250000000",
     "cast_quantity": null,
     "website": "http://harrypotter.warnerbros.com/harrypotterandthehalf-bloodprince/dvd/index.html",
-    "word_count": null,
+    "word_count": 9926,
     "revenue": "933959197",
     "valid": true,
     "poster_id": 153,
@@ -4612,7 +4708,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BNzU3NDg4NTAyNV5BMl5BanBnXkFtZTcwOTg2ODg1Mg@@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$301,920,409",
-    "subsFileName": "./subtitles/Harry_Potter_and_the_Half-Blood_Prince.srt"
+    "subsFileName": "./subtitles/Harry_Potter_and_the_Half-Blood_Prince.srt",
+    "most_used_word": "YOU"
   },
   {
     "id": 194,
@@ -4628,7 +4725,7 @@
     "budget": "90000000",
     "cast_quantity": null,
     "website": "http://sherlock-holmes-movie.warnerbros.com/",
-    "word_count": null,
+    "word_count": 9400,
     "revenue": "524028679",
     "valid": true,
     "poster_id": 72,
@@ -4662,7 +4759,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTg0NjEwNjUxM15BMl5BanBnXkFtZTcwMzk0MjQ5Mg@@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$208,711,166",
-    "subsFileName": "./subtitles/Sherlock_Holmes.srt"
+    "subsFileName": "./subtitles/Sherlock_Holmes.srt",
+    "most_used_word": "THE"
   },
   {
     "id": 146,
@@ -4678,7 +4776,7 @@
     "budget": "140000000",
     "cast_quantity": null,
     "website": "https://www.marvel.com/movies/ant-man-and-the-wasp",
-    "word_count": null,
+    "word_count": 11186,
     "revenue": "622674139",
     "valid": true,
     "poster_id": 180,
@@ -4713,7 +4811,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BYjcyYTk0N2YtMzc4ZC00Y2E0LWFkNDgtNjE1MzZmMGE1YjY1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "",
-    "subsFileName": "./subtitles/Ant-Man_and_the_Wasp.srt"
+    "subsFileName": "./subtitles/Ant-Man_and_the_Wasp.srt",
+    "most_used_word": "YOU"
   },
   {
     "id": 39,
@@ -4729,7 +4828,7 @@
     "budget": "150000000",
     "cast_quantity": null,
     "website": "http://movies.disney.com/zootopia",
-    "word_count": null,
+    "word_count": 10562,
     "revenue": "1023784195",
     "valid": true,
     "poster_id": 163,
@@ -4767,7 +4866,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BOTMyMjEyNzIzMV5BMl5BanBnXkFtZTgwNzIyNjU0NzE@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$341,264,012",
-    "subsFileName": "./subtitles/Zootopia.srt"
+    "subsFileName": "./subtitles/Zootopia.srt",
+    "most_used_word": "YOU"
   },
   {
     "id": 189,
@@ -4783,7 +4883,7 @@
     "budget": "200000000",
     "cast_quantity": null,
     "website": "http://www.worldwarzmovie.com",
-    "word_count": null,
+    "word_count": 7970,
     "revenue": "531865000",
     "valid": true,
     "poster_id": 127,
@@ -4816,7 +4916,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BNDQ4YzFmNzktMmM5ZC00MDZjLTk1OTktNDE2ODE4YjM2MjJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$202,351,611",
-    "subsFileName": "./subtitles/World_War_Z.srt"
+    "subsFileName": "./subtitles/World_War_Z.srt",
+    "most_used_word": "THE"
   },
   {
     "id": 74,
@@ -4832,7 +4933,7 @@
     "budget": "113000000",
     "cast_quantity": null,
     "website": "http://www.starwars.com/films/star-wars-episode-iii-revenge-of-the-sith",
-    "word_count": null,
+    "word_count": 8662,
     "revenue": "850000000",
     "valid": true,
     "poster_id": 137,
@@ -4860,7 +4961,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BNTc4MTc3NTQ5OF5BMl5BanBnXkFtZTcwOTg0NjI4NA@@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "",
-    "subsFileName": "./subtitles/Star_Wars:_Episode_III_-_Revenge_of_the_Sith.srt"
+    "subsFileName": "./subtitles/Star_Wars:_Episode_III_-_Revenge_of_the_Sith.srt",
+    "most_used_word": "THE"
   },
   {
     "id": 156,
@@ -4876,7 +4978,7 @@
     "budget": "260000000",
     "cast_quantity": null,
     "website": "http://disney.go.com/disneypictures/tangled/",
-    "word_count": null,
+    "word_count": 6618,
     "revenue": "591794936",
     "valid": true,
     "poster_id": 15,
@@ -4907,7 +5009,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTAxNDYxMjg0MjNeQTJeQWpwZ15BbWU3MDcyNTk2OTM@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$200,803,309",
-    "subsFileName": "./subtitles/Tangled.srt"
+    "subsFileName": "./subtitles/Tangled.srt",
+    "most_used_word": "♪"
   },
   {
     "id": 171,
@@ -4923,7 +5026,7 @@
     "budget": "110000000",
     "cast_quantity": null,
     "website": "http://www.smurfhappens.com/",
-    "word_count": null,
+    "word_count": 10704,
     "revenue": "563749323",
     "valid": true,
     "poster_id": 164,
@@ -4957,7 +5060,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BOTUzNTczYTMtMzdkOC00ODlkLTk1NDMtYWYxMzQyYzI1YmVjXkEyXkFqcGdeQXVyNDQ2MTMzODA@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$142,614,158",
-    "subsFileName": "./subtitles/The_Smurfs.srt"
+    "subsFileName": "./subtitles/The_Smurfs.srt",
+    "most_used_word": "-"
   },
   {
     "id": 181,
@@ -4973,7 +5077,7 @@
     "budget": "178000000",
     "cast_quantity": null,
     "website": "http://www.foxmovies.com/movies/x-men-apocalypse",
-    "word_count": null,
+    "word_count": 7443,
     "revenue": "543934787",
     "valid": true,
     "poster_id": 112,
@@ -5005,7 +5109,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMjU1ODM1MzYxN15BMl5BanBnXkFtZTgwOTA4NDE2ODE@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$135,729,385",
-    "subsFileName": "./subtitles/X-Men:_Apocalypse.srt"
+    "subsFileName": "./subtitles/X-Men:_Apocalypse.srt",
+    "most_used_word": "YOU"
   },
   {
     "id": 191,
@@ -5021,7 +5126,7 @@
     "budget": "160000000",
     "cast_quantity": null,
     "website": "http://www.godzillamovie.com",
-    "word_count": null,
+    "word_count": 6421,
     "revenue": "529076069",
     "valid": true,
     "poster_id": 120,
@@ -5053,7 +5158,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BN2E4ZDgxN2YtZjExMS00MWE5LTg3NjQtNTkxMzJhOTA3MDQ4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$172,962,996",
-    "subsFileName": "./subtitles/Godzilla.srt"
+    "subsFileName": "./subtitles/Godzilla.srt",
+    "most_used_word": "THE"
   },
   {
     "id": 2,
@@ -5069,7 +5175,7 @@
     "budget": "237000000",
     "cast_quantity": null,
     "website": "http://www.avatarmovie.com/",
-    "word_count": null,
+    "word_count": 9586,
     "revenue": "2787965087",
     "valid": true,
     "poster_id": 55,
@@ -5097,7 +5203,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTYwOTEwNjAzMl5BMl5BanBnXkFtZTcwODc5MTUwMw@@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$749,700,000",
-    "subsFileName": "./subtitles/Avatar.srt"
+    "subsFileName": "./subtitles/Avatar.srt",
+    "most_used_word": "YOU"
   },
   {
     "id": 159,
@@ -5113,7 +5220,7 @@
     "budget": "90000000",
     "cast_quantity": null,
     "website": "http://www.sonypictures.com/homevideo/meninblack",
-    "word_count": null,
+    "word_count": 8364,
     "revenue": "589390539",
     "valid": true,
     "poster_id": 170,
@@ -5143,7 +5250,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BOTlhYTVkMDktYzIyNC00NzlkLTlmN2ItOGEyMWQ4OTA2NDdmXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "",
-    "subsFileName": "./subtitles/Men_in_Black.srt"
+    "subsFileName": "./subtitles/Men_in_Black.srt",
+    "most_used_word": "YOU"
   },
   {
     "id": 109,
@@ -5159,7 +5267,7 @@
     "budget": "175000000",
     "cast_quantity": null,
     "website": "http://disney.go.com/disneypictures/up/",
-    "word_count": null,
+    "word_count": 6027,
     "revenue": "735099082",
     "valid": true,
     "poster_id": 78,
@@ -5192,7 +5300,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTk3NDE2NzI4NF5BMl5BanBnXkFtZTgwNzE1MzEyMTE@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$292,979,556",
-    "subsFileName": "./subtitles/Up.srt"
+    "subsFileName": "./subtitles/Up.srt",
+    "most_used_word": "YOU"
   },
   {
     "id": 124,
@@ -5208,7 +5317,7 @@
     "budget": "55000000",
     "cast_quantity": null,
     "website": null,
-    "word_count": null,
+    "word_count": 11517,
     "revenue": "677945399",
     "valid": true,
     "poster_id": 140,
@@ -5237,7 +5346,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$330,000,000",
-    "subsFileName": "./subtitles/Forrest_Gump.srt"
+    "subsFileName": "./subtitles/Forrest_Gump.srt",
+    "most_used_word": "I"
   },
   {
     "id": 106,
@@ -5253,7 +5363,7 @@
     "budget": "200000000",
     "cast_quantity": null,
     "website": null,
-    "word_count": null,
+    "word_count": 9338,
     "revenue": "743559607",
     "valid": true,
     "poster_id": 45,
@@ -5287,7 +5397,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTUyODgwMDU3M15BMl5BanBnXkFtZTcwOTM4MjcxOQ@@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$260,300,000",
-    "subsFileName": "./subtitles/Monsters_University.srt"
+    "subsFileName": "./subtitles/Monsters_University.srt",
+    "most_used_word": "THE"
   },
   {
     "id": 178,
@@ -5303,7 +5414,7 @@
     "budget": "50000000",
     "cast_quantity": null,
     "website": "http://www.tedisreal.com/",
-    "word_count": null,
+    "word_count": 11305,
     "revenue": "549368315",
     "valid": true,
     "poster_id": 35,
@@ -5334,7 +5445,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTQ1OTU0ODcxMV5BMl5BanBnXkFtZTcwOTMxNTUwOA@@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$218,100,000",
-    "subsFileName": "./subtitles/Ted.srt"
+    "subsFileName": "./subtitles/Ted.srt",
+    "most_used_word": "YOU"
   },
   {
     "id": 175,
@@ -5350,7 +5462,7 @@
     "budget": "60720000",
     "cast_quantity": null,
     "website": null,
-    "word_count": null,
+    "word_count": 5894,
     "revenue": "553810228",
     "valid": false,
     "poster_id": 184,
@@ -5385,7 +5497,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BYzQzZGQxZTUtZWZhMC00ODE0LWI3N2EtOThiOTg0ZDYxYjEwXkEyXkFqcGdeQXVyNjU0NzY4ODU@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$3,229,457",
-    "subsFileName": "./subtitles/The_Mermaid.srt"
+    "subsFileName": "./subtitles/The_Mermaid.srt",
+    "most_used_word": "YOU"
   },
   {
     "id": 195,
@@ -5401,7 +5514,7 @@
     "budget": "180000000",
     "cast_quantity": null,
     "website": "https://www.pixar.com/feature-films/walle/",
-    "word_count": null,
+    "word_count": 3670,
     "revenue": "521311860",
     "valid": true,
     "poster_id": 95,
@@ -5432,7 +5545,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMjExMTg5OTU0NF5BMl5BanBnXkFtZTcwMjMxMzMzMw@@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$223,749,872",
-    "subsFileName": "./subtitles/WALL-E.srt"
+    "subsFileName": "./subtitles/WALL-E.srt",
+    "most_used_word": "#"
   },
   {
     "id": 185,
@@ -5448,7 +5562,7 @@
     "budget": "185000000",
     "cast_quantity": null,
     "website": "http://disney.go.com/brave/#/home",
-    "word_count": null,
+    "word_count": 6729,
     "revenue": "538983207",
     "valid": true,
     "poster_id": 119,
@@ -5482,7 +5596,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMzgwODk3ODA1NF5BMl5BanBnXkFtZTcwNjU3NjQ0Nw@@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$237,282,182",
-    "subsFileName": "./subtitles/Brave.srt"
+    "subsFileName": "./subtitles/Brave.srt",
+    "most_used_word": "-"
   },
   {
     "id": 18,
@@ -5498,7 +5613,7 @@
     "budget": "200000000",
     "cast_quantity": null,
     "website": "https://movies.disney.com/incredibles-2",
-    "word_count": null,
+    "word_count": 10814,
     "revenue": "1241891456",
     "valid": true,
     "poster_id": 18,
@@ -5526,7 +5641,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTEzNzY0OTg0NTdeQTJeQWpwZ15BbWU4MDU3OTg3MjUz._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "",
-    "subsFileName": "./subtitles/Incredibles_2.srt"
+    "subsFileName": "./subtitles/Incredibles_2.srt",
+    "most_used_word": "-"
   },
   {
     "id": 28,
@@ -5542,7 +5658,7 @@
     "budget": "200000000",
     "cast_quantity": null,
     "website": "http://www.skyfall-movie.com",
-    "word_count": null,
+    "word_count": 6352,
     "revenue": "1108561013",
     "valid": true,
     "poster_id": 129,
@@ -5573,7 +5689,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BNDVhZmJiYWMtNmIzMC00ZWNiLTkzZDYtNGNlZmViMGM4OGExXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$299,300,000",
-    "subsFileName": "./subtitles/Skyfall.srt"
+    "subsFileName": "./subtitles/Skyfall.srt",
+    "most_used_word": "YOU"
   },
   {
     "id": 119,
@@ -5589,7 +5706,7 @@
     "budget": "150000000",
     "cast_quantity": null,
     "website": "http://movies.disney.com/moana",
-    "word_count": null,
+    "word_count": 7337,
     "revenue": "695331111",
     "valid": true,
     "poster_id": 97,
@@ -5627,7 +5744,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMjI4MzU5NTExNF5BMl5BanBnXkFtZTgwNzY1MTEwMDI@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$248,752,120",
-    "subsFileName": "./subtitles/Moana.srt"
+    "subsFileName": "./subtitles/Moana.srt",
+    "most_used_word": "THE"
   },
   {
     "id": 140,
@@ -5643,7 +5761,7 @@
     "budget": "108000000",
     "cast_quantity": null,
     "website": "http://www.foxmovies.com/movies/the-martian",
-    "word_count": null,
+    "word_count": 333,
     "revenue": "630161890",
     "valid": true,
     "poster_id": 61,
@@ -5672,7 +5790,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTc2MTQ3MDA1Nl5BMl5BanBnXkFtZTgwODA3OTI4NjE@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$202,313,768",
-    "subsFileName": "./subtitles/The_Martian.srt"
+    "subsFileName": "./subtitles/The_Martian.srt",
+    "most_used_word": "THE"
   },
   {
     "id": 51,
@@ -5688,7 +5807,7 @@
     "budget": "94000000",
     "cast_quantity": null,
     "website": "http://movies.disney.com/finding-nemo",
-    "word_count": null,
+    "word_count": 9632,
     "revenue": "940335536",
     "valid": true,
     "poster_id": 189,
@@ -5720,7 +5839,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BZTAzNWZlNmUtZDEzYi00ZjA5LWIwYjEtZGM1NWE1MjE4YWRhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$380,529,370",
-    "subsFileName": "./subtitles/Finding_Nemo.srt"
+    "subsFileName": "./subtitles/Finding_Nemo.srt",
+    "most_used_word": "-"
   },
   {
     "id": 5,
@@ -5736,7 +5856,7 @@
     "budget": "300000000",
     "cast_quantity": null,
     "website": "http://marvel.com/movies/movie/223/avengers_infinity_war_part_1",
-    "word_count": null,
+    "word_count": 9065,
     "revenue": "2046239637",
     "valid": true,
     "poster_id": 104,
@@ -5781,7 +5901,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$664,987,816",
-    "subsFileName": "./subtitles/Avengers:_Infinity_War.srt"
+    "subsFileName": "./subtitles/Avengers:_Infinity_War.srt",
+    "most_used_word": "YOU"
   },
   {
     "id": 123,
@@ -5797,7 +5918,7 @@
     "budget": "150000000",
     "cast_quantity": null,
     "website": "http://www.missionimpossible.com",
-    "word_count": null,
+    "word_count": 190,
     "revenue": "682330139",
     "valid": true,
     "poster_id": 162,
@@ -5828,7 +5949,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BOTFmNDA3ZjMtN2Y0MC00NDYyLWFlY2UtNTQ4OTQxMmY1NmVjXkEyXkFqcGdeQXVyNTg4NDQ4NDY@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$154,979,949",
-    "subsFileName": "./subtitles/Mission:_Impossible_-_Rogue_Nation.srt"
+    "subsFileName": "./subtitles/Mission:_Impossible_-_Rogue_Nation.srt",
+    "most_used_word": "THE"
   },
   {
     "id": 154,
@@ -5844,7 +5966,7 @@
     "budget": "150000000",
     "cast_quantity": null,
     "website": "http://www.madagascar-themovie.com",
-    "word_count": null,
+    "word_count": 8257,
     "revenue": "603900354",
     "valid": true,
     "poster_id": 94,
@@ -5875,7 +5997,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMjExMDA4NDcwMl5BMl5BanBnXkFtZTcwODAxNTQ3MQ@@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$179,982,968",
-    "subsFileName": "./subtitles/Madagascar:_Escape_2_Africa.srt"
+    "subsFileName": "./subtitles/Madagascar:_Escape_2_Africa.srt",
+    "most_used_word": "YOU"
   },
   {
     "id": 44,
@@ -5891,7 +6014,7 @@
     "budget": "76000000",
     "cast_quantity": null,
     "website": "http://www.despicableme.com/",
-    "word_count": null,
+    "word_count": 5398,
     "revenue": "970761885",
     "valid": true,
     "poster_id": 96,
@@ -5921,7 +6044,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMjExNjAyNTcyMF5BMl5BanBnXkFtZTgwODQzMjQ3MDE@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$368,049,635",
-    "subsFileName": "./subtitles/Despicable_Me_2.srt"
+    "subsFileName": "./subtitles/Despicable_Me_2.srt",
+    "most_used_word": "YOU"
   },
   {
     "id": 96,
@@ -5937,7 +6061,7 @@
     "budget": "125000000",
     "cast_quantity": null,
     "website": "http://www.sonypictures.com/movies/thedavincicode/",
-    "word_count": null,
+    "word_count": 10292,
     "revenue": "767820459",
     "valid": true,
     "poster_id": 98,
@@ -5966,7 +6090,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMjIxMjQyMTc3Nl5BMl5BanBnXkFtZTcwMTA1MDUzMw@@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$217,536,138",
-    "subsFileName": "./subtitles/The_Da_Vinci_Code.srt"
+    "subsFileName": "./subtitles/The_Da_Vinci_Code.srt",
+    "most_used_word": "THE"
   },
   {
     "id": 1,
@@ -5982,7 +6107,7 @@
     "budget": "356000000",
     "cast_quantity": null,
     "website": "https://www.marvel.com/movies/avengers-endgame",
-    "word_count": null,
+    "word_count": 110,
     "revenue": "2797800564",
     "valid": true,
     "poster_id": 63,
@@ -6027,7 +6152,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "",
-    "subsFileName": "./subtitles/Avengers:_Endgame.srt"
+    "subsFileName": "./subtitles/Avengers:_Endgame.srt",
+    "most_used_word": ""
   },
   {
     "id": 129,
@@ -6043,7 +6169,7 @@
     "budget": "80000000",
     "cast_quantity": null,
     "website": "http://www.iceagemovies.com/films/ice-age-the-meltdown",
-    "word_count": null,
+    "word_count": 5145,
     "revenue": "660940780",
     "valid": true,
     "poster_id": 87,
@@ -6075,7 +6201,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMjAwODg3OTAxMl5BMl5BanBnXkFtZTcwMjg2NjYyMw@@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$195,300,000",
-    "subsFileName": "./subtitles/Ice_Age:_The_Meltdown.srt"
+    "subsFileName": "./subtitles/Ice_Age:_The_Meltdown.srt",
+    "most_used_word": "-"
   },
   {
     "id": 190,
@@ -6091,7 +6218,7 @@
     "budget": "175000000",
     "cast_quantity": null,
     "website": "https://movies.disney.com/ralph-breaks-the-internet-wreck-it-ralph-2",
-    "word_count": null,
+    "word_count": 12324,
     "revenue": "529221154",
     "valid": true,
     "poster_id": 57,
@@ -6129,7 +6256,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTYyNzEyNDAzOV5BMl5BanBnXkFtZTgwNTk3NDczNjM@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "",
-    "subsFileName": "./subtitles/Ralph_Breaks_the_Internet.srt"
+    "subsFileName": "./subtitles/Ralph_Breaks_the_Internet.srt",
+    "most_used_word": "YOU"
   },
   {
     "id": 20,
@@ -6145,7 +6273,7 @@
     "budget": "200000000",
     "cast_quantity": null,
     "website": "https://www.marvel.com/movies/iron-man-3",
-    "word_count": null,
+    "word_count": 11076,
     "revenue": "1215439994",
     "valid": true,
     "poster_id": 91,
@@ -6180,7 +6308,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMjE5MzcyNjk1M15BMl5BanBnXkFtZTcwMjQ4MjcxOQ@@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$408,992,272",
-    "subsFileName": "./subtitles/Iron_Man_3.srt"
+    "subsFileName": "./subtitles/Iron_Man_3.srt",
+    "most_used_word": "YOU"
   },
   {
     "id": 199,
@@ -6196,7 +6325,7 @@
     "budget": "130000000",
     "cast_quantity": null,
     "website": "http://marvel.com/movies/movie/180/ant-man",
-    "word_count": null,
+    "word_count": 205,
     "revenue": "519311965",
     "valid": false,
     "poster_id": null,
@@ -6232,7 +6361,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMjM2NTQ5Mzc2M15BMl5BanBnXkFtZTgwNTcxMDI2NTE@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$138,002,223",
-    "subsFileName": "./subtitles/Ant-Man.srt"
+    "subsFileName": "./subtitles/Ant-Man.srt",
+    "most_used_word": "YOU"
   },
   {
     "id": 149,
@@ -6248,7 +6378,7 @@
     "budget": "30000000",
     "cast_quantity": null,
     "website": "https://www.foxmovies.com/movies/the-passion-of-the-christ",
-    "word_count": null,
+    "word_count": 2794,
     "revenue": "611899420",
     "valid": true,
     "poster_id": 130,
@@ -6277,7 +6407,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BNDY1N2IyYWMtZTY4OS00OGM1LTkxNmUtOTQzYmM5MmI2YmVmXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$368,000,000",
-    "subsFileName": "./subtitles/The_Passion_of_the_Christ.srt"
+    "subsFileName": "./subtitles/The_Passion_of_the_Christ.srt",
+    "most_used_word": "YOU"
   },
   {
     "id": 150,
@@ -6293,7 +6424,7 @@
     "budget": "52000000",
     "cast_quantity": null,
     "website": "http://www.mammamiamovie.com",
-    "word_count": null,
+    "word_count": 10438,
     "revenue": "609841637",
     "valid": true,
     "poster_id": 12,
@@ -6322,7 +6453,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTA2MDU0MjM0MzReQTJeQWpwZ15BbWU3MDYwNzgwNzE@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$143,704,210",
-    "subsFileName": "./subtitles/Mamma_Mia!.srt"
+    "subsFileName": "./subtitles/Mamma_Mia!.srt",
+    "most_used_word": "I"
   },
   {
     "id": 61,
@@ -6338,7 +6470,7 @@
     "budget": "90000000",
     "cast_quantity": null,
     "website": "http://www.iceagemovies.com/films/ice-age-dawn-of-the-dinosaurs",
-    "word_count": null,
+    "word_count": 5093,
     "revenue": "886686817",
     "valid": true,
     "poster_id": 32,
@@ -6371,7 +6503,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTMzNDkzMTcyOV5BMl5BanBnXkFtZTcwNDIzMjM2MQ@@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$124,605,432",
-    "subsFileName": "./subtitles/Ice_Age:_Dawn_of_the_Dinosaurs.srt"
+    "subsFileName": "./subtitles/Ice_Age:_Dawn_of_the_Dinosaurs.srt",
+    "most_used_word": "YOU"
   },
   {
     "id": 152,
@@ -6387,7 +6520,7 @@
     "budget": "120000000",
     "cast_quantity": null,
     "website": "http://www.lifeofpimovie.com/",
-    "word_count": null,
+    "word_count": 6427,
     "revenue": "609016565",
     "valid": true,
     "poster_id": 138,
@@ -6416,7 +6549,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BNTg2OTY2ODg5OF5BMl5BanBnXkFtZTcwODM5MTYxOA@@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$103,500,000",
-    "subsFileName": "./subtitles/Life_of_Pi.srt"
+    "subsFileName": "./subtitles/Life_of_Pi.srt",
+    "most_used_word": "THE"
   },
   {
     "id": 143,
@@ -6432,7 +6566,7 @@
     "budget": "225000000",
     "cast_quantity": null,
     "website": "http://www.sonypictures.com/movies/meninblack3/",
-    "word_count": null,
+    "word_count": 9805,
     "revenue": "624026776",
     "valid": true,
     "poster_id": 41,
@@ -6461,7 +6595,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTU2NTYxODcwMF5BMl5BanBnXkFtZTcwNDk1NDY0Nw@@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$179,020,854",
-    "subsFileName": "./subtitles/Men_in_Black_3.srt"
+    "subsFileName": "./subtitles/Men_in_Black_3.srt",
+    "most_used_word": "YOU"
   },
   {
     "id": 94,
@@ -6477,7 +6612,7 @@
     "budget": "170000000",
     "cast_quantity": null,
     "website": "http://marvel.com/guardians",
-    "word_count": null,
+    "word_count": 8164,
     "revenue": "773328629",
     "valid": true,
     "poster_id": 14,
@@ -6516,7 +6651,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTAwMjU5OTgxNjZeQTJeQWpwZ15BbWU4MDUxNDYxODEx._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$270,592,504",
-    "subsFileName": "./subtitles/Guardians_of_the_Galaxy.srt"
+    "subsFileName": "./subtitles/Guardians_of_the_Galaxy.srt",
+    "most_used_word": "YOU"
   },
   {
     "id": 116,
@@ -6532,7 +6668,7 @@
     "budget": "200000000",
     "cast_quantity": null,
     "website": "http://www.theamazingspiderman.com",
-    "word_count": null,
+    "word_count": 9873,
     "revenue": "705717432",
     "valid": true,
     "poster_id": 161,
@@ -6568,7 +6704,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BOTA5NDYxNTg0OV5BMl5BanBnXkFtZTgwODE5NzU1MTE@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$183,277,573",
-    "subsFileName": "./subtitles/The_Amazing_Spider-Man_2.srt"
+    "subsFileName": "./subtitles/The_Amazing_Spider-Man_2.srt",
+    "most_used_word": "YOU"
   },
   {
     "id": 46,
@@ -6584,7 +6721,7 @@
     "budget": "90000000",
     "cast_quantity": null,
     "website": "http://jumanjimovie.com",
-    "word_count": null,
+    "word_count": 10444,
     "revenue": "962119864",
     "valid": true,
     "poster_id": 159,
@@ -6621,7 +6758,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BODQ0NDhjYWItYTMxZi00NTk2LWIzNDEtOWZiYWYxZjc2MTgxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$393,201,353",
-    "subsFileName": "./subtitles/Jumanji:_Welcome_to_the_Jungle.srt"
+    "subsFileName": "./subtitles/Jumanji:_Welcome_to_the_Jungle.srt",
+    "most_used_word": "-"
   },
   {
     "id": 142,
@@ -6637,7 +6775,7 @@
     "budget": "150000000",
     "cast_quantity": null,
     "website": "http://www.sonypictures.com/movies/hancock/",
-    "word_count": null,
+    "word_count": 21,
     "revenue": "624029371",
     "valid": true,
     "poster_id": 77,
@@ -6666,7 +6804,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTgyMzc4ODU3NV5BMl5BanBnXkFtZTcwNjk5Mzc1MQ@@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$227,946,274",
-    "subsFileName": "./subtitles/Hancock.srt"
+    "subsFileName": "./subtitles/Hancock.srt",
+    "most_used_word": "PAY"
   },
   {
     "id": 147,
@@ -6682,7 +6821,7 @@
     "budget": "73000000",
     "cast_quantity": null,
     "website": null,
-    "word_count": null,
+    "word_count": 7409,
     "revenue": "618638999",
     "valid": true,
     "poster_id": 3,
@@ -6711,7 +6850,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMDFlMmM4Y2QtNDg1ZS00MWVlLTlmODgtZDdhYjY5YjdhN2M0XkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "",
-    "subsFileName": "./subtitles/The_Lost_World:_Jurassic_Park.srt"
+    "subsFileName": "./subtitles/The_Lost_World:_Jurassic_Park.srt",
+    "most_used_word": "THE"
   },
   {
     "id": 24,
@@ -6727,7 +6867,7 @@
     "budget": "160000000",
     "cast_quantity": null,
     "website": "https://www.marvel.com/movies/spider-man-far-from-home",
-    "word_count": null,
+    "word_count": 12259,
     "revenue": "1131450163",
     "valid": true,
     "poster_id": 11,
@@ -6758,7 +6898,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMGZlNTY1ZWUtYTMzNC00ZjUyLWE0MjQtMTMxN2E3ODYxMWVmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "",
-    "subsFileName": "./subtitles/Spider-Man:_Far_from_Home.srt"
+    "subsFileName": "./subtitles/Spider-Man:_Far_from_Home.srt",
+    "most_used_word": "-"
   },
   {
     "id": 110,
@@ -6774,7 +6915,7 @@
     "budget": "105000000",
     "cast_quantity": null,
     "website": "http://gravitymovie.warnerbros.com",
-    "word_count": null,
+    "word_count": 5151,
     "revenue": "716392705",
     "valid": true,
     "poster_id": 141,
@@ -6803,7 +6944,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BNjE5MzYwMzYxMF5BMl5BanBnXkFtZTcwOTk4MTk0OQ@@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$274,084,951",
-    "subsFileName": "./subtitles/Gravity.srt"
+    "subsFileName": "./subtitles/Gravity.srt",
+    "most_used_word": "YOU"
   },
   {
     "id": 151,
@@ -6819,7 +6961,7 @@
     "budget": "145000000",
     "cast_quantity": null,
     "website": "http://www.howtotrainyourdragon.com/",
-    "word_count": null,
+    "word_count": 6083,
     "revenue": "609123048",
     "valid": true,
     "poster_id": 116,
@@ -6848,7 +6990,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMzMwMTAwODczN15BMl5BanBnXkFtZTgwMDk2NDA4MTE@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$147,065,544",
-    "subsFileName": "./subtitles/How_to_Train_Your_Dragon_2.srt"
+    "subsFileName": "./subtitles/How_to_Train_Your_Dragon_2.srt",
+    "most_used_word": "YOU"
   },
   {
     "id": 7,
@@ -6864,7 +7007,7 @@
     "budget": "150000000",
     "cast_quantity": null,
     "website": "http://www.jurassicworld.com/",
-    "word_count": null,
+    "word_count": 169,
     "revenue": "1671713208",
     "valid": true,
     "poster_id": 152,
@@ -6898,7 +7041,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BNzQ3OTY4NjAtNzM5OS00N2ZhLWJlOWUtYzYwZjNmOWRiMzcyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$528,757,749",
-    "subsFileName": "./subtitles/Jurassic_World.srt"
+    "subsFileName": "./subtitles/Jurassic_World.srt",
+    "most_used_word": "WE"
   },
   {
     "id": 92,
@@ -6914,7 +7058,7 @@
     "budget": "58000000",
     "cast_quantity": null,
     "website": "http://www.foxmovies.com/movies/deadpool",
-    "word_count": null,
+    "word_count": 9111,
     "revenue": "783100000",
     "valid": true,
     "poster_id": 182,
@@ -6943,7 +7087,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BYzE5MjY1ZDgtMTkyNC00MTMyLThhMjAtZGI5OTE1NzFlZGJjXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$328,674,489",
-    "subsFileName": "./subtitles/Deadpool.srt"
+    "subsFileName": "./subtitles/Deadpool.srt",
+    "most_used_word": "YOU"
   },
   {
     "id": 164,
@@ -6959,7 +7104,7 @@
     "budget": "175000000",
     "cast_quantity": null,
     "website": "http://readyplayeronemovie.com",
-    "word_count": null,
+    "word_count": 10300,
     "revenue": "582890172",
     "valid": true,
     "poster_id": 173,
@@ -6989,7 +7134,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BY2JiYTNmZTctYTQ1OC00YjU4LWEwMjYtZjkwY2Y5MDI0OTU3XkEyXkFqcGdeQXVyNTI4MzE4MDU@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "",
-    "subsFileName": "./subtitles/Ready_Player_One.srt"
+    "subsFileName": "./subtitles/Ready_Player_One.srt",
+    "most_used_word": "THE"
   },
   {
     "id": 136,
@@ -7005,7 +7151,7 @@
     "budget": "170000000",
     "cast_quantity": null,
     "website": "https://www.marvel.com/movies/thor-the-dark-world",
-    "word_count": null,
+    "word_count": 6298,
     "revenue": "644571402",
     "valid": true,
     "poster_id": 39,
@@ -7041,7 +7187,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTQyNzAwOTUxOF5BMl5BanBnXkFtZTcwMTE0OTc5OQ@@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$206,360,018",
-    "subsFileName": "./subtitles/Thor:_The_Dark_World.srt"
+    "subsFileName": "./subtitles/Thor:_The_Dark_World.srt",
+    "most_used_word": "YOU"
   },
   {
     "id": 4,
@@ -7057,7 +7204,7 @@
     "budget": "245000000",
     "cast_quantity": null,
     "website": "http://www.starwars.com/films/star-wars-episode-vii",
-    "word_count": null,
+    "word_count": 16,
     "revenue": "2068223624",
     "valid": true,
     "poster_id": null,
@@ -7067,7 +7214,8 @@
     "set_in_time_id": null,
     "createdAt": "2019-10-12T21:22:33.193Z",
     "updatedAt": "2019-11-03T23:47:39.445Z",
-    "subsFileName": "./subtitles/Star_Wars:_The_Force_Awakens.srt"
+    "subsFileName": "./subtitles/Star_Wars:_The_Force_Awakens.srt",
+    "most_used_word": "THE"
   },
   {
     "id": 161,
@@ -7083,7 +7231,7 @@
     "budget": "150000000",
     "cast_quantity": null,
     "website": "http://iamlegend.warnerbros.com",
-    "word_count": null,
+    "word_count": 4183,
     "revenue": "585349010",
     "valid": true,
     "poster_id": 174,
@@ -7115,7 +7263,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BYTE1ZTBlYzgtNmMyNS00ZTQ2LWE4NjEtZjUxNDJkNTg2MzlhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$256,399,999",
-    "subsFileName": "./subtitles/I_Am_Legend.srt"
+    "subsFileName": "./subtitles/I_Am_Legend.srt",
+    "most_used_word": "YOU"
   },
   {
     "id": 102,
@@ -7131,7 +7280,7 @@
     "budget": "250000000",
     "cast_quantity": null,
     "website": "http://www.x-menmovies.com/",
-    "word_count": null,
+    "word_count": 7776,
     "revenue": "747862775",
     "valid": true,
     "poster_id": 188,
@@ -7162,7 +7311,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BZGIzNWYzN2YtMjcwYS00YjQ3LWI2NjMtOTNiYTUyYjE2MGNkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$199,305,306",
-    "subsFileName": "./subtitles/X-Men:_Days_of_Future_Past.srt"
+    "subsFileName": "./subtitles/X-Men:_Days_of_Future_Past.srt",
+    "most_used_word": "YOU"
   },
   {
     "id": 52,
@@ -7178,7 +7328,7 @@
     "budget": "150000000",
     "cast_quantity": null,
     "website": "http://www.harrypotterorderofthephoenix.com/",
-    "word_count": null,
+    "word_count": 8138,
     "revenue": "938212738",
     "valid": true,
     "poster_id": 23,
@@ -7207,7 +7357,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTM0NTczMTUzOV5BMl5BanBnXkFtZTYwMzIxNTg3._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$291,980,108",
-    "subsFileName": "./subtitles/Harry_Potter_and_the_Order_of_the_Phoenix.srt"
+    "subsFileName": "./subtitles/Harry_Potter_and_the_Order_of_the_Phoenix.srt",
+    "most_used_word": "YOU"
   },
   {
     "id": 8,
@@ -7223,7 +7374,7 @@
     "budget": "260000000",
     "cast_quantity": null,
     "website": "https://movies.disney.com/the-lion-king-2019",
-    "word_count": null,
+    "word_count": 8782,
     "revenue": "1649676757",
     "valid": true,
     "poster_id": null,
@@ -7233,7 +7384,8 @@
     "set_in_time_id": null,
     "createdAt": "2019-10-12T21:22:33.196Z",
     "updatedAt": "2019-11-03T23:47:39.461Z",
-    "subsFileName": "./subtitles/The_Lion_King.srt"
+    "subsFileName": "./subtitles/The_Lion_King.srt",
+    "most_used_word": "YOU"
   },
   {
     "id": 103,
@@ -7249,7 +7401,7 @@
     "budget": "145000000",
     "cast_quantity": null,
     "website": null,
-    "word_count": null,
+    "word_count": 7609,
     "revenue": "746921274",
     "valid": true,
     "poster_id": 24,
@@ -7284,7 +7436,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTM2MTIzNzk2MF5BMl5BanBnXkFtZTcwMDcwMzQxNw@@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$216,366,733",
-    "subsFileName": "./subtitles/Madagascar_3:_Europe's_Most_Wanted.srt"
+    "subsFileName": "./subtitles/Madagascar_3:_Europe's_Most_Wanted.srt",
+    "most_used_word": "-"
   },
   {
     "id": 73,
@@ -7300,7 +7453,7 @@
     "budget": "180000000",
     "cast_quantity": null,
     "website": "https://marvel.com/movies/movie/222/thor_ragnarok",
-    "word_count": null,
+    "word_count": 661,
     "revenue": "853977126",
     "valid": true,
     "poster_id": 108,
@@ -7333,7 +7486,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMjMyNDkzMzI1OF5BMl5BanBnXkFtZTgwODcxODg5MjI@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$314,971,245",
-    "subsFileName": "./subtitles/Thor:_Ragnarok.srt"
+    "subsFileName": "./subtitles/Thor:_Ragnarok.srt",
+    "most_used_word": "-"
   },
   {
     "id": 174,
@@ -7349,7 +7503,7 @@
     "budget": "130000000",
     "cast_quantity": null,
     "website": null,
-    "word_count": null,
+    "word_count": 6768,
     "revenue": "554987477",
     "valid": true,
     "poster_id": 30,
@@ -7381,7 +7535,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTMxMTU5MTY4MV5BMl5BanBnXkFtZTcwNzgyNjg2NQ@@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$149,234,747",
-    "subsFileName": "./subtitles/Puss_in_Boots.srt"
+    "subsFileName": "./subtitles/Puss_in_Boots.srt",
+    "most_used_word": "-"
   },
   {
     "id": 144,
@@ -7397,7 +7552,7 @@
     "budget": "200000000",
     "cast_quantity": null,
     "website": "https://www.marvel.com/movies/iron-man-2",
-    "word_count": null,
+    "word_count": 11808,
     "revenue": "623933331",
     "valid": true,
     "poster_id": 22,
@@ -7429,7 +7584,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTM0MDgwNjMyMl5BMl5BanBnXkFtZTcwNTg3NzAzMw@@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$312,057,433",
-    "subsFileName": "./subtitles/Iron_Man_2.srt"
+    "subsFileName": "./subtitles/Iron_Man_2.srt",
+    "most_used_word": "-"
   },
   {
     "id": 40,
@@ -7445,7 +7601,7 @@
     "budget": "250000000",
     "cast_quantity": null,
     "website": "http://www.thehobbit.com/",
-    "word_count": null,
+    "word_count": 19705,
     "revenue": "1021103568",
     "valid": true,
     "poster_id": 64,
@@ -7477,7 +7633,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTcwNTE4MTUxMl5BMl5BanBnXkFtZTcwMDIyODM4OA@@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$303,001,229",
-    "subsFileName": "./subtitles/The_Hobbit:_An_Unexpected_Journey.srt"
+    "subsFileName": "./subtitles/The_Hobbit:_An_Unexpected_Journey.srt",
+    "most_used_word": "THE"
   },
   {
     "id": 176,
@@ -7493,7 +7650,7 @@
     "budget": "140000000",
     "cast_quantity": null,
     "website": null,
-    "word_count": null,
+    "word_count": 16772,
     "revenue": "553799566",
     "valid": true,
     "poster_id": 8,
@@ -7526,7 +7683,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMGM0NzE2YjgtZGQ4YS00MmY3LTg4ZDMtYjUwNTNiNTJhNTQ5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "",
-    "subsFileName": "./subtitles/Armageddon.srt"
+    "subsFileName": "./subtitles/Armageddon.srt",
+    "most_used_word": "THE"
   },
   {
     "id": 83,
@@ -7542,7 +7700,7 @@
     "budget": "175000000",
     "cast_quantity": null,
     "website": "https://www.pixar.com/feature-films/coco",
-    "word_count": null,
+    "word_count": 9188,
     "revenue": "800526015",
     "valid": true,
     "poster_id": 179,
@@ -7576,7 +7734,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BYjQ5NjM0Y2YtNjZkNC00ZDhkLWJjMWItN2QyNzFkMDE3ZjAxXkEyXkFqcGdeQXVyODIxMzk5NjA@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$208,487,719",
-    "subsFileName": "./subtitles/Coco.srt"
+    "subsFileName": "./subtitles/Coco.srt",
+    "most_used_word": "YOU"
   },
   {
     "id": 43,
@@ -7592,7 +7751,7 @@
     "budget": "125000000",
     "cast_quantity": null,
     "website": "http://harrypotter.warnerbros.com/harrypotterandthedeathlyhallows/mainsite/index.html",
-    "word_count": null,
+    "word_count": 9130,
     "revenue": "976475550",
     "valid": true,
     "poster_id": null,
@@ -7602,7 +7761,8 @@
     "set_in_time_id": null,
     "createdAt": "2019-10-13T08:51:46.607Z",
     "updatedAt": "2019-11-03T23:47:39.463Z",
-    "subsFileName": "./subtitles/Harry_Potter_and_the_Philosopher's_Stone.srt"
+    "subsFileName": "./subtitles/Harry_Potter_and_the_Philosopher's_Stone.srt",
+    "most_used_word": "YOU"
   },
   {
     "id": 126,
@@ -7618,7 +7778,7 @@
     "budget": "40000000",
     "cast_quantity": null,
     "website": null,
-    "word_count": null,
+    "word_count": 5470,
     "revenue": "672806292",
     "valid": true,
     "poster_id": 84,
@@ -7646,7 +7806,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMWM4NTFhYjctNzUyNi00NGMwLTk3NTYtMDIyNTZmMzRlYmQyXkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "",
-    "subsFileName": "./subtitles/The_Sixth_Sense.srt"
+    "subsFileName": "./subtitles/The_Sixth_Sense.srt",
+    "most_used_word": "YOU"
   },
   {
     "id": 9,
@@ -7662,7 +7823,7 @@
     "budget": "220000000",
     "cast_quantity": null,
     "website": "http://marvel.com/avengers_movie/",
-    "word_count": null,
+    "word_count": 10934,
     "revenue": "1519557910",
     "valid": true,
     "poster_id": 131,
@@ -7692,7 +7853,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BNDYxNjQyMjAtNTdiOS00NGYwLWFmNTAtNThmYjU5ZGI2YTI1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$623,279,547",
-    "subsFileName": "./subtitles/The_Avengers.srt"
+    "subsFileName": "./subtitles/The_Avengers.srt",
+    "most_used_word": "YOU"
   },
   {
     "id": 75,
@@ -7708,7 +7870,7 @@
     "budget": "130000000",
     "cast_quantity": null,
     "website": "http://www.thehungergames.movie/",
-    "word_count": null,
+    "word_count": 8980,
     "revenue": "847423452",
     "valid": true,
     "poster_id": 16,
@@ -7738,7 +7900,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTAyMjQ3OTAxMzNeQTJeQWpwZ15BbWU4MDU0NzA1MzAx._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$336,663,349",
-    "subsFileName": "./subtitles/The_Hunger_Games:_Catching_Fire.srt"
+    "subsFileName": "./subtitles/The_Hunger_Games:_Catching_Fire.srt",
+    "most_used_word": "THE"
   },
   {
     "id": 84,
@@ -7754,7 +7917,7 @@
     "budget": "160000000",
     "cast_quantity": null,
     "website": "http://www.shrekthethird.com/flash/index.html",
-    "word_count": null,
+    "word_count": 12167,
     "revenue": "798958165",
     "valid": true,
     "poster_id": 168,
@@ -7788,7 +7951,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BOTgyMjc3ODk2MV5BMl5BanBnXkFtZTcwMjY0MjEzMw@@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$320,706,665",
-    "subsFileName": "./subtitles/Shrek_the_Third.srt"
+    "subsFileName": "./subtitles/Shrek_the_Third.srt",
+    "most_used_word": ""
   },
   {
     "id": 134,
@@ -7804,7 +7968,7 @@
     "budget": "200000000",
     "cast_quantity": null,
     "website": "http://www.fantasticbeasts.com",
-    "word_count": null,
+    "word_count": 7167,
     "revenue": "653355901",
     "valid": true,
     "poster_id": 190,
@@ -7833,7 +7997,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BZjFiMGUzMTAtNDAwMC00ZjRhLTk0OTUtMmJiMzM5ZmVjODQxXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "",
-    "subsFileName": "./subtitles/Fantastic_Beasts:_The_Crimes_of_Grindelwald.srt"
+    "subsFileName": "./subtitles/Fantastic_Beasts:_The_Crimes_of_Grindelwald.srt",
+    "most_used_word": "YOU"
   },
   {
     "id": 121,
@@ -7849,7 +8014,7 @@
     "budget": "75000000",
     "cast_quantity": null,
     "website": "http://www.thehungergames.movie/",
-    "word_count": null,
+    "word_count": 6690,
     "revenue": "691210692",
     "valid": true,
     "poster_id": 85,
@@ -7880,7 +8045,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMjA4NDg3NzYxMF5BMl5BanBnXkFtZTcwNTgyNzkyNw@@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$407,981,652",
-    "subsFileName": "./subtitles/The_Hunger_Games.srt"
+    "subsFileName": "./subtitles/The_Hunger_Games.srt",
+    "most_used_word": "YOU"
   },
   {
     "id": 188,
@@ -7896,7 +8062,7 @@
     "budget": "75000000",
     "cast_quantity": null,
     "website": "https://www.dreamworks.com/movies/madagascar",
-    "word_count": null,
+    "word_count": 8018,
     "revenue": "532680671",
     "valid": true,
     "poster_id": 122,
@@ -7928,7 +8094,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BN2I5YzFlYWEtZjRhNy00ZmQzLWJhNTktZGIwYjFjODdmNDgxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$193,136,719",
-    "subsFileName": "./subtitles/Madagascar.srt"
+    "subsFileName": "./subtitles/Madagascar.srt",
+    "most_used_word": "YOU"
   },
   {
     "id": 30,
@@ -7944,7 +8111,7 @@
     "budget": "250000000",
     "cast_quantity": null,
     "website": "http://www.thedarkknightrises.com/",
-    "word_count": null,
+    "word_count": 12321,
     "revenue": "1084939099",
     "valid": true,
     "poster_id": 80,
@@ -7976,7 +8143,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$448,130,642",
-    "subsFileName": "./subtitles/The_Dark_Knight_Rises.srt"
+    "subsFileName": "./subtitles/The_Dark_Knight_Rises.srt",
+    "most_used_word": "THE"
   },
   {
     "id": 86,
@@ -7992,7 +8160,7 @@
     "budget": "10500000",
     "cast_quantity": null,
     "website": "http://www.et20.com/",
-    "word_count": null,
+    "word_count": 4605,
     "revenue": "792965326",
     "valid": true,
     "poster_id": 36,
@@ -8020,7 +8188,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTQ2ODFlMDAtNzdhOC00ZDYzLWE3YTMtNDU4ZGFmZmJmYTczXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "",
-    "subsFileName": "./subtitles/E.T._the_Extra-Terrestrial.srt"
+    "subsFileName": "./subtitles/E.T._the_Extra-Terrestrial.srt",
+    "most_used_word": "YOU"
   },
   {
     "id": 38,
@@ -8036,7 +8205,7 @@
     "budget": "200000000",
     "cast_quantity": null,
     "website": "http://disney.go.com/wonderland/",
-    "word_count": null,
+    "word_count": 6317,
     "revenue": "1025467110",
     "valid": true,
     "poster_id": 28,
@@ -8065,7 +8234,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTMwNjAxMTc0Nl5BMl5BanBnXkFtZTcwODc3ODk5Mg@@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$319,323,000",
-    "subsFileName": "./subtitles/Alice_in_Wonderland.srt"
+    "subsFileName": "./subtitles/Alice_in_Wonderland.srt",
+    "most_used_word": "YOU"
   },
   {
     "id": 201,
@@ -8129,7 +8299,7 @@
     "budget": "250000000",
     "cast_quantity": null,
     "website": "https://www.warnerbros.com/movies/hobbit-battle-five-armies/",
-    "word_count": null,
+    "word_count": 120,
     "revenue": "956019788",
     "valid": true,
     "poster_id": 156,
@@ -8161,7 +8331,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BODAzMDgxMDc1MF5BMl5BanBnXkFtZTgwMTI0OTAzMjE@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$187,747,747",
-    "subsFileName": "./subtitles/The_Hobbit:_The_Battle_of_the_Five_Armies.srt"
+    "subsFileName": "./subtitles/The_Hobbit:_The_Battle_of_the_Five_Armies.srt",
+    "most_used_word": "YOU"
   },
   {
     "id": 200,
@@ -8177,7 +8348,7 @@
     "budget": "165000000",
     "cast_quantity": null,
     "website": "http://marvel.com/doctorstrange",
-    "word_count": null,
+    "word_count": 7143,
     "revenue": "677700000",
     "valid": true,
     "poster_id": 146,
@@ -8209,7 +8380,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BNjgwNzAzNjk1Nl5BMl5BanBnXkFtZTgwMzQ2NjI1OTE@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$232,630,718",
-    "subsFileName": "./subtitles/Doctor_Strange.srt"
+    "subsFileName": "./subtitles/Doctor_Strange.srt",
+    "most_used_word": "YOU"
   },
   {
     "id": 198,
@@ -8225,7 +8397,7 @@
     "budget": "175000000",
     "cast_quantity": null,
     "website": "https://www.pixar.com/feature-films-toy-story-4",
-    "word_count": null,
+    "word_count": 10933,
     "revenue": "519802847",
     "valid": true,
     "poster_id": 58,
@@ -8262,7 +8434,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTYzMDM4NzkxOV5BMl5BanBnXkFtZTgwNzM1Mzg2NzM@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "",
-    "subsFileName": "./subtitles/Toy_Story_4.srt"
+    "subsFileName": "./subtitles/Toy_Story_4.srt",
+    "most_used_word": "-"
   },
   {
     "id": 111,
@@ -8278,7 +8451,7 @@
     "budget": "170000000",
     "cast_quantity": null,
     "website": "http://www.captainamericathewintersoldiermovie.com",
-    "word_count": null,
+    "word_count": 8677,
     "revenue": "714766572",
     "valid": true,
     "poster_id": 115,
@@ -8310,7 +8483,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMzA2NDkwODAwM15BMl5BanBnXkFtZTgwODk5MTgzMTE@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$228,636,083",
-    "subsFileName": "./subtitles/Captain_America:_The_Winter_Soldier.srt"
+    "subsFileName": "./subtitles/Captain_America:_The_Winter_Soldier.srt",
+    "most_used_word": "THE"
   },
   {
     "id": 27,
@@ -8326,7 +8500,7 @@
     "budget": "94000000",
     "cast_quantity": null,
     "website": "http://www.lordoftherings.net",
-    "word_count": null,
+    "word_count": 53,
     "revenue": "1118888979",
     "valid": true,
     "poster_id": 149,
@@ -8357,7 +8531,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$364,000,000",
-    "subsFileName": "./subtitles/The_Lord_of_the_Rings:_The_Return_of_the_King.srt"
+    "subsFileName": "./subtitles/The_Lord_of_the_Rings:_The_Return_of_the_King.srt",
+    "most_used_word": "THE"
   },
   {
     "id": 56,
@@ -8373,7 +8548,7 @@
     "budget": "63000000",
     "cast_quantity": null,
     "website": "http://www.jurassicpark.com/",
-    "word_count": null,
+    "word_count": 8369,
     "revenue": "920100000",
     "valid": true,
     "poster_id": 103,
@@ -8403,7 +8578,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$45,299,680",
-    "subsFileName": "./subtitles/Jurassic_Park.srt"
+    "subsFileName": "./subtitles/Jurassic_Park.srt",
+    "most_used_word": "THE"
   },
   {
     "id": 133,
@@ -8419,7 +8595,7 @@
     "budget": "160000000",
     "cast_quantity": null,
     "website": "http://www.thehungergames.movie/",
-    "word_count": null,
+    "word_count": 8568,
     "revenue": "653428261",
     "valid": true,
     "poster_id": 143,
@@ -8450,7 +8626,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BNjQzNDI2NTU1Ml5BMl5BanBnXkFtZTgwNTAyMDQ5NjE@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$254,641,329",
-    "subsFileName": "./subtitles/The_Hunger_Games:_Mockingjay_-_Part_2.srt"
+    "subsFileName": "./subtitles/The_Hunger_Games:_Mockingjay_-_Part_2.srt",
+    "most_used_word": "THE"
   },
   {
     "id": 98,
@@ -8466,7 +8643,7 @@
     "budget": "180000000",
     "cast_quantity": null,
     "website": "http://movies.disney.com/maleficent",
-    "word_count": null,
+    "word_count": 3631,
     "revenue": "758539785",
     "valid": true,
     "poster_id": 86,
@@ -8495,7 +8672,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMjAwMzAzMzExOF5BMl5BanBnXkFtZTgwOTcwMDA5MTE@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$190,871,149",
-    "subsFileName": "./subtitles/Maleficent.srt"
+    "subsFileName": "./subtitles/Maleficent.srt",
+    "most_used_word": "THE"
   },
   {
     "id": 128,
@@ -8511,7 +8689,7 @@
     "budget": "150000000",
     "cast_quantity": null,
     "website": "http://www.kungfupanda.com/",
-    "word_count": null,
+    "word_count": 5629,
     "revenue": "665692281",
     "valid": true,
     "poster_id": 183,
@@ -8540,7 +8718,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BYzQ0ZWIxZjAtYWI3Yy00MGM0LWFjOGYtNzcyYThiOTA3ODI1XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$165,230,261",
-    "subsFileName": "./subtitles/Kung_Fu_Panda_2.srt"
+    "subsFileName": "./subtitles/Kung_Fu_Panda_2.srt",
+    "most_used_word": "YOU"
   },
   {
     "id": 99,
@@ -8556,7 +8735,7 @@
     "budget": "165000000",
     "cast_quantity": null,
     "website": "http://www.shrekforeverafter.com/",
-    "word_count": null,
+    "word_count": 7040,
     "revenue": "752600867",
     "valid": true,
     "poster_id": 48,
@@ -8588,7 +8767,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTY0OTU1NzkxMl5BMl5BanBnXkFtZTcwMzI2NDUzMw@@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$238,319,043",
-    "subsFileName": "./subtitles/Shrek_Forever_After.srt"
+    "subsFileName": "./subtitles/Shrek_Forever_After.srt",
+    "most_used_word": "YOU"
   },
   {
     "id": 114,
@@ -8604,7 +8784,7 @@
     "budget": "50000000",
     "cast_quantity": null,
     "website": null,
-    "word_count": null,
+    "word_count": 8151,
     "revenue": "709827462",
     "valid": true,
     "poster_id": 20,
@@ -8633,7 +8813,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTI3MjE3NDIxNF5BMl5BanBnXkFtZTcwODM3NTY5Mg@@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$296,593,070",
-    "subsFileName": "./subtitles/The_Twilight_Saga:_New_Moon.srt"
+    "subsFileName": "./subtitles/The_Twilight_Saga:_New_Moon.srt",
+    "most_used_word": "YOU"
   },
   {
     "id": 120,
@@ -8649,7 +8830,7 @@
     "budget": "145000000",
     "cast_quantity": null,
     "website": "http://www.missionimpossible.com/",
-    "word_count": null,
+    "word_count": 7261,
     "revenue": "694713380",
     "valid": true,
     "poster_id": 51,
@@ -8679,7 +8860,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTY4MTUxMjQ5OV5BMl5BanBnXkFtZTcwNTUyMzg5Ng@@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$209,364,921",
-    "subsFileName": "./subtitles/Mission:_Impossible_-_Ghost_Protocol.srt"
+    "subsFileName": "./subtitles/Mission:_Impossible_-_Ghost_Protocol.srt",
+    "most_used_word": "THE"
   },
   {
     "id": 155,
@@ -8695,7 +8877,7 @@
     "budget": "150000000",
     "cast_quantity": null,
     "website": "http://www.mgm.com/#/our-titles/233/Casino-Royale-(2006)",
-    "word_count": null,
+    "word_count": 6302,
     "revenue": "599045960",
     "valid": true,
     "poster_id": 4,
@@ -8726,7 +8908,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMDI5ZWJhOWItYTlhOC00YWNhLTlkNzctNDU5YTI1M2E1MWZhXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$167,007,184",
-    "subsFileName": "./subtitles/Casino_Royale.srt"
+    "subsFileName": "./subtitles/Casino_Royale.srt",
+    "most_used_word": "YOU"
   },
   {
     "id": 112,
@@ -8742,7 +8925,7 @@
     "budget": "110000000",
     "cast_quantity": null,
     "website": "http://www.breakingdawn-themovie.com/",
-    "word_count": null,
+    "word_count": 7823,
     "revenue": "712171856",
     "valid": true,
     "poster_id": 160,
@@ -8771,7 +8954,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BODgxNDE0OTAzOF5BMl5BanBnXkFtZTcwNzcwODE2Ng@@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$281,267,663",
-    "subsFileName": "./subtitles/The_Twilight_Saga:_Breaking_Dawn_-_Part_1.srt"
+    "subsFileName": "./subtitles/The_Twilight_Saga:_Breaking_Dawn_-_Part_1.srt",
+    "most_used_word": ""
   },
   {
     "id": 93,
@@ -8787,7 +8971,7 @@
     "budget": "11000000",
     "cast_quantity": null,
     "website": "http://www.starwars.com/films/star-wars-episode-iv-a-new-hope",
-    "word_count": null,
+    "word_count": 8019,
     "revenue": "775398007",
     "valid": true,
     "poster_id": 154,
@@ -8815,7 +8999,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BNzVlY2MwMjktM2E4OS00Y2Y3LWE3ZjctYzhkZGM3YzA1ZWM2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "",
-    "subsFileName": "./subtitles/Star_Wars:_Episode_IV_-_A_New_Hope.srt"
+    "subsFileName": "./subtitles/Star_Wars:_Episode_IV_-_A_New_Hope.srt",
+    "most_used_word": "–"
   },
   {
     "id": 122,
@@ -8876,7 +9061,7 @@
     "budget": "200000000",
     "cast_quantity": null,
     "website": "http://www.mgm.com/view/movie/234/Quantum-of-Solace/",
-    "word_count": null,
+    "word_count": 5915,
     "revenue": "586090727",
     "valid": true,
     "poster_id": 114,
@@ -8906,7 +9091,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMjZiYTUzMzktZWI5Yy00Mzk4LWFlMDgtYjRmNWU0Mzc0MzNiXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$168,400,000",
-    "subsFileName": "./subtitles/Quantum_of_Solace.srt"
+    "subsFileName": "./subtitles/Quantum_of_Solace.srt",
+    "most_used_word": "YOU"
   },
   {
     "id": 167,
@@ -8922,7 +9108,7 @@
     "budget": "32350000",
     "cast_quantity": null,
     "website": "http://www.starwars.com/films/star-wars-episode-vi-return-of-the-jedi",
-    "word_count": null,
+    "word_count": 0,
     "revenue": "572700000",
     "valid": true,
     "poster_id": 172,
@@ -8952,7 +9138,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BOWZlMjFiYzgtMTUzNC00Y2IzLTk1NTMtZmNhMTczNTk0ODk1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "",
-    "subsFileName": "./subtitles/Return_of_the_Jedi.srt"
+    "subsFileName": "./subtitles/Return_of_the_Jedi.srt",
+    "most_used_word": ""
   },
   {
     "id": 64,
@@ -8968,7 +9155,7 @@
     "budget": "95000000",
     "cast_quantity": null,
     "website": "http://www.iceagemovies.com/films/ice-age-continental-drift",
-    "word_count": null,
+    "word_count": 6241,
     "revenue": "877244782",
     "valid": true,
     "poster_id": 25,
@@ -9000,7 +9187,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTM3NDM5MzY5Ml5BMl5BanBnXkFtZTcwNjExMDUwOA@@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$161,317,423",
-    "subsFileName": "./subtitles/Ice_Age:_Continental_Drift.srt"
+    "subsFileName": "./subtitles/Ice_Age:_Continental_Drift.srt",
+    "most_used_word": "WHAT"
   },
   {
     "id": 42,
@@ -9042,7 +9230,7 @@
     "budget": "18000000",
     "cast_quantity": null,
     "website": "http://www.starwars.com/films/star-wars-episode-v-the-empire-strikes-back",
-    "word_count": null,
+    "word_count": 0,
     "revenue": "538400000",
     "valid": true,
     "poster_id": 181,
@@ -9072,7 +9260,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BYmU1NDRjNDgtMzhiMi00NjZmLTg5NGItZDNiZjU5NTU4OTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$4,548,170",
-    "subsFileName": "./subtitles/The_Empire_Strikes_Back.srt"
+    "subsFileName": "./subtitles/The_Empire_Strikes_Back.srt",
+    "most_used_word": ""
   },
   {
     "id": 19,
@@ -9088,7 +9277,7 @@
     "budget": "250000000",
     "cast_quantity": null,
     "website": "http://www.fastandfurious.com/",
-    "word_count": null,
+    "word_count": 12402,
     "revenue": "1238764765",
     "valid": true,
     "poster_id": 105,
@@ -9117,7 +9306,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMjMxODI2NDM5Nl5BMl5BanBnXkFtZTgwNjgzOTk1MTI@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$225,697,400",
-    "subsFileName": "./subtitles/The_Fate_of_the_Furious.srt"
+    "subsFileName": "./subtitles/The_Fate_of_the_Furious.srt",
+    "most_used_word": "THIS"
   },
   {
     "id": 32,
@@ -9133,7 +9323,7 @@
     "budget": "200000000",
     "cast_quantity": null,
     "website": "http://disney.go.com/disneypictures/pirates/",
-    "word_count": null,
+    "word_count": 8289,
     "revenue": "1065659812",
     "valid": true,
     "poster_id": 65,
@@ -9166,7 +9356,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTcwODc1MTMxM15BMl5BanBnXkFtZTYwMDg1NzY3._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$423,032,628",
-    "subsFileName": "./subtitles/Pirates_of_the_Caribbean:_Dead_Man's_Chest.srt"
+    "subsFileName": "./subtitles/Pirates_of_the_Caribbean:_Dead_Man's_Chest.srt",
+    "most_used_word": "-"
   },
   {
     "id": 35,
@@ -9182,7 +9373,7 @@
     "budget": "380000000",
     "cast_quantity": null,
     "website": "http://disney.go.com/pirates/index-on-stranger-tides.html#/video/",
-    "word_count": null,
+    "word_count": 8643,
     "revenue": "1045713802",
     "valid": true,
     "poster_id": 90,
@@ -9218,7 +9409,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMjE5MjkwODI3Nl5BMl5BanBnXkFtZTcwNjcwMDk4NA@@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$241,063,875",
-    "subsFileName": "./subtitles/Pirates_of_the_Caribbean:_On_Stranger_Tides.srt"
+    "subsFileName": "./subtitles/Pirates_of_the_Caribbean:_On_Stranger_Tides.srt",
+    "most_used_word": "WHAT"
   },
   {
     "id": 77,
@@ -9234,7 +9426,7 @@
     "budget": "120000000",
     "cast_quantity": null,
     "website": null,
-    "word_count": null,
+    "word_count": 4,
     "revenue": "829000000",
     "valid": true,
     "poster_id": 68,
@@ -9263,7 +9455,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTcyMzUyMzY1OF5BMl5BanBnXkFtZTcwNDQ4ODk1OA@@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$292,298,923",
-    "subsFileName": "./subtitles/The_Twilight_Saga:_Breaking_Dawn_-_Part_2.srt"
+    "subsFileName": "./subtitles/The_Twilight_Saga:_Breaking_Dawn_-_Part_2.srt",
+    "most_used_word": "I'M"
   },
   {
     "id": 41,
@@ -9279,7 +9472,7 @@
     "budget": "185000000",
     "cast_quantity": null,
     "website": "http://thedarkknight.warnerbros.com/dvdsite/",
-    "word_count": null,
+    "word_count": 12806,
     "revenue": "1004558444",
     "valid": true,
     "poster_id": 31,
@@ -9311,7 +9504,8 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$533,316,061",
-    "subsFileName": "./subtitles/The_Dark_Knight.srt"
+    "subsFileName": "./subtitles/The_Dark_Knight.srt",
+    "most_used_word": "TWO"
   },
   {
     "id": 91,
@@ -9327,7 +9521,7 @@
     "budget": "200000000",
     "cast_quantity": null,
     "website": "http://www.sonypictures.com/movies/spider-man2/",
-    "word_count": null,
+    "word_count": 6311,
     "revenue": "783766341",
     "valid": true,
     "poster_id": 118,
@@ -9360,6 +9554,7 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMzY2ODk4NmUtOTVmNi00ZTdkLTlmOWYtMmE2OWVhNTU2OTVkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
     "type": "movie",
     "box_offfice": "$373,377,893",
-    "subsFileName": "./subtitles/Spider-Man_2.srt"
+    "subsFileName": "./subtitles/Spider-Man_2.srt",
+    "most_used_word": "MARY"
   }
 ]

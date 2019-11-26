@@ -41,7 +41,9 @@ app.get('/api/movies', (req, res) => {
         }]
     }).then(movies =>
         res.status(200).send(movies)
-    );
+    ).catch(e=> {
+        console.log('------------------------------------------------------------- ERROR', e)
+    });
 });
 
 // // create a genre

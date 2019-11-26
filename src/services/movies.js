@@ -1,9 +1,8 @@
-import * as themoviedb from './themoviedb';
 import * as omdb from './omdb';
-import MovieModel from "../../models/movie";
-import Sequelize from "sequelize";
-import getSubtitleFileName, {addSubsFileNames} from "../subs";
+import {addSubsFileNames} from "../subs";
+
 const fs = require('fs');
+var subsrt = require('subsrt');
 
 const movieQty = 200;
 
@@ -51,6 +50,56 @@ const theMovieDB_data = JSON.parse(data);
 
         return movie;
     }));
+    // const moviesWithSubtitlesFiles = await addSubsFileNames(consolidatedAPIs);
+    const moviesWithSubtitlesFiles = consolidatedAPIs;
 
-    return await addSubsFileNames(consolidatedAPIs);
+    return moviesWithSubtitlesFiles.map(movie => {
+        try {
+            if (movie.subsFileName && fs.existsSync(movie.subsFileName)){
+                const content = fs.readFileSync(movie.subsFileName, 'utf8');
+
+                //Parse the content
+                const captions = subsrt.parse(content, {});
+
+                let wordsCount = 0;
+                let words = [];
+
+                captions.forEach(line=>{
+                    const sanitizedLine = line.text
+                        .replace(/<\/?[^>]+(>|$)/g, "") //removes html tags
+                        .replace(/\r?\n|\r/g , " ") //removes new lines
+                        .replace(/ *\([^)]*\) */g, ""); //removes parenthesis
+
+                    const lineWords = sanitizedLine.split(' ');
+
+                    wordsCount += lineWords.length;
+                    lineWords.forEach(word=>{
+                        let sanitizedWord = word
+                            .replace(',','')
+                            .replace('.','')
+                            .replace('?','')
+                            .replace('!','')
+                            .toUpperCase();
+
+                        if (words.findIndex(w=>w.sanitizedWord===sanitizedWord)>-1){
+                            const wordArrayItem = words.find(w=>w.sanitizedWord===sanitizedWord);
+                            wordArrayItem.count += 1;
+                        } else {
+                            words.push({word, count:1, sanitizedWord});
+                        }
+                    });
+                });
+
+                movie.word_count =  wordsCount;
+                movie.most_used_word = words.sort((w1,w2)=>-w1.count+w2.count)[0].word;
+
+                return movie;
+            } else {
+                return movie;
+            }
+        } catch(err) {
+            console.error(err);
+            return movie;
+        }
+    });
 }

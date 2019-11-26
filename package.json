@@ -34,6 +34,7 @@
     "sequelize": "^5.15.0",
     "sequelize-cli": "^5.5.0",
     "string-similarity": "^3.0.0",
+    "subsrt": "^1.1.1",
     "tmp": "^0.1.0",
     "uuid": "^3.3.2"
   },

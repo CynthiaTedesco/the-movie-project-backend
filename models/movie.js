@@ -17,6 +17,7 @@ module.exports = (sequelize, DataTypes) => {
         cast_quantity: DataTypes.INTEGER,
         website: DataTypes.STRING,
         word_count: DataTypes.INTEGER,
+        most_used_word: DataTypes.STRING,
         revenue: DataTypes.BIGINT,
         valid: DataTypes.BOOLEAN,
         poster_id: {type: DataTypes.INTEGER, references: {model: 'posters', key: 'id'}},
@@ -26,11 +27,11 @@ module.exports = (sequelize, DataTypes) => {
         set_in_time_id: {type: DataTypes.INTEGER, references: {model: 'times', key: 'id'}}
     }, {});
     movie.associate = function (models) {
-        movie.belongsTo(models.poster, {as: 'poster'});
-        movie.belongsTo(models.story_origin, {as: 'story_origin'});
-        movie.belongsTo(models.movie_type, {as: 'type'});
-        movie.belongsTo(models.place, {as: 'set_in_place'});
-        movie.belongsTo(models.time, {as: 'set_in_time'});
+        movie.belongsTo(models.poster, {as: 'poster', foreignKey: 'poster_id'});
+        movie.belongsTo(models.story_origin, {as: 'story_origin', foreignKey: 'story_origin_id'});
+        movie.belongsTo(models.movie_type, {as: 'type', foreignKey: 'type_id'});
+        movie.belongsTo(models.place, {as: 'set_in_place', foreignKey: 'set_in_place_id'});
+        movie.belongsTo(models.time, {as: 'set_in_time', foreignKey: 'set_in_time_id'});
 
         movie.belongsToMany(models.genre, {
             through: 'movies_genres',
