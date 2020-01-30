@@ -3,7 +3,11 @@
   "version": "1.0.0",
   "main": "src/index.js",
   "license": "MIT",
+  "engines": {
+    "node": "10.9.0"
+  },
   "scripts": {
+    "heroku-postbuild": "babel-node ./bin/www",
     "start-server": "nodemon --exec babel-node ./bin/www",
     "build": "echo \"nodemon --exec babel-node build.js --out-dir build\" && exit 1",
     "populate": "nodemon --exec babel-node src/index.js",
