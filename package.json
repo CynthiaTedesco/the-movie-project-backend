@@ -8,8 +8,9 @@
   },
   "scripts": {
     "heroku-postbuild": "babel-node ./bin/www",
+    "start": "babel-node ./bin/www",
     "start-server": "nodemon --exec babel-node ./bin/www",
-    "build": "echo \"nodemon --exec babel-node build.js --out-dir build\" && exit 1",
+    "build": "babel-node build.js --out-dir build && exit 1",
     "populate": "nodemon --exec babel-node src/index.js",
     "subs": "nodemon --exec babel-node src/subs.js",
     "test": "echo \"Error: no test specified\" && exit 1"
