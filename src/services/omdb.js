@@ -16,7 +16,7 @@ function findByTitle(title) {
     return axios.get(url)
         .then(result => {
             if (result.status === 200) {
-                console.log('returning data of "', title, '"');
+                console.log('[findByTitle] - returning data of "', title, '"')
                 return result.data;
             } else {
                 console.log('not 200 status result');
@@ -34,8 +34,9 @@ function findByIMDB(imdb_id){
 
     return axios.get(url)
         .then(result => {
+            console.log(response.statusText, '[omdb] - Request URL', url)
             if (result.status === 200) {
-                console.log('returning data of "', imdb_id, '"');
+                console.log('[findByIMDB] - returning data of "', imdb_id, '"')
                 return result.data;
             } else {
                 console.log('not 200 status result');
@@ -43,6 +44,7 @@ function findByIMDB(imdb_id){
             }
         })
         .catch(error => {
+            console.log('ERROR', error, url)
             console.log(error);
         })
 }

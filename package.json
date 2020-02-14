@@ -7,11 +7,16 @@
     "node": "10.9.0"
   },
   "scripts": {
+    "prepare_db_test": "sequelize db:migrate --env test && sequelize db:seed:all --env test",
+    "prepare_db": "sequelize db:migrate && sequelize db:seed:all",
+
+    "populate": "babel-node src/index.js",
+    "populate_test": "NODE_ENV=test babel-node src/index.js",
+
     "heroku-postbuild": "babel-node ./bin/www",
     "start": "babel-node ./bin/www",
-    "start-server": "nodemon --exec babel-node ./bin/www",
+    "start_dev": "nodemon --exec babel-node ./bin/www",
     "build": "babel-node build.js --out-dir build && exit 1",
-    "populate": "nodemon --exec babel-node src/index.js",
     "subs": "nodemon --exec babel-node src/subs.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -36,7 +41,7 @@
     "pg-hstore": "^2.3.3",
     "request": "^2.88.0",
     "rimraf": "^3.0.0",
-    "sequelize": "^5.15.0",
+    "sequelize": "^5.21.4",
     "sequelize-cli": "^5.5.0",
     "string-similarity": "^3.0.0",
     "subsrt": "^1.1.1",

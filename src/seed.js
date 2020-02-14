@@ -292,7 +292,7 @@ function persistRestrictions(movies, model) {
 function movieDBObject(movie, dbPosters) {
     if (movie.poster){
         const posterIndex = dbPosters.findIndex(({dataValues}) => dataValues.url === movie.poster);
-        movie.poster = dbPosters[posterIndex].dataValues.id;
+        movie.poster = dbPosters[posterIndex] ? dbPosters[posterIndex].dataValues.id : null;
     }
 
     return {

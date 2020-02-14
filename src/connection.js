@@ -1,28 +1,37 @@
-'use strict';
-import Sequelize from 'sequelize';
+'use strict'
+var Sequelize = require('sequelize')
+var env = process.env.NODE_ENV || 'development'
+var config = require(__dirname + '/../config/config.js')[env]
+import 'dotenv/config'
 
-import 'dotenv/config';
-
-let db;
+let db
 
 export async function connectDB() {
-    db = new Sequelize(process.env.DB_NAME, process.env.DB_USERNAME, process.env.DB_PASSWORD, {
-        host: process.env.DB_HOST,
-        port: process.env.DB_PORT,
-        dialect: process.env.DB_DIALECT,
-        logging: false,
-        pool: {
-            max: 10,
-            min: 0,
-            acquire: 30000,
-            idle: 10000
-        }
-    });
+  const options = {
+    ...config,
+    pool: {
+      max: 10,
+      min: 0,
+      acquire: 30000,
+      idle: 10000
+    }
+  }
 
-    return db;
+  if (config.use_env_variable) {
+    db = new Sequelize(process.env[config.use_env_variable], options)
+  } else {
+    db = new Sequelize(
+      config.database,
+      config.username,
+      config.password,
+      options
+    )
+  }
+
+  return db
 }
 
 export async function disconnectDB() {
-    await db.close();
-    console.log('Client disconnected successfully');
+  await db.close()
+  console.log('Client disconnected successfully')
 }

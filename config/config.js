@@ -8,22 +8,16 @@ module.exports = {
     host: process.env.DB_HOST,
     port: process.env.DB_PORT,
     dialect: process.env.DB_DIALECT
+  },
+  test: {
+    use_env_variable: "HEROKU_DB_URL",
+    dialect: process.env.TEST_DB_DIALECT,
+    dialectOptions: {
+      ssl: true
     }
-    //  "test": {
-    // username: 'postres',
-    // password: root,
-    // database: 'mp1',
-    // host: 'localhost',
-    // port: 5433,
-    // dialect: 'postgres'
-    //    "operatorsAliases": false
   }
-  //  "production": {
-  //    "username": "root",
-  //    "password": null,
-  //    "database": "database_production",
-  //    "host": "127.0.0.1",
-  //    "dialect": "mysql",
-  //    "operatorsAliases": false
+  //  production: {
+  //    use_env_variable: "HEROKU_DB_URL"
+  //    dialect: "postgres",
   //  }
-// }
+}
