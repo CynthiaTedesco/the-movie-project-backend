@@ -13,6 +13,7 @@ module.exports = {
   test: {
     use_env_variable: "HEROKU_DB_URL",
     dialect: process.env.TEST_DB_DIALECT,
+    logging: false,
     dialectOptions: {
       ssl: true
     }
