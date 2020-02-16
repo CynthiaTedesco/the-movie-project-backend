@@ -13,9 +13,9 @@
     "populate": "babel-node src/index.js",
     "populate_test": "NODE_ENV=test babel-node src/index.js",
 
-    "heroku-postbuild": "babel-node ./bin/www",
-    "start": "babel-node ./bin/www",
+    "heroku-postbuild": "NODE_ENV=test babel-node ./bin/www",
     "start_dev": "nodemon --exec babel-node ./bin/www",
+    "start_test": "NODE_ENV=test babel-node ./bin/www",
     "build": "babel-node build.js --out-dir build && exit 1",
     "subs": "nodemon --exec babel-node src/subs.js",
     "test": "echo \"Error: no test specified\" && exit 1"

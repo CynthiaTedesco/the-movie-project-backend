@@ -1,11 +1,10 @@
 'use strict'
 var Sequelize = require('sequelize')
 var env = process.env.NODE_ENV || 'development'
-var config = require(__dirname + '/../config/config.js')[env]
+var config = require(__dirname + './../config/config.js')[env]
 import 'dotenv/config'
 
 let db
-
 export async function connectDB() {
   const options = {
     ...config,
@@ -16,7 +15,7 @@ export async function connectDB() {
       idle: 10000
     }
   }
-
+  
   if (config.use_env_variable) {
     db = new Sequelize(process.env[config.use_env_variable], options)
   } else {
@@ -24,10 +23,10 @@ export async function connectDB() {
       config.database,
       config.username,
       config.password,
-      options
-    )
-  }
-
+      config
+      )
+    }
+    
   return db
 }
 
