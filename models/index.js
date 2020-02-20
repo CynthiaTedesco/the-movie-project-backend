@@ -1,6 +1,5 @@
 'use strict'
 
-import { connectDB } from './../src/connection'
 var fs = require('fs')
 var path = require('path')
 var Sequelize = require('sequelize')

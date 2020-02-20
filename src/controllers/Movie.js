@@ -1,4 +1,4 @@
-import MovieModel from '../../models/movie';
+const MovieModel = require('../../models/movie');
 
 const Movie = {
     /**

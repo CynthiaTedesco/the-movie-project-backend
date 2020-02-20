@@ -1,12 +1,12 @@
 // https://www.codementor.io/mirko0/how-to-use-sequelize-with-node-and-express-i24l67cuz
 
 // server.js
-import express from 'express';
-import logger from 'morgan';
-import bodyParser from 'body-parser';
+const express = require('express');
+const logger = require('morgan');
+const bodyParser = require('body-parser');
 
-import Movie from "./src/controllers/Movie";
-import models from './models';
+const Movie = require("./src/controllers/Movie");
+const models = require('./models');
 
 // Set up the express app
 const app = express();
