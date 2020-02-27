@@ -7,6 +7,7 @@ const bodyParser = require('body-parser');
 
 const Movie = require("./src/controllers/Movie");
 const models = require('./models');
+const cors = require('cors');
 
 // Set up the express app
 const app = express();
@@ -17,7 +18,7 @@ app.use(logger('dev'));
 // Parse incoming requests data (https://github.com/expressjs/body-parser)
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: false }));
-
+app.use(cors());
 //will be www who will put the server to listen
 // app.listen(3000);
 

@@ -57,14 +57,5 @@ if (!global.hasOwnProperty('models')) {
 
   db.sequelize = sequelize
   db.Sequelize = Sequelize
-
-  // global.models = {
-  //   Sequelize: Sequelize,
-  //   sequelize: sequelize,
-  //   User: sequelize.import(__dirname + '/user')
-  //   // add your other models here
-  // }
 }
-// module.exports = global.models
-
 module.exports = db
