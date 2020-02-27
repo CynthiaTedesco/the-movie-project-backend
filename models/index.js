@@ -12,13 +12,13 @@ var config = require(__dirname + '/../config/config.js')[env]
 if (!global.hasOwnProperty('models')) {
   var Sequelize = require('sequelize'),
     sequelize = null
-  if (process.env.DATABASE) {
+  if (process.env.DATABASE_URL) {
     // the application is executed on Heroku ... use the postgres         database
-    sequelize = new Sequelize(process.env.DATABASE, {
+    sequelize = new Sequelize(process.env.DATABASE_URL, {
       dialect: 'postgres',
       protocol: 'postgres',
       port: 5432,
-      host: '<heroku host>',
+      host: 'ec2-54-246-89-234.eu-west-1.compute.amazonaws.com',
       logging: true //false
     })
   } else {
