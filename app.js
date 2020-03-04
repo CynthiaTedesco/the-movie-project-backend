@@ -1,67 +1,73 @@
 // https://www.codementor.io/mirko0/how-to-use-sequelize-with-node-and-express-i24l67cuz
 
 // server.js
-const express = require('express');
-const logger = require('morgan');
-const bodyParser = require('body-parser');
+const express = require('express')
+const logger = require('morgan')
+const bodyParser = require('body-parser')
 
-const Movie = require("./src/controllers/Movie");
-const models = require('./models');
-const cors = require('cors');
+const Movie = require('./src/controllers/Movie')
+const models = require('./models')
+const cors = require('cors')
 
 // Set up the express app
-const app = express();
+const app = express()
 // Log requests to the console.
-app.use(logger('dev'));
+app.use(logger('dev'))
 
 // app.use(express.json());
 // Parse incoming requests data (https://github.com/expressjs/body-parser)
-app.use(bodyParser.json());
-app.use(bodyParser.urlencoded({ extended: false }));
-app.use(cors());
+app.use(bodyParser.json())
+app.use(bodyParser.urlencoded({ extended: false }))
+app.use(cors())
 //will be www who will put the server to listen
 // app.listen(3000);
 
 app.get('/', (req, res) => {
-    return res.status(200).send({'message': 'YAY! Congratulations! Your first endpoint is working. Super!'});
-});
+  return res.status(200).send({
+    message: 'YAY! Congratulations! Your first endpoint is working. Super!'
+  })
+})
 
-
-
-// // create a movie
-// app.post('/api/movies', (req, res) => {
-//     Movie.create(req.body)
-//         .then(movie => res.json(movie))
-// });
 // get all movies
 app.get('/api/movies', (req, res) => {
-    models.movie.findAll( {
-        include: [{
-            model: models.language,
-            as: 'languages'
-        }]
-    }).then(movies =>
-        res.status(200).send(movies)
-    ).catch(e=> {
-        console.log('------------------------------------------------------------- ERROR', e)
-    });
-});
+  models.movie
+    .findAll({
+      include: [{ model: models.poster, as: 'poster' }]
+    })
+    .then(movies => res.status(200).send(movies))
+    .catch(console.log)
+})
+// get movie restrictions
+// app.get('/api/restrictions', (req, res) => {
 
-// // create a genre
-// app.post('/api/genres', (req, res) => {
-//     Genre.create(req.body)
-//         .then(genre => res.json(genre))
-// });
-// // get all genres
-// app.get('/api/genres', (req, res) => {
-//     Genre.findAll().then(genres => res.json(genres))
-// });
+//   models.movie
+//     .findAll({
+//       attributes: ['id', 'title'],
+//       include: [{ model: models.restriction, as: 'restrictions' }]
+//     })
+//     .then(movies => res.status(200).send(movies))
+//     .catch(console.log)
+// })
 
-module.exports = app;
+// get all genres
+app.get('/api/genres', (req, res) => {
+  models['genre'].findAll().then(results => res.status(200).send(results))
+})
+// get all story origins
+app.get('/api/story-origins', (req, res) => {
+  models['story_origin']
+    .findAll()
+    .then(results => res.status(200).send(results))
+})
+// get all places
+app.get('/api/places', (req, res) => {
+  models['place'].findAll().then(results => res.status(200).send(results))
+})
+// get all times
+app.get('/api/times', (req, res) => {
+  models['time'].findAll().then(results => res.status(200).send(results))
+})
 
-// app.post('/api/v1/movies', Movie.create);
-// app.get('/api/v1/movies', Movie.getAll);
-// app.get('/api/v1/movies/:id', Movie.getOne);
-// app.put('/api/v1/movies/:id', Movie.update);
-// app.delete('/api/v1/movies/:id', Movie.delete);
+// movie characters, writers, languages, producers, directors, restrictions
 
+module.exports = app
