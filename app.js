@@ -56,7 +56,7 @@ app.get('/api/genres', (req, res) => {
 //get all movies with genres
 app.get('/api/movie-genres', (req, res) => {
   models['movies_genres']
-    .findAll({where:{primary:true}})
+    .findAll()
     .then(results => res.status(200).send(results));
 })
 // get all story origins
