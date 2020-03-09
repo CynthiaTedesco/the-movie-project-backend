@@ -53,6 +53,12 @@ app.get('/api/movies', (req, res) => {
 app.get('/api/genres', (req, res) => {
   models['genre'].findAll().then(results => res.status(200).send(results))
 })
+//get all movies with genres
+app.get('/api/movie-genres', (req, res) => {
+  models['movies_genres']
+    .findAll({where:{primary:true}})
+    .then(results => res.status(200).send(results));
+})
 // get all story origins
 app.get('/api/story-origins', (req, res) => {
   models['story_origin']
@@ -65,7 +71,7 @@ app.get('/api/places', (req, res) => {
 })
 // get all times
 app.get('/api/times', (req, res) => {
-  models['time'].findAll().then(results => res.status(200).send(results))
+  models['time'].findAll().then(results => res.status(200).send(results)) //!!!FIX showing repeated
 })
 
 // movie characters, writers, languages, producers, directors, restrictions
