@@ -16,8 +16,7 @@ function generateToken(user) {
 
   return jwt.sign({ data }, signature, { expiresIn: expiration })
 }
-
-export async function login(req, res) {
+const login = async function(req, res) {
   const userRecord = await models['user'].findOne({
     where: { username: req.body.username }
   })
@@ -44,7 +43,7 @@ export async function login(req, res) {
   }
 }
 
-export async function signUp(req, res) {
+const signUp = async function(req, res) {
   if (req.body.password && req.body.username) {
     const password = req.body.password
     bcrypt.hash(password, saltRounds, async function(err, hash) {
@@ -65,4 +64,9 @@ export async function signUp(req, res) {
   } else {
     throw new Error('required password')
   }
+}
+
+module.exports = {
+  login,
+  signUp
 }
