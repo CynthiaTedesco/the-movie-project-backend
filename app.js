@@ -4,7 +4,7 @@
 const express = require('express')
 const logger = require('morgan')
 const bodyParser = require('body-parser')
-
+const { signUp, login } = require('./src/auth')
 const Movie = require('./src/controllers/Movie')
 const models = require('./models')
 const cors = require('cors')
@@ -87,7 +87,6 @@ app.get('/api/movie/types', (req, res) => {
   models['movie_type'].findAll().then(results => res.status(200).send(results)) //!!!FIX showing repeated
 })
 
-import {signUp, login } from './src/auth'
 app.post('/api/signUp', signUp)
 app.post('/api/login', login)
 // movie characters, writers, languages, producers, directors, restrictions
