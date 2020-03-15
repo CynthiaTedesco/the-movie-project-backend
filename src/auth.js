@@ -12,7 +12,7 @@ function generateToken(user) {
     username: user.username
   }
   const signature = 'MySuP3R_z3kr3t'
-  const expiration = '6h'
+  const expiration = '6h' //21600s
 
   return jwt.sign({ data }, signature, { expiresIn: expiration })
 }
@@ -30,7 +30,8 @@ const login = async function(req, res) {
       if (result == true) {
         return res.status(200).send({
           user: userRecord.username,
-          token: generateToken(userRecord)
+          token: generateToken(userRecord),
+          expiresIn: 21600 //6h
         })
       } else {
         return res.status(500).send('Incorrect password')
