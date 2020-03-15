@@ -37,6 +37,15 @@ app.get('/api/movies', (req, res) => {
     .then(movies => res.status(200).send(movies))
     .catch(console.log)
 })
+// app.get('/api/gen', (req, res) => {
+//   models.movie
+//     .findOne({
+//       where: { id: '4' },
+//       include: [{ model: models.genre, as: 'poster' }]
+//     })
+//     .then(movies => res.status(200).send(movies))
+//     .catch(console.log)
+// })
 // get movie restrictions
 // app.get('/api/restrictions', (req, res) => {
 
@@ -57,7 +66,7 @@ app.get('/api/genres', (req, res) => {
 app.get('/api/movie-genres', (req, res) => {
   models['movies_genres']
     .findAll()
-    .then(results => res.status(200).send(results));
+    .then(results => res.status(200).send(results))
 })
 // get all story origins
 app.get('/api/story-origins', (req, res) => {
@@ -73,7 +82,14 @@ app.get('/api/places', (req, res) => {
 app.get('/api/times', (req, res) => {
   models['time'].findAll().then(results => res.status(200).send(results)) //!!!FIX showing repeated
 })
+// get all times
+app.get('/api/movie/types', (req, res) => {
+  models['movie_type'].findAll().then(results => res.status(200).send(results)) //!!!FIX showing repeated
+})
 
+import {signUp, login } from './src/auth'
+app.post('/api/signUp', signUp)
+app.post('/api/login', login)
 // movie characters, writers, languages, producers, directors, restrictions
 
 module.exports = app
