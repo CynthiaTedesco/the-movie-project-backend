@@ -21,7 +21,7 @@ const login = async function(req, res) {
     where: { username: req.body.username }
   })
   if (!userRecord) {
-    throw new Error('User not found')
+    return res.status(500).send('User not found')
   } else {
     bcrypt.compare(req.body.password, userRecord.password, function(
       err,
@@ -33,7 +33,7 @@ const login = async function(req, res) {
           token: generateToken(userRecord)
         })
       } else {
-        throw new Error('Incorrect password')
+        return res.status(500).send('Incorrect password')
       }
     })
   }
@@ -48,7 +48,7 @@ const signUp = async function(req, res) {
     const password = req.body.password
     bcrypt.hash(password, saltRounds, async function(err, hash) {
       if (err) {
-        throw err
+        return res.status(500).send('Error generating the hash')
       }
       // Store hash in your password DB.
       const now = new Date().toISOString()
@@ -58,11 +58,11 @@ const signUp = async function(req, res) {
         )
         .then(results => res.status(200).send(results))
         .catch(err => {
-          throw new Error(err)
+          return res.status(500).send('Error trying to create user')
         })
     })
   } else {
-    throw new Error('required password')
+    return res.status(500).send('required password')
   }
 }
 
