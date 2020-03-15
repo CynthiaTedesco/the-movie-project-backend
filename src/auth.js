@@ -2,7 +2,7 @@ const UserModel = require('../models/user')
 const models = require('../models')
 var parse = require('postgres-date')
 
-import * as jwt from 'jsonwebtoken'
+const jwt = require('jsonwebtoken')
 const bcrypt = require('bcrypt')
 const saltRounds = 10
 
