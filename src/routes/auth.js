@@ -1,5 +1,5 @@
-const UserModel = require('../models/user')
-const models = require('../models')
+const UserModel = require('../../models/user')
+const models = require('../../models')
 var parse = require('postgres-date')
 
 const jwt = require('jsonwebtoken')

@@ -4,7 +4,8 @@
 const express = require('express')
 const logger = require('morgan')
 const bodyParser = require('body-parser')
-const { signUp, login } = require('./src/auth')
+const { signUp, login } = require('./src/routes/auth')
+const { toggleValidity } = require('./src/routes/movies')
 const Movie = require('./src/controllers/Movie')
 const models = require('./models')
 const cors = require('cors')
@@ -89,6 +90,7 @@ app.get('/api/movie/types', (req, res) => {
 
 app.post('/api/signUp', signUp)
 app.post('/api/login', login)
+app.post('/api/toggleValidity', toggleValidity)
 // movie characters, writers, languages, producers, directors, restrictions
 
 module.exports = app
