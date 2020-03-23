@@ -5,7 +5,18 @@ const express = require('express')
 const logger = require('morgan')
 const bodyParser = require('body-parser')
 const { signUp, login } = require('./src/routes/auth')
-const { toggleValidity, allMovies, fullMovie } = require('./src/routes/movies')
+const {
+  toggleValidity,
+  allMovies,
+  fullMovie,
+  movieGenres,
+  movieCharacters,
+  movieDirectors,
+  movieLanguages,
+  movieProducers,
+  movieRestrictions,
+  movieWriters
+} = require('./src/routes/movies')
 const Movie = require('./src/controllers/Movie')
 const models = require('./models')
 const cors = require('cors')
@@ -29,53 +40,18 @@ app.get('/', (req, res) => {
   })
 })
 
-// get all movies
 app.get('/api/movies', allMovies)
 app.get('/api/movies/:id', fullMovie)
-// get movie restrictions
-// app.get('/api/restrictions', (req, res) => {
+app.get('/api/movies/:id/genres', movieGenres)
+app.get('/api/movies/:id/characters', movieCharacters)
+app.get('/api/movies/:id/directors', movieDirectors)
+app.get('/api/movies/:id/writers', movieWriters)
+app.get('/api/movies/:id/restrictions', movieRestrictions)
+app.get('/api/movies/:id/languages', movieLanguages)
+app.get('/api/movies/:id/producers', movieProducers)
 
-//   models.movie
-//     .findAll({
-//       attributes: ['id', 'title'],
-//       include: [{ model: models.restriction, as: 'restrictions' }]
-//     })
-//     .then(movies => res.status(200).send(movies))
-//     .catch(console.log)
-// })
-
-// get all genres
-app.get('/api/genres', (req, res) => {
-  models['genre'].findAll().then(results => res.status(200).send(results))
-})
-//get all movies with genres
-app.get('/api/movie-genres', (req, res) => {
-  models['movies_genres']
-    .findAll()
-    .then(results => res.status(200).send(results))
-})
-// get all story origins
-app.get('/api/story-origins', (req, res) => {
-  models['story_origin']
-    .findAll()
-    .then(results => res.status(200).send(results))
-})
-// get all places
-app.get('/api/places', (req, res) => {
-  models['place'].findAll().then(results => res.status(200).send(results))
-})
-// get all times
-app.get('/api/times', (req, res) => {
-  models['time'].findAll().then(results => res.status(200).send(results)) //!!!FIX showing repeated
-})
-// get all times
-app.get('/api/movie/types', (req, res) => {
-  models['movie_type'].findAll().then(results => res.status(200).send(results)) //!!!FIX showing repeated
-})
-
+app.post('/api/movies/:id/toggleValidity', toggleValidity)
 app.post('/api/signUp', signUp)
 app.post('/api/login', login)
-app.post('/api/toggleValidity', toggleValidity)
-// movie characters, writers, languages, producers, directors, restrictions
 
 module.exports = app
