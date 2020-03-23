@@ -5,7 +5,7 @@ const express = require('express')
 const logger = require('morgan')
 const bodyParser = require('body-parser')
 const { signUp, login } = require('./src/routes/auth')
-const { toggleValidity } = require('./src/routes/movies')
+const { toggleValidity, allMovies, fullMovie } = require('./src/routes/movies')
 const Movie = require('./src/controllers/Movie')
 const models = require('./models')
 const cors = require('cors')
@@ -30,23 +30,8 @@ app.get('/', (req, res) => {
 })
 
 // get all movies
-app.get('/api/movies', (req, res) => {
-  models.movie
-    .findAll({
-      include: [{ model: models.poster, as: 'poster' }]
-    })
-    .then(movies => res.status(200).send(movies))
-    .catch(console.log)
-})
-// app.get('/api/gen', (req, res) => {
-//   models.movie
-//     .findOne({
-//       where: { id: '4' },
-//       include: [{ model: models.genre, as: 'poster' }]
-//     })
-//     .then(movies => res.status(200).send(movies))
-//     .catch(console.log)
-// })
+app.get('/api/movies', allMovies)
+app.get('/api/movies/:id', fullMovie)
 // get movie restrictions
 // app.get('/api/restrictions', (req, res) => {
 

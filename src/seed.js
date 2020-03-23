@@ -124,6 +124,8 @@ function setAssociations(toAssociateList, dbAssociationsList, dbMovie, model, as
 
 function setPeopleAssociations(movie, dbPeopleList, dbMovie, models) {
     //writers
+    //TODO remove duplicates
+    //TODO check that it does not persist duplicates
     if (movie.writers && movie.writers.length) {
         movie.writers.filter(a => a).forEach(mw => {
             const writerName = mw.substring(0, mw.indexOf('(') > -1 ? mw.indexOf('(') : mw.length).trim();
@@ -142,6 +144,7 @@ function setPeopleAssociations(movie, dbPeopleList, dbMovie, models) {
     }
 
     //actors
+    //TODO check duplicates!
     if (movie.actors && movie.actors.length) {
         movie.actors.filter(a => a).forEach((ma, i) => {
             const index = dbPeopleList.findIndex(({dataValues}) => dataValues.name === ma);
@@ -157,6 +160,7 @@ function setPeopleAssociations(movie, dbPeopleList, dbMovie, models) {
     }
 
     //directors
+    //TODO check why firsts movies directors are missing
     if (movie.directors && movie.directors.length) {
         movie.directors.filter(a => a).forEach((md, i) => {
             const directorName = md.substring(0, md.indexOf('(') > -1 ? md.indexOf('(') : md.length).trim();
