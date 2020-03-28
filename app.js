@@ -15,7 +15,8 @@ const {
   movieLanguages,
   movieProducers,
   movieRestrictions,
-  movieWriters
+  movieWriters,
+  deleteMovie
 } = require('./src/routes/movies')
 const Movie = require('./src/controllers/Movie')
 const models = require('./models')
@@ -53,5 +54,7 @@ app.get('/api/movies/:id/producers', movieProducers)
 app.post('/api/movies/:id/toggleValidity', toggleValidity)
 app.post('/api/signUp', signUp)
 app.post('/api/login', login)
+
+app.delete('/api/movies/:id', deleteMovie)
 
 module.exports = app

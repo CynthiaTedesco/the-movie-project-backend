@@ -39,14 +39,13 @@ const fullMovie = async function(req, res) {
   movie.dataValues.restrictions = restrictionsAssoc.dataValues.restrictions
 
   const charactersAssoc = await characters(req.params.id)
-  movie.dataValues.characters= charactersAssoc.dataValues.characters
+  movie.dataValues.characters = charactersAssoc.dataValues.characters
 
   const directorsAssoc = await directors(req.params.id)
   movie.dataValues.directors = directorsAssoc.dataValues.directors
 
   const writtersAssoc = await writers(req.params.id)
   movie.dataValues.writers = writtersAssoc.dataValues.writers
-  ;
   res.status(200).send(movie)
 }
 
@@ -229,6 +228,15 @@ const allMovies = (req, res) => {
     .catch(console.log)
 }
 
+const deleteMovie = (req, res) => {
+  models.movie
+    .destroy({
+      where: { id: req.params.id }
+    })
+    .then(() => res.status(200).send('success'))
+    .catch(console.log)
+}
+
 module.exports = {
   toggleValidity,
   fullMovie,
@@ -239,5 +247,6 @@ module.exports = {
   movieDirectors,
   movieLanguages,
   movieProducers,
-  movieWriters
+  movieWriters,
+  deleteMovie
 }
