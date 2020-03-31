@@ -32,6 +32,9 @@ const fullMovie = async function(req, res) {
   const genresAssoc = await genres(req.params.id)
   movie.dataValues.genres = genresAssoc.dataValues.genres
 
+  const producersAssoc = await producers(req.params.id)
+  movie.dataValues.producers = producersAssoc.dataValues.producers
+
   const languagesAssoc = await languages(req.params.id)
   movie.dataValues.languages = languagesAssoc.dataValues.languages
 
