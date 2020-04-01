@@ -236,10 +236,39 @@ const deleteMovie = (req, res) => {
     .destroy({
       where: { id: req.params.id }
     })
-    .then(() => res.status(200).send('success'))
+    .then(() => res.status(200).send('Successful delete'))
     .catch(console.log)
 }
 
+const updateMovie = (req, res) => {
+  models.movie
+    .findOne({
+      where: { id: req.params.id }
+    })
+    .then(async movie => {
+      await updateSimpleFields(movie, req.body)
+      return res.status(200).send({message:'Successful update', updated: movie});
+    })
+    .catch(console.log)
+}
+
+const updateSimpleFields = (movie, updates) => {
+  let updated = false
+  if (updates.revenue) {
+    movie.revenue = updates.revenue
+    updated = true
+  }
+  if (updates.overview) {
+    movie.overview = updates.overview
+    updated = true
+  }
+
+  if (updated) {
+    return movie.save()
+  }
+
+  return movie
+}
 module.exports = {
   toggleValidity,
   fullMovie,
@@ -251,5 +280,6 @@ module.exports = {
   movieLanguages,
   movieProducers,
   movieWriters,
-  deleteMovie
+  deleteMovie,
+  updateMovie
 }
