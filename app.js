@@ -19,6 +19,17 @@ const {
   deleteMovie,
   updateMovie
 } = require('./src/routes/movies')
+const { allGenres } = require('./src/routes/genres')
+const { allLanguages } = require('./src/routes/languages')
+const { allProducers } = require('./src/routes/producers')
+const { allMovieTypes } = require('./src/routes/movieTypes')
+const { allWriters } = require('./src/routes/writers')
+const { allCharacters, allCharacterTypes } = require('./src/routes/characters')
+const { allDirectors } = require('./src/routes/directors')
+const { allOrigins } = require('./src/routes/origins')
+const { allTimes } = require('./src/routes/times')
+const { allPlaces } = require('./src/routes/places')
+
 const Movie = require('./src/controllers/Movie')
 const models = require('./models')
 const cors = require('cors')
@@ -41,7 +52,27 @@ app.get('/', (req, res) => {
     message: 'YAY! Congratulations! Your first endpoint is working. Super!'
   })
 })
+//genres
+app.get('/api/genres', allGenres)
+//people
+app.get('/api/writers', allWriters)
+app.get('/api/characters', allCharacters)
+app.get('/api/character_types', allCharacterTypes)
+app.get('/api/directors', allDirectors)
+//producers
+app.get('/api/producers', allProducers)
+//origins
+app.get('/api/origins', allOrigins)
+//places
+app.get('/api/places', allPlaces)
+//times
+app.get('/api/times', allTimes)
+//languages
+app.get('/api/languages', allLanguages)
+//movie types
+app.get('/api/movie_types', allMovieTypes)
 
+//movies
 app.get('/api/movies', allMovies)
 app.get('/api/movies/:id/genres', movieGenres)
 app.get('/api/movies/:id/characters', movieCharacters)
@@ -57,6 +88,6 @@ app.post('/api/login', login)
 
 app.get('/api/movies/:id', fullMovie)
 app.delete('/api/movies/:id', deleteMovie)
-app.post('/api/movies/:id', updateMovie);
+app.post('/api/movies/:id', updateMovie)
 
 module.exports = app

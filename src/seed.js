@@ -222,7 +222,7 @@ async function persistLanguages(movies, model) {
     unrepeated
         .sort()
         .map(item => {
-            return {code: item, name: item}
+            return {code: item, name: item} //TODO get the name of the language from omdb
         })
         .forEach(language => model.upsert(language));
 }

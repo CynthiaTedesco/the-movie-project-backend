@@ -5,7 +5,7 @@ import { addSubsFileNames } from '../subs'
 const fs = require('fs')
 var subsrt = require('subsrt')
 
-const movieQty = 100;
+const movieQty = 100
 
 function successCB(data) {
   // console.log('Success callback: ', data)
@@ -16,7 +16,7 @@ function errorCB(data) {
 }
 
 export async function list(db) {
-  console.log('---------- LIST', movieQty);
+  console.log('---------- LIST', movieQty)
   // const theMovieDB_data = await themoviedb.data(movieQty, successCB, errorCB);
   // fs.writeFileSync('themoviedb_movies.json', JSON.stringify(theMovieDB_data, null, 2));
 
@@ -31,8 +31,9 @@ export async function list(db) {
   const omdb_data = await omdb.data(movies, successCB, errorCB)
 
   //TODO look at theMovieDB restrictions
-  //TODO add gender from theMovieDB
-
+  //TODO add gender from theMovieDB --> https://developers.themoviedb.org/3/people/get-person-details
+  //TODO add name of the language from omdb
+  //TODO check where to get the producer country name
   const consolidatedAPIs = await Promise.all(
     movies.map(async lm => {
       let movie = lm.dataValues ? lm.dataValues : lm
@@ -93,7 +94,11 @@ export async function list(db) {
               )
               wordArrayItem.count += 1
             } else {
-              words.push({ word, count: 1, sanitizedWord })
+              words.push({
+                word,
+                count: 1,
+                sanitizedWord
+              })
             }
           })
         })
@@ -102,9 +107,12 @@ export async function list(db) {
         if (words.length) {
           movie.most_used_word = words.sort(
             (w1, w2) => -w1.count + w2.count
-          )[0].word;
+          )[0].word
         } else {
-            console.log('---------------------------- movie without words:', movie.title);
+          console.log(
+            '---------------------------- movie without words:',
+            movie.title
+          )
         }
 
         return movie
