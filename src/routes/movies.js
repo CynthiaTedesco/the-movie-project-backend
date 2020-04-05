@@ -1,23 +1,23 @@
 const models = require('../../models')
-
-const toggleValidity = async function(req, res) {
+const { updateGenres } = require('../controllers/Associations')
+const toggleValidity = async function (req, res) {
   await models['movie']
     .update(
       { valid: models.sequelize.literal('NOT valid') },
       {
         where: {
-          id: req.params.id
-        }
+          id: req.params.id,
+        },
       }
     )
     .then(() => res.status(200).send('success'))
-    .catch(err => {
+    .catch((err) => {
       console.log(err)
       return res.status(500).send('Error trying to toggle validity')
     })
 }
 
-const fullMovie = async function(req, res) {
+const fullMovie = async function (req, res) {
   const movie = await models.movie.findOne({
     where: { id: req.params.id },
     include: [
@@ -25,8 +25,8 @@ const fullMovie = async function(req, res) {
       { model: models.story_origin, as: 'story_origin' },
       { model: models.movie_type, as: 'type' },
       { model: models.place, as: 'set_in_place' },
-      { model: models.time, as: 'set_in_time' }
-    ]
+      { model: models.time, as: 'set_in_time' },
+    ],
   })
 
   const genresAssoc = await genres(req.params.id)
@@ -52,7 +52,7 @@ const fullMovie = async function(req, res) {
   res.status(200).send(movie)
 }
 
-const genres = id => {
+const genres = (id) => {
   return models.movie.findOne({
     where: { id: id },
     attributes: ['id', 'title'],
@@ -65,13 +65,13 @@ const genres = id => {
         through: {
           model: models['movies_genres'],
           as: 'movies_genres',
-          attributes: ['primary']
-        }
-      }
-    ]
+          attributes: ['primary'],
+        },
+      },
+    ],
   })
 }
-const producers = id => {
+const producers = (id) => {
   return models.movie.findOne({
     where: { id: id },
     attributes: ['id', 'title'],
@@ -84,13 +84,13 @@ const producers = id => {
         through: {
           model: models['movies_producers'],
           as: 'movies_producers',
-          attributes: ['primary']
-        }
-      }
-    ]
+          attributes: ['primary'],
+        },
+      },
+    ],
   })
 }
-const languages = id => {
+const languages = (id) => {
   return models.movie.findOne({
     where: { id: id },
     attributes: ['id', 'title'],
@@ -104,12 +104,12 @@ const languages = id => {
           model: models['movies_languages'],
           as: 'movies_languages',
           attributes: ['primary']
-        }
-      }
-    ]
+        },
+      },
+    ],
   })
 }
-const characters = id => {
+const characters = (id) => {
   return models.movie.findOne({
     where: { id: id },
     attributes: ['id', 'title'],
@@ -160,13 +160,13 @@ const writers = id => {
         through: {
           model: models['movies_writers'],
           as: 'movies_writers',
-          attributes: ['primary', 'detail']
+          attributes: ['primary', 'detail'],
         }
       }
     ]
   })
 }
-const restrictions = id => {
+const restrictions = (id) => {
   return models.movie.findOne({
     where: { id: id },
     attributes: ['id', 'title'],
@@ -179,62 +179,62 @@ const restrictions = id => {
         through: {
           model: models['movies_restrictions'],
           as: 'movies_restrictions',
-          attributes: ['primary']
+          attributes: ['primary'],
         }
       }
     ]
   })
 }
 
-const movieGenres = function(req, res) {
+const movieGenres = function (req, res) {
   genres(req.params.id)
-    .then(movie => res.status(200).send(movie))
+    .then((movie) => res.status(200).send(movie))
     .catch(console.log)
 }
-const movieRestrictions = function(req, res) {
+const movieRestrictions = function (req, res) {
   restrictions(req.params.id)
-    .then(movie => res.status(200).send(movie))
+    .then((movie) => res.status(200).send(movie))
     .catch(console.log)
 }
-const movieWriters = function(req, res) {
+const movieWriters = function (req, res) {
   writers(req.params.id)
-    .then(movie => res.status(200).send(movie))
+    .then((movie) => res.status(200).send(movie))
     .catch(console.log)
 }
-const movieDirectors = function(req, res) {
+const movieDirectors = function (req, res) {
   directors(req.params.id)
-    .then(movie => res.status(200).send(movie))
+    .then((movie) => res.status(200).send(movie))
     .catch(console.log)
 }
-const movieCharacters = function(req, res) {
+const movieCharacters = function (req, res) {
   characters(req.params.id)
-    .then(movie => res.status(200).send(movie))
+    .then((movie) => res.status(200).send(movie))
     .catch(console.log)
 }
-const movieProducers = function(req, res) {
+const movieProducers = function (req, res) {
   producers(req.params.id)
-    .then(movie => res.status(200).send(movie))
+    .then((movie) => res.status(200).send(movie))
     .catch(console.log)
 }
-const movieLanguages = function(req, res) {
+const movieLanguages = function (req, res) {
   languages(req.params.id)
-    .then(movie => res.status(200).send(movie))
+    .then((movie) => res.status(200).send(movie))
     .catch(console.log)
 }
 
 const allMovies = (req, res) => {
   models.movie
     .findAll({
-      include: [{ model: models.poster, as: 'poster' }]
+      include: [{ model: models.poster, as: 'poster' }],
     })
-    .then(movies => res.status(200).send(movies))
+    .then((movies) => res.status(200).send(movies))
     .catch(console.log)
 }
 
 const deleteMovie = (req, res) => {
   models.movie
     .destroy({
-      where: { id: req.params.id }
+      where: { id: req.params.id },
     })
     .then(() => res.status(200).send('Successful delete'))
     .catch(console.log)
@@ -243,13 +243,22 @@ const deleteMovie = (req, res) => {
 const updateMovie = (req, res) => {
   models.movie
     .findOne({
-      where: { id: req.params.id }
+      where: { id: req.params.id },
     })
-    .then(async movie => {
+    .then(async (movie) => {
       await updateSimpleFields(movie, req.body)
-      return res.status(200).send({message:'Successful update', updated: movie});
+      await updateLists(movie, req.body)
+      return res
+        .status(200)
+        .send({ message: 'Successful update', updated: movie })
     })
     .catch(console.log)
+}
+
+const updateLists = (movie, updates) => {
+  if (updates.genres) {
+    return updateGenres(movie.dataValues, updates.genres)
+  }
 }
 
 const updateSimpleFields = (movie, updates) => {
