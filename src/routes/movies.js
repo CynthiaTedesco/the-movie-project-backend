@@ -1,5 +1,8 @@
 const models = require('../../models')
-const { updateGenres } = require('../controllers/Associations')
+const {
+  updateGenres,
+  updateCharacters,
+} = require('../controllers/Associations')
 const toggleValidity = async function (req, res) {
   await models['movie']
     .update(
@@ -257,7 +260,10 @@ const updateMovie = (req, res) => {
 
 const updateLists = (movie, updates) => {
   if (updates.genres) {
-    return updateGenres(movie.dataValues, updates.genres)
+    updateGenres(movie.dataValues, updates.genres)
+  }
+  if(updates.characters){
+    updateCharacters(movie.dataValues, updates.characters)
   }
 }
 
