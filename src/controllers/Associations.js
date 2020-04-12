@@ -59,6 +59,7 @@ export async function updateCharacters(movie, list) {
     movie.id,
     'characters'
   )
+
   updateAssociations(
     movie,
     list,
@@ -66,6 +67,48 @@ export async function updateCharacters(movie, list) {
     'movies_characters',
     'characters'
   )
+  updatePeople(movie, list)
+}
+
+async function updatePeople(movie, list) {
+  const currentAssoc = await models['movies_characters'].findAll({
+    where: { movie_id: movie.id },
+    attributes: ['id', 'person_id', 'movie_id'],
+    raw: true,
+  })
+  const currentPeople = await models.person.findAll({
+    where: {
+      id: {
+        [Op.in]: currentAssoc.map((ca) => ca.person_id),
+      },
+    },
+    attributes: ['id', 'name', 'gender', 'date_of_birth'],
+  })
+
+  currentPeople.forEach((currentPersonRecord) => {
+    const currentPerson = currentPersonRecord.dataValues
+
+    const updatedPerson = list.find((item) => {
+      return parseInt(item.id) === parseInt(currentPerson.id);
+    })
+
+    if (updatedPerson) {
+      let isUpdated = false
+
+      if (currentPerson.gender != updatedPerson.gender) {
+        currentPersonRecord.gender = updatedPerson.gender
+        isUpdated = true
+      }
+
+      if (currentPerson.date_of_birth != updatedPerson.date_of_birth) {
+        currentPersonRecord.date_of_birth = updatedPerson.date_of_birth
+        isUpdated = true
+      }
+      if (isUpdated) {
+        return currentPersonRecord.save()
+      }
+    }
+  })
 }
 
 async function updateAssociations(movie, list, itemKey, assocTable, people) {
@@ -108,10 +151,10 @@ async function updateAssociations(movie, list, itemKey, assocTable, people) {
     if (updated) {
       if (people) {
         if (people === 'characters') {
-          const notEqual = 
+          const notEqual =
             updated[assocTable].main !== assoc.main ||
             updated[assocTable].character_name !== assoc.character_name ||
-            updated[assocTable].type !== assoc.type;
+            updated[assocTable].type !== assoc.type
 
           if (notEqual) {
             //check if it has been already added
@@ -123,7 +166,7 @@ async function updateAssociations(movie, list, itemKey, assocTable, people) {
                 key: assoc[itemKey],
                 main: updated[assocTable].main,
                 character_name: updated[assocTable].character_name,
-                type: updated[assocTable].type
+                type: updated[assocTable].type,
               })
             }
           }
@@ -179,7 +222,7 @@ async function updateAssociations(movie, list, itemKey, assocTable, people) {
     let updateObj = {}
     if (people) {
       if (people === 'characters') {
-        updateObj.main = change.main;
+        updateObj.main = change.main
         updateObj.type = change.type
         updateObj.character_name = change.character_name
       }
