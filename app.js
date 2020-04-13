@@ -33,6 +33,7 @@ const {
 const { allOrigins } = require('./src/routes/origins')
 const { allTimes } = require('./src/routes/times')
 const { allPlaces } = require('./src/routes/places')
+const { allRestrictions } = require('./src/routes/restrictions')
 
 const Movie = require('./src/controllers/Movie')
 const models = require('./models')
@@ -75,6 +76,8 @@ app.get('/api/times', allTimes)
 app.get('/api/languages', allLanguages)
 //movie types
 app.get('/api/movie_types', allMovieTypes)
+//restrictions
+app.get('/api/restrictions', allRestrictions)
 
 //movies
 app.get('/api/movies', allMovies)
