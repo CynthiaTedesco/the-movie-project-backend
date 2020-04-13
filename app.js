@@ -23,12 +23,13 @@ const { allGenres } = require('./src/routes/genres')
 const { allLanguages } = require('./src/routes/languages')
 const { allProducers } = require('./src/routes/producers')
 const { allMovieTypes } = require('./src/routes/movieTypes')
+const { allPosterTypes } = require('./src/routes/poster')
 const {
   allWriters,
   allDirectors,
   allCharacters,
   allCharacterTypes,
-  updatePeopleDetails
+  updatePeopleDetails,
 } = require('./src/routes/people')
 const { allOrigins } = require('./src/routes/origins')
 const { allTimes } = require('./src/routes/times')
@@ -76,6 +77,8 @@ app.get('/api/times', allTimes)
 app.get('/api/languages', allLanguages)
 //movie types
 app.get('/api/movie_types', allMovieTypes)
+//poster types
+app.get('/api/poster_types', allPosterTypes)
 //restrictions
 app.get('/api/restrictions', allRestrictions)
 
