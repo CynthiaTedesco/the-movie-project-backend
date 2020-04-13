@@ -1,5 +1,8 @@
-import axios from 'axios'
-import 'dotenv/config'
+require('dotenv/config')
+const axios = require('axios')
+const { successCB, errorCB } = require('./common')
+// import axios from 'axios'
+// import 'dotenv/config'
 
 //https://github.com/cavestri/themoviedb-javascript-library/wiki
 
@@ -11,7 +14,7 @@ theMovieDb.common = {
   images_uri: 'http://image.tmdb.org/t/p/',
   timeout: 2000,
   language: 'en-US',
-  generateQuery: function(options) {
+  generateQuery: function (options) {
     'use strict'
     var myOptions, query, option
 
@@ -32,24 +35,26 @@ theMovieDb.common = {
     }
     return query
   },
-  validateCallbacks: function(success, error) {
+  validateCallbacks: function (success, error) {
     'use strict'
     if (typeof success !== 'function' || typeof error !== 'function') {
       throw 'success and error parameters must be functions!'
     }
   },
-  validateRequired: function(args, argsReq, opt, optReq, allOpt) {
+  validateRequired: function (args, argsReq, opt, optReq, allOpt) {
     'use strict'
     var i, allOptional
 
     allOptional = allOpt || false
 
     if (args.length !== argsReq) {
-      throw 'The method requires  ' +
+      throw (
+        'The method requires  ' +
         argsReq +
         ' arguments and you are sending ' +
         args.length +
         '!'
+      )
     }
 
     if (allOptional) {
@@ -59,17 +64,19 @@ theMovieDb.common = {
     if (argsReq > 2) {
       for (i = 0; i < optReq.length; i = i + 1) {
         if (!opt.hasOwnProperty(optReq[i])) {
-          throw optReq[i] +
+          throw (
+            optReq[i] +
             ' is a required parameter and is not present in the options!'
+          )
         }
       }
     }
   },
-  getImage: function(options) {
+  getImage: function (options) {
     'use strict'
     return theMovieDb.common.images_uri + options.size + '/' + options.file
   },
-  client: async function(options, success, error) {
+  client: async function (options, success, error) {
     'use strict'
     axios.defaults.timeout = theMovieDb.common.timeout
 
@@ -77,7 +84,7 @@ theMovieDb.common = {
 
     return axios
       .get(requestURL)
-      .then(response => {
+      .then((response) => {
         console.log(
           response.statusText,
           '[themoviedb]- Request URL',
@@ -90,7 +97,7 @@ theMovieDb.common = {
           error(response.statusText)
         }
       })
-      .catch(e => {
+      .catch((e) => {
         console.log('ERROR', e, requestURL)
         if (e.response) {
           switch (e.response.status) {
@@ -118,42 +125,42 @@ theMovieDb.common = {
           )
         }
       })
-  }
+  },
 }
 
 const THE_MOVIE_DB_X_RATE = 40
 const THE_MOVIE_DB_X_RATE_TIMEOUT = 12 * 1000
 
 function markUnlikelyMovies(initial) {
-  return initial.map(mm => {
+  return initial.map((mm) => {
     mm.valid = !(!mm.release_date || mm.vote_count < 1000)
     return mm
   })
 }
-function getChunks(blockbusters) {
+function getChunks(list) {
   let i
   let j
   let chunks = []
   let chunk = THE_MOVIE_DB_X_RATE
 
-  for (i = 0, j = blockbusters.length; i < j; i += chunk) {
-    chunks.push(blockbusters.slice(i, i + chunk))
+  for (i = 0, j = list.length; i < j; i += chunk) {
+    chunks.push(list.slice(i, i + chunk))
   }
 
   return chunks
 }
 
-async function getMoviesDetails(blockbusters, successCB, errorCB) {
+async function getMoviesDetails(blockbusters) {
   if (blockbusters.length) {
     const chunks = getChunks(blockbusters)
 
     let results = []
-    return new Promise(resolve => {
+    return new Promise((resolve) => {
       for (let i = 0; i < chunks.length; i++) {
         setTimeout(async () => {
           const chunk = chunks[i]
 
-          const chunkMoviesPromises = chunk.map(movie => {
+          const chunkMoviesPromises = chunk.map((movie) => {
             return getMovieDetails({ id: movie.id }, successCB, errorCB)
           })
           const chunkResults = await Promise.all(chunkMoviesPromises)
@@ -177,7 +184,7 @@ async function getMovieDetails(options, success, error) {
 
   const theMovieDbResponse = await theMovieDb.common.client(
     {
-      url: 'movie/' + options.id + theMovieDb.common.generateQuery(options)
+      url: 'movie/' + options.id + theMovieDb.common.generateQuery(options),
     },
     success,
     error
@@ -245,17 +252,13 @@ async function discoverMovies(options, success, error) {
   return []
 }
 
-export async function data(qty = 50, successCB, errorCB) {
-  const blockbusters = await discoverMovies(
-    { quantity: qty },
-    successCB,
-    errorCB
-  )
+async function data(qty = 50, success = successCB, error = errorCB) {
+  const blockbusters = await discoverMovies({ quantity: qty }, success, error)
   if (blockbusters.length) {
-    const details = await getMoviesDetails(blockbusters, successCB, errorCB)
-    return blockbusters.map(b => {
+    const details = await getMoviesDetails(blockbusters, success, error)
+    return blockbusters.map((b) => {
       if (details) {
-        let detail = details.find(d => d.title === b.title)
+        let detail = details.find((d) => d.title === b.title)
         if (detail) {
           return {
             imdb_id: detail.imdb_id,
@@ -276,7 +279,7 @@ export async function data(qty = 50, successCB, errorCB) {
             spoken_languages: detail.spoken_languages,
             status: detail.status,
             overview: b.overview,
-            tagline: detail.tagline
+            tagline: detail.tagline,
           }
         }
       }
@@ -285,4 +288,81 @@ export async function data(qty = 50, successCB, errorCB) {
   } else {
     return blockbusters
   }
+}
+
+async function searchPerson(options) {
+  'use strict'
+  theMovieDb.common.validateRequired(arguments, 3, options, ['query'])
+  theMovieDb.common.validateCallbacks(successCB, errorCB)
+
+  return await theMovieDb.common.client(
+    {
+      url: 'search/person' + theMovieDb.common.generateQuery(options),
+    },
+    successCB,
+    errorCB
+  )
+}
+
+async function getPersonDetails(options) {
+  ;('use strict')
+  theMovieDb.common.validateRequired(arguments, 3, '', '', true)
+  theMovieDb.common.validateCallbacks(successCB, errorCB)
+
+  return await theMovieDb.common.client(
+    {
+      url: 'person/' + options.id + theMovieDb.common.generateQuery(options),
+    },
+    successCB,
+    errorCB
+  )
+}
+
+const genderList = {
+  '0': 'Non-specified',
+  '1': 'Female',
+  '2': 'Male',
+}
+
+function processPeople(list) {
+  const chunks = getChunks(list)
+
+  let results = []
+  return new Promise((resolve) => {
+    for (let i = 0; i < chunks.length; i++) {
+      setTimeout(async () => {
+        const chunk = chunks[i]
+
+        const chunkPeopleSearchPromises = chunk.map((person) => {
+          return searchPerson({ query: person.name }, successCB, errorCB).then(
+            ({ data }) => {
+              if (data.results.length) {
+                return getPersonDetails(
+                  { id: data.results[0].id },
+                  successCB,
+                  errorCB
+                ).then(({ data }) => {
+                  person.date_of_birth = data.birthday;
+                  person.gender = genderList[data.gender] || null;
+                  
+                  return person.save()
+                })
+              }
+            }
+          )
+        })
+        const chunkResults = await Promise.all(chunkPeopleSearchPromises)
+        results = results.concat(chunkResults)
+
+        if (i === chunks.length - 1) {
+          resolve(results)
+        }
+      }, (i + 1) * THE_MOVIE_DB_X_RATE_TIMEOUT)
+    }
+  })
+}
+
+module.exports = {
+  processPeople,
+  data,
 }

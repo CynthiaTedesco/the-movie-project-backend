@@ -7,17 +7,9 @@ var subsrt = require('subsrt')
 
 const movieQty = 100
 
-function successCB(data) {
-  // console.log('Success callback: ', data)
-}
-
-function errorCB(data) {
-  console.log('Error callback: ' + data)
-}
-
 export async function list(db) {
   console.log('---------- LIST', movieQty)
-  // const theMovieDB_data = await themoviedb.data(movieQty, successCB, errorCB);
+  // const theMovieDB_data = await themoviedb.data(movieQty);
   // fs.writeFileSync('themoviedb_movies.json', JSON.stringify(theMovieDB_data, null, 2));
 
   const data = fs.readFileSync('movies.json')

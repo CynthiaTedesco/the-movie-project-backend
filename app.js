@@ -17,15 +17,19 @@ const {
   movieRestrictions,
   movieWriters,
   deleteMovie,
-  updateMovie
+  updateMovie,
 } = require('./src/routes/movies')
 const { allGenres } = require('./src/routes/genres')
 const { allLanguages } = require('./src/routes/languages')
 const { allProducers } = require('./src/routes/producers')
 const { allMovieTypes } = require('./src/routes/movieTypes')
-const { allWriters } = require('./src/routes/writers')
-const { allCharacters, allCharacterTypes } = require('./src/routes/characters')
-const { allDirectors } = require('./src/routes/directors')
+const {
+  allWriters,
+  allDirectors,
+  allCharacters,
+  allCharacterTypes,
+  updatePeopleDetails
+} = require('./src/routes/people')
 const { allOrigins } = require('./src/routes/origins')
 const { allTimes } = require('./src/routes/times')
 const { allPlaces } = require('./src/routes/places')
@@ -49,7 +53,7 @@ app.use(cors())
 
 app.get('/', (req, res) => {
   return res.status(200).send({
-    message: 'YAY! Congratulations! Your first endpoint is working. Super!'
+    message: 'YAY! Congratulations! Your first endpoint is working. Super!',
   })
 })
 //genres
@@ -89,5 +93,7 @@ app.post('/api/login', login)
 app.get('/api/movies/:id', fullMovie)
 app.delete('/api/movies/:id', deleteMovie)
 app.post('/api/movies/:id', updateMovie)
+
+app.post('/api/people/updateDetails', updatePeopleDetails)
 
 module.exports = app
