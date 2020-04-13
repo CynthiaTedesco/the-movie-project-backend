@@ -190,8 +190,6 @@ async function getMovieDetails(options, success, error) {
     error
   )
 
-  //TODO add another API to get the writer, actors, poster and so on.
-
   return theMovieDbResponse && theMovieDbResponse.data
     ? theMovieDbResponse.data
     : {}

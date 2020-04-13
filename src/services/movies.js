@@ -23,7 +23,6 @@ export async function list(db) {
   const omdb_data = await omdb.data(movies, successCB, errorCB)
 
   //TODO look at theMovieDB restrictions
-  //TODO add gender from theMovieDB --> https://developers.themoviedb.org/3/people/get-person-details
   //TODO add name of the language from omdb
   //TODO check where to get the producer country name
   const consolidatedAPIs = await Promise.all(

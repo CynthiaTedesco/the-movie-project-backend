@@ -70,9 +70,11 @@ const updatePeopleDetails = (req, res) => {
       },
     })
     .then((results) => {
-      processPeople(results).then(() =>
-        res.status(200).send('People details have been successfully updated!')
-      ).catch(console.log)
+      processPeople(results)
+        .then(() => {
+          res.status(200).send('People details have been successfully updated!')
+        })
+        .catch(console.log)
     })
 }
 
