@@ -3,6 +3,7 @@ const {
   updateGenres,
   updateCharacters,
 } = require('../controllers/Associations')
+const { updatePoster } = require('../controllers/Poster')
 const toggleValidity = async function (req, res) {
   await models['movie']
     .update(
@@ -106,7 +107,7 @@ const languages = (id) => {
         through: {
           model: models['movies_languages'],
           as: 'movies_languages',
-          attributes: ['primary']
+          attributes: ['primary'],
         },
       },
     ],
@@ -125,13 +126,13 @@ const characters = (id) => {
         through: {
           model: models['movies_characters'],
           as: 'movies_characters',
-          attributes: ['main', 'character_name', 'type']
-        }
-      }
-    ]
+          attributes: ['main', 'character_name', 'type'],
+        },
+      },
+    ],
   })
 }
-const directors = id => {
+const directors = (id) => {
   return models.movie.findOne({
     where: { id: id },
     attributes: ['id', 'title'],
@@ -144,13 +145,13 @@ const directors = id => {
         through: {
           model: models['movies_directors'],
           as: 'movies_directors',
-          attributes: ['primary']
-        }
-      }
-    ]
+          attributes: ['primary'],
+        },
+      },
+    ],
   })
 }
-const writers = id => {
+const writers = (id) => {
   return models.movie.findOne({
     where: { id: id },
     attributes: ['id', 'title'],
@@ -164,9 +165,9 @@ const writers = id => {
           model: models['movies_writers'],
           as: 'movies_writers',
           attributes: ['primary', 'detail'],
-        }
-      }
-    ]
+        },
+      },
+    ],
   })
 }
 const restrictions = (id) => {
@@ -183,9 +184,9 @@ const restrictions = (id) => {
           model: models['movies_restrictions'],
           as: 'movies_restrictions',
           attributes: ['primary'],
-        }
-      }
-    ]
+        },
+      },
+    ],
   })
 }
 
@@ -262,12 +263,18 @@ const updateLists = (movie, updates) => {
   if (updates.genres) {
     updateGenres(movie.dataValues, updates.genres)
   }
-  if(updates.characters){
+  if (updates.characters) {
     updateCharacters(movie.dataValues, updates.characters)
+  }
+  if (updates.restrictions) {
+    updateRestrictions(movie.dataValues, updates.restrictions)
+  }
+  if (updates.producers) {
+    updateProducers(movie.dataValues, updates.producers)
   }
 }
 
-const updateSimpleFields = (movie, updates) => {
+const updateSimpleFields = async (movie, updates) => {
   let updated = false
   if (updates.revenue) {
     movie.revenue = updates.revenue
@@ -276,6 +283,13 @@ const updateSimpleFields = (movie, updates) => {
   if (updates.overview) {
     movie.overview = updates.overview
     updated = true
+  }
+  if (updates.poster) {
+    const poster = await updatePoster(movie, updates.poster)
+    if (updates.poster.new && poster.id) {
+      movie.poster_id = poster.id
+      updated = true
+    }
   }
 
   if (updated) {
@@ -296,5 +310,5 @@ module.exports = {
   movieProducers,
   movieWriters,
   deleteMovie,
-  updateMovie
+  updateMovie,
 }
