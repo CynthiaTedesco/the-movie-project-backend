@@ -2,7 +2,7 @@ const models = require('../../models')
 const Sequelize = require('sequelize')
 const Op = Sequelize.Op
 
-export async function deleteRepeatedAssociations(
+async function deleteRepeatedAssociations(
   itemKey,
   assocTable,
   movieID,
@@ -47,12 +47,12 @@ export async function deleteRepeatedAssociations(
   })
 }
 
-export async function updateGenres(movie, list) {
+async function updateGenres(movie, list) {
   await deleteRepeatedAssociations('genre_id', 'movies_genres', movie.id)
   updateAssociations(movie, list, 'genre_id', 'movies_genres')
 }
 
-export async function updateCharacters(movie, list) {
+async function updateCharacters(movie, list) {
   await deleteRepeatedAssociations(
     'person_id',
     'movies_characters',
@@ -89,7 +89,7 @@ async function updatePeople(movie, list) {
     const currentPerson = currentPersonRecord.dataValues
 
     const updatedPerson = list.find((item) => {
-      return parseInt(item.id) === parseInt(currentPerson.id);
+      return parseInt(item.id) === parseInt(currentPerson.id)
     })
 
     if (updatedPerson) {
@@ -237,4 +237,9 @@ async function updateAssociations(movie, list, itemKey, assocTable, people) {
     toDelete,
     toUpdate,
   }
+}
+
+module.exports = {
+  updateGenres,
+  updateCharacters,
 }
