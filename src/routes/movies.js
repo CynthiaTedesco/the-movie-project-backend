@@ -256,7 +256,12 @@ const updateMovie = (req, res) => {
         .status(200)
         .send({ message: 'Successful update', updated: movie })
     })
-    .catch(console.log)
+    .catch((err) => {
+      console.log(err)
+      return res
+        .status(500)
+        .send({ message: 'Error while updating movie', err })
+    })
 }
 
 const updateLists = (movie, updates) => {
