@@ -18,8 +18,10 @@ const {
   movieWriters,
   deleteMovie,
   updateMovie,
+  deleteAllRepeatedAssociations,
 } = require('./src/routes/movies')
-const { allGenres } = require('./src/routes/genres')
+const { deleteOrphans } = require('./src/controllers/Associations');
+const { allGenres, allMoviesGenres } = require('./src/routes/genres')
 const { allLanguages } = require('./src/routes/languages')
 const { allProducers } = require('./src/routes/producers')
 const { allMovieTypes } = require('./src/routes/movieTypes')
@@ -60,6 +62,7 @@ app.get('/', (req, res) => {
 })
 //genres
 app.get('/api/genres', allGenres)
+app.get('/api/movies-genres', allMoviesGenres)
 //people
 app.get('/api/writers', allWriters)
 app.get('/api/characters', allCharacters)
@@ -101,5 +104,9 @@ app.delete('/api/movies/:id', deleteMovie)
 app.post('/api/movies/:id', updateMovie)
 
 app.post('/api/people/updateDetails', updatePeopleDetails)
+
+
+app.post('/api/deleteRepeatedAssociations', deleteAllRepeatedAssociations)
+app.post('/api/deleteOrphans', deleteOrphans)
 
 module.exports = app
