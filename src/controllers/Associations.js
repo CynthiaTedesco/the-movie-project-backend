@@ -1,6 +1,33 @@
 const models = require('../../models')
 const Sequelize = require('sequelize')
+const { QueryTypes } = require('sequelize')
 const Op = Sequelize.Op
+
+async function deleteOrphans(req, res) {
+  await deleteOrphansFrom('movies_genres')
+  await deleteOrphansFrom('movies_languages')
+  await deleteOrphansFrom('movies_restrictions')
+  await deleteOrphansFrom('movies_producers')
+  await deleteOrphansFrom('movies_writers')
+  await deleteOrphansFrom('movies_characters')
+  await deleteOrphansFrom('movies_directors')
+
+  return res.status(200).send({ message: 'Successfully deleted all orphans' })
+}
+
+async function deleteOrphansFrom(assocTable) {
+  const query = `select mp.id from ${assocTable} mp left join movies m on m.id = mp.movie_id where m.id is null;`
+  const orphans = await models.sequelize.query(query, {
+    type: QueryTypes.SELECT,
+  })
+  return models[assocTable].destroy({
+    where: {
+      id: {
+        [Op.in]: orphans.map((a) => a.id),
+      },
+    },
+  })
+}
 
 async function deleteRepeatedAssociations(
   itemKey,
@@ -38,13 +65,19 @@ async function deleteRepeatedAssociations(
       }
     })
 
-  return models[assocTable].destroy({
-    where: {
-      id: {
-        [Op.in]: repeated,
+  return models[assocTable]
+    .destroy({
+      where: {
+        id: {
+          [Op.in]: repeated,
+        },
       },
-    },
-  })
+    })
+    .catch((err) => {
+      console.log(err)
+      const message = `Error while trying to delete repeated ${assocTable}`
+      return res.status(500).send({ message })
+    })
 }
 
 async function updateGenres(movie, list) {
@@ -242,4 +275,6 @@ async function updateAssociations(movie, list, itemKey, assocTable, people) {
 module.exports = {
   updateGenres,
   updateCharacters,
+  deleteRepeatedAssociations,
+  deleteOrphans,
 }

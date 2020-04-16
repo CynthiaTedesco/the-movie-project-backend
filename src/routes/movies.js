@@ -2,6 +2,7 @@ const models = require('../../models')
 const {
   updateGenres,
   updateCharacters,
+  deleteRepeatedAssociations,
 } = require('../controllers/Associations')
 const { updatePoster } = require('../controllers/Poster')
 const toggleValidity = async function (req, res) {
@@ -244,6 +245,58 @@ const deleteMovie = (req, res) => {
     .catch(console.log)
 }
 
+const deleteAllRepeatedAssociations = (req, res) => {
+  models.movie
+    .findAll()
+    .then((movies) => {
+      movies.forEach(async (movie) => {
+        const promises = [
+          deleteRepeatedAssociations('genre_id', 'movies_genres', movie.id),
+          deleteRepeatedAssociations(
+            'language_id',
+            'movies_languages',
+            movie.id
+          ),
+          deleteRepeatedAssociations(
+            'restriction_id',
+            'movies_restrictions',
+            movie.id
+          ),
+          deleteRepeatedAssociations(
+            'producer_id',
+            'movies_producers',
+            movie.id
+          ),
+          deleteRepeatedAssociations(
+            'person_id',
+            'movies_writers',
+            movie.id,
+            true
+          ),
+          deleteRepeatedAssociations('person_id', 'movies_directors', movie.id),
+          deleteRepeatedAssociations(
+            'person_id',
+            'movies_characters',
+            movie.id,
+            'characters'
+          ),
+        ]
+        return Promise.all(promises)
+      })
+    })
+    .then(() => {
+      return res
+        .status(200)
+        .send({ message: 'Successfully deleted all duplicated' })
+    })
+    .catch((err) => {
+      console.log(err)
+      return res
+        .status(500)
+        .send({ message: 'Error while deleting repeated associations', err })
+    })
+}
+
 const updateMovie = (req, res) => {
   models.movie
     .findOne({
@@ -278,7 +331,6 @@ const updateLists = (movie, updates) => {
     updateProducers(movie.dataValues, updates.producers)
   }
 }
-
 const updateSimpleFields = async (movie, updates) => {
   let updated = false
   if (updates.revenue) {
@@ -315,5 +367,6 @@ module.exports = {
   movieProducers,
   movieWriters,
   deleteMovie,
+  deleteAllRepeatedAssociations,
   updateMovie,
 }
