@@ -230,7 +230,12 @@ const movieLanguages = function (req, res) {
 const allMovies = (req, res) => {
   models.movie
     .findAll({
-      include: [{ model: models.poster, as: 'poster' }],
+      include: [
+        { model: models.poster, as: 'poster' },
+        { model: models.time, as: 'set_in_time' },
+        { model: models.place, as: 'set_in_place' },
+        { model: models.story_origin, as: 'story_origin' },
+      ],
     })
     .then((movies) => res.status(200).send(movies))
     .catch(console.log)
