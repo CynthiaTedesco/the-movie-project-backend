@@ -360,6 +360,18 @@ const updateSimpleFields = async (movie, updates) => {
 
   return movie
 }
+
+const { fetchMovieFullDetails } = require('../services/movies')
+
+const autoUpdateMovie = async (req, res) => {
+  const movie = await fetchMovieFullDetails(req.params.tmdb_id)
+
+  //TODO update movies.json
+  //TODO persist!
+
+  res.status(200).send(movie)
+}
+
 module.exports = {
   toggleValidity,
   fullMovie,
@@ -374,4 +386,5 @@ module.exports = {
   deleteMovie,
   deleteAllRepeatedAssociations,
   updateMovie,
+  autoUpdateMovie,
 }

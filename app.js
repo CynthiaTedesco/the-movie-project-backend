@@ -18,6 +18,7 @@ const {
   movieWriters,
   deleteMovie,
   updateMovie,
+  autoUpdateMovie,
   deleteAllRepeatedAssociations,
 } = require('./src/routes/movies')
 const { deleteOrphans } = require('./src/controllers/Associations');
@@ -100,8 +101,9 @@ app.post('/api/signUp', signUp)
 app.post('/api/login', login)
 
 app.get('/api/movies/:id', fullMovie)
-app.delete('/api/movies/:id', deleteMovie)
+app.delete('/api/movies/:id', deleteMovie) //TODO create soft delete
 app.post('/api/movies/:id', updateMovie)
+app.post('/api/movies/:tmdb_id/autoupdate', autoUpdateMovie)
 
 app.post('/api/people/updateDetails', updatePeopleDetails)
 

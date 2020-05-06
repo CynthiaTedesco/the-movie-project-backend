@@ -128,7 +128,7 @@ theMovieDb.common = {
   },
 }
 
-const THE_MOVIE_DB_X_RATE = 40
+const THE_MOVIE_DB_X_RATE = 40 //TODO check the new themoviedb's no-limit policy :)
 const THE_MOVIE_DB_X_RATE_TIMEOUT = 12 * 1000
 
 function markUnlikelyMovies(initial) {
@@ -178,8 +178,11 @@ async function getMoviesDetails(blockbusters) {
 }
 
 async function getMovieDetails(options, success, error) {
-  'use strict'
-  theMovieDb.common.validateRequired(arguments, 3, options, ['id'])
+  'use strict' //TODO check if it works without stric mode
+  success = success || successCB;
+  error = error || errorCB;
+
+  theMovieDb.common.validateRequired(arguments, 1, options, ['id'])
   theMovieDb.common.validateCallbacks(success, error)
 
   const theMovieDbResponse = await theMovieDb.common.client(
@@ -362,5 +365,6 @@ function processPeople(list) {
 
 module.exports = {
   processPeople,
+  getMovieDetails,
   data,
 }

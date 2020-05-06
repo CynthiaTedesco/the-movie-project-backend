@@ -8,7 +8,7 @@ module.exports = (sequelize, DataTypes) => {
       imdb_rating: DataTypes.STRING,
       imdb_id: {
         type: DataTypes.STRING,
-        unique: true
+        unique: true,
       },
       title: DataTypes.STRING,
       release_date: DataTypes.STRING,
@@ -24,24 +24,27 @@ module.exports = (sequelize, DataTypes) => {
       valid: DataTypes.BOOLEAN,
       poster_id: {
         type: DataTypes.INTEGER,
-        references: { model: 'posters', key: 'id' }
+        references: { model: 'posters', key: 'id' },
       },
       story_origin_id: {
         type: DataTypes.INTEGER,
-        references: { model: 'story_origins', key: 'id' }
+        references: { model: 'story_origins', key: 'id' },
       },
       type_id: {
         type: DataTypes.INTEGER,
-        references: { model: 'movie_types', key: 'id' }
+        references: { model: 'movie_types', key: 'id' },
       },
       set_in_place_id: {
         type: DataTypes.INTEGER,
-        references: { model: 'places', key: 'id' }
+        references: { model: 'places', key: 'id' },
       },
       set_in_time_id: {
         type: DataTypes.INTEGER,
-        references: { model: 'times', key: 'id' }
-      }
+        references: { model: 'times', key: 'id' },
+      },
+      country: DataTypes.STRING,
+      deletedAt: DataTypes.DATE,
+      tmdb_id: DataTypes.INTEGER
     },
     {}
   )

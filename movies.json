@@ -89,9 +89,9 @@
       "Mark Ruffalo",
       "Chris Hemsworth"
     ],
-    "awards": "Nominated for 1 Oscar. Another 46 wins & 97 nominations.",
+    "awards": "Nominated for 1 Oscar. Another 60 wins & 96 nominations.",
     "poster": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_SX300.jpg",
-    "imdb_rating": "8.5",
+    "imdb_rating": "8.4",
     "type": "movie",
     "box_offfice": ""
   },
@@ -428,7 +428,7 @@
       "Mark Ruffalo",
       "Chris Evans"
     ],
-    "awards": "Nominated for 1 Oscar. Another 44 wins & 70 nominations.",
+    "awards": "Nominated for 1 Oscar. Another 44 wins & 71 nominations.",
     "poster": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_SX300.jpg",
     "imdb_rating": "8.5",
     "type": "movie",
@@ -531,7 +531,7 @@
       "Billy Zane",
       "Kathy Bates"
     ],
-    "awards": "Won 11 Oscars. Another 115 wins & 83 nominations.",
+    "awards": "Won 11 Oscars. Another 114 wins & 83 nominations.",
     "poster": "https://m.media-amazon.com/images/M/MV5BMDdmZGU3NDQtY2E5My00ZTliLWIzOTUtMTY4ZGI1YjdiNjk3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg",
     "imdb_rating": "7.8",
     "type": "movie",
@@ -1080,7 +1080,7 @@
       "Lupita Nyong'o",
       "Danai Gurira"
     ],
-    "awards": "Won 3 Oscars. Another 108 wins & 263 nominations.",
+    "awards": "Won 3 Oscars. Another 109 wins & 265 nominations.",
     "poster": "https://m.media-amazon.com/images/M/MV5BMTg1MTY2MjYzNV5BMl5BanBnXkFtZTgwMTc4NTMwNDI@._V1_SX300.jpg",
     "imdb_rating": "7.3",
     "type": "movie",
@@ -1288,6 +1288,7 @@
     ],
     "writers": [
       "Jennifer Lee (screenplay by)",
+      "Hans Christian Andersen (story inspired by \"The Snow Queen\" by)",
       "Jennifer Lee (story by)",
       "Chris Buck (story by)",
       "Kristen Anderson-Lopez (story by)",
@@ -1301,9 +1302,9 @@
       "Josh Gad",
       "Jonathan Groff"
     ],
-    "awards": "Nominated for 1 Oscar. Another 4 wins & 69 nominations.",
+    "awards": "Nominated for 1 Oscar. Another 8 wins & 73 nominations.",
     "poster": "https://m.media-amazon.com/images/M/MV5BMjA0YjYyZGMtN2U0Ni00YmY4LWJkZTItYTMyMjY3NGYyMTJkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
-    "imdb_rating": "7.2",
+    "imdb_rating": "7.0",
     "type": "movie",
     "box_offfice": ""
   },
@@ -1396,7 +1397,7 @@
       "Rafe Spall",
       "Justice Smith"
     ],
-    "awards": "4 wins & 24 nominations.",
+    "awards": "4 wins & 25 nominations.",
     "poster": "https://m.media-amazon.com/images/M/MV5BNzIxMjYwNDEwN15BMl5BanBnXkFtZTgwMzk5MDI3NTM@._V1_SX300.jpg",
     "imdb_rating": "6.2",
     "type": "movie",
@@ -1478,7 +1479,7 @@
       "Jonathan Groff",
       "Josh Gad"
     ],
-    "awards": "Won 2 Oscars. Another 78 wins & 57 nominations.",
+    "awards": "Won 2 Oscars. Another 79 wins & 59 nominations.",
     "poster": "https://m.media-amazon.com/images/M/MV5BMTQ1MjQwMTE5OF5BMl5BanBnXkFtZTgwNjk3MTcyMDE@._V1_SX300.jpg",
     "imdb_rating": "7.5",
     "type": "movie",
@@ -1620,9 +1621,9 @@
       "Sarah Vowell",
       "Huck Milner"
     ],
-    "awards": "Nominated for 1 Oscar. Another 12 wins & 69 nominations.",
+    "awards": "Nominated for 1 Oscar. Another 12 wins & 72 nominations.",
     "poster": "https://m.media-amazon.com/images/M/MV5BMTEzNzY0OTg0NTdeQTJeQWpwZ15BbWU4MDU3OTg3MjUz._V1_SX300.jpg",
-    "imdb_rating": "7.7",
+    "imdb_rating": "7.6",
     "type": "movie",
     "box_offfice": ""
   },
@@ -2204,9 +2205,9 @@
       "Jake Gyllenhaal",
       "Marisa Tomei"
     ],
-    "awards": "8 wins & 18 nominations.",
+    "awards": "9 wins & 18 nominations.",
     "poster": "https://m.media-amazon.com/images/M/MV5BMGZlNTY1ZWUtYTMzNC00ZjUyLWE0MjQtMTMxN2E3ODYxMWVmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SX300.jpg",
-    "imdb_rating": "7.6",
+    "imdb_rating": "7.5",
     "type": "movie",
     "box_offfice": ""
   },
@@ -2283,7 +2284,7 @@
       "Ben Mendelsohn",
       "Jude Law"
     ],
-    "awards": "6 wins & 30 nominations.",
+    "awards": "7 wins & 35 nominations.",
     "poster": "https://m.media-amazon.com/images/M/MV5BMTE0YWFmOTMtYTU2ZS00ZTIxLWE3OTEtYTNiYzBkZjViZThiXkEyXkFqcGdeQXVyODMzMzQ4OTI@._V1_SX300.jpg",
     "imdb_rating": "6.9",
     "type": "movie",
@@ -2462,7 +2463,7 @@
       "Sean Astin",
       "David Aston"
     ],
-    "awards": "Won 11 Oscars. Another 198 wins & 122 nominations.",
+    "awards": "Won 11 Oscars. Another 199 wins & 122 nominations.",
     "poster": "https://m.media-amazon.com/images/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
     "imdb_rating": "8.9",
     "type": "movie",
@@ -2570,7 +2571,7 @@
       "Javier Bardem",
       "Ralph Fiennes"
     ],
-    "awards": "Won 2 Oscars. Another 64 wins & 121 nominations.",
+    "awards": "Won 2 Oscars. Another 64 wins & 122 nominations.",
     "poster": "https://m.media-amazon.com/images/M/MV5BNDVhZmJiYWMtNmIzMC00ZWNiLTkzZDYtNGNlZmViMGM4OGExXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg",
     "imdb_rating": "7.7",
     "type": "movie",
@@ -2875,9 +2876,9 @@
       "Annie Potts",
       "Tony Hale"
     ],
-    "awards": "Nominated for 2 Oscars. Another 48 wins & 48 nominations.",
+    "awards": "Won 1 Oscar. Another 49 wins & 50 nominations.",
     "poster": "https://m.media-amazon.com/images/M/MV5BMTYzMDM4NzkxOV5BMl5BanBnXkFtZTgwNzM1Mzg2NzM@._V1_SX300.jpg",
-    "imdb_rating": "7.9",
+    "imdb_rating": "7.8",
     "type": "movie",
     "box_offfice": ""
   },
@@ -2996,7 +2997,7 @@
       "Zazie Beetz",
       "Frances Conroy"
     ],
-    "awards": "Won 2 Oscars. Another 57 wins & 163 nominations.",
+    "awards": "Won 2 Oscars. Another 84 wins & 190 nominations.",
     "poster": "https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
     "imdb_rating": "8.6",
     "type": "movie",
@@ -3074,7 +3075,7 @@
       "Joan Cusack",
       "Ned Beatty"
     ],
-    "awards": "Won 2 Oscars. Another 59 wins & 94 nominations.",
+    "awards": "Won 2 Oscars. Another 60 wins & 95 nominations.",
     "poster": "https://m.media-amazon.com/images/M/MV5BMTgxOTY4Mjc0MF5BMl5BanBnXkFtZTcwNTA4MDQyMw@@._V1_SX300.jpg",
     "imdb_rating": "8.3",
     "type": "movie",
@@ -3484,7 +3485,7 @@
       "Geoffrey Rush",
       "Ian McShane"
     ],
-    "awards": "2 wins & 31 nominations.",
+    "awards": "3 wins & 31 nominations.",
     "poster": "https://m.media-amazon.com/images/M/MV5BMjE5MjkwODI3Nl5BMl5BanBnXkFtZTcwNjcwMDk4NA@@._V1_SX300.jpg",
     "imdb_rating": "6.6",
     "type": "movie",
@@ -3642,9 +3643,7 @@
     "writers": [
       "Andrew Stanton (original story by)",
       "Andrew Stanton (screenplay by)",
-      "Victoria Strouse (screenplay by)",
-      "Bob Peterson (additional screenplay material by)",
-      "Angus MacLane (additional story material by)"
+      "Victoria Strouse (screenplay by)"
     ],
     "actors": [
       "Ellen DeGeneres",
@@ -3839,7 +3838,7 @@
       "Idris Elba",
       "Jenny Slate"
     ],
-    "awards": "Won 1 Oscar. Another 46 wins & 70 nominations.",
+    "awards": "Won 1 Oscar. Another 46 wins & 71 nominations.",
     "poster": "https://m.media-amazon.com/images/M/MV5BOTMyMjEyNzIzMV5BMl5BanBnXkFtZTgwNzIyNjU0NzE@._V1_SX300.jpg",
     "imdb_rating": "8.0",
     "type": "movie",
@@ -5273,7 +5272,7 @@
       "Natalie Portman",
       "Jake Lloyd"
     ],
-    "awards": "Nominated for 3 Oscars. Another 27 wins & 65 nominations.",
+    "awards": "Nominated for 3 Oscars. Another 26 wins & 65 nominations.",
     "poster": "https://m.media-amazon.com/images/M/MV5BYTRhNjcwNWQtMGJmMi00NmQyLWE2YzItODVmMTdjNWI0ZDA2XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
     "imdb_rating": "6.5",
     "type": "movie",
@@ -5352,7 +5351,7 @@
       "Jeff Goldblum",
       "Richard Attenborough"
     ],
-    "awards": "Won 3 Oscars. Another 38 wins & 26 nominations.",
+    "awards": "Won 3 Oscars. Another 39 wins & 27 nominations.",
     "poster": "https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_SX300.jpg",
     "imdb_rating": "8.1",
     "type": "movie",
@@ -5650,7 +5649,7 @@
       "Gwilym Lee",
       "Ben Hardy"
     ],
-    "awards": "Won 4 Oscars. Another 37 wins & 76 nominations.",
+    "awards": "Won 4 Oscars. Another 38 wins & 76 nominations.",
     "poster": "https://m.media-amazon.com/images/M/MV5BMTA2NDc3Njg5NDVeQTJeQWpwZ15BbWU4MDc1NDcxNTUz._V1_SX300.jpg",
     "imdb_rating": "8.0",
     "type": "movie",
@@ -6826,7 +6825,7 @@
       "Richard Kind",
       "Bill Hader"
     ],
-    "awards": "Won 1 Oscar. Another 96 wins & 113 nominations.",
+    "awards": "Won 1 Oscar. Another 97 wins & 114 nominations.",
     "poster": "https://m.media-amazon.com/images/M/MV5BOTgxMDQwMDk0OF5BMl5BanBnXkFtZTgwNjU5OTg2NDE@._V1_SX300.jpg",
     "imdb_rating": "8.2",
     "type": "movie",
@@ -7098,7 +7097,7 @@
       "Hayden Christensen",
       "Ian McDiarmid"
     ],
-    "awards": "Nominated for 1 Oscar. Another 27 wins & 61 nominations.",
+    "awards": "Nominated for 1 Oscar. Another 26 wins & 61 nominations.",
     "poster": "https://m.media-amazon.com/images/M/MV5BNTc4MTc3NTQ5OF5BMl5BanBnXkFtZTcwOTg0NjI4NA@@._V1_SX300.jpg",
     "imdb_rating": "7.5",
     "type": "movie",
@@ -7469,7 +7468,7 @@
       "Ellen Page",
       "Tom Hardy"
     ],
-    "awards": "Won 4 Oscars. Another 152 wins & 210 nominations.",
+    "awards": "Won 4 Oscars. Another 152 wins & 217 nominations.",
     "poster": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_SX300.jpg",
     "imdb_rating": "8.8",
     "type": "movie",
@@ -7596,7 +7595,7 @@
       "Connie Nielsen",
       "Robin Wright"
     ],
-    "awards": "23 wins & 70 nominations.",
+    "awards": "24 wins & 70 nominations.",
     "poster": "https://m.media-amazon.com/images/M/MV5BNDFmZjgyMTEtYTk5MC00NmY0LWJhZjktOWY2MzI5YjkzODNlXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_SX300.jpg",
     "imdb_rating": "7.4",
     "type": "movie",
@@ -7927,7 +7926,7 @@
       "Benjamin Bratt",
       "Alanna Ubach"
     ],
-    "awards": "Won 2 Oscars. Another 107 wins & 35 nominations.",
+    "awards": "Won 2 Oscars. Another 108 wins & 37 nominations.",
     "poster": "https://m.media-amazon.com/images/M/MV5BYjQ5NjM0Y2YtNjZkNC00ZDhkLWJjMWItN2QyNzFkMDE3ZjAxXkEyXkFqcGdeQXVyODIxMzk5NjA@._V1_SX300.jpg",
     "imdb_rating": "8.4",
     "type": "movie",
@@ -8307,7 +8306,7 @@
       "Ving Rhames",
       "Simon Pegg"
     ],
-    "awards": "Nominated for 1 BAFTA Film Award. Another 20 wins & 37 nominations.",
+    "awards": "Nominated for 1 BAFTA Film Award. Another 21 wins & 39 nominations.",
     "poster": "https://m.media-amazon.com/images/M/MV5BNjRlZmM0ODktY2RjNS00ZDdjLWJhZGYtNDljNWZkMGM5MTg0XkEyXkFqcGdeQXVyNjAwMjI5MDk@._V1_SX300.jpg",
     "imdb_rating": "7.8",
     "type": "movie",
@@ -8694,7 +8693,7 @@
       "James Franco",
       "Alfred Molina"
     ],
-    "awards": "Won 1 Oscar. Another 23 wins & 60 nominations.",
+    "awards": "Won 1 Oscar. Another 24 wins & 60 nominations.",
     "poster": "https://m.media-amazon.com/images/M/MV5BMzY2ODk4NmUtOTVmNi00ZTdkLTlmOWYtMmE2OWVhNTU2OTVkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
     "imdb_rating": "7.3",
     "type": "movie",
@@ -8970,7 +8969,7 @@
       "Dave Bautista",
       "Vin Diesel"
     ],
-    "awards": "Nominated for 2 Oscars. Another 52 wins & 99 nominations.",
+    "awards": "Nominated for 2 Oscars. Another 52 wins & 100 nominations.",
     "poster": "https://m.media-amazon.com/images/M/MV5BMTAwMjU5OTgxNjZeQTJeQWpwZ15BbWU4MDUxNDYxODEx._V1_SX300.jpg",
     "imdb_rating": "8.0",
     "type": "movie",
