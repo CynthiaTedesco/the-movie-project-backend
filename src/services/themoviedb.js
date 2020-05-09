@@ -176,11 +176,35 @@ async function getMoviesDetails(blockbusters) {
     return blockbusters
   }
 }
+async function getMovieDetails_byImdbId(options, success, error) {
+  success = success || successCB
+  error = error || errorCB
+
+  const theMovieDbResponse = await theMovieDb.common.client(
+    {
+      url: 'find/' + options.imdb_id + theMovieDb.common.generateQuery(options),
+    },
+    success,
+    error
+  )
+  if (
+    theMovieDbResponse &&
+    theMovieDbResponse.data &&
+    theMovieDbResponse.data.movie_results &&
+    theMovieDbResponse.data.movie_results.length
+  ) {
+    return getMovieDetails(
+      { id: theMovieDbResponse.data.movie_results[0].id }
+    )
+  } else {
+    return {}
+  }
+}
 
 async function getMovieDetails(options, success, error) {
   'use strict' //TODO check if it works without stric mode
-  success = success || successCB;
-  error = error || errorCB;
+  success = success || successCB
+  error = error || errorCB
 
   theMovieDb.common.validateRequired(arguments, 1, options, ['id'])
   theMovieDb.common.validateCallbacks(success, error)
@@ -343,9 +367,9 @@ function processPeople(list) {
                   successCB,
                   errorCB
                 ).then(({ data }) => {
-                  person.date_of_birth = data.birthday;
-                  person.gender = genderList[data.gender] || null;
-                  
+                  person.date_of_birth = data.birthday
+                  person.gender = genderList[data.gender] || null
+
                   return person.save()
                 })
               }
@@ -366,5 +390,6 @@ function processPeople(list) {
 module.exports = {
   processPeople,
   getMovieDetails,
+  getMovieDetails_byImdbId,
   data,
 }

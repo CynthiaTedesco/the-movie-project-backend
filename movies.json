@@ -8121,7 +8121,14 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTYyMTcxNzc5M15BMl5BanBnXkFtZTgwOTg2ODE2MTI@._V1_SX300.jpg",
     "imdb_rating": "6.6",
     "type": "movie",
-    "box_offfice": "$172,537,139"
+    "box_offfice": "$172,537,139",
+    "box_office": "$172,537,139",
+    "updated": "2020-05-09T17:00:04.881Z",
+    "plot_line": "All pirates must die.",
+    "subsFileName": "./subtitles/Pirates_of_the_Caribbean:_Dead_Men_Tell_No_Tales.srt",
+    "word_count": 7565,
+    "most_used_word": "the",
+    "tmdb_id": 166426
   },
   {
     "imdb_id": "tt0083866",

@@ -370,7 +370,6 @@ function getSubsFileName(movie) {
 function processSubtitles(movie) {
   try {
     if (movie.subsFileName && fs.existsSync(movie.subsFileName)) {
-      console.log('TRUE')
       const content = fs.readFileSync(movie.subsFileName, 'utf8')
 
       //Parse the content
@@ -378,7 +377,6 @@ function processSubtitles(movie) {
 
       let wordsCount = 0
       let words = []
-      console.log('captions', captions.length)
       captions.forEach((line) => {
         const sanitizedLine = line.text
           .replace(/<\/?[^>]+(>|$)/g, '') //removes html tags

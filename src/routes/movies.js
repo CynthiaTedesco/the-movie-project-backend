@@ -302,23 +302,43 @@ const deleteAllRepeatedAssociations = (req, res) => {
     })
 }
 
-const updateMovie = (req, res) => {
-  models.movie
-    .findOne({
-      where: { id: req.params.id },
-    })
-    .then(async (movie) => {
-      await updateSimpleFields(movie, req.body)
-      await updateLists(movie, req.body)
-      return res
-        .status(200)
-        .send({ message: 'Successful update', updated: movie })
+const updateMovieEndpoint = (req, res) => {
+  return updateMovie({ id: req.params.id }, req.body)
+    .then((updated) => {
+      if (updated) {
+        return res
+          .status(200)
+          .send({ message: 'Successful autoupdate', updated: updated })
+      } else {
+        res.status(204).send({
+          message: `No content to update requested movie: ${req.params.id}`,
+        })
+      }
     })
     .catch((err) => {
       console.log(err)
       return res
         .status(500)
-        .send({ message: 'Error while updating movie', err })
+        .send(`Error trying to update movie: ${req.params.id}`)
+    })
+}
+const updateMovie = (where, updates, fullMovie) => {
+  return models.movie
+    .findOne({
+      where: where,
+    })
+    .then(async (movie) => {
+      if (movie) {
+        await updateSimpleFields(movie, updates, fullMovie)
+        // await updateLists(movie, updates)
+        return movie
+      } else {
+        return null
+      }
+    })
+    .catch((err) => {
+      console.log(err)
+      throw err
     })
 }
 
@@ -336,22 +356,59 @@ const updateLists = (movie, updates) => {
     updateProducers(movie.dataValues, updates.producers)
   }
 }
-const updateSimpleFields = async (movie, updates) => {
+const updateSimpleField = (movie, update) => {
+  const key = update[0]
+  const value = update[1]
+  if (value) {
+    movie[key] = value
+    return true
+  } else {
+    return false
+  }
+}
+
+const updateSimpleFields = (movie, updates, fullMovie) => {
+  const noSingleFields = [
+    'genres',
+    'production_companies',
+    'production_countries',
+    'restrictions',
+    'directors',
+    'writers',
+    'actors',
+  ]
+  const toIgnore = [
+    'original_language',
+    'spoken_languages',
+    'status',
+    'subsFileName',
+  ].concat(noSingleFields)
+
   let updated = false
-  if (updates.revenue) {
-    movie.revenue = updates.revenue
-    updated = true
-  }
-  if (updates.overview) {
-    movie.overview = updates.overview
-    updated = true
-  }
-  if (updates.poster) {
-    const poster = await updatePoster(movie, updates.poster)
-    if (updates.poster.new && poster.id) {
-      movie.poster_id = poster.id
-      updated = true
+  Object.entries(updates).forEach(async (entry) => {
+    switch (entry[0]) {
+      case 'poster': {
+        const poster = await updatePoster(movie, updates.poster)
+        if (updates.poster.new && poster.id) {
+          movie.poster_id = poster.id
+          updated = true
+        }
+        break
+      }
+      case 'type':{
+        //TODO 
+      }
+      default: {
+        if(toIgnore.indexOf(entry[0])===-1){
+          const hasBeenUpdated = updateSimpleField(movie, entry);
+          updated = updated || hasBeenUpdated;
+        }
+      }
     }
+  })
+
+  if (fullMovie && fullMovie.tmdb_id && !movie.tmdb_id) {
+    movie.tmdb_id = fullMovie.tmdb_id
   }
 
   if (updated) {
@@ -361,15 +418,22 @@ const updateSimpleFields = async (movie, updates) => {
   return movie
 }
 
-const { fetchMovieFullDetails } = require('../services/movies')
+const { fetchMovieFullDetails, updateJSON } = require('../services/movies')
 
 const autoUpdateMovie = async (req, res) => {
-  const movie = await fetchMovieFullDetails(req.params.tmdb_id)
+  const id = req.body.tmdb_id
+    ? { tmdb_id: req.body.tmdb_id }
+    : { imdb_id: req.body.imdb_id }
 
-  //TODO update movies.json
-  //TODO persist!
+  const movie = await fetchMovieFullDetails(id)
 
-  res.status(200).send(movie)
+  const updatedFields = updateJSON(movie)
+  if (updatedFields) {
+    await updateMovie({ imdb_id: movie.imdb_id }, updatedFields, movie)
+    return res
+      .status(200)
+      .send({ message: 'Successful autoupdate', updated: movie })
+  }
 }
 
 module.exports = {
@@ -385,6 +449,6 @@ module.exports = {
   movieWriters,
   deleteMovie,
   deleteAllRepeatedAssociations,
-  updateMovie,
+  updateMovieEndpoint,
   autoUpdateMovie,
 }

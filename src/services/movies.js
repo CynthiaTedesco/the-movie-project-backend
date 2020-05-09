@@ -54,8 +54,18 @@ async function list(db) {
   return moviesWithSubtitlesFiles.map(processSubtitles)
 }
 
-async function fetchMovieFullDetails(tmdb_id) {
-  const tmdb = await themoviedb.getMovieDetails({id: tmdb_id})
+async function fetchMovieFullDetails(id) {
+  let tmdb
+  if (id.tmdb_id) {
+    tmdb = await themoviedb.getMovieDetails({ id: tmdb_id })
+  } else {
+    tmdb = await themoviedb.getMovieDetails_byImdbId({
+      imdb_id: id.imdb_id,
+      external_source: 'imdb_id',
+    })
+    tmdb.tmdb_id = tmdb.id
+    delete tmdb.id
+  }
   const omdb_ = tmdb.imdb_id ? await omdb.findByIMDB(tmdb.imdb_id) : null
 
   let movie = tmdb
@@ -77,7 +87,93 @@ async function fetchMovieFullDetails(tmdb_id) {
   return updatedMovie
 }
 
+function getMergedMovie(list = [], old, newm) {
+  let updatedFields = []
+  list.forEach((attr) => {
+    let old_attr_name
+    let new_attr_name
+    if (typeof attr === 'object') {
+      old_attr_name = attr.o
+      new_attr_name = attr.n
+    } else {
+      old_attr_name = attr
+      new_attr_name = attr
+    }
+    if (
+      JSON.stringify(old[old_attr_name]) !== JSON.stringify(newm[new_attr_name])
+    ) {
+      updatedFields[old_attr_name] = newm[new_attr_name]
+      old[old_attr_name] = newm[new_attr_name]
+      old.updated = new Date()
+    }
+  })
+
+  return updatedFields
+}
+
+function updateJSON(newMovie) {
+  const oldFileContent = fs.readFileSync('movies.json')
+  const oldMovies = JSON.parse(oldFileContent)
+
+  let merged
+  let oldMovie
+  const toBeMerged = [
+    'title',
+    'original_title',
+    'genres',
+    'release_date',
+    'budget',
+    { o: 'website', n: 'homepage' },
+    'production_companies',
+    'production_countries',
+    'revenue',
+    { o: 'length', n: 'runtime' },
+    'original_language',
+    'spoken_languages',
+    'status',
+    'overview',
+    { o: 'plot_line', n: 'tagline' },
+    'restrictions',
+    'directors',
+    'writers',
+    'actors',
+    'awards',
+    'poster',
+    'imdb_rating',
+    'type',
+    'box_office',
+    'subsFileName',
+    'word_count',
+    'most_used_word',
+    'tmdb_id',
+  ]
+  let updatedFields
+  const updatedMovies = oldMovies.map((om) => {
+    if (om.imdb_id === newMovie.imdb_id) {
+      oldMovie = Object.assign({}, om)
+      updatedFields = getMergedMovie(toBeMerged, om, newMovie)
+      return om
+    }
+    return om
+  })
+  if (JSON.stringify(merged) != JSON.stringify(oldMovie)) {
+    //save to file
+    try {
+      const newFileContent = JSON.stringify(updatedMovies, null, 2)
+      fs.writeFileSync('movies.json', newFileContent, () => {
+        console.log('movies.json has been succesfuly updated!')
+      })
+      return updatedFields
+    } catch (e) {
+      console.log('error while saving the file!!!!!!')
+      return false
+    }
+  } else {
+    return false
+  }
+}
 module.exports = {
   fetchMovieFullDetails,
+  updateJSON,
   list,
 }
