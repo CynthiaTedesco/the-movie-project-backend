@@ -56,7 +56,7 @@
     ],
     "status": "Released",
     "overview": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.",
-    "tagline": "Part of the journey is the end.",
+    "plot_line": "Part of the journey is the end.",
     "restrictions": [
       "PG-13"
     ],
@@ -93,7 +93,7 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_SX300.jpg",
     "imdb_rating": "8.4",
     "type": "movie",
-    "box_offfice": ""
+    "box_office": ""
   },
   {
     "imdb_id": "tt0499549",
@@ -174,7 +174,7 @@
     ],
     "status": "Released",
     "overview": "In the 22nd century, a paraplegic Marine is dispatched to the moon Pandora on a unique mission, but becomes torn between following orders and protecting an alien civilization.",
-    "tagline": "Enter the World of Pandora.",
+    "plot_line": "Enter the World of Pandora.",
     "restrictions": [
       "PG-13"
     ],
@@ -194,7 +194,7 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTYwOTEwNjAzMl5BMl5BanBnXkFtZTcwODc5MTUwMw@@._V1_SX300.jpg",
     "imdb_rating": "7.8",
     "type": "movie",
-    "box_offfice": "$749,700,000"
+    "box_office": "$749,700,000"
   },
   {
     "imdb_id": null,
@@ -273,7 +273,7 @@
     "spoken_languages": [],
     "status": "Released",
     "overview": "The narrative of Raimi's trilogy focuses on Peter Parker's growth from high school to college, and his management of the turbulent relationship with his best friend Harry Osborn, as well as his relationship with Mary Jane Watson, Peter's childhood crush and future love interest..",
-    "tagline": "With great power comes great responsibility"
+    "plot_line": "With great power comes great responsibility"
   },
   {
     "imdb_id": "tt2488496",
@@ -340,7 +340,7 @@
     ],
     "status": "Released",
     "overview": "Thirty years after defeating the Galactic Empire, Han Solo and his allies face a new threat from the evil Kylo Ren and his army of Stormtroopers.",
-    "tagline": "Every generation has a story."
+    "plot_line": "Every generation has a story."
   },
   {
     "imdb_id": "tt4154756",
@@ -395,7 +395,7 @@
     ],
     "status": "Released",
     "overview": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.",
-    "tagline": "An entire universe. Once and for all.",
+    "plot_line": "An entire universe. Once and for all.",
     "restrictions": [
       "PG-13"
     ],
@@ -432,7 +432,7 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_SX300.jpg",
     "imdb_rating": "8.5",
     "type": "movie",
-    "box_offfice": "$664,987,816"
+    "box_office": "$664,987,816"
   },
   {
     "imdb_id": "tt0120338",
@@ -515,7 +515,7 @@
     ],
     "status": "Released",
     "overview": "101-year-old Rose DeWitt Bukater tells the story of her life aboard the Titanic, 84 years later. A young Rose boards the ship with her mother and fiancé. Meanwhile, Jack Dawson and Fabrizio De Rossi win third-class tickets aboard the ship. Rose tells the whole story from Titanic's departure through to its death—on its first and last voyage—on April 15, 1912.",
-    "tagline": "Nothing on Earth could come between them.",
+    "plot_line": "Nothing on Earth could come between them.",
     "restrictions": [
       "PG-13"
     ],
@@ -535,7 +535,7 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMDdmZGU3NDQtY2E5My00ZTliLWIzOTUtMTY4ZGI1YjdiNjk3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg",
     "imdb_rating": "7.8",
     "type": "movie",
-    "box_offfice": ""
+    "box_office": ""
   },
   {
     "imdb_id": "tt0369610",
@@ -620,7 +620,7 @@
     ],
     "status": "Released",
     "overview": "Twenty-two years after the events of Jurassic Park, Isla Nublar now features a fully functioning dinosaur theme park, Jurassic World, as originally envisioned by John Hammond.",
-    "tagline": "The park is open.",
+    "plot_line": "The park is open.",
     "restrictions": [
       "PG-13"
     ],
@@ -646,7 +646,7 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BNzQ3OTY4NjAtNzM5OS00N2ZhLWJlOWUtYzYwZjNmOWRiMzcyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
     "imdb_rating": "7.0",
     "type": "movie",
-    "box_offfice": "$528,757,749"
+    "box_office": "$528,757,749"
   },
   {
     "imdb_id": "tt6105098",
@@ -699,7 +699,7 @@
     ],
     "status": "Released",
     "overview": "Simba idolizes his father, King Mufasa, and takes to heart his own royal destiny. But not everyone in the kingdom celebrates the new cub's arrival. Scar, Mufasa's brother—and former heir to the throne—has plans of his own. The battle for Pride Rock is ravaged with betrayal, tragedy and drama, ultimately resulting in Simba's exile. With help from a curious pair of newfound friends, Simba will have to figure out how to grow up and take back what is rightfully his.",
-    "tagline": "The King has Returned."
+    "plot_line": "The King has Returned."
   },
   {
     "imdb_id": "tt0848228",
@@ -764,7 +764,7 @@
     ],
     "status": "Released",
     "overview": "When an unexpected enemy emerges and threatens global safety and security, Nick Fury, director of the international peacekeeping agency known as S.H.I.E.L.D., finds himself in need of a team to pull the world back from the brink of disaster. Spanning the globe, a daring recruitment effort begins!",
-    "tagline": "Some assembly required.",
+    "plot_line": "Some assembly required.",
     "restrictions": [
       "PG-13"
     ],
@@ -786,7 +786,7 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BNDYxNjQyMjAtNTdiOS00NGYwLWFmNTAtNThmYjU5ZGI2YTI1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
     "imdb_rating": "8.0",
     "type": "movie",
-    "box_offfice": "$623,279,547"
+    "box_office": "$623,279,547"
   },
   {
     "imdb_id": "tt2820852",
@@ -891,7 +891,7 @@
     ],
     "status": "Released",
     "overview": "Deckard Shaw seeks revenge against Dominic Toretto and his family for his comatose brother.",
-    "tagline": "Vengeance Hits Home",
+    "plot_line": "Vengeance Hits Home",
     "restrictions": [
       "PG-13"
     ],
@@ -912,7 +912,7 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTQxOTA2NDUzOV5BMl5BanBnXkFtZTgwNzY2MTMxMzE@._V1_SX300.jpg",
     "imdb_rating": "7.2",
     "type": "movie",
-    "box_offfice": "$316,986,481"
+    "box_office": "$316,986,481"
   },
   {
     "imdb_id": "tt2395427",
@@ -963,7 +963,7 @@
     ],
     "status": "Released",
     "overview": "When Tony Stark tries to jumpstart a dormant peacekeeping program, things go awry and Earth’s Mightiest Heroes are put to the ultimate test as the fate of the planet hangs in the balance. As the villainous Ultron emerges, it is up to The Avengers to stop him from enacting his terrible plans, and soon uneasy alliances and unexpected action pave the way for an epic and unique global adventure.",
-    "tagline": "A New Age Has Come.",
+    "plot_line": "A New Age Has Come.",
     "restrictions": [
       "PG-13"
     ],
@@ -988,7 +988,7 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTM4OGJmNWMtOTM4Ni00NTE3LTg3MDItZmQxYjc4N2JhNmUxXkEyXkFqcGdeQXVyNTgzMDMzMTg@._V1_SX300.jpg",
     "imdb_rating": "7.3",
     "type": "movie",
-    "box_offfice": "$429,113,729"
+    "box_office": "$429,113,729"
   },
   {
     "imdb_id": "tt1825683",
@@ -1061,7 +1061,7 @@
     ],
     "status": "Released",
     "overview": "King T'Challa returns home from America to the reclusive, technologically advanced African nation of Wakanda to serve as his country's new leader. However, T'Challa soon finds that he is challenged for the throne by factions within his own country as well as without. Using powers reserved to Wakandan kings, T'Challa assumes the Black Panther mantel to join with girlfriend Nakia, the queen-mother, his princess-kid sister, members of the Dora Milaje (the Wakandan 'special forces') and an American secret agent, to prevent Wakanda from being dragged into a world war.",
-    "tagline": "Long live the king.",
+    "plot_line": "Long live the king.",
     "restrictions": [
       "PG-13"
     ],
@@ -1084,7 +1084,7 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTg1MTY2MjYzNV5BMl5BanBnXkFtZTgwMTc4NTMwNDI@._V1_SX300.jpg",
     "imdb_rating": "7.3",
     "type": "movie",
-    "box_offfice": "$501,105,037"
+    "box_office": "$501,105,037"
   },
   {
     "imdb_id": "tt1201607",
@@ -1141,7 +1141,7 @@
     ],
     "status": "Released",
     "overview": "Harry, Ron and Hermione continue their quest to vanquish the evil Voldemort once and for all. Just as things begin to look hopeless for the young wizards, Harry discovers a trio of magical objects that endow him with powers to rival Voldemort's formidable skills.",
-    "tagline": "It all ends here.",
+    "plot_line": "It all ends here.",
     "restrictions": [
       "PG-13"
     ],
@@ -1162,7 +1162,7 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMjIyZGU4YzUtNDkzYi00ZDRhLTljYzctYTMxMDQ4M2E0Y2YxXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg",
     "imdb_rating": "8.1",
     "type": "movie",
-    "box_offfice": "$381,000,185"
+    "box_office": "$381,000,185"
   },
   {
     "imdb_id": "tt2527336",
@@ -1217,7 +1217,7 @@
     ],
     "status": "Released",
     "overview": "Rey develops her newly discovered abilities with the guidance of Luke Skywalker, who is unsettled by the strength of her powers. Meanwhile, the Resistance prepares to do battle with the First Order.",
-    "tagline": "Darkness rises... and light to meet it"
+    "plot_line": "Darkness rises... and light to meet it"
   },
   {
     "imdb_id": "tt4520988",
@@ -1278,7 +1278,7 @@
     ],
     "status": "Released",
     "overview": "Elsa, Anna, Kristoff and Olaf head far into the forest to learn the truth about an ancient mystery of their kingdom.",
-    "tagline": "The past is not what it seems.",
+    "plot_line": "The past is not what it seems.",
     "restrictions": [
       "PG"
     ],
@@ -1306,7 +1306,7 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMjA0YjYyZGMtN2U0Ni00YmY4LWJkZTItYTMyMjY3NGYyMTJkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
     "imdb_rating": "7.0",
     "type": "movie",
-    "box_offfice": ""
+    "box_office": ""
   },
   {
     "imdb_id": "tt4881806",
@@ -1379,7 +1379,7 @@
     ],
     "status": "Released",
     "overview": "Three years after the demise of Jurassic World, a volcanic eruption threatens the remaining dinosaurs on the isla Nublar, so Claire Dearing, the former park manager, recruits Owen Grady to help prevent the extinction of the dinosaurs once again.",
-    "tagline": "The park is gone",
+    "plot_line": "The park is gone",
     "restrictions": [
       "PG-13"
     ],
@@ -1401,7 +1401,7 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BNzIxMjYwNDEwN15BMl5BanBnXkFtZTgwMzk5MDI3NTM@._V1_SX300.jpg",
     "imdb_rating": "6.2",
     "type": "movie",
-    "box_offfice": ""
+    "box_office": ""
   },
   {
     "imdb_id": "tt2294629",
@@ -1458,7 +1458,7 @@
     ],
     "status": "Released",
     "overview": "Young princess Anna of Arendelle dreams about finding true love at her sister Elsa’s coronation. Fate takes her on a dangerous journey in an attempt to end the eternal winter that has fallen over the kingdom. She's accompanied by ice delivery man Kristoff, his reindeer Sven, and snowman Olaf. On an adventure where she will find out what friendship, courage, family, and true love really means.",
-    "tagline": "Only the act of true love will thaw a frozen heart.",
+    "plot_line": "Only the act of true love will thaw a frozen heart.",
     "restrictions": [
       "PG"
     ],
@@ -1483,7 +1483,7 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTQ1MjQwMTE5OF5BMl5BanBnXkFtZTgwNjk3MTcyMDE@._V1_SX300.jpg",
     "imdb_rating": "7.5",
     "type": "movie",
-    "box_offfice": "$400,736,600"
+    "box_office": "$400,736,600"
   },
   {
     "imdb_id": "tt2771200",
@@ -1544,7 +1544,7 @@
     ],
     "status": "Released",
     "overview": "A live-action adaptation of Disney's version of the classic tale of a cursed prince and a beautiful young woman who helps him break the spell.",
-    "tagline": "Be our guest."
+    "plot_line": "Be our guest."
   },
   {
     "imdb_id": "tt3606756",
@@ -1605,7 +1605,7 @@
     ],
     "status": "Released",
     "overview": "Elastigirl springs into action to save the day, while Mr. Incredible faces his greatest challenge yet – taking care of the problems of his three children.",
-    "tagline": "Back to work.",
+    "plot_line": "Back to work.",
     "restrictions": [
       "PG"
     ],
@@ -1625,7 +1625,7 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTEzNzY0OTg0NTdeQTJeQWpwZ15BbWU4MDU3OTg3MjUz._V1_SX300.jpg",
     "imdb_rating": "7.6",
     "type": "movie",
-    "box_offfice": ""
+    "box_office": ""
   },
   {
     "imdb_id": "tt4630562",
@@ -1710,7 +1710,7 @@
     ],
     "status": "Released",
     "overview": "When a mysterious woman seduces Dom into the world of crime and a betrayal of those closest to him, the crew face trials that will test them as never before.",
-    "tagline": "Family no more",
+    "plot_line": "Family no more",
     "restrictions": [
       "PG-13"
     ],
@@ -1731,7 +1731,7 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMjMxODI2NDM5Nl5BMl5BanBnXkFtZTgwNjgzOTk1MTI@._V1_SX300.jpg",
     "imdb_rating": "6.7",
     "type": "movie",
-    "box_offfice": "$225,697,400"
+    "box_office": "$225,697,400"
   },
   {
     "imdb_id": "tt1300854",
@@ -1788,7 +1788,7 @@
     ],
     "status": "Released",
     "overview": "When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution.",
-    "tagline": "Unleash the power behind the armor.",
+    "plot_line": "Unleash the power behind the armor.",
     "restrictions": [
       "PG-13"
     ],
@@ -1815,7 +1815,7 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMjE5MzcyNjk1M15BMl5BanBnXkFtZTcwMjQ4MjcxOQ@@._V1_SX300.jpg",
     "imdb_rating": "7.2",
     "type": "movie",
-    "box_offfice": "$408,992,272"
+    "box_office": "$408,992,272"
   },
   {
     "imdb_id": "tt2293640",
@@ -1876,7 +1876,7 @@
     ],
     "status": "Released",
     "overview": "Minions Stuart, Kevin and Bob are recruited by Scarlet Overkill, a super-villain who, alongside her inventor husband Herb, hatches a plot to take over the world.",
-    "tagline": "Before Gru, they had a history of bad bosses",
+    "plot_line": "Before Gru, they had a history of bad bosses",
     "restrictions": [
       "PG"
     ],
@@ -1897,7 +1897,7 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTg2MTMyMzU0M15BMl5BanBnXkFtZTgwOTU3ODk4NTE@._V1_SX300.jpg",
     "imdb_rating": "6.4",
     "type": "movie",
-    "box_offfice": "$277,969,969"
+    "box_office": "$277,969,969"
   },
   {
     "imdb_id": "tt3498820",
@@ -1960,7 +1960,7 @@
     ],
     "status": "Released",
     "overview": "Following the events of Age of Ultron, the collective governments of the world pass an act designed to regulate all superhuman activity. This polarizes opinion amongst the Avengers, causing two factions to side with Iron Man or Captain America, which causes an epic battle between former allies.",
-    "tagline": "Divided We Fall",
+    "plot_line": "Divided We Fall",
     "restrictions": [
       "PG-13"
     ],
@@ -1984,7 +1984,7 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMjQ0MTgyNjAxMV5BMl5BanBnXkFtZTgwNjUzMDkyODE@._V1_SX300.jpg",
     "imdb_rating": "7.8",
     "type": "movie",
-    "box_offfice": "$408,080,554"
+    "box_office": "$408,080,554"
   },
   {
     "imdb_id": "tt1477834",
@@ -2075,7 +2075,7 @@
     ],
     "status": "Released",
     "overview": "Once home to the most advanced civilization on Earth, Atlantis is now an underwater kingdom ruled by the power-hungry King Orm. With a vast army at his disposal, Orm plans to conquer the remaining oceanic people and then the surface world. Standing in his way is Arthur Curry, Orm's half-human, half-Atlantean brother and true heir to the throne.",
-    "tagline": "Home Is Calling",
+    "plot_line": "Home Is Calling",
     "restrictions": [
       "PG-13"
     ],
@@ -2101,7 +2101,7 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BOTk5ODg0OTU5M15BMl5BanBnXkFtZTgwMDQ3MDY3NjM@._V1_SX300.jpg",
     "imdb_rating": "7.0",
     "type": "movie",
-    "box_offfice": ""
+    "box_office": ""
   },
   {
     "imdb_id": "tt6320628",
@@ -2186,7 +2186,7 @@
     ],
     "status": "Released",
     "overview": "Peter Parker and his friends go on a summer trip to Europe. However, they will hardly be able to rest - Peter will have to agree to help Nick Fury uncover the mystery of creatures that cause natural disasters and destruction throughout the continent.",
-    "tagline": "It’s time to step up.",
+    "plot_line": "It’s time to step up.",
     "restrictions": [
       "PG-13"
     ],
@@ -2209,7 +2209,7 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMGZlNTY1ZWUtYTMzNC00ZjUyLWE0MjQtMTMxN2E3ODYxMWVmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SX300.jpg",
     "imdb_rating": "7.5",
     "type": "movie",
-    "box_offfice": ""
+    "box_office": ""
   },
   {
     "imdb_id": "tt4154664",
@@ -2260,7 +2260,7 @@
     ],
     "status": "Released",
     "overview": "The story follows Carol Danvers as she becomes one of the universe’s most powerful heroes when Earth is caught in the middle of a galactic war between two alien races. Set in the 1990s, Captain Marvel is an all-new adventure from a previously unseen period in the history of the Marvel Cinematic Universe.",
-    "tagline": "Higher. Further. Faster.",
+    "plot_line": "Higher. Further. Faster.",
     "restrictions": [
       "PG-13"
     ],
@@ -2288,7 +2288,7 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTE0YWFmOTMtYTU2ZS00ZTIxLWE3OTEtYTNiYzBkZjViZThiXkEyXkFqcGdeQXVyODMzMzQ4OTI@._V1_SX300.jpg",
     "imdb_rating": "6.9",
     "type": "movie",
-    "box_offfice": ""
+    "box_office": ""
   },
   {
     "imdb_id": "tt1399103",
@@ -2357,7 +2357,7 @@
     ],
     "status": "Released",
     "overview": "Sam Witwicky takes his first tenuous steps into adulthood while remaining a reluctant human ally of Autobot-leader Optimus Prime. The film centers around the space race between the USSR and the USA, suggesting there was a hidden Transformers role in it all that remains one of the planet's most dangerous secrets.",
-    "tagline": "The invasion we always feared. An enemy we never expected.",
+    "plot_line": "The invasion we always feared. An enemy we never expected.",
     "restrictions": [
       "PG-13"
     ],
@@ -2377,7 +2377,7 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTkwOTY0MTc1NV5BMl5BanBnXkFtZTcwMDQwNjA2NQ@@._V1_SX300.jpg",
     "imdb_rating": "6.2",
     "type": "movie",
-    "box_offfice": "$352,358,779"
+    "box_office": "$352,358,779"
   },
   {
     "imdb_id": "tt0167260",
@@ -2444,7 +2444,7 @@
     ],
     "status": "Released",
     "overview": "Aragorn is revealed as the heir to the ancient kings as he, Gandalf and the other members of the broken fellowship struggle to save Gondor from Sauron's forces. Meanwhile, Frodo and Sam take the ring closer to the heart of Mordor, the dark lord's realm.",
-    "tagline": "The eye of the enemy is moving.",
+    "plot_line": "The eye of the enemy is moving.",
     "restrictions": [
       "PG-13"
     ],
@@ -2467,7 +2467,7 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
     "imdb_rating": "8.9",
     "type": "movie",
-    "box_offfice": "$364,000,000"
+    "box_office": "$364,000,000"
   },
   {
     "imdb_id": "tt1074638",
@@ -2552,7 +2552,7 @@
     ],
     "status": "Released",
     "overview": "When Bond's latest assignment goes gravely wrong and agents around the world are exposed, MI6 is attacked forcing M to relocate the agency. These events cause her authority and position to be challenged by Gareth Mallory, the new Chairman of the Intelligence and Security Committee. With MI6 now compromised from both inside and out, M is left with one ally she can trust: Bond. 007 takes to the shadows - aided only by field agent, Eve - following a trail to the mysterious Silva, whose lethal and hidden motives have yet to reveal themselves.",
-    "tagline": "Think on your sins.",
+    "plot_line": "Think on your sins.",
     "restrictions": [
       "PG-13"
     ],
@@ -2575,7 +2575,7 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BNDVhZmJiYWMtNmIzMC00ZWNiLTkzZDYtNGNlZmViMGM4OGExXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg",
     "imdb_rating": "7.7",
     "type": "movie",
-    "box_offfice": "$299,300,000"
+    "box_office": "$299,300,000"
   },
   {
     "imdb_id": "tt2109248",
@@ -2668,7 +2668,7 @@
     ],
     "status": "Released",
     "overview": "As humanity picks up the pieces, following the conclusion of \"Transformers: Dark of the Moon,\" Autobots and Decepticons have all but vanished from the face of the planet. However, a group of powerful, ingenious businessman and scientists attempt to learn from past Transformer incursions and push the boundaries of technology beyond what they can control - all while an ancient, powerful Transformer menace sets Earth in his cross-hairs.",
-    "tagline": "This is not war. It's extinction.",
+    "plot_line": "This is not war. It's extinction.",
     "restrictions": [
       "PG-13"
     ],
@@ -2688,7 +2688,7 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMjEwNTg1MTA5Nl5BMl5BanBnXkFtZTgwOTg2OTM4MTE@._V1_SX300.jpg",
     "imdb_rating": "5.6",
     "type": "movie",
-    "box_offfice": "$206,755,538"
+    "box_office": "$206,755,538"
   },
   {
     "imdb_id": "tt1345836",
@@ -2761,7 +2761,7 @@
     ],
     "status": "Released",
     "overview": "Following the death of District Attorney Harvey Dent, Batman assumes responsibility for Dent's crimes to protect the late attorney's reputation and is subsequently hunted by the Gotham City Police Department. Eight years later, Batman encounters the mysterious Selina Kyle and the villainous Bane, a new terrorist leader who overwhelms Gotham's finest. The Dark Knight resurfaces to protect a city that has branded him an enemy.",
-    "tagline": "The Legend Ends",
+    "plot_line": "The Legend Ends",
     "restrictions": [
       "PG-13"
     ],
@@ -2785,7 +2785,7 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_SX300.jpg",
     "imdb_rating": "8.4",
     "type": "movie",
-    "box_offfice": "$448,130,642"
+    "box_office": "$448,130,642"
   },
   {
     "imdb_id": "tt1979376",
@@ -2850,7 +2850,7 @@
     ],
     "status": "Released",
     "overview": "Woody has always been confident about his place in the world and that his priority is taking care of his kid, whether that's Andy or Bonnie. But when Bonnie adds a reluctant new toy called \"Forky\" to her room, a road trip adventure alongside old and new friends will show Woody how big the world can be for a toy.",
-    "tagline": "Get Ready to Hit the Road",
+    "plot_line": "Get Ready to Hit the Road",
     "restrictions": [
       "G"
     ],
@@ -2880,7 +2880,7 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTYzMDM4NzkxOV5BMl5BanBnXkFtZTgwNzM1Mzg2NzM@._V1_SX300.jpg",
     "imdb_rating": "7.8",
     "type": "movie",
-    "box_offfice": ""
+    "box_office": ""
   },
   {
     "imdb_id": "tt7286456",
@@ -2977,7 +2977,7 @@
     ],
     "status": "Released",
     "overview": "During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure.",
-    "tagline": "Put on a happy face.",
+    "plot_line": "Put on a happy face.",
     "restrictions": [
       "R"
     ],
@@ -3001,7 +3001,7 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
     "imdb_rating": "8.6",
     "type": "movie",
-    "box_offfice": ""
+    "box_office": ""
   },
   {
     "imdb_id": "tt0435761",
@@ -3056,7 +3056,7 @@
     ],
     "status": "Released",
     "overview": "Woody, Buzz, and the rest of Andy's toys haven't been played with in years. With Andy about to go to college, the gang find themselves accidentally left at a nefarious day care center. The toys must band together to escape and return home to Andy.",
-    "tagline": "No toy gets left behind.",
+    "plot_line": "No toy gets left behind.",
     "restrictions": [
       "G"
     ],
@@ -3079,7 +3079,7 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTgxOTY4Mjc0MF5BMl5BanBnXkFtZTcwNTA4MDQyMw@@._V1_SX300.jpg",
     "imdb_rating": "8.3",
     "type": "movie",
-    "box_offfice": "$414,984,497"
+    "box_office": "$414,984,497"
   },
   {
     "imdb_id": "tt0383574",
@@ -3154,7 +3154,7 @@
     ],
     "status": "Released",
     "overview": "Captain Jack Sparrow works his way out of a blood debt with the ghostly Davey Jones, he also attempts to avoid eternal damnation.",
-    "tagline": "Jack is back!",
+    "plot_line": "Jack is back!",
     "restrictions": [
       "PG-13"
     ],
@@ -3179,7 +3179,7 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTcwODc1MTMxM15BMl5BanBnXkFtZTYwMDg1NzY3._V1_SX300.jpg",
     "imdb_rating": "7.3",
     "type": "movie",
-    "box_offfice": "$423,032,628"
+    "box_office": "$423,032,628"
   },
   {
     "imdb_id": "tt2527338",
@@ -3242,7 +3242,7 @@
     ],
     "status": "Released",
     "overview": "The surviving Resistance faces the First Order once again as the journey of Rey, Finn and Poe Dameron continues. With the power and knowledge of generations behind them, the final battle begins.",
-    "tagline": "Every generation has a legend"
+    "plot_line": "Every generation has a legend"
   },
   {
     "imdb_id": "tt3748528",
@@ -3293,7 +3293,7 @@
     ],
     "status": "Released",
     "overview": "A rogue band of resistance fighters unite for a mission to steal the Death Star plans and bring a new hope to the galaxy.",
-    "tagline": "A Rebellion Built on Hope",
+    "plot_line": "A Rebellion Built on Hope",
     "restrictions": [
       "PG-13"
     ],
@@ -3317,7 +3317,7 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMjEwMzMxODIzOV5BMl5BanBnXkFtZTgwNzg3OTAzMDI@._V1_SX300.jpg",
     "imdb_rating": "7.8",
     "type": "movie",
-    "box_offfice": "$532,171,696"
+    "box_office": "$532,171,696"
   },
   {
     "imdb_id": "tt6139732",
@@ -3394,7 +3394,7 @@
     ],
     "status": "Released",
     "overview": "A kindhearted street urchin named Aladdin embarks on a magical adventure after finding a lamp that releases a wisecracking genie while a power-hungry Grand Vizier vies for the same lamp that has the power to make their deepest wishes come true.",
-    "tagline": "Choose Wisely."
+    "plot_line": "Choose Wisely."
   },
   {
     "imdb_id": "tt1298650",
@@ -3461,7 +3461,7 @@
     ],
     "status": "Released",
     "overview": "Captain Jack Sparrow crosses paths with a woman from his past, and he's not sure if it's love -- or if she's a ruthless con artist who's using him to find the fabled Fountain of Youth. When she forces him aboard the Queen Anne's Revenge, the ship of the formidable pirate Blackbeard, Jack finds himself on an unexpected adventure in which he doesn't know who to fear more: Blackbeard or the woman from his past.",
-    "tagline": "Live Forever Or Die Trying.",
+    "plot_line": "Live Forever Or Die Trying.",
     "restrictions": [
       "PG-13"
     ],
@@ -3489,7 +3489,7 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMjE5MjkwODI3Nl5BMl5BanBnXkFtZTcwNjcwMDk4NA@@._V1_SX300.jpg",
     "imdb_rating": "6.6",
     "type": "movie",
-    "box_offfice": "$241,063,875"
+    "box_office": "$241,063,875"
   },
   {
     "imdb_id": "tt3469046",
@@ -3554,7 +3554,7 @@
     ],
     "status": "Released",
     "overview": "Gru and his wife Lucy must stop former '80s child star Balthazar Bratt from achieving world domination.",
-    "tagline": "Oh brother.",
+    "plot_line": "Oh brother.",
     "restrictions": [
       "PG"
     ],
@@ -3577,7 +3577,7 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BNjUyNzQ2MTg3Ml5BMl5BanBnXkFtZTgwNzE4NDM3MTI@._V1_SX300.jpg",
     "imdb_rating": "6.3",
     "type": "movie",
-    "box_offfice": "$264,194,540"
+    "box_office": "$264,194,540"
   },
   {
     "imdb_id": "tt2277860",
@@ -3632,7 +3632,7 @@
     ],
     "status": "Released",
     "overview": "Dory is reunited with her friends Nemo and Marlin in the search for answers about her past. What can she remember? Who are her parents? And where did she learn to speak Whale?",
-    "tagline": "An unforgettable journey she probably won't remember.",
+    "plot_line": "An unforgettable journey she probably won't remember.",
     "restrictions": [
       "PG"
     ],
@@ -3655,7 +3655,7 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BNzg4MjM2NDQ4MV5BMl5BanBnXkFtZTgwMzk3MTgyODE@._V1_SX300.jpg",
     "imdb_rating": "7.3",
     "type": "movie",
-    "box_offfice": "$486,292,984"
+    "box_office": "$486,292,984"
   },
   {
     "imdb_id": "tt1014759",
@@ -3730,7 +3730,7 @@
     ],
     "status": "Released",
     "overview": "Alice, an unpretentious and individual 19-year-old, is betrothed to a dunce of an English nobleman. At her engagement party, she escapes the crowd to consider whether to go through with the marriage and falls down a hole in the garden after spotting an unusual rabbit. Arriving in a strange and surreal place called 'Underland,' she finds herself in a world that resembles the nightmares she had as a child, filled with talking animals, villainous queens and knights, and frumious bandersnatches. Alice realizes that she is there for a reason – to conquer the horrific Jabberwocky and restore the rightful queen to her throne.",
-    "tagline": "You're invited to a very important date",
+    "plot_line": "You're invited to a very important date",
     "restrictions": [
       "PG"
     ],
@@ -3751,7 +3751,7 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTMwNjAxMTc0Nl5BMl5BanBnXkFtZTcwODc3ODk5Mg@@._V1_SX300.jpg",
     "imdb_rating": "6.4",
     "type": "movie",
-    "box_offfice": "$319,323,000"
+    "box_office": "$319,323,000"
   },
   {
     "imdb_id": "tt2948356",
@@ -3812,7 +3812,7 @@
     ],
     "status": "Released",
     "overview": "Determined to prove herself, Officer Judy Hopps, the first bunny on Zootopia's police force, jumps at the chance to crack her first case - even if it means partnering with scam-artist fox Nick Wilde to solve the mystery.",
-    "tagline": "Welcome to the urban jungle.",
+    "plot_line": "Welcome to the urban jungle.",
     "restrictions": [
       "PG"
     ],
@@ -3842,7 +3842,7 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BOTMyMjEyNzIzMV5BMl5BanBnXkFtZTgwNzIyNjU0NzE@._V1_SX300.jpg",
     "imdb_rating": "8.0",
     "type": "movie",
-    "box_offfice": "$341,264,012"
+    "box_office": "$341,264,012"
   },
   {
     "imdb_id": "tt0903624",
@@ -3915,7 +3915,7 @@
     ],
     "status": "Released",
     "overview": "Bilbo Baggins, a hobbit enjoying his quiet life, is swept into an epic quest by Gandalf the Grey and thirteen dwarves who seek to reclaim their mountain home from Smaug, the dragon.",
-    "tagline": "From the smallest beginnings come the greatest legends.",
+    "plot_line": "From the smallest beginnings come the greatest legends.",
     "restrictions": [
       "PG-13"
     ],
@@ -3939,7 +3939,7 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTcwNTE4MTUxMl5BMl5BanBnXkFtZTcwMDIyODM4OA@@._V1_SX300.jpg",
     "imdb_rating": "7.8",
     "type": "movie",
-    "box_offfice": "$303,001,229"
+    "box_office": "$303,001,229"
   },
   {
     "imdb_id": "tt0468569",
@@ -4032,7 +4032,7 @@
     ],
     "status": "Released",
     "overview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
-    "tagline": "Why So Serious?",
+    "plot_line": "Why So Serious?",
     "restrictions": [
       "PG-13"
     ],
@@ -4056,7 +4056,7 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_SX300.jpg",
     "imdb_rating": "9.0",
     "type": "movie",
-    "box_offfice": "$533,316,061"
+    "box_office": "$533,316,061"
   },
   {
     "imdb_id": null,
@@ -4111,7 +4111,7 @@
     ],
     "status": "Released",
     "overview": "An exploration of the world of the secret organizations and free masonry. A two - minute - epic revealing what the world has become with morals' absence in every aspect of life.",
-    "tagline": "THE SECRET WORLD UNDECIPHERED"
+    "plot_line": "THE SECRET WORLD UNDECIPHERED"
   },
   {
     "imdb_id": "tt6105098",
@@ -4164,7 +4164,7 @@
     ],
     "status": "Released",
     "overview": "A young lion prince is cast out of his pride by his cruel uncle, who claims he killed his father. While the uncle rules with an iron paw, the prince grows up beyond the Savannah, living by a philosophy: No worries for the rest of your days. But when his past comes to haunt him, the young prince must decide his fate: Will he remain an outcast or face his demons and become what he needs to be?",
-    "tagline": "The King has Returned."
+    "plot_line": "The King has Returned."
   },
   {
     "imdb_id": "tt0241527",
@@ -4231,7 +4231,7 @@
     ],
     "status": "Released",
     "overview": "Harry Potter has lived under the stairs at his aunt and uncle's house his whole life. But on his 11th birthday, he learns he's a powerful wizard -- with a place waiting for him at the Hogwarts School of Witchcraft and Wizardry. As he learns to harness his newfound powers with the help of the school's kindly headmaster, Harry uncovers the truth about his parents' deaths -- and about the villain who's to blame.",
-    "tagline": "Let the Magic Begin."
+    "plot_line": "Let the Magic Begin."
   },
   {
     "imdb_id": "tt1690953",
@@ -4288,7 +4288,7 @@
     ],
     "status": "Released",
     "overview": "Gru is recruited by the Anti-Villain League to help deal with a powerful new super criminal.",
-    "tagline": "Back 2 Work",
+    "plot_line": "Back 2 Work",
     "restrictions": [
       "PG"
     ],
@@ -4310,7 +4310,7 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMjExNjAyNTcyMF5BMl5BanBnXkFtZTgwODQzMjQ3MDE@._V1_SX300.jpg",
     "imdb_rating": "7.3",
     "type": "movie",
-    "box_offfice": "$368,049,635"
+    "box_office": "$368,049,635"
   },
   {
     "imdb_id": "tt3040964",
@@ -4381,7 +4381,7 @@
     ],
     "status": "Released",
     "overview": "A man-cub named Mowgli fostered by wolves. After a threat from the tiger Shere Khan, Mowgli is forced to flee the jungle, by which he embarks on a journey of self discovery with the help of the panther, Bagheera and the free-spirited bear, Baloo.",
-    "tagline": "The legend will never be the same.",
+    "plot_line": "The legend will never be the same.",
     "restrictions": [
       "PG"
     ],
@@ -4402,7 +4402,7 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTc3NTUzNTI4MV5BMl5BanBnXkFtZTgwNjU0NjU5NzE@._V1_SX300.jpg",
     "imdb_rating": "7.4",
     "type": "movie",
-    "box_offfice": "$363,995,937"
+    "box_office": "$363,995,937"
   },
   {
     "imdb_id": "tt2283362",
@@ -4481,7 +4481,7 @@
     ],
     "status": "Released",
     "overview": "The tables are turned as four teenagers are sucked into Jumanji's world - pitted against rhinos, black mambas and an endless variety of jungle traps and puzzles. To survive, they'll play as characters from the game.",
-    "tagline": "The game has evolved.",
+    "plot_line": "The game has evolved.",
     "restrictions": [
       "PG-13"
     ],
@@ -4511,7 +4511,7 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BODQ0NDhjYWItYTMxZi00NTk2LWIzNDEtOWZiYWYxZjc2MTgxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
     "imdb_rating": "6.9",
     "type": "movie",
-    "box_offfice": "$393,201,353"
+    "box_office": "$393,201,353"
   },
   {
     "imdb_id": "tt0449088",
@@ -4574,7 +4574,7 @@
     ],
     "status": "Released",
     "overview": "Captain Barbossa, long believed to be dead, has come back to life and is headed to the edge of the Earth with Will Turner and Elizabeth Swann. But nothing is quite as it seems.",
-    "tagline": "At the end of the world, the adventure begins.",
+    "plot_line": "At the end of the world, the adventure begins.",
     "restrictions": [
       "PG-13"
     ],
@@ -4599,7 +4599,7 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMjIyNjkxNzEyMl5BMl5BanBnXkFtZTYwMjc3MDE3._V1_SX300.jpg",
     "imdb_rating": "7.1",
     "type": "movie",
-    "box_offfice": "$309,404,152"
+    "box_office": "$309,404,152"
   },
   {
     "imdb_id": "tt1170358",
@@ -4672,7 +4672,7 @@
     ],
     "status": "Released",
     "overview": "The Dwarves, Bilbo and Gandalf have successfully escaped the Misty Mountains, and Bilbo has gained the One Ring. They all continue their journey to get their gold back from the Dragon, Smaug.",
-    "tagline": "Beyond darkness... beyond desolation... lies the greatest danger of all.",
+    "plot_line": "Beyond darkness... beyond desolation... lies the greatest danger of all.",
     "restrictions": [
       "PG-13"
     ],
@@ -4696,7 +4696,7 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMzU0NDY0NDEzNV5BMl5BanBnXkFtZTgwOTIxNDU1MDE@._V1_SX300.jpg",
     "imdb_rating": "7.8",
     "type": "movie",
-    "box_offfice": "$180,443,783"
+    "box_office": "$180,443,783"
   },
   {
     "imdb_id": "tt2310332",
@@ -4775,7 +4775,7 @@
     ],
     "status": "Released",
     "overview": "Immediately after the events of The Desolation of Smaug, Bilbo and the dwarves try to defend Erebor's mountain of treasure from others who claim it: the men of the ruined Laketown and the elves of Mirkwood. Meanwhile an army of Orcs led by Azog the Defiler is marching on Erebor, fueled by the rise of the dark lord Sauron. Dwarves, elves and men must unite, and the hope for Middle-Earth falls into Bilbo's hands.",
-    "tagline": "Witness the defining chapter of the Middle-Earth saga",
+    "plot_line": "Witness the defining chapter of the Middle-Earth saga",
     "restrictions": [
       "PG-13"
     ],
@@ -4799,7 +4799,7 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BODAzMDgxMDc1MF5BMl5BanBnXkFtZTgwMTI0OTAzMjE@._V1_SX300.jpg",
     "imdb_rating": "7.4",
     "type": "movie",
-    "box_offfice": "$187,747,747"
+    "box_office": "$187,747,747"
   },
   {
     "imdb_id": "tt0926084",
@@ -4856,7 +4856,7 @@
     ],
     "status": "Released",
     "overview": "Harry, Ron and Hermione walk away from their last year at Hogwarts to find and destroy the remaining Horcruxes, putting an end to Voldemort's bid for immortality. But with Harry's beloved Dumbledore dead and Voldemort's unscrupulous Death Eaters on the loose, the world is more dangerous than ever.",
-    "tagline": "One Way… One Fate… One Hero.",
+    "plot_line": "One Way… One Fate… One Hero.",
     "restrictions": [
       "PG-13"
     ],
@@ -4877,7 +4877,7 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTQ2OTE1Mjk0N15BMl5BanBnXkFtZTcwODE3MDAwNA@@._V1_SX300.jpg",
     "imdb_rating": "7.7",
     "type": "movie",
-    "box_offfice": "$294,980,434"
+    "box_office": "$294,980,434"
   },
   {
     "imdb_id": "tt0266543",
@@ -4924,7 +4924,7 @@
     ],
     "status": "Released",
     "overview": "Nemo, an adventurous young clownfish, is unexpectedly taken from his Great Barrier Reef home to a dentist's office aquarium. It's up to his worrisome father Marlin and a friendly but forgetful fish Dory to bring Nemo home -- meeting vegetarian sharks, surfer dude turtles, hypnotic jellyfish, hungry seagulls, and more along the way.",
-    "tagline": "There are 3.7 trillion fish in the ocean. They're looking for one.",
+    "plot_line": "There are 3.7 trillion fish in the ocean. They're looking for one.",
     "restrictions": [
       "G"
     ],
@@ -4948,7 +4948,7 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BZTAzNWZlNmUtZDEzYi00ZjA5LWIwYjEtZGM1NWE1MjE4YWRhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
     "imdb_rating": "8.1",
     "type": "movie",
-    "box_offfice": "$380,529,370"
+    "box_office": "$380,529,370"
   },
   {
     "imdb_id": "tt0373889",
@@ -5009,7 +5009,7 @@
     ],
     "status": "Released",
     "overview": "Returning for his fifth year of study at Hogwarts, Harry is stunned to find that his warnings about the return of Lord Voldemort have been ignored. Left with no choice, Harry takes matters into his own hands, training a small group of students – dubbed 'Dumbledore's Army' – to defend themselves against the dark arts.",
-    "tagline": "Evil Must Be Confronted.",
+    "plot_line": "Evil Must Be Confronted.",
     "restrictions": [
       "PG-13"
     ],
@@ -5030,7 +5030,7 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTM0NTczMTUzOV5BMl5BanBnXkFtZTYwMzIxNTg3._V1_SX300.jpg",
     "imdb_rating": "7.5",
     "type": "movie",
-    "box_offfice": "$291,980,108"
+    "box_office": "$291,980,108"
   },
   {
     "imdb_id": "tt0417741",
@@ -5087,7 +5087,7 @@
     ],
     "status": "Released",
     "overview": "As Harry begins his sixth year at Hogwarts, he discovers an old book marked as 'Property of the Half-Blood Prince', and begins to learn more about Lord Voldemort's dark past.",
-    "tagline": "Dark Secrets Revealed",
+    "plot_line": "Dark Secrets Revealed",
     "restrictions": [
       "PG"
     ],
@@ -5108,7 +5108,7 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BNzU3NDg4NTAyNV5BMl5BanBnXkFtZTcwOTg2ODg1Mg@@._V1_SX300.jpg",
     "imdb_rating": "7.6",
     "type": "movie",
-    "box_offfice": "$301,920,409"
+    "box_office": "$301,920,409"
   },
   {
     "imdb_id": "tt0167261",
@@ -5175,7 +5175,7 @@
     ],
     "status": "Released",
     "overview": "Frodo and Sam are trekking to Mordor to destroy the One Ring of Power while Gimli, Legolas and Aragorn search for the orc-captured Merry and Pippin. All along, nefarious wizard Saruman awaits the Fellowship members at the Orthanc Tower in Isengard.",
-    "tagline": "A New Power Is Rising.",
+    "plot_line": "A New Power Is Rising.",
     "restrictions": [
       "PG-13"
     ],
@@ -5199,7 +5199,7 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BNGE5MzIyNTAtNWFlMC00NDA2LWJiMjItMjc4Yjg1OWM5NzhhXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
     "imdb_rating": "8.7",
     "type": "movie",
-    "box_offfice": "$339,700,000"
+    "box_office": "$339,700,000"
   },
   {
     "imdb_id": "tt0120915",
@@ -5256,7 +5256,7 @@
     ],
     "status": "Released",
     "overview": "Anakin Skywalker, a young slave strong with the Force, is discovered on Tatooine. Meanwhile, the evil Sith have returned, enacting their plot for revenge against the Jedi.",
-    "tagline": "Every generation has a legend. Every journey has a first step. Every saga has a beginning.",
+    "plot_line": "Every generation has a legend. Every journey has a first step. Every saga has a beginning.",
     "restrictions": [
       "PG"
     ],
@@ -5276,7 +5276,7 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BYTRhNjcwNWQtMGJmMi00NmQyLWE2YzItODVmMTdjNWI0ZDA2XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
     "imdb_rating": "6.5",
     "type": "movie",
-    "box_offfice": "$431,000,000"
+    "box_office": "$431,000,000"
   },
   {
     "imdb_id": "tt0107290",
@@ -5333,7 +5333,7 @@
     ],
     "status": "Released",
     "overview": "A wealthy entrepreneur secretly creates a theme park featuring living dinosaurs drawn from prehistoric DNA. Before opening day, he invites a team of experts and his two eager grandchildren to experience the park and help calm anxious investors. However, the park is anything but amusing as the security systems go off-line and the dinosaurs escape.",
-    "tagline": "An adventure 65 million years in the making.",
+    "plot_line": "An adventure 65 million years in the making.",
     "restrictions": [
       "PG-13"
     ],
@@ -5355,7 +5355,7 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_SX300.jpg",
     "imdb_rating": "8.1",
     "type": "movie",
-    "box_offfice": "$45,299,680"
+    "box_office": "$45,299,680"
   },
   {
     "imdb_id": "tt0298148",
@@ -5426,7 +5426,7 @@
     ],
     "status": "Released",
     "overview": "Shrek, Fiona and Donkey set off to Far, Far Away to meet Fiona's mother and father. But not everyone is happy. Shrek and the King find it hard to get along, and there's tension in the marriage. The fairy godmother discovers that Shrek has married Fiona instead of her Son Prince Charming and sets about destroying their marriage.",
-    "tagline": "Once upon another time...",
+    "plot_line": "Once upon another time...",
     "restrictions": [
       "PG"
     ],
@@ -5458,7 +5458,7 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMDJhMGRjN2QtNDUxYy00NGM3LThjNGQtMmZiZTRhNjM4YzUxL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
     "imdb_rating": "7.2",
     "type": "movie",
-    "box_offfice": "$436,471,036"
+    "box_office": "$436,471,036"
   },
   {
     "imdb_id": "tt0330373",
@@ -5529,7 +5529,7 @@
     ],
     "status": "Released",
     "overview": "Harry starts his fourth year at Hogwarts, competes in the treacherous Triwizard Tournament and faces the evil Lord Voldemort. Ron and Hermione help Harry manage the pressure – but Voldemort lurks, awaiting his chance to destroy Harry and all that he stands for.",
-    "tagline": "Dark And Difficult Times Lie Ahead.",
+    "plot_line": "Dark And Difficult Times Lie Ahead.",
     "restrictions": [
       "PG-13"
     ],
@@ -5550,7 +5550,7 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTI1NDMyMjExOF5BMl5BanBnXkFtZTcwOTc4MjQzMQ@@._V1_SX300.jpg",
     "imdb_rating": "7.7",
     "type": "movie",
-    "box_offfice": "$289,994,397"
+    "box_office": "$289,994,397"
   },
   {
     "imdb_id": "tt1727824",
@@ -5631,7 +5631,7 @@
     ],
     "status": "Released",
     "overview": "Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guitarist John Deacon take the music world by storm when they form the rock 'n' roll band Queen in 1970. Hit songs become instant classics. When Mercury's increasingly wild lifestyle starts to spiral out of control, Queen soon faces its greatest challenge yet – finding a way to keep the band together amid the success and excess.",
-    "tagline": "Fearless lives forever",
+    "plot_line": "Fearless lives forever",
     "restrictions": [
       "PG-13"
     ],
@@ -5653,7 +5653,7 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTA2NDc3Njg5NDVeQTJeQWpwZ15BbWU4MDc1NDcxNTUz._V1_SX300.jpg",
     "imdb_rating": "8.0",
     "type": "movie",
-    "box_offfice": ""
+    "box_office": ""
   },
   {
     "imdb_id": "tt0413300",
@@ -5726,7 +5726,7 @@
     ],
     "status": "Released",
     "overview": "The seemingly invincible Spider-Man goes up against an all-new crop of villains—including the shape-shifting Sandman. While Spider-Man’s superpowers are altered by an alien organism, his alter ego, Peter Parker, deals with nemesis Eddie Brock and also gets caught up in a love triangle.",
-    "tagline": "The battle within.",
+    "plot_line": "The battle within.",
     "restrictions": [
       "PG-13"
     ],
@@ -5752,7 +5752,7 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BYTk3MDljOWQtNGI2My00OTEzLTlhYjQtOTQ4ODM2MzUwY2IwXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg",
     "imdb_rating": "6.2",
     "type": "movie",
-    "box_offfice": "$336,530,303"
+    "box_office": "$336,530,303"
   },
   {
     "imdb_id": "tt1080016",
@@ -5819,7 +5819,7 @@
     ],
     "status": "Released",
     "overview": "Times are changing for Manny the moody mammoth, Sid the motor mouthed sloth and Diego the crafty saber-toothed tiger. Life heats up for our heroes when they meet some new and none-too-friendly neighbors – the mighty dinosaurs.",
-    "tagline": "You Won't Believe Your Ice!",
+    "plot_line": "You Won't Believe Your Ice!",
     "restrictions": [
       "PG"
     ],
@@ -5844,7 +5844,7 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTMzNDkzMTcyOV5BMl5BanBnXkFtZTcwNDIzMjM2MQ@@._V1_SX300.jpg",
     "imdb_rating": "6.9",
     "type": "movie",
-    "box_offfice": "$124,605,432"
+    "box_office": "$124,605,432"
   },
   {
     "imdb_id": "tt2379713",
@@ -5939,7 +5939,7 @@
     ],
     "status": "Released",
     "overview": "A cryptic message from Bond’s past sends him on a trail to uncover a sinister organization. While M battles political forces to keep the secret service alive, Bond peels back the layers of deceit to reveal the terrible truth behind SPECTRE.",
-    "tagline": "A Plan No One Escapes",
+    "plot_line": "A Plan No One Escapes",
     "restrictions": [
       "PG-13"
     ],
@@ -5966,7 +5966,7 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BOWQ1MDE1NzgtNTQ4OC00ZjliLTllZDAtN2IyOTVmMTc5YjUxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
     "imdb_rating": "6.8",
     "type": "movie",
-    "box_offfice": "$208,777,731"
+    "box_office": "$208,777,731"
   },
   {
     "imdb_id": "tt2250912",
@@ -6045,7 +6045,7 @@
     ],
     "status": "Released",
     "overview": "Following the events of Captain America: Civil War, Peter Parker, with the help of his mentor Tony Stark, tries to balance his life as an ordinary high school student in Queens, New York City, with fighting crime as his superhero alter ego Spider-Man as a new threat, the Vulture, emerges.",
-    "tagline": "Homework can wait. The city can't.",
+    "plot_line": "Homework can wait. The city can't.",
     "restrictions": [
       "PG-13"
     ],
@@ -6076,7 +6076,7 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BNTk4ODQ1MzgzNl5BMl5BanBnXkFtZTgwMTMyMzM4MTI@._V1_SX300.jpg",
     "imdb_rating": "7.4",
     "type": "movie",
-    "box_offfice": "$334,166,825"
+    "box_office": "$334,166,825"
   },
   {
     "imdb_id": "tt1667889",
@@ -6143,7 +6143,7 @@
     ],
     "status": "Released",
     "overview": "Manny, Diego, and Sid embark upon another adventure after their continent is set adrift. Using an iceberg as a ship, they encounter sea creatures and battle pirates as they explore a new world.",
-    "tagline": "The End of the World is Just the Tip of the Iceberg.",
+    "plot_line": "The End of the World is Just the Tip of the Iceberg.",
     "restrictions": [
       "PG"
     ],
@@ -6167,7 +6167,7 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTM3NDM5MzY5Ml5BMl5BanBnXkFtZTcwNjExMDUwOA@@._V1_SX300.jpg",
     "imdb_rating": "6.6",
     "type": "movie",
-    "box_offfice": "$161,317,423"
+    "box_office": "$161,317,423"
   },
   {
     "imdb_id": "tt0295297",
@@ -6234,7 +6234,7 @@
     ],
     "status": "Released",
     "overview": "Cars fly, trees fight back, and a mysterious house-elf comes to warn Harry Potter at the start of his second year at Hogwarts. Adventure and danger await when bloody writing on a wall announces: The Chamber Of Secrets Has Been Opened. To save Hogwarts will require all of Harry, Ron and Hermione’s magical abilities and courage.",
-    "tagline": "Hogwarts is back in session.",
+    "plot_line": "Hogwarts is back in session.",
     "restrictions": [
       "PG"
     ],
@@ -6255,7 +6255,7 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTcxODgwMDkxNV5BMl5BanBnXkFtZTYwMDk2MDg3._V1_SX300.jpg",
     "imdb_rating": "7.4",
     "type": "movie",
-    "box_offfice": "$261,835,892"
+    "box_office": "$261,835,892"
   },
   {
     "imdb_id": "tt2709768",
@@ -6328,7 +6328,7 @@
     ],
     "status": "Released",
     "overview": "The quiet life of a terrier named Max is upended when his owner takes in Duke, a stray whom Max instantly dislikes.",
-    "tagline": "Think this is what they do all day?",
+    "plot_line": "Think this is what they do all day?",
     "restrictions": [
       "PG"
     ],
@@ -6351,7 +6351,7 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMjIzMzA1OTkzNV5BMl5BanBnXkFtZTgwODE3MjM4NzE@._V1_SX300.jpg",
     "imdb_rating": "6.5",
     "type": "movie",
-    "box_offfice": "$368,305,960"
+    "box_office": "$368,305,960"
   },
   {
     "imdb_id": "tt2975590",
@@ -6438,7 +6438,7 @@
     ],
     "status": "Released",
     "overview": "Fearing the actions of a god-like Super Hero left unchecked, Gotham City’s own formidable, forceful vigilante takes on Metropolis’s most revered, modern-day savior, while the world wrestles with what sort of hero it really needs. And with Batman and Superman at war with one another, a new threat quickly arises, putting mankind in greater danger than it’s ever known before.",
-    "tagline": "Justice or revenge",
+    "plot_line": "Justice or revenge",
     "restrictions": [
       "PG-13"
     ],
@@ -6464,7 +6464,7 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BYThjYzcyYzItNTVjNy00NDk0LTgwMWQtYjMwNmNlNWJhMzMyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
     "imdb_rating": "6.5",
     "type": "movie",
-    "box_offfice": "$293,792,936"
+    "box_office": "$293,792,936"
   },
   {
     "imdb_id": "tt0120737",
@@ -6531,7 +6531,7 @@
     ],
     "status": "Released",
     "overview": "Young hobbit Frodo Baggins, after inheriting a mysterious ring from his uncle Bilbo, must leave his home in order to keep it from falling into the hands of its evil creator. Along the way, a fellowship is formed to protect the ringbearer and make sure that the ring arrives at its final destination: Mt. Doom, the only place where it can be destroyed.",
-    "tagline": "One ring to rule them all",
+    "plot_line": "One ring to rule them all",
     "restrictions": [
       "PG-13"
     ],
@@ -6554,7 +6554,7 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_SX300.jpg",
     "imdb_rating": "8.8",
     "type": "movie",
-    "box_offfice": "$314,000,000"
+    "box_office": "$314,000,000"
   },
   {
     "imdb_id": "tt7131870",
@@ -6629,7 +6629,7 @@
     ],
     "status": "Released",
     "overview": "China's deadliest special forces operative settles into a quiet life on the sea. When sadistic mercenaries begin targeting nearby civilians, he must leave his newfound peace behind and return to his duties as a soldier and protector.",
-    "tagline": "",
+    "plot_line": "",
     "restrictions": [
       "Not Rated"
     ],
@@ -6652,7 +6652,7 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTY0NjU4NjE4Nl5BMl5BanBnXkFtZTgwNjk0ODY5MjI@._V1_SX300.jpg",
     "imdb_rating": "6.0",
     "type": "movie",
-    "box_offfice": "$2,720,898"
+    "box_office": "$2,720,898"
   },
   {
     "imdb_id": "tt3896198",
@@ -6707,7 +6707,7 @@
     ],
     "status": "Released",
     "overview": "The Guardians must fight to keep their newfound family together as they unravel the mysteries of Peter Quill's true parentage.",
-    "tagline": "Obviously.",
+    "plot_line": "Obviously.",
     "restrictions": [
       "PG-13"
     ],
@@ -6739,7 +6739,7 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BNjM0NTc0NzItM2FlYS00YzEwLWE0YmUtNTA2ZWIzODc2OTgxXkEyXkFqcGdeQXVyNTgwNzIyNzg@._V1_SX300.jpg",
     "imdb_rating": "7.6",
     "type": "movie",
-    "box_offfice": "$389,804,217"
+    "box_office": "$389,804,217"
   },
   {
     "imdb_id": "tt2096673",
@@ -6800,7 +6800,7 @@
     ],
     "status": "Released",
     "overview": "Growing up can be a bumpy road, and it's no exception for Riley, who is uprooted from her Midwest life when her father starts a new job in San Francisco. Riley's guiding emotions— Joy, Fear, Anger, Disgust and Sadness—live in Headquarters, the control centre inside Riley's mind, where they help advise her through everyday life and tries to keep things positive, but the emotions conflict on how best to navigate a new city, house and school.",
-    "tagline": "Meet the little voices inside your head.",
+    "plot_line": "Meet the little voices inside your head.",
     "restrictions": [
       "PG"
     ],
@@ -6829,7 +6829,7 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BOTgxMDQwMDk0OF5BMl5BanBnXkFtZTgwNjU5OTg2NDE@._V1_SX300.jpg",
     "imdb_rating": "8.2",
     "type": "movie",
-    "box_offfice": "$264,317,903"
+    "box_office": "$264,317,903"
   },
   {
     "imdb_id": "tt1270797",
@@ -6912,7 +6912,7 @@
     ],
     "status": "Released",
     "overview": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
-    "tagline": "The world has enough Superheroes.",
+    "plot_line": "The world has enough Superheroes.",
     "restrictions": [
       "PG-13"
     ],
@@ -6938,7 +6938,7 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BNzAwNzUzNjY4MV5BMl5BanBnXkFtZTgwMTQ5MzM0NjM@._V1_SX300.jpg",
     "imdb_rating": "6.7",
     "type": "movie",
-    "box_offfice": ""
+    "box_office": ""
   },
   {
     "imdb_id": "tt3501632",
@@ -6999,7 +6999,7 @@
     ],
     "status": "Released",
     "overview": "Thor is imprisoned on the other side of the universe and finds himself in a race against time to get back to Asgard to stop Ragnarok, the destruction of his home-world and the end of Asgardian civilization, at the hands of an all-powerful new threat, the ruthless Hela.",
-    "tagline": "No Hammer. No Problem.",
+    "plot_line": "No Hammer. No Problem.",
     "restrictions": [
       "PG-13"
     ],
@@ -7024,7 +7024,7 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMjMyNDkzMzI1OF5BMl5BanBnXkFtZTgwODcxODg5MjI@._V1_SX300.jpg",
     "imdb_rating": "7.9",
     "type": "movie",
-    "box_offfice": "$314,971,245"
+    "box_office": "$314,971,245"
   },
   {
     "imdb_id": "tt0121766",
@@ -7081,7 +7081,7 @@
     ],
     "status": "Released",
     "overview": "The evil Darth Sidious enacts his final plan for unlimited power -- and the heroic Jedi Anakin Skywalker must choose a side.",
-    "tagline": "The saga is complete.",
+    "plot_line": "The saga is complete.",
     "restrictions": [
       "PG-13"
     ],
@@ -7101,7 +7101,7 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BNTc4MTc3NTQ5OF5BMl5BanBnXkFtZTcwOTg0NjI4NA@@._V1_SX300.jpg",
     "imdb_rating": "7.5",
     "type": "movie",
-    "box_offfice": ""
+    "box_office": ""
   },
   {
     "imdb_id": "tt1951264",
@@ -7158,7 +7158,7 @@
     ],
     "status": "Released",
     "overview": "Katniss Everdeen has returned home safe after winning the 74th Annual Hunger Games along with fellow tribute Peeta Mellark. Winning means that they must turn around and leave their family and close friends, embarking on a \"Victor's Tour\" of the districts. Along the way Katniss senses that a rebellion is simmering, but the Capitol is still very much in control as President Snow prepares the 75th Annual Hunger Games (The Quarter Quell) - a competition that could change Panem forever.",
-    "tagline": "Every revolution begins with a spark.",
+    "plot_line": "Every revolution begins with a spark.",
     "restrictions": [
       "PG-13"
     ],
@@ -7180,7 +7180,7 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTAyMjQ3OTAxMzNeQTJeQWpwZ15BbWU4MDU0NzA1MzAx._V1_SX300.jpg",
     "imdb_rating": "7.5",
     "type": "movie",
-    "box_offfice": "$336,663,349"
+    "box_office": "$336,663,349"
   },
   {
     "imdb_id": "tt1055369",
@@ -7271,7 +7271,7 @@
     ],
     "status": "Released",
     "overview": "Sam Witwicky leaves the Autobots behind for a normal life. But when his mind is filled with cryptic symbols, the Decepticons target him and he is dragged back into the Transformers' war.",
-    "tagline": "Revenge is coming.",
+    "plot_line": "Revenge is coming.",
     "restrictions": [
       "PG-13"
     ],
@@ -7293,7 +7293,7 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BNjk4OTczOTk0NF5BMl5BanBnXkFtZTcwNjQ0NzMzMw@@._V1_SX300.jpg",
     "imdb_rating": "6.0",
     "type": "movie",
-    "box_offfice": "$402,076,689"
+    "box_office": "$402,076,689"
   },
   {
     "imdb_id": "tt1673434",
@@ -7360,7 +7360,7 @@
     ],
     "status": "Released",
     "overview": "After the birth of Renesmee, the Cullens gather other vampire clans in order to protect the child from a false allegation that puts the family in front of the Volturi.",
-    "tagline": "The epic finale that will live forever.",
+    "plot_line": "The epic finale that will live forever.",
     "restrictions": [
       "PG-13"
     ],
@@ -7381,7 +7381,7 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTcyMzUyMzY1OF5BMl5BanBnXkFtZTcwNDQ4ODk1OA@@._V1_SX300.jpg",
     "imdb_rating": "5.5",
     "type": "movie",
-    "box_offfice": "$292,298,923"
+    "box_office": "$292,298,923"
   },
   {
     "imdb_id": "tt1375666",
@@ -7452,7 +7452,7 @@
     ],
     "status": "Released",
     "overview": "Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as payment for a task considered to be impossible: \"inception\", the implantation of another person's idea into a target's subconscious.",
-    "tagline": "Your mind is the scene of the crime.",
+    "plot_line": "Your mind is the scene of the crime.",
     "restrictions": [
       "PG-13"
     ],
@@ -7472,7 +7472,7 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_SX300.jpg",
     "imdb_rating": "8.8",
     "type": "movie",
-    "box_offfice": "$292,568,851"
+    "box_office": "$292,568,851"
   },
   {
     "imdb_id": "tt0451279",
@@ -7575,7 +7575,7 @@
     ],
     "status": "Released",
     "overview": "An Amazon princess comes to the world of Man in the grips of the First World War to confront the forces of evil and bring an end to human conflict.",
-    "tagline": "Power. Grace. Wisdom. Wonder.",
+    "plot_line": "Power. Grace. Wisdom. Wonder.",
     "restrictions": [
       "PG-13"
     ],
@@ -7599,7 +7599,7 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BNDFmZjgyMTEtYTk5MC00NmY0LWJhZjktOWY2MzI5YjkzODNlXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_SX300.jpg",
     "imdb_rating": "7.4",
     "type": "movie",
-    "box_offfice": "$412,400,625"
+    "box_office": "$412,400,625"
   },
   {
     "imdb_id": "tt0145487",
@@ -7658,7 +7658,7 @@
     ],
     "status": "Released",
     "overview": "After being bitten by a genetically altered spider, nerdy high school student Peter Parker is endowed with amazing powers.",
-    "tagline": "With great power comes great responsibility.",
+    "plot_line": "With great power comes great responsibility.",
     "restrictions": [
       "PG-13"
     ],
@@ -7680,7 +7680,7 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BZDEyN2NhMjgtMjdhNi00MmNlLWE5YTgtZGE4MzNjMTRlMGEwXkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_SX300.jpg",
     "imdb_rating": "7.3",
     "type": "movie",
-    "box_offfice": "$403,706,375"
+    "box_office": "$403,706,375"
   },
   {
     "imdb_id": "tt0116629",
@@ -7737,7 +7737,7 @@
     ],
     "status": "Released",
     "overview": "On July 2, a giant alien mothership enters orbit around Earth and deploys several dozen saucer-shaped 'destroyer' spacecraft that quickly lay waste to major cities around the planet. On July 3, the United States conducts a coordinated counterattack that fails. On July 4, a plan is devised to gain access to the interior of the alien mothership in space, in order to plant a nuclear missile.",
-    "tagline": "Earth. Take a good look. It might be your last.",
+    "plot_line": "Earth. Take a good look. It might be your last.",
     "restrictions": [
       "PG-13"
     ],
@@ -7758,7 +7758,7 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMGQwNDNkMmItYWY1Yy00YTZmLWE5OTAtODU0MGZmMzQ1NDdkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
     "imdb_rating": "7.0",
     "type": "movie",
-    "box_offfice": ""
+    "box_office": ""
   },
   {
     "imdb_id": "tt3183660",
@@ -7815,7 +7815,7 @@
     ],
     "status": "Released",
     "overview": "In 1926, Newt Scamander arrives at the Magical Congress of the United States of America with a magically expanded briefcase, which houses a number of dangerous creatures and their habitats. When the creatures escape from the briefcase, it sends the American wizarding authorities after Newt, and threatens to strain even further the state of magical and non-magical relations.",
-    "tagline": "From J.K. Rowling's wizarding world.",
+    "plot_line": "From J.K. Rowling's wizarding world.",
     "restrictions": [
       "PG-13"
     ],
@@ -7835,7 +7835,7 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMjMxOTM1OTI4MV5BMl5BanBnXkFtZTgwODE5OTYxMDI@._V1_SX300.jpg",
     "imdb_rating": "7.3",
     "type": "movie",
-    "box_offfice": "$234,018,657"
+    "box_office": "$234,018,657"
   },
   {
     "imdb_id": "tt2380307",
@@ -7904,7 +7904,7 @@
     ],
     "status": "Released",
     "overview": "Despite his family’s baffling generations-old ban on music, Miguel dreams of becoming an accomplished musician like his idol, Ernesto de la Cruz. Desperate to prove his talent, Miguel finds himself in the stunning and colorful Land of the Dead following a mysterious chain of events. Along the way, he meets charming trickster Hector, and together, they set off on an extraordinary journey to unlock the real story behind Miguel's family history.",
-    "tagline": "The celebration of a lifetime",
+    "plot_line": "The celebration of a lifetime",
     "restrictions": [
       "PG"
     ],
@@ -7930,7 +7930,7 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BYjQ5NjM0Y2YtNjZkNC00ZDhkLWJjMWItN2QyNzFkMDE3ZjAxXkEyXkFqcGdeQXVyODIxMzk5NjA@._V1_SX300.jpg",
     "imdb_rating": "8.4",
     "type": "movie",
-    "box_offfice": "$208,487,719"
+    "box_office": "$208,487,719"
   },
   {
     "imdb_id": "tt0413267",
@@ -8001,7 +8001,7 @@
     ],
     "status": "Released",
     "overview": "The King of Far Far Away has died and Shrek and Fiona are to become King & Queen. However, Shrek wants to return to his cozy swamp and live in peace and quiet, so when he finds out there is another heir to the throne, they set off to bring him back to rule the kingdom.",
-    "tagline": "He’s in for the Royal Treatment.",
+    "plot_line": "He’s in for the Royal Treatment.",
     "restrictions": [
       "PG"
     ],
@@ -8027,108 +8027,7 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BOTgyMjc3ODk2MV5BMl5BanBnXkFtZTcwMjY0MjEzMw@@._V1_SX300.jpg",
     "imdb_rating": "6.0",
     "type": "movie",
-    "box_offfice": "$320,706,665"
-  },
-  {
-    "imdb_id": "tt1790809",
-    "api_id": 166426,
-    "api_name": "themoviedb",
-    "title": "Pirates of the Caribbean: Dead Men Tell No Tales",
-    "original_title": "Pirates of the Caribbean: Dead Men Tell No Tales",
-    "genres": [
-      {
-        "id": 12,
-        "name": "Adventure"
-      },
-      {
-        "id": 28,
-        "name": "Action"
-      },
-      {
-        "id": 14,
-        "name": "Fantasy"
-      },
-      {
-        "id": 35,
-        "name": "Comedy"
-      }
-    ],
-    "release_date": "2017-05-23",
-    "valid": true,
-    "budget": 230000000,
-    "website": "http://pirates.disney.com/pirates-of-the-caribbean-dead-men-tell-no-tales",
-    "production_companies": [
-      {
-        "id": 2,
-        "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
-        "name": "Walt Disney Pictures",
-        "origin_country": "US"
-      },
-      {
-        "id": 130,
-        "logo_path": "/c9dVHPOL3cqCr2593Ahk0nEKTEM.png",
-        "name": "Jerry Bruckheimer Films",
-        "origin_country": "US"
-      },
-      {
-        "id": 2691,
-        "logo_path": null,
-        "name": "Infinitum Nihil",
-        "origin_country": "US"
-      }
-    ],
-    "production_countries": [
-      {
-        "iso_3166_1": "US",
-        "name": "United States of America"
-      }
-    ],
-    "revenue": 794191988,
-    "length": 129,
-    "original_language": "en",
-    "spoken_languages": [
-      {
-        "iso_639_1": "en",
-        "name": "English"
-      }
-    ],
-    "status": "Released",
-    "overview": "Thrust into an all-new adventure, a down-on-his-luck Capt. Jack Sparrow feels the winds of ill-fortune blowing even more strongly when deadly ghost sailors led by his old nemesis, the evil Capt. Salazar, escape from the Devil's Triangle. Jack's only hope of survival lies in seeking out the legendary Trident of Poseidon, but to find it, he must forge an uneasy alliance with a brilliant and beautiful astronomer and a headstrong young man in the British navy.",
-    "tagline": "All pirates must die.",
-    "restrictions": [
-      "PG-13"
-    ],
-    "directors": [
-      "Joachim Rønning",
-      "Espen Sandberg"
-    ],
-    "writers": [
-      "Jeff Nathanson (screenplay by)",
-      "Jeff Nathanson (story by)",
-      "Terry Rossio (story by)",
-      "Ted Elliott (based on characters created by)",
-      "Terry Rossio (based on characters created by)",
-      "Stuart Beattie (based on characters created by)",
-      "Jay Wolpert (based on characters created by)"
-    ],
-    "actors": [
-      "Johnny Depp",
-      "Javier Bardem",
-      "Geoffrey Rush",
-      "Brenton Thwaites"
-    ],
-    "awards": "1 win & 12 nominations.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTYyMTcxNzc5M15BMl5BanBnXkFtZTgwOTg2ODE2MTI@._V1_SX300.jpg",
-    "imdb_rating": "6.6",
-    "type": "movie",
-    "box_offfice": "$172,537,139",
-    "box_office": "$172,537,139",
-    "updated": "2020-05-09T17:00:04.881Z",
-    "plot_line": "All pirates must die.",
-    "subsFileName": "./subtitles/Pirates_of_the_Caribbean:_Dead_Men_Tell_No_Tales.srt",
-    "word_count": 7565,
-    "most_used_word": "the",
-    "tmdb_id": 166426
+    "box_office": "$320,706,665"
   },
   {
     "imdb_id": "tt0083866",
@@ -8189,7 +8088,7 @@
     ],
     "status": "Released",
     "overview": "After a gentle alien becomes stranded on Earth, the being is discovered and befriended by a young boy named Elliott. Bringing the extraterrestrial into his suburban California house, Elliott introduces E.T., as the alien is dubbed, to his brother and his little sister, Gertie, and the children decide to keep its existence a secret. Soon, however, E.T. falls ill, resulting in government intervention and a dire situation for both Elliott and the alien.",
-    "tagline": "He is afraid. He is alone. He is three million light years from home.",
+    "plot_line": "He is afraid. He is alone. He is three million light years from home.",
     "restrictions": [
       "PG"
     ],
@@ -8209,7 +8108,7 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTQ2ODFlMDAtNzdhOC00ZDYzLWE3YTMtNDU4ZGFmZmJmYTczXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
     "imdb_rating": "7.8",
     "type": "movie",
-    "box_offfice": ""
+    "box_office": ""
   },
   {
     "imdb_id": "tt4912910",
@@ -8296,7 +8195,7 @@
     ],
     "status": "Released",
     "overview": "When an IMF mission ends badly, the world is faced with dire consequences. As Ethan Hunt takes it upon himself to fulfill his original briefing, the CIA begin to question his loyalty and his motives. The IMF team find themselves in a race against time, hunted by assassins while trying to prevent a global catastrophe.",
-    "tagline": "Some Missions Are Not A Choice",
+    "plot_line": "Some Missions Are Not A Choice",
     "restrictions": [
       "PG-13"
     ],
@@ -8317,7 +8216,7 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BNjRlZmM0ODktY2RjNS00ZDdjLWJhZGYtNDljNWZkMGM5MTg0XkEyXkFqcGdeQXVyNjAwMjI5MDk@._V1_SX300.jpg",
     "imdb_rating": "7.8",
     "type": "movie",
-    "box_offfice": ""
+    "box_office": ""
   },
   {
     "imdb_id": "tt0304141",
@@ -8380,7 +8279,7 @@
     ],
     "status": "Released",
     "overview": "Harry, Ron and Hermione return to Hogwarts for another magic-filled year. Harry comes face to face with danger yet again, this time in the form of escaped convict, Sirius Black—and turns to sympathetic Professor Lupin for help.",
-    "tagline": "Something wicked this way comes.",
+    "plot_line": "Something wicked this way comes.",
     "restrictions": [
       "PG"
     ],
@@ -8401,7 +8300,7 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTY4NTIwODg0N15BMl5BanBnXkFtZTcwOTc0MjEzMw@@._V1_SX300.jpg",
     "imdb_rating": "7.9",
     "type": "movie",
-    "box_offfice": "$249,358,727"
+    "box_office": "$249,358,727"
   },
   {
     "imdb_id": "tt1905041",
@@ -8496,7 +8395,7 @@
     ],
     "status": "Released",
     "overview": "Hobbs has Dominic and Brian reassemble their crew to take down a team of mercenaries: Dominic unexpectedly gets convoluted also facing his presumed deceased girlfriend, Letty.",
-    "tagline": "All roads lead to this",
+    "plot_line": "All roads lead to this",
     "restrictions": [
       "PG-13"
     ],
@@ -8517,7 +8416,7 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTM3NTg2NDQzOF5BMl5BanBnXkFtZTcwNjc2NzQzOQ@@._V1_SX300.jpg",
     "imdb_rating": "7.1",
     "type": "movie",
-    "box_offfice": "$238,700,000"
+    "box_office": "$238,700,000"
   },
   {
     "imdb_id": "tt0367882",
@@ -8578,7 +8477,7 @@
     ],
     "status": "Released",
     "overview": "Set during the Cold War, the Soviets – led by sword-wielding Irina Spalko – are in search of a crystal skull which has supernatural powers related to a mystical Lost City of Gold. After being captured and then escaping from them, Indy is coerced to head to Peru at the behest of a young man whose friend – and Indy's colleague – Professor Oxley has been captured for his knowledge of the skull's whereabouts.",
-    "tagline": "The adventure continues . . .",
+    "plot_line": "The adventure continues . . .",
     "restrictions": [
       "PG-13"
     ],
@@ -8602,7 +8501,7 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTIxNDUxNzcyMl5BMl5BanBnXkFtZTcwNTgwOTI3MQ@@._V1_SX300.jpg",
     "imdb_rating": "6.1",
     "type": "movie",
-    "box_offfice": "$316,957,122"
+    "box_office": "$316,957,122"
   },
   {
     "imdb_id": "tt0316654",
@@ -8679,7 +8578,7 @@
     ],
     "status": "Released",
     "overview": "Peter Parker is going through a major identity crisis. Burned out from being Spider-Man, he decides to shelve his superhero alter ego, which leaves the city suffering in the wake of carnage left by the evil Doc Ock. In the meantime, Parker still can't act on his feelings for Mary Jane Watson, a girl he's loved since childhood.",
-    "tagline": "There's a hero in all of us.",
+    "plot_line": "There's a hero in all of us.",
     "restrictions": [
       "PG-13"
     ],
@@ -8704,7 +8603,7 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMzY2ODk4NmUtOTVmNi00ZTdkLTlmOWYtMmE2OWVhNTU2OTVkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
     "imdb_rating": "7.3",
     "type": "movie",
-    "box_offfice": "$373,377,893"
+    "box_office": "$373,377,893"
   },
   {
     "imdb_id": "tt1431045",
@@ -8779,7 +8678,7 @@
     ],
     "status": "Released",
     "overview": "Deadpool tells the origin story of former Special Forces operative turned mercenary Wade Wilson, who after being subjected to a rogue experiment that leaves him with accelerated healing powers, adopts the alter ego Deadpool. Armed with his new abilities and a dark, twisted sense of humor, Deadpool hunts down the man who nearly destroyed his life.",
-    "tagline": "Witness the beginning of a happy ending",
+    "plot_line": "Witness the beginning of a happy ending",
     "restrictions": [
       "R"
     ],
@@ -8800,7 +8699,7 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BYzE5MjY1ZDgtMTkyNC00MTMyLThhMjAtZGI5OTE1NzFlZGJjXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
     "imdb_rating": "8.0",
     "type": "movie",
-    "box_offfice": "$328,674,489"
+    "box_office": "$328,674,489"
   },
   {
     "imdb_id": "tt0076759",
@@ -8857,7 +8756,7 @@
     ],
     "status": "Released",
     "overview": "Princess Leia is captured and held hostage by the evil Imperial forces in their effort to take over the galactic Empire. Venturesome Luke Skywalker and dashing captain Han Solo team together with the loveable robot duo R2-D2 and C-3PO to rescue the beautiful princess and restore peace and justice in the Empire.",
-    "tagline": "A long time ago in a galaxy far, far away...",
+    "plot_line": "A long time ago in a galaxy far, far away...",
     "restrictions": [
       "PG"
     ],
@@ -8877,7 +8776,7 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BNzVlY2MwMjktM2E4OS00Y2Y3LWE3ZjctYzhkZGM3YzA1ZWM2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
     "imdb_rating": "8.6",
     "type": "movie",
-    "box_offfice": ""
+    "box_office": ""
   },
   {
     "popularity": 1.25,
@@ -8949,7 +8848,7 @@
     ],
     "status": "Released",
     "overview": "Light years from Earth, 26 years after being abducted, Peter Quill finds himself the prime target of a manhunt after discovering an orb wanted by Ronan the Accuser.",
-    "tagline": "All heroes start somewhere.",
+    "plot_line": "All heroes start somewhere.",
     "restrictions": [
       "PG-13"
     ],
@@ -8980,6 +8879,105 @@
     "poster": "https://m.media-amazon.com/images/M/MV5BMTAwMjU5OTgxNjZeQTJeQWpwZ15BbWU4MDUxNDYxODEx._V1_SX300.jpg",
     "imdb_rating": "8.0",
     "type": "movie",
-    "box_offfice": "$270,592,504"
+    "box_office": "$270,592,504"
+  },
+  {
+    "imdb_id": "tt1790809",
+    "api_id": 166426,
+    "api_name": "themoviedb",
+    "title": "Pirates of the Caribbean: Dead Men Tell No Tales",
+    "original_title": "Pirates of the Caribbean: Dead Men Tell No Tales",
+    "genres": [
+      {
+        "id": 12,
+        "name": "Adventure"
+      },
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 14,
+        "name": "Fantasy"
+      },
+      {
+        "id": 35,
+        "name": "Comedy"
+      }
+    ],
+    "release_date": "2017-05-23",
+    "valid": true,
+    "budget": 230000000,
+    "website": "http://pirates.disney.com/pirates-of-the-caribbean-dead-men-tell-no-tales",
+    "production_companies": [
+      {
+        "id": 2,
+        "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+        "name": "Walt Disney Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 130,
+        "logo_path": "/c9dVHPOL3cqCr2593Ahk0nEKTEM.png",
+        "name": "Jerry Bruckheimer Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 2691,
+        "logo_path": null,
+        "name": "Infinitum Nihil",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 794861794,
+    "length": 129,
+    "original_language": "en",
+    "spoken_languages": [
+      {
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "plot_line": "All pirates must die.",
+    "restrictions": [
+      "PG-13"
+    ],
+    "directors": [
+      "Joachim Rønning",
+      "Espen Sandberg"
+    ],
+    "writers": [
+      "Jeff Nathanson (screenplay by)",
+      "Jeff Nathanson (story by)",
+      "Terry Rossio (story by)",
+      "Ted Elliott (based on characters created by)",
+      "Terry Rossio (based on characters created by)",
+      "Stuart Beattie (based on characters created by)",
+      "Jay Wolpert (based on characters created by)"
+    ],
+    "actors": [
+      "Johnny Depp",
+      "Javier Bardem",
+      "Geoffrey Rush",
+      "Brenton Thwaites"
+    ],
+    "awards": "1 win & 12 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTYyMTcxNzc5M15BMl5BanBnXkFtZTgwOTg2ODE2MTI@._V1_SX300.jpg",
+    "imdb_rating": "6.6",
+    "type": "movie",
+    "box_office": 172537139,
+    "updated": "2020-05-09T21:36:36.666Z",
+    "subsFileName": "./subtitles/Pirates_of_the_Caribbean:_Dead_Men_Tell_No_Tales.srt",
+    "overview": "Thrust into an all-new adventure, a down-on-his-luck Capt. Jack Sparrow feels the winds of ill-fortune blowing even more strongly when deadly ghost sailors led by his old nemesis, the evil Capt. Salazar, escape from the Devil's Triangle. Jack's only hope of survival lies in seeking out the legendary Trident of Poseidon, but to find it, he must forge an uneasy alliance with a brilliant and beautiful astronomer and a headstrong young man in the British navy.",
+    "word_count": 7565,
+    "most_used_word": "the",
+    "tmdb_id": 166426
   }
 ]

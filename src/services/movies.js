@@ -1,6 +1,7 @@
 const omdb = require('./omdb')
 const themoviedb = require('./themoviedb')
 const { getSubsFileName, processSubtitles } = require('../subs')
+const { getMergedMovie, getNumber } = require('../helpers')
 
 const fs = require('fs')
 var subsrt = require('subsrt')
@@ -41,8 +42,8 @@ async function list(db) {
         movie.poster = omdb_movie.Poster
         movie.imdb_rating = omdb_movie.imdbRating
         movie.type = omdb_movie.Type
-        movie.box_offfice =
-          omdb_movie.BoxOffice !== 'N/A' ? omdb_movie.BoxOffice : ''
+        movie.box_office =
+          omdb_movie.BoxOffice !== 'N/A' ? getNumber(omdb_movie.BoxOffice) : ''
       }
 
       return movie
@@ -53,8 +54,7 @@ async function list(db) {
 
   return moviesWithSubtitlesFiles.map(processSubtitles)
 }
-
-async function fetchMovieFullDetails(id) {
+async function fetchFullMovieFromAPIS(id) {
   let tmdb
   if (id.tmdb_id) {
     tmdb = await themoviedb.getMovieDetails({ id: tmdb_id })
@@ -78,7 +78,8 @@ async function fetchMovieFullDetails(id) {
     movie.poster = omdb_.Poster
     movie.imdb_rating = omdb_.imdbRating
     movie.type = omdb_.Type
-    movie.box_office = omdb_.BoxOffice !== 'N/A' ? omdb_.BoxOffice : ''
+    movie.box_office =
+      omdb_.BoxOffice !== 'N/A' ? getNumber(omdb_.BoxOffice) : ''
   }
 
   movie.subsFileName = await getSubsFileName(movie)
@@ -87,83 +88,45 @@ async function fetchMovieFullDetails(id) {
   return updatedMovie
 }
 
-function getMergedMovie(list = [], old, newm) {
-  let updatedFields = []
-  list.forEach((attr) => {
-    let old_attr_name
-    let new_attr_name
-    if (typeof attr === 'object') {
-      old_attr_name = attr.o
-      new_attr_name = attr.n
-    } else {
-      old_attr_name = attr
-      new_attr_name = attr
-    }
-    if (
-      JSON.stringify(old[old_attr_name]) !== JSON.stringify(newm[new_attr_name])
-    ) {
-      updatedFields[old_attr_name] = newm[new_attr_name]
-      old[old_attr_name] = newm[new_attr_name]
-      old.updated = new Date()
-    }
-  })
-
-  return updatedFields
-}
-
-function updateJSON(newMovie) {
+function updateJSON(newMovie, dataFromAPIS) {
   const oldFileContent = fs.readFileSync('movies.json')
-  const oldMovies = JSON.parse(oldFileContent)
+  let jsonMovies = JSON.parse(oldFileContent)
 
   let merged
-  let oldMovie
-  const toBeMerged = [
-    'title',
-    'original_title',
-    'genres',
-    'release_date',
-    'budget',
-    { o: 'website', n: 'homepage' },
-    'production_companies',
-    'production_countries',
-    'revenue',
-    { o: 'length', n: 'runtime' },
-    'original_language',
-    'spoken_languages',
-    'status',
-    'overview',
-    { o: 'plot_line', n: 'tagline' },
-    'restrictions',
-    'directors',
-    'writers',
-    'actors',
-    'awards',
-    'poster',
-    'imdb_rating',
-    'type',
-    'box_office',
-    'subsFileName',
-    'word_count',
-    'most_used_word',
-    'tmdb_id',
-  ]
   let updatedFields
-  const updatedMovies = oldMovies.map((om) => {
-    if (om.imdb_id === newMovie.imdb_id) {
-      oldMovie = Object.assign({}, om)
-      updatedFields = getMergedMovie(toBeMerged, om, newMovie)
-      return om
+  const oldMovie = jsonMovies.find((jm) => jm.imdb_id === newMovie.imdb_id)
+  if (oldMovie) {
+    //remove it
+    jsonMovies = jsonMovies.filter((jm) => jm.imdb_id !== newMovie.imdb_id)
+    //update it
+    if (dataFromAPIS) {
+      getMergedMovie(newMovie, dataFromAPIS, 'db', 'api')
     }
-    return om
-  })
-  if (JSON.stringify(merged) != JSON.stringify(oldMovie)) {
+    updatedFields = getMergedMovie(oldMovie, newMovie, 'db')
+    //re add it
+    jsonMovies.push(oldMovie)
+  }
+  // let updatedFields
+  // const updatedMovies = jsonMovies.map((om) => {
+  //   if (om.imdb_id === newMovie.imdb_id) {
+  //     oldMovie = Object.assign({}, om)
+  //     updatedFields = getMergedMovie(toBeMerged, om, newMovie)
+  //     return om
+  //   }
+  //   return om
+  // })
+  if (
+    updatedFields &&
+    Object.keys(updatedFields).length
+    //JSON.stringify(merged) != JSON.stringify(oldMovie)
+  ) {
     //save to file
     try {
-      const newFileContent = JSON.stringify(updatedMovies, null, 2)
+      const newFileContent = JSON.stringify(jsonMovies, null, 2)
       fs.writeFileSync('movies.json', newFileContent, () => {
         console.log('movies.json has been succesfuly updated!')
       })
-      return updatedFields
+      return true
     } catch (e) {
       console.log('error while saving the file!!!!!!')
       return false
@@ -173,7 +136,7 @@ function updateJSON(newMovie) {
   }
 }
 module.exports = {
-  fetchMovieFullDetails,
+  fetchFullMovieFromAPIS,
   updateJSON,
   list,
 }

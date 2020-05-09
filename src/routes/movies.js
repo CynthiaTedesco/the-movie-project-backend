@@ -5,6 +5,9 @@ const {
   deleteRepeatedAssociations,
 } = require('../controllers/Associations')
 const { updatePoster } = require('../controllers/Poster')
+const { fetchFullMovieFromAPIS, updateJSON } = require('../services/movies')
+const { getMergedMovie } = require('../helpers')
+
 const toggleValidity = async function (req, res) {
   await models['movie']
     .update(
@@ -21,10 +24,9 @@ const toggleValidity = async function (req, res) {
       return res.status(500).send('Error trying to toggle validity')
     })
 }
-
-const fullMovie = async function (req, res) {
+const fetchFullMovieFromDB = async (where) => {
   const movie = await models.movie.findOne({
-    where: { id: req.params.id },
+    where: where,
     include: [
       { model: models.poster, as: 'poster' },
       { model: models.story_origin, as: 'story_origin' },
@@ -34,27 +36,34 @@ const fullMovie = async function (req, res) {
     ],
   })
 
-  const genresAssoc = await genres(req.params.id)
+  const id = movie.id;
+  const genresAssoc = await genres(id)
   movie.dataValues.genres = genresAssoc.dataValues.genres
 
-  const producersAssoc = await producers(req.params.id)
+  const producersAssoc = await producers(id)
   movie.dataValues.producers = producersAssoc.dataValues.producers
 
-  const languagesAssoc = await languages(req.params.id)
+  const languagesAssoc = await languages(id)
   movie.dataValues.languages = languagesAssoc.dataValues.languages
 
-  const restrictionsAssoc = await restrictions(req.params.id)
+  const restrictionsAssoc = await restrictions(id)
   movie.dataValues.restrictions = restrictionsAssoc.dataValues.restrictions
 
-  const charactersAssoc = await characters(req.params.id)
+  const charactersAssoc = await characters(id)
   movie.dataValues.characters = charactersAssoc.dataValues.characters
 
-  const directorsAssoc = await directors(req.params.id)
+  const directorsAssoc = await directors(id)
   movie.dataValues.directors = directorsAssoc.dataValues.directors
 
-  const writtersAssoc = await writers(req.params.id)
+  const writtersAssoc = await writers(id)
   movie.dataValues.writers = writtersAssoc.dataValues.writers
-  res.status(200).send(movie)
+
+  return movie
+}
+const fullMovie = async function (req, res) {
+  fetchFullMovieFromDB({id:req.params.id}).then((movie) => {
+    res.status(200).send(movie)
+  })
 }
 
 const genres = (id) => {
@@ -322,15 +331,17 @@ const updateMovieEndpoint = (req, res) => {
         .send(`Error trying to update movie: ${req.params.id}`)
     })
 }
-const updateMovie = (where, updates, fullMovie) => {
+const updateMovie = (where, updates, dataFromAPIS) => {
   return models.movie
     .findOne({
       where: where,
     })
     .then(async (movie) => {
       if (movie) {
-        await updateSimpleFields(movie, updates, fullMovie)
+        await updateSimpleFields(movie, updates)
         // await updateLists(movie, updates)
+
+        updateJSON(movie, dataFromAPIS)
         return movie
       } else {
         return null
@@ -395,13 +406,13 @@ const updateSimpleFields = (movie, updates, fullMovie) => {
         }
         break
       }
-      case 'type':{
-        //TODO 
+      case 'type': {
+        //TODO
       }
       default: {
-        if(toIgnore.indexOf(entry[0])===-1){
-          const hasBeenUpdated = updateSimpleField(movie, entry);
-          updated = updated || hasBeenUpdated;
+        if (toIgnore.indexOf(entry[0]) === -1) {
+          const hasBeenUpdated = updateSimpleField(movie, entry)
+          updated = updated || hasBeenUpdated
         }
       }
     }
@@ -417,22 +428,20 @@ const updateSimpleFields = (movie, updates, fullMovie) => {
 
   return movie
 }
-
-const { fetchMovieFullDetails, updateJSON } = require('../services/movies')
-
 const autoUpdateMovie = async (req, res) => {
   const id = req.body.tmdb_id
     ? { tmdb_id: req.body.tmdb_id }
     : { imdb_id: req.body.imdb_id }
 
-  const movie = await fetchMovieFullDetails(id)
+  const movie_fromAPIS = await fetchFullMovieFromAPIS(id)
+  const movie_fromDB = await fetchFullMovieFromDB(id)
 
-  const updatedFields = updateJSON(movie)
-  if (updatedFields) {
-    await updateMovie({ imdb_id: movie.imdb_id }, updatedFields, movie)
+  const updatedFields = getMergedMovie(movie_fromDB, movie_fromAPIS, 'db', 'api')
+  if (updatedFields && Object.keys(updatedFields).length) {
+    await updateMovie({ imdb_id: movie_fromDB.imdb_id }, updatedFields, movie_fromAPIS)
     return res
       .status(200)
-      .send({ message: 'Successful autoupdate', updated: movie })
+      .send({ message: 'Successful autoupdate', updated: movie_fromAPIS })
   }
 }
 

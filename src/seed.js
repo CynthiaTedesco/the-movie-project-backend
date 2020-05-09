@@ -311,7 +311,7 @@ function movieDBObject(movie, dbPosters) {
         website: movie.website,
         revenue: movie.revenue,
         awards: movie.awards,
-        box_offfice: movie.box_offfice,
+        box_office: movie.box_office,
         imdb_rating: movie.imdb_rating,
         rated: movie.rated,
         poster_id: movie.poster
