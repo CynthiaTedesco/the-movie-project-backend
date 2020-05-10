@@ -5,6 +5,7 @@ const {
   deleteRepeatedAssociations,
 } = require('../controllers/Associations')
 const { updatePoster } = require('../controllers/Poster')
+const { updateStoryOrigin } = require('../controllers/StoryOrigin')
 const { fetchFullMovieFromAPIS, updateJSON } = require('../services/movies')
 const { getMergedMovie } = require('../helpers')
 
@@ -333,6 +334,7 @@ const updateMovieEndpoint = (req, res) => {
     })
 }
 const updateMovie = (where, updates, dataFromAPIS) => {
+  console.log('UPDATE MOVIE, updates', updates)
   return models.movie
     .findOne({
       where: where,
@@ -340,7 +342,7 @@ const updateMovie = (where, updates, dataFromAPIS) => {
     .then(async (movie) => {
       if (movie) {
         await updateSimpleFields(movie, updates)
-        // await updateLists(movie, updates)
+        await updateLists(movie, updates)
 
         updateJSON(movie, dataFromAPIS, updates)
         return movie
@@ -354,18 +356,18 @@ const updateMovie = (where, updates, dataFromAPIS) => {
     })
 }
 
-const updateLists = (movie, updates) => {
+const updateLists = async (movie, updates) => {
   if (updates.genres) {
-    updateGenres(movie.dataValues, updates.genres)
+    await updateGenres(movie.dataValues, updates.genres)
   }
   if (updates.characters) {
-    updateCharacters(movie.dataValues, updates.characters)
+    await updateCharacters(movie.dataValues, updates.characters)
   }
   if (updates.restrictions) {
-    updateRestrictions(movie.dataValues, updates.restrictions)
+    await updateRestrictions(movie.dataValues, updates.restrictions)
   }
   if (updates.producers) {
-    updateProducers(movie.dataValues, updates.producers)
+    await updateProducers(movie.dataValues, updates.producers)
   }
 }
 const updateSimpleField = (movie, update) => {
@@ -379,7 +381,7 @@ const updateSimpleField = (movie, update) => {
   }
 }
 
-const updateSimpleFields = (movie, updates, fullMovie) => {
+const asyncSwitchCase = (movie, updates) => {
   const noSingleFields = [
     'genres',
     'production_companies',
@@ -397,32 +399,52 @@ const updateSimpleFields = (movie, updates, fullMovie) => {
   ].concat(noSingleFields)
 
   let updated = false
-  Object.entries(updates).forEach(async (entry) => {
-    switch (entry[0]) {
-      case 'poster': {
-        const poster = await updatePoster(movie, updates.poster)
-        if (updates.poster.new && poster.id) {
-          movie.poster_id = poster.id
-          updated = true
+  return new Promise((resolve) => {
+    Object.entries(updates).forEach(async (entry, index, arr) => {
+      switch (entry[0]) {
+        case 'poster': {
+          //TODO check what happens when we delete the poster
+          const poster = await updatePoster(movie, updates.poster)
+          if (updates.poster.new && poster.id) {
+            movie.poster_id = poster.id
+            updated = true
+          }
+          break
         }
-        break
-      }
-      case 'type': {
-        //TODO
-      }
-      default: {
-        if (toIgnore.indexOf(entry[0]) === -1) {
-          const hasBeenUpdated = updateSimpleField(movie, entry)
-          updated = updated || hasBeenUpdated
+        case 'story_origin': {
+          if (!updates.story_origin) {
+            //it has been deleted!
+            movie.story_origin_id = null
+            updated = true
+          } else {
+            const origin = await updateStoryOrigin(movie, updates.story_origin)
+            if (movie.story_origin_id !== origin.id) {
+              movie.story_origin_id = origin.id
+              updated = true
+            }
+          }
+          break
+        }
+        default: {
+          if (toIgnore.indexOf(entry[0]) === -1) {
+            const hasBeenUpdated = updateSimpleField(movie, entry)
+            updated = updated || hasBeenUpdated
+          }
         }
       }
-    }
+
+      if (index + 1 === arr.length) {
+        return resolve(updated)
+      }
+    })
   })
+}
+const updateSimpleFields = async (movie, updates, fullMovie) => {
+  const updated = await asyncSwitchCase(movie, updates)
 
   if (fullMovie && fullMovie.tmdb_id && !movie.tmdb_id) {
     movie.tmdb_id = fullMovie.tmdb_id
   }
-
   if (updated) {
     return movie.save()
   }
@@ -442,7 +464,6 @@ const autoUpdateMovie = async (req, res) => {
     'db',
     'api'
   )
-  // console.log('446 - updatedFields', updatedFields);
   if (updatedFields && Object.keys(updatedFields).length) {
     await updateMovie(
       { imdb_id: movie_fromDB.imdb_id },

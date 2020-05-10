@@ -8906,7 +8906,7 @@
     ],
     "release_date": "2017-05-23",
     "valid": true,
-    "budget": 230000000,
+    "budget": "230000000",
     "website": "http://pirates.disney.com/pirates-of-the-caribbean-dead-men-tell-no-tales",
     "production_companies": [
       {
@@ -8934,7 +8934,7 @@
         "name": "United States of America"
       }
     ],
-    "revenue": 794861794,
+    "revenue": "794861794",
     "length": 129,
     "original_language": "en",
     "spoken_languages": [
@@ -8973,12 +8973,16 @@
     },
     "imdb_rating": "6.6",
     "type": "movie",
-    "box_office": 172537139,
-    "updated": "2020-05-09T21:36:36.666Z",
+    "box_office": "172537139",
+    "updated": "2020-05-10T15:58:19.690Z",
     "overview": "Thrust into an all-new adventure, a down-on-his-luck Capt. Jack Sparrow feels the winds of ill-fortune blowing even more strongly when deadly ghost sailors led by his old nemesis, the evil Capt. Salazar, escape from the Devil's Triangle. Jack's only hope of survival lies in seeking out the legendary Trident of Poseidon, but to find it, he must forge an uneasy alliance with a brilliant and beautiful astronomer and a headstrong young man in the British navy.",
     "word_count": 7565,
     "most_used_word": "the",
     "tmdb_id": 166426,
+    "story_origin": {
+      "id": 11,
+      "name": "Sequel"
+    },
     "original_title": "Pirates of the Caribbean: Dead Men Tell No Tales",
     "status": "Released",
     "subsFileName": "./subtitles/Pirates_of_the_Caribbean:_Dead_Men_Tell_No_Tales.srt"

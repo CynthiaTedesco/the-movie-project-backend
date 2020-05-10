@@ -3,12 +3,12 @@ const toBeMerged_plain = [
   'original_title',
   'release_date',
   'budget',
-  { db: 'website', api: 'homepage' },
+  { db: 'website', json: 'website', api: 'homepage' },
   'revenue',
-  { db: 'length', api: 'runtime' },
+  { db: 'length', json: 'length', api: 'runtime' },
   'status',
   'overview',
-  { db: 'plot_line', api: 'tagline' },
+  { db: 'plot_line', json: 'plot_line', api: 'tagline' },
   'imdb_rating',
   'box_office',
   'subsFileName',
@@ -19,10 +19,10 @@ const toBeMerged_plain = [
 ]
 const toBeMerged_object = [
   //   'set_in_time',
-  { attr: 'poster', inner: 'url' },
-  // 'type',
-  //   story_origin,
+  //   { attr: 'type', inner: 'name' },
   //   set_in_place,
+  { attr: 'poster', inner: 'url' },
+  { attr: 'story_origin', inner: 'name' },
 ]
 const toBeMerged_list = [
   // 'genres',
@@ -46,6 +46,8 @@ const toBeMerged_list = [
  */
 function getMergedMovie(old, newm, origin, target = 'db', updates = {}) {
   let updatedFields = {}
+  const updatesKeys = Object.keys(updates)
+
   toBeMerged_plain.forEach((attr) => {
     let old_attr_name
     let oldValue
@@ -84,7 +86,6 @@ function getMergedMovie(old, newm, origin, target = 'db', updates = {}) {
           } else if (updates[attr][inner]) {
             updatedFields[attr] = updates[attr]
           }
-
         } else {
           if (old.dataValues[attr].dataValues[inner] !== newm[attr]) {
             updatedFields[attr] = {}
@@ -96,26 +97,44 @@ function getMergedMovie(old, newm, origin, target = 'db', updates = {}) {
         console.log('POSTER_ID is null')
       }
     } else {
-      console.log('ORIGIN', origin)
-      if (updates[attr]) {
-        if (!old[attr]) {
-          old[attr] = {}
+    //   if (attr === 'story_origin') {
+    //     console.log('ORIGIN', origin, attr, updates[attr])
+    //   }
+      const attrHasBeenUpdated = updatesKeys.indexOf(attr) > -1
+      if (attrHasBeenUpdated) {
+        if (updates[attr]) {
+          if (!old[attr]) {
+            old[attr] = {}
+          }
           if (updates[attr].id) {
             old[attr]['id'] = updates[attr].id
           }
-        }
-        if (typeof old[attr] === 'string') {
-          old[attr][inner] = updates[attr][inner]
-          updatedFields[attr] = updates[attr]
-        } else if (old[attr][inner] !== updates[attr][inner]) {
-          old[attr][inner] = updates[attr].url
-          updatedFields[attr] = updates[attr]
+        //   if (attr === 'story_origin') {
+        //     console.log('106 - ', inner, old[attr], updates[attr])
+        //   }
+          if (typeof old[attr] === 'string') {
+            old[attr][inner] = updates[attr][inner]
+            updatedFields[attr] = updates[attr]
+          } else if (old[attr][inner] !== updates[attr][inner]) {
+            old[attr][inner] = updates[attr][inner]
+            // if (attr === 'story_origin') {
+            //   console.log('PUES AQUI!!!!!!!', old[attr])
+            // }
+            updatedFields[attr] = updates[attr]
+          }
+        } else {
+        //   if (attr === 'story_origin') {
+        //     console.log('115 - merged - attr has been deleted! ', attr)
+        //   }
+          if (old[attr]) {
+            old[attr] = null
+          }
         }
       }
     }
   })
   toBeMerged_list.forEach((attr) => {})
-
+  console.log('~~~~~~~~~~~~~~~~ about to return updatedFields', updatedFields)
   return updatedFields
 }
 
