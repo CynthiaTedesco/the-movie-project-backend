@@ -341,11 +341,13 @@ const updateMovie = (where, updates, dataFromAPIS) => {
     })
     .then(async (movie) => {
       if (movie) {
-        await updateSimpleFields(movie, updates)
+        await updateSimpleFields(movie, updates, dataFromAPIS)
         await updateLists(movie, updates)
 
-        updateJSON(movie, dataFromAPIS, updates)
-        return movie
+        const updatedMovieFromDB = await fetchFullMovieFromDB({ id: movie.id })
+
+        updateJSON(updatedMovieFromDB, dataFromAPIS, updates)
+        return updatedMovieFromDB
       } else {
         return null
       }
@@ -442,9 +444,10 @@ const asyncSwitchCase = (movie, updates) => {
 const updateSimpleFields = async (movie, updates, fullMovie) => {
   const updated = await asyncSwitchCase(movie, updates)
 
-  if (fullMovie && fullMovie.tmdb_id && !movie.tmdb_id) {
-    movie.tmdb_id = fullMovie.tmdb_id
-  }
+  //TODO check if tmdb_id is being updated even with this lines commented
+  // if (fullMovie && fullMovie.tmdb_id && !movie.tmdb_id) {
+  //   movie.tmdb_id = fullMovie.tmdb_id
+  // }
   if (updated) {
     return movie.save()
   }

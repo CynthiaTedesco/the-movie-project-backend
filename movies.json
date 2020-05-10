@@ -1165,61 +1165,6 @@
     "box_office": "$381,000,185"
   },
   {
-    "imdb_id": "tt2527336",
-    "api_id": 181808,
-    "api_name": "themoviedb",
-    "title": "Star Wars: The Last Jedi",
-    "original_title": "Star Wars: The Last Jedi",
-    "genres": [
-      {
-        "id": 14,
-        "name": "Fantasy"
-      },
-      {
-        "id": 12,
-        "name": "Adventure"
-      },
-      {
-        "id": 878,
-        "name": "Science Fiction"
-      },
-      {
-        "id": 28,
-        "name": "Action"
-      }
-    ],
-    "release_date": "2017-12-13",
-    "valid": true,
-    "budget": 200000000,
-    "website": "https://www.starwars.com/films/star-wars-episode-viii-the-last-jedi",
-    "production_companies": [
-      {
-        "id": 1,
-        "logo_path": "/o86DbpburjxrqAzEDhXZcyE8pDb.png",
-        "name": "Lucasfilm",
-        "origin_country": "US"
-      }
-    ],
-    "production_countries": [
-      {
-        "iso_3166_1": "US",
-        "name": "United States of America"
-      }
-    ],
-    "revenue": 1332459537,
-    "length": 152,
-    "original_language": "en",
-    "spoken_languages": [
-      {
-        "iso_639_1": "en",
-        "name": "English"
-      }
-    ],
-    "status": "Released",
-    "overview": "Rey develops her newly discovered abilities with the guidance of Luke Skywalker, who is unsettled by the strength of her powers. Meanwhile, the Resistance prepares to do battle with the First Order.",
-    "plot_line": "Darkness rises... and light to meet it"
-  },
-  {
     "imdb_id": "tt4520988",
     "api_id": 330457,
     "api_name": "themoviedb",
@@ -8882,6 +8827,73 @@
     "box_office": "$270,592,504"
   },
   {
+    "imdb_id": "tt2527336",
+    "api_id": 181808,
+    "api_name": "themoviedb",
+    "title": "Star Wars: The Last Jedi",
+    "original_title": "Pirates of the Caribbean: Dead Men Tell No Tales",
+    "genres": [
+      {
+        "id": 14,
+        "name": "Fantasy"
+      },
+      {
+        "id": 12,
+        "name": "Adventure"
+      },
+      {
+        "id": 878,
+        "name": "Science Fiction"
+      },
+      {
+        "id": 28,
+        "name": "Action"
+      }
+    ],
+    "release_date": "2017-12-13",
+    "valid": true,
+    "budget": "200000000",
+    "website": "https://www.starwars.com/films/star-wars-episode-viii-the-last-jedi",
+    "production_companies": [
+      {
+        "id": 1,
+        "logo_path": "/o86DbpburjxrqAzEDhXZcyE8pDb.png",
+        "name": "Lucasfilm",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": "1332459537",
+    "length": 152,
+    "original_language": "en",
+    "spoken_languages": [
+      {
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "overview": "Rey develops her newly discovered abilities with the guidance of Luke Skywalker, who is unsettled by the strength of her powers. Meanwhile, the Resistance prepares to do battle with the First Order.",
+    "plot_line": "Darkness rises... and light to meet it",
+    "updated": "2020-05-10T21:12:36.951Z",
+    "imdb_rating": null,
+    "box_office": null,
+    "subsFileName": "./subtitles/Pirates_of_the_Caribbean:_Dead_Men_Tell_No_Tales.srt",
+    "word_count": null,
+    "most_used_word": null,
+    "tmdb_id": null,
+    "awards": null,
+    "story_origin": {
+      "id": 6,
+      "name": "Novel"
+    }
+  },
+  {
     "imdb_id": "tt1790809",
     "api_id": 166426,
     "api_name": "themoviedb",
@@ -8906,7 +8918,7 @@
     ],
     "release_date": "2017-05-23",
     "valid": true,
-    "budget": "230000000",
+    "budget": 230000000,
     "website": "http://pirates.disney.com/pirates-of-the-caribbean-dead-men-tell-no-tales",
     "production_companies": [
       {
@@ -8934,7 +8946,7 @@
         "name": "United States of America"
       }
     ],
-    "revenue": "794861794",
+    "revenue": 794861794,
     "length": 129,
     "original_language": "en",
     "spoken_languages": [
@@ -8973,8 +8985,8 @@
     },
     "imdb_rating": "6.6",
     "type": "movie",
-    "box_office": "172537139",
-    "updated": "2020-05-10T15:58:19.690Z",
+    "box_office": 172537139,
+    "updated": "2020-05-10T16:32:59.375Z",
     "overview": "Thrust into an all-new adventure, a down-on-his-luck Capt. Jack Sparrow feels the winds of ill-fortune blowing even more strongly when deadly ghost sailors led by his old nemesis, the evil Capt. Salazar, escape from the Devil's Triangle. Jack's only hope of survival lies in seeking out the legendary Trident of Poseidon, but to find it, he must forge an uneasy alliance with a brilliant and beautiful astronomer and a headstrong young man in the British navy.",
     "word_count": 7565,
     "most_used_word": "the",
