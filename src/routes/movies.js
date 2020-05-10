@@ -36,7 +36,7 @@ const fetchFullMovieFromDB = async (where) => {
     ],
   })
 
-  const id = movie.id;
+  const id = movie.id
   const genresAssoc = await genres(id)
   movie.dataValues.genres = genresAssoc.dataValues.genres
 
@@ -61,7 +61,7 @@ const fetchFullMovieFromDB = async (where) => {
   return movie
 }
 const fullMovie = async function (req, res) {
-  fetchFullMovieFromDB({id:req.params.id}).then((movie) => {
+  fetchFullMovieFromDB({ id: req.params.id }).then((movie) => {
     res.status(200).send(movie)
   })
 }
@@ -312,6 +312,7 @@ const deleteAllRepeatedAssociations = (req, res) => {
 }
 
 const updateMovieEndpoint = (req, res) => {
+  console.log('updateMovieEndpoint', req.body)
   return updateMovie({ id: req.params.id }, req.body)
     .then((updated) => {
       if (updated) {
@@ -341,7 +342,7 @@ const updateMovie = (where, updates, dataFromAPIS) => {
         await updateSimpleFields(movie, updates)
         // await updateLists(movie, updates)
 
-        updateJSON(movie, dataFromAPIS)
+        updateJSON(movie, dataFromAPIS, updates)
         return movie
       } else {
         return null
@@ -435,10 +436,19 @@ const autoUpdateMovie = async (req, res) => {
 
   const movie_fromAPIS = await fetchFullMovieFromAPIS(id)
   const movie_fromDB = await fetchFullMovieFromDB(id)
-
-  const updatedFields = getMergedMovie(movie_fromDB, movie_fromAPIS, 'db', 'api')
+  const updatedFields = getMergedMovie(
+    movie_fromDB,
+    movie_fromAPIS,
+    'db',
+    'api'
+  )
+  // console.log('446 - updatedFields', updatedFields);
   if (updatedFields && Object.keys(updatedFields).length) {
-    await updateMovie({ imdb_id: movie_fromDB.imdb_id }, updatedFields, movie_fromAPIS)
+    await updateMovie(
+      { imdb_id: movie_fromDB.imdb_id },
+      updatedFields,
+      movie_fromAPIS
+    )
     return res
       .status(200)
       .send({ message: 'Successful autoupdate', updated: movie_fromAPIS })

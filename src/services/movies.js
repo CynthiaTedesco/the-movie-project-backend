@@ -88,7 +88,8 @@ async function fetchFullMovieFromAPIS(id) {
   return updatedMovie
 }
 
-function updateJSON(newMovie, dataFromAPIS) {
+function updateJSON(newMovie, dataFromAPIS, updates) {
+  console.log('UPDATE JSON', updates);
   const oldFileContent = fs.readFileSync('movies.json')
   let jsonMovies = JSON.parse(oldFileContent)
 
@@ -100,9 +101,10 @@ function updateJSON(newMovie, dataFromAPIS) {
     jsonMovies = jsonMovies.filter((jm) => jm.imdb_id !== newMovie.imdb_id)
     //update it
     if (dataFromAPIS) {
-      getMergedMovie(newMovie, dataFromAPIS, 'db', 'api')
+      getMergedMovie(newMovie, dataFromAPIS, 'db', 'api', updates)
     }
-    updatedFields = getMergedMovie(oldMovie, newMovie, 'db')
+    updatedFields = getMergedMovie(oldMovie, newMovie, 'json', 'db', updates)
+    // console.log('~~~~~~~~~~~~~~~~` MERGED', oldMovie)
     //re add it
     jsonMovies.push(oldMovie)
   }

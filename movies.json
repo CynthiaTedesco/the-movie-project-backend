@@ -8886,7 +8886,6 @@
     "api_id": 166426,
     "api_name": "themoviedb",
     "title": "Pirates of the Caribbean: Dead Men Tell No Tales",
-    "original_title": "Pirates of the Caribbean: Dead Men Tell No Tales",
     "genres": [
       {
         "id": 12,
@@ -8944,7 +8943,6 @@
         "name": "English"
       }
     ],
-    "status": "Released",
     "plot_line": "All pirates must die.",
     "restrictions": [
       "PG-13"
@@ -8969,15 +8967,20 @@
       "Brenton Thwaites"
     ],
     "awards": "1 win & 12 nominations.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTYyMTcxNzc5M15BMl5BanBnXkFtZTgwOTg2ODE2MTI@._V1_SX300.jpg",
+    "poster": {
+      "id": 24,
+      "url": "https://m.media-amazon.com/images/M/MV5BMTYyMTcxNzc5M15BMl5BanBnXkFtZTgwOTg2ODE2MTI@._V1_SX300.jpg"
+    },
     "imdb_rating": "6.6",
     "type": "movie",
     "box_office": 172537139,
     "updated": "2020-05-09T21:36:36.666Z",
-    "subsFileName": "./subtitles/Pirates_of_the_Caribbean:_Dead_Men_Tell_No_Tales.srt",
     "overview": "Thrust into an all-new adventure, a down-on-his-luck Capt. Jack Sparrow feels the winds of ill-fortune blowing even more strongly when deadly ghost sailors led by his old nemesis, the evil Capt. Salazar, escape from the Devil's Triangle. Jack's only hope of survival lies in seeking out the legendary Trident of Poseidon, but to find it, he must forge an uneasy alliance with a brilliant and beautiful astronomer and a headstrong young man in the British navy.",
     "word_count": 7565,
     "most_used_word": "the",
-    "tmdb_id": 166426
+    "tmdb_id": 166426,
+    "original_title": "Pirates of the Caribbean: Dead Men Tell No Tales",
+    "status": "Released",
+    "subsFileName": "./subtitles/Pirates_of_the_Caribbean:_Dead_Men_Tell_No_Tales.srt"
   }
 ]
