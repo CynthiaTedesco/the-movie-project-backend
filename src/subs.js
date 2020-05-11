@@ -29,7 +29,7 @@ const languages = {
   },
 }
 
-export default function getSubtitleFileName(title, year, lang) {
+function getSubtitleFileName(title, year, lang) {
   return new Promise((resolve, reject) => {
     //gets Subscene language code
     const language = (languages[lang] || languages.en).code
@@ -435,4 +435,5 @@ module.exports = {
   addSubsFileNames,
   getSubsFileName,
   processSubtitles,
+  getSubtitleFileName,
 }
