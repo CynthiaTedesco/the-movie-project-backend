@@ -20,6 +20,7 @@ const {
   updateMovieEndpoint,
   autoUpdateMovie,
   deleteAllRepeatedAssociations,
+  updateRevenues,
 } = require('./src/routes/movies')
 const { deleteOrphans } = require('./src/controllers/Associations');
 const { allGenres, allMoviesGenres } = require('./src/routes/genres')
@@ -32,7 +33,7 @@ const {
   allDirectors,
   allCharacters,
   allCharacterTypes,
-  updatePeopleDetails,
+  updatePeopleDetailsEndpoint,
 } = require('./src/routes/people')
 const { allOrigins } = require('./src/routes/origins')
 const { allTimes } = require('./src/routes/times')
@@ -113,8 +114,8 @@ app.get('/api/movies/:id', fullMovie)
 app.delete('/api/movies/:id', deleteMovie) //TODO create soft delete
 app.post('/api/movies/:id/update', updateMovieEndpoint)
 app.post('/api/movies/autoUpdate', autoUpdateMovie)
-
-app.post('/api/people/updateDetails', updatePeopleDetails)
+app.post('api/movies/updateRevenues', updateRevenues)
+app.post('/api/people/updateDetails', updatePeopleDetailsEndpoint)
 
 
 app.post('/api/deleteRepeatedAssociations', deleteAllRepeatedAssociations)

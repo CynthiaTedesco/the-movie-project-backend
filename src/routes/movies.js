@@ -8,6 +8,7 @@ const { updatePoster } = require('../controllers/Poster')
 const { updateStoryOrigin } = require('../controllers/StoryOrigin')
 const { fetchFullMovieFromAPIS, updateJSON } = require('../services/movies')
 const { getMergedMovie } = require('../helpers')
+const { updatePeopleDetails } = require('../routes/people')
 
 const toggleValidity = async function (req, res) {
   await models['movie']
@@ -352,6 +353,7 @@ const updateMovie = (where, updates, dataFromAPIS) => {
 
         const updatedMovieFromDB = await fetchFullMovieFromDB({ id: movie.id })
 
+        await updatePeopleDetails(updatedMovieFromDB)
         updateJSON(updatedMovieFromDB, dataFromAPIS, updates)
         return updatedMovieFromDB
       } else {
@@ -479,12 +481,15 @@ const autoUpdateMovie = async (req, res) => {
       updatedFields,
       movie_fromAPIS
     )
+
     return res
       .status(200)
       .send({ message: 'Successful autoupdate', updated: movie_fromAPIS })
   }
 }
+const updateRevenues = async (req, res) => {
 
+}
 module.exports = {
   toggleValidity,
   fullMovie,
@@ -500,4 +505,5 @@ module.exports = {
   deleteAllRepeatedAssociations,
   updateMovieEndpoint,
   autoUpdateMovie,
+  updateRevenues
 }

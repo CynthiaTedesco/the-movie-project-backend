@@ -61,8 +61,49 @@ const allDirectors = async (req, res) => {
     .then((results) => res.status(200).send(results))
     .catch(console.log)
 }
+const updatePeopleDetails = async (movie) => {
+  let people = []
+  if (movie) {
+    const characters_ids = await models.movies_characters.findAll({
+      where: { movie_id: movie.id },
+      attributes: ['person_id'],
+      raw: true,
+    })
+    const directors_ids = await models.movies_directors.findAll({
+      where: { movie_id: movie.id },
+      attributes: ['person_id'],
+      raw: true,
+    })
+    const writers_ids = await models.movies_writers.findAll({
+      where: { movie_id: movie.id },
+      attributes: ['person_id'],
+      raw: true,
+    })
 
-const updatePeopleDetails = (req, res) => {
+    const ids = characters_ids
+      .map((a) => a.person_id)
+      .concat(directors_ids.map((a) => a.person_id))
+      .concat(writers_ids.map((a) => a.person_id))
+
+    people = await models.person.findAll({
+      where: {
+        id: {
+          [Op.in]: ids,
+        },
+        [Op.or]: [{ date_of_birth: null }, { gender: null }],
+      },
+    })
+  } else {
+    people = await models.person.findAll({
+      where: {
+        [Op.or]: [{ date_of_birth: null }, { gender: null }],
+      },
+    })
+  }
+
+  return processPeople(people)
+}
+const updatePeopleDetailsEndpoint = (req, res) => {
   models.person
     .findAll({
       where: {
@@ -79,6 +120,7 @@ const updatePeopleDetails = (req, res) => {
 }
 
 module.exports = {
+  updatePeopleDetailsEndpoint,
   updatePeopleDetails,
   allDirectors,
   allWriters,
