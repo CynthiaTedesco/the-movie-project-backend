@@ -67,7 +67,6 @@ async function fetchFullMovieFromAPIS(id) {
     delete tmdb.id
   }
   const omdb_ = tmdb.imdb_id ? await omdb.findByIMDB(tmdb.imdb_id) : null
-
   let movie = tmdb
   if (omdb_) {
     movie.restrictions = [omdb_.Rated]
@@ -79,7 +78,7 @@ async function fetchFullMovieFromAPIS(id) {
     movie.imdb_rating = omdb_.imdbRating
     movie.type = omdb_.Type
     movie.box_office =
-      omdb_.BoxOffice !== 'N/A' ? getNumber(omdb_.BoxOffice) : ''
+    omdb_.BoxOffice !== 'N/A' ? getNumber(omdb_.BoxOffice) : ''
   }
 
   movie.subsFileName = await getSubsFileName(movie)

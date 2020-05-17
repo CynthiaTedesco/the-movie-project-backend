@@ -1,101 +1,5 @@
 [
   {
-    "imdb_id": "tt4154796",
-    "api_id": 299534,
-    "api_name": "themoviedb",
-    "title": "Avengers: Endgame",
-    "original_title": "Avengers: Endgame",
-    "genres": [
-      {
-        "id": 12,
-        "name": "Adventure"
-      },
-      {
-        "id": 878,
-        "name": "Science Fiction"
-      },
-      {
-        "id": 28,
-        "name": "Action"
-      }
-    ],
-    "release_date": "2019-04-24",
-    "valid": true,
-    "budget": 356000000,
-    "website": "https://www.marvel.com/movies/avengers-endgame",
-    "production_companies": [
-      {
-        "id": 420,
-        "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
-        "name": "Marvel Studios",
-        "origin_country": "US"
-      }
-    ],
-    "production_countries": [
-      {
-        "iso_3166_1": "US",
-        "name": "United States of America"
-      }
-    ],
-    "revenue": 2797800564,
-    "length": 181,
-    "original_language": "en",
-    "spoken_languages": [
-      {
-        "iso_639_1": "en",
-        "name": "English"
-      },
-      {
-        "iso_639_1": "ja",
-        "name": "日本語"
-      },
-      {
-        "iso_639_1": "xh",
-        "name": ""
-      }
-    ],
-    "status": "Released",
-    "overview": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.",
-    "plot_line": "Part of the journey is the end.",
-    "restrictions": [
-      "PG-13"
-    ],
-    "directors": [
-      "Anthony Russo",
-      "Joe Russo"
-    ],
-    "writers": [
-      "Christopher Markus (screenplay by)",
-      "Stephen McFeely (screenplay by)",
-      "Stan Lee (based on the Marvel comics by)",
-      "Jack Kirby (based on the Marvel comics by)",
-      "Joe Simon (Captain America created by)",
-      "Jack Kirby (Captain America created by)",
-      "Steve Englehart (Star-Lord created by)",
-      "Steve Gan (Star-Lord created by)",
-      "Bill Mantlo (Rocket Raccoon created by)",
-      "Keith Giffen (Rocket Raccoon created by)",
-      "Jim Starlin (Thanos",
-      " Gamora & Drax created by)",
-      "Stan Lee (Groot created by)",
-      "Larry Lieber (Groot created by)",
-      "Jack Kirby (Groot created by)",
-      "Steve Englehart (Mantis created by)",
-      "Don Heck (Mantis created by)"
-    ],
-    "actors": [
-      "Robert Downey Jr.",
-      "Chris Evans",
-      "Mark Ruffalo",
-      "Chris Hemsworth"
-    ],
-    "awards": "Nominated for 1 Oscar. Another 60 wins & 96 nominations.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_SX300.jpg",
-    "imdb_rating": "8.4",
-    "type": "movie",
-    "box_office": ""
-  },
-  {
     "imdb_id": "tt0499549",
     "api_id": 19995,
     "api_name": "themoviedb",
@@ -8998,5 +8902,102 @@
     "original_title": "Pirates of the Caribbean: Dead Men Tell No Tales",
     "status": "Released",
     "subsFileName": "./subtitles/Pirates_of_the_Caribbean:_Dead_Men_Tell_No_Tales.srt"
+  },
+  {
+    "imdb_id": "tt4154796",
+    "api_id": 299534,
+    "api_name": "themoviedb",
+    "title": "Avengers: Endgame",
+    "original_title": "Avengers: Endgame",
+    "genres": [
+      {
+        "id": 12,
+        "name": "Adventure"
+      },
+      {
+        "id": 878,
+        "name": "Science Fiction"
+      },
+      {
+        "id": 28,
+        "name": "Action"
+      }
+    ],
+    "release_date": "2019-04-24",
+    "valid": true,
+    "budget": 356000000,
+    "website": "https://www.marvel.com/movies/avengers-endgame",
+    "production_companies": [
+      {
+        "id": 420,
+        "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
+        "name": "Marvel Studios",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 2797800564,
+    "length": 181,
+    "original_language": "en",
+    "spoken_languages": [
+      {
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "iso_639_1": "ja",
+        "name": "日本語"
+      },
+      {
+        "iso_639_1": "xh",
+        "name": ""
+      }
+    ],
+    "status": "Released",
+    "overview": "993After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.",
+    "plot_line": "Part of the journey is the end.",
+    "restrictions": [
+      "PG-13"
+    ],
+    "directors": [
+      "Anthony Russo",
+      "Joe Russo"
+    ],
+    "writers": [
+      "Christopher Markus (screenplay by)",
+      "Stephen McFeely (screenplay by)",
+      "Stan Lee (based on the Marvel comics by)",
+      "Jack Kirby (based on the Marvel comics by)",
+      "Joe Simon (Captain America created by)",
+      "Jack Kirby (Captain America created by)",
+      "Steve Englehart (Star-Lord created by)",
+      "Steve Gan (Star-Lord created by)",
+      "Bill Mantlo (Rocket Raccoon created by)",
+      "Keith Giffen (Rocket Raccoon created by)",
+      "Jim Starlin (Thanos",
+      " Gamora & Drax created by)",
+      "Stan Lee (Groot created by)",
+      "Larry Lieber (Groot created by)",
+      "Jack Kirby (Groot created by)",
+      "Steve Englehart (Mantis created by)",
+      "Don Heck (Mantis created by)"
+    ],
+    "actors": [
+      "Robert Downey Jr.",
+      "Chris Evans",
+      "Mark Ruffalo",
+      "Chris Hemsworth"
+    ],
+    "awards": "Nominated for 1 Oscar. Another 46 wins & 97 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_SX300.jpg",
+    "imdb_rating": "8.5",
+    "type": "movie",
+    "box_office": null,
+    "updated": "2020-05-17T19:42:09.161Z"
   }
 ]

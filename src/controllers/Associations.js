@@ -84,6 +84,43 @@ async function updateGenres(movie, list) {
   await deleteRepeatedAssociations('genre_id', 'movies_genres', movie.id)
   updateAssociations(movie, list, 'genre_id', 'movies_genres')
 }
+async function updateWriters(movie, list) {
+  await deleteRepeatedAssociations(
+    'person_id',
+    'movies_writers',
+    movie.id,
+    'writers'
+  )
+
+  updateAssociations(movie, list, 'person_id', 'movies_writers', 'writers')
+  updatePeople(movie, list)
+}
+async function updateDirectors(movie, list) {
+  await deleteRepeatedAssociations(
+    'person_id',
+    'movies_directors',
+    movie.id,
+    'directors'
+  )
+
+  updateAssociations(movie, list, 'person_id', 'movies_directors', 'directors')
+  updatePeople(movie, list)
+}
+async function updateRestrictions(movie, list) {
+  await deleteRepeatedAssociations(
+    'restriction_id',
+    'movies_restrictions',
+    movie.id
+  )
+
+  updateAssociations(
+    movie,
+    list,
+    'restriction_id',
+    'movies_restrictions'
+  )
+  updatePeople(movie, list)
+}
 
 async function updateCharacters(movie, list) {
   await deleteRepeatedAssociations(
@@ -144,13 +181,56 @@ async function updatePeople(movie, list) {
   })
 }
 
+async function getObjectList(list = [], itemKey, assocTable, people) {
+  const modelName = itemKey.split('_')[0];
+  if (list[0] && list[0].id) {
+    return list
+  } else {
+    return await Promise.all(
+      list
+        .map(async (l) => {
+          if (l.name) {
+            const name =
+              people === 'writers' ? l.name.split('(')[0].trim() : l.name
+            let dbObj = await models[modelName].findOne({
+              where: { name: name },
+            })
+            if (!dbObj) {
+              //we need to create it before continue
+              await models[modelName].upsert({ name: name })
+              dbObj = await models[modelName].findOne({ where: { name: name } })
+            }
+
+            let where = {}
+            where[itemKey] = dbObj.id
+            const relation = await models[assocTable].findOne({ where: where })
+
+            let toReturn = dbObj.dataValues
+            toReturn[assocTable] = relation || {}
+
+            return toReturn
+          } else {
+            return null
+          }
+        })
+        .map((a) => a)
+    )
+  }
+}
 async function updateAssociations(movie, list, itemKey, assocTable, people) {
+  list = await getObjectList(list, itemKey, assocTable, people)
+  console.log('list', list)
   let attributes = ['id', itemKey, 'movie_id']
   if (people) {
     if (people === 'characters') {
       attributes.push('main')
       attributes.push('character_name')
       attributes.push('type')
+    } else {
+      attributes.push('primary')
+      if (people === 'writers') {
+        attributes.push('detail')
+      }
     }
   } else {
     attributes.push('primary')
@@ -165,6 +245,7 @@ async function updateAssociations(movie, list, itemKey, assocTable, people) {
   const toAdd = list.filter(
     (l) => current.findIndex((c) => c[itemKey] == l.id) === -1
   )
+  console.log('--- toAdd', toAdd)
 
   const toDelete = current
     .map((assoc) => {
@@ -177,6 +258,7 @@ async function updateAssociations(movie, list, itemKey, assocTable, people) {
       }
     })
     .filter((a) => a)
+  console.log('--- toDelete', toDelete)
 
   const toUpdate = []
   current.map((assoc) => {
@@ -220,6 +302,7 @@ async function updateAssociations(movie, list, itemKey, assocTable, people) {
       }
     }
   })
+  console.log('--- toUpdate', toUpdate)
 
   //delete
   await models[assocTable].destroy({
@@ -275,6 +358,9 @@ async function updateAssociations(movie, list, itemKey, assocTable, people) {
 module.exports = {
   updateGenres,
   updateCharacters,
+  updateDirectors,
+  updateRestrictions,
+  updateWriters,
   deleteRepeatedAssociations,
   deleteOrphans,
 }

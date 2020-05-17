@@ -1,7 +1,10 @@
 const models = require('../../models')
 const {
   updateGenres,
+  updateRestrictions,
   updateCharacters,
+  updateDirectors,
+  updateWriters,
   deleteRepeatedAssociations,
 } = require('../controllers/Associations')
 const { updatePoster } = require('../controllers/Poster')
@@ -320,7 +323,6 @@ const deleteAllRepeatedAssociations = (req, res) => {
 }
 
 const updateMovieEndpoint = (req, res) => {
-  console.log('updateMovieEndpoint', req.body)
   return updateMovie({ id: req.params.id }, req.body)
     .then((updated) => {
       if (updated) {
@@ -372,6 +374,12 @@ const updateLists = async (movie, updates) => {
   }
   if (updates.characters) {
     await updateCharacters(movie.dataValues, updates.characters)
+  }
+  if (updates.directors) {
+    await updateDirectors(movie.dataValues, updates.directors)
+  }
+  if (updates.writers) {
+    await updateWriters(movie.dataValues, updates.writers)
   }
   if (updates.restrictions) {
     await updateRestrictions(movie.dataValues, updates.restrictions)
@@ -475,6 +483,7 @@ const autoUpdateMovie = async (req, res) => {
     'db',
     'api'
   )
+
   if (updatedFields && Object.keys(updatedFields).length) {
     await updateMovie(
       { imdb_id: movie_fromDB.imdb_id },

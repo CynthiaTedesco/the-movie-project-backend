@@ -25,18 +25,18 @@ const toBeMerged_object = [
   { attr: 'story_origin', inner: 'name' },
 ]
 const toBeMerged_list = [
-  // 'genres',
-  //producers
-  //languages//
-  //characters
-  // 'restrictions',
-  // 'directors',
-  // 'writers',
-  // 'production_companies',
-  // 'production_countries',
-  // 'original_language',
-  // 'spoken_languages',
-  // 'actors',
+  'genres',
+  'producers',
+  'languages',
+  'characters',
+  'restrictions',
+  'directors',
+  'writers',
+  'production_companies',
+  'production_countries',
+  'original_language',
+  'spoken_languages',
+  'actors',
 ]
 /**
  *
@@ -123,12 +123,11 @@ function getMergedMovie(old, newm, origin, target = 'db', updates = {}) {
             //     }
             //   }
             // } else {
-              if (old.dataValues[attr].dataValues[inner] !== newm[attr]) {
-                updatedFields[attr] = {}
-                updatedFields[attr]['id'] =
-                  old.dataValues[attr].dataValues['id']
-                updatedFields[attr][inner] = newm[attr]
-              }
+            if (old.dataValues[attr].dataValues[inner] !== newm[attr]) {
+              updatedFields[attr] = {}
+              updatedFields[attr]['id'] = old.dataValues[attr].dataValues['id']
+              updatedFields[attr][inner] = newm[attr]
+            }
             // }
           }
         } else {
@@ -160,7 +159,44 @@ function getMergedMovie(old, newm, origin, target = 'db', updates = {}) {
       }
     }
   })
-  toBeMerged_list.forEach((attr) => {})
+
+  toBeMerged_list.forEach((attr) => {
+    if (origin === 'db') {
+      if (attr in newm && attr in old.dataValues) {
+        const dbAttrList = old.dataValues[attr]
+        if (target === 'api') {
+          // api collection will be e.g directors: ['James Cameron']
+
+          // if(attr === 'characters'){
+          //TODO check if from API come characters or actors!!!
+          // }
+          let toMap
+          if (newm[attr].length && typeof newm[attr][0] === 'object') {
+            toMap = newm[attr].map((a) => a.name)
+          } else {
+            toMap = newm[attr]
+          }
+
+          toMap.map((u) => {
+            const isPresent = dbAttrList.find((a) => {
+              if (a.dataValues && a.dataValues.name === u) {
+                return true
+              }
+              return false
+            })
+            if (!isPresent) {
+              if (!updatedFields[attr]) {
+                updatedFields[attr] = []
+              }
+              updatedFields[attr].push({
+                name: u,
+              })
+            }
+          })
+        }
+      }
+    }
+  })
   return updatedFields
 }
 

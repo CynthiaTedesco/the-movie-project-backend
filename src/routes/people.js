@@ -100,8 +100,11 @@ const updatePeopleDetails = async (movie) => {
       },
     })
   }
-
-  return processPeople(people)
+  if (people.length) {
+    return await processPeople(people)
+  } else {
+    return true
+  }
 }
 const updatePeopleDetailsEndpoint = (req, res) => {
   models.person
