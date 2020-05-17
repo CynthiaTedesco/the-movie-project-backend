@@ -42,9 +42,21 @@ module.exports = (sequelize, DataTypes) => {
         type: DataTypes.INTEGER,
         references: { model: 'times', key: 'id' },
       },
+      universe_id: {
+        type: DataTypes.INTEGER,
+        references: { model: 'universes', key: 'id' },
+      },
+      cinematography_id: {
+        type: DataTypes.INTEGER,
+        references: { model: 'cinematographies', key: 'id' },
+      },
+      serie_id: {
+        type: DataTypes.INTEGER,
+        references: { model: 'series', key: 'id' },
+      },
       country: DataTypes.STRING,
       deletedAt: DataTypes.DATE,
-      tmdb_id: DataTypes.INTEGER
+      tmdb_id: DataTypes.INTEGER,
     },
     {}
   )
@@ -67,11 +79,29 @@ module.exports = (sequelize, DataTypes) => {
       onDelete: 'CASCADE',
       hooks: true
     })
+    movie.belongsTo(models.serie, {
+      as: 'serie',
+      foreignKey: 'serie_id',
+      onDelete: 'CASCADE',
+      hooks: true
+    })
+    movie.belongsTo(models.universe, {
+      as: 'universe',
+      foreignKey: 'universe_id',
+      onDelete: 'CASCADE',
+      hooks: true,
+    })
+    movie.belongsTo(models.cinematography, {
+      as: 'cinematography',
+      foreignKey: 'cinematography_id',
+      onDelete: 'CASCADE',
+      hooks: true,
+    })
     movie.belongsTo(models.place, {
       as: 'set_in_place',
       foreignKey: 'set_in_place_id',
       onDelete: 'CASCADE',
-      hooks: true
+      hooks: true,
     })
     movie.belongsTo(models.time, {
       as: 'set_in_time',

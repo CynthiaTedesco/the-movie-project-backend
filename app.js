@@ -37,6 +37,9 @@ const {
 const { allOrigins } = require('./src/routes/origins')
 const { allTimes } = require('./src/routes/times')
 const { allPlaces } = require('./src/routes/places')
+const { allCinematographies } = require('./src/routes/cinematographies');
+const { allUniverses } = require('./src/routes/universes')
+const { allSeries } = require('./src/routes/series')
 const { allRestrictions } = require('./src/routes/restrictions')
 
 const Movie = require('./src/controllers/Movie')
@@ -75,6 +78,12 @@ app.get('/api/producers', allProducers)
 app.get('/api/origins', allOrigins)
 //places
 app.get('/api/places', allPlaces)
+//places
+app.get('/api/cinematograhpies', allCinematographies)
+//places
+app.get('/api/series', allSeries)
+//places
+app.get('/api/universes', allUniverses)
 //times
 app.get('/api/times', allTimes)
 //languages

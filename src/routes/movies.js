@@ -30,6 +30,9 @@ const fetchFullMovieFromDB = async (where) => {
     where: where,
     include: [
       { model: models.poster, as: 'poster' },
+      { model: models.universe, as: 'universe' },
+      { model: models.cinematography, as: 'cinematography' },
+      { model: models.serie, as: 'serie' },
       { model: models.story_origin, as: 'story_origin' },
       { model: models.movie_type, as: 'type' },
       { model: models.place, as: 'set_in_place' },
@@ -242,6 +245,9 @@ const allMovies = (req, res) => {
     .findAll({
       include: [
         { model: models.poster, as: 'poster' },
+        { model: models.universe, as: 'universe' },
+        { model: models.cinematography, as: 'cinematography' },
+        { model: models.serie, as: 'serie' },
         { model: models.time, as: 'set_in_time' },
         { model: models.place, as: 'set_in_place' },
         { model: models.story_origin, as: 'story_origin' },

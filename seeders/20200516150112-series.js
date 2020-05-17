@@ -3,35 +3,25 @@
 module.exports = {
   up: (queryInterface, Sequelize) => {
     return queryInterface.bulkInsert(
-      'story_origins',
+      'series',
       [
         {
-          name: 'Comic',
+          name: 'Remake',
           createdAt: new Date(),
           updatedAt: new Date(),
         },
         {
-          name: 'Novel',
+          name: 'Sequel',
           createdAt: new Date(),
           updatedAt: new Date(),
         },
         {
-          name: 'Original',
+          name: 'Prequel',
           createdAt: new Date(),
           updatedAt: new Date(),
         },
         {
-          name: 'Real event',
-          createdAt: new Date(),
-          updatedAt: new Date(),
-        },
-        {
-          name: 'Toys',
-          createdAt: new Date(),
-          updatedAt: new Date(),
-        },
-        {
-          name: 'Literature',
+          name: 'New',
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -41,6 +31,6 @@ module.exports = {
   },
 
   down: (queryInterface, Sequelize) => {
-    return queryInterface.bulkDelete('story_origins', null, {})
-  }
+    return queryInterface.bulkDelete('series', null, {})
+  },
 }
