@@ -81,7 +81,7 @@ app.get('/api/origins', allOrigins)
 //places
 app.get('/api/places', allPlaces)
 //places
-app.get('/api/cinematograhpies', allCinematographies)
+app.get('/api/cinematographies', allCinematographies)
 //places
 app.get('/api/series', allSeries)
 //places
