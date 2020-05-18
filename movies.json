@@ -1069,95 +1069,6 @@
     "box_office": "$381,000,185"
   },
   {
-    "imdb_id": "tt4520988",
-    "api_id": 330457,
-    "api_name": "themoviedb",
-    "title": "Frozen II",
-    "original_title": "Frozen II",
-    "genres": [
-      {
-        "id": 16,
-        "name": "Animation"
-      },
-      {
-        "id": 10751,
-        "name": "Family"
-      },
-      {
-        "id": 10402,
-        "name": "Music"
-      },
-      {
-        "id": 12,
-        "name": "Adventure"
-      }
-    ],
-    "release_date": "2019-11-20",
-    "valid": true,
-    "budget": 33000000,
-    "website": "https://movies.disney.com/frozen-2",
-    "production_companies": [
-      {
-        "id": 6125,
-        "logo_path": "/tVPmo07IHhBs4HuilrcV0yujsZ9.png",
-        "name": "Walt Disney Animation Studios",
-        "origin_country": "US"
-      },
-      {
-        "id": 2,
-        "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
-        "name": "Walt Disney Pictures",
-        "origin_country": "US"
-      }
-    ],
-    "production_countries": [
-      {
-        "iso_3166_1": "US",
-        "name": "United States of America"
-      }
-    ],
-    "revenue": 1330764959,
-    "length": 104,
-    "original_language": "en",
-    "spoken_languages": [
-      {
-        "iso_639_1": "en",
-        "name": "English"
-      }
-    ],
-    "status": "Released",
-    "overview": "Elsa, Anna, Kristoff and Olaf head far into the forest to learn the truth about an ancient mystery of their kingdom.",
-    "plot_line": "The past is not what it seems.",
-    "restrictions": [
-      "PG"
-    ],
-    "directors": [
-      "Chris Buck",
-      "Jennifer Lee"
-    ],
-    "writers": [
-      "Jennifer Lee (screenplay by)",
-      "Hans Christian Andersen (story inspired by \"The Snow Queen\" by)",
-      "Jennifer Lee (story by)",
-      "Chris Buck (story by)",
-      "Kristen Anderson-Lopez (story by)",
-      "Robert Lopez (story by)",
-      "Marc Smith (story by)",
-      "Allison Schroeder (additional screenplay material by)"
-    ],
-    "actors": [
-      "Kristen Bell",
-      "Idina Menzel",
-      "Josh Gad",
-      "Jonathan Groff"
-    ],
-    "awards": "Nominated for 1 Oscar. Another 8 wins & 73 nominations.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjA0YjYyZGMtN2U0Ni00YmY4LWJkZTItYTMyMjY3NGYyMTJkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
-    "imdb_rating": "7.0",
-    "type": "movie",
-    "box_office": ""
-  },
-  {
     "imdb_id": "tt4881806",
     "api_id": 351286,
     "api_name": "themoviedb",
@@ -2635,222 +2546,6 @@
     "imdb_rating": "8.4",
     "type": "movie",
     "box_office": "$448,130,642"
-  },
-  {
-    "imdb_id": "tt1979376",
-    "api_id": 301528,
-    "api_name": "themoviedb",
-    "title": "Toy Story 4",
-    "original_title": "Toy Story 4",
-    "genres": [
-      {
-        "id": 12,
-        "name": "Adventure"
-      },
-      {
-        "id": 16,
-        "name": "Animation"
-      },
-      {
-        "id": 35,
-        "name": "Comedy"
-      },
-      {
-        "id": 10751,
-        "name": "Family"
-      },
-      {
-        "id": 14,
-        "name": "Fantasy"
-      }
-    ],
-    "release_date": "2019-06-19",
-    "valid": true,
-    "budget": 175000000,
-    "website": "https://www.pixar.com/feature-films-toy-story-4",
-    "production_companies": [
-      {
-        "id": 2,
-        "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
-        "name": "Walt Disney Pictures",
-        "origin_country": "US"
-      },
-      {
-        "id": 3,
-        "logo_path": "/1TjvGVDMYsj6JBxOAkUHpPEwLf7.png",
-        "name": "Pixar",
-        "origin_country": "US"
-      }
-    ],
-    "production_countries": [
-      {
-        "iso_3166_1": "US",
-        "name": "United States of America"
-      }
-    ],
-    "revenue": 1073394593,
-    "length": 100,
-    "original_language": "en",
-    "spoken_languages": [
-      {
-        "iso_639_1": "en",
-        "name": "English"
-      }
-    ],
-    "status": "Released",
-    "overview": "Woody has always been confident about his place in the world and that his priority is taking care of his kid, whether that's Andy or Bonnie. But when Bonnie adds a reluctant new toy called \"Forky\" to her room, a road trip adventure alongside old and new friends will show Woody how big the world can be for a toy.",
-    "plot_line": "Get Ready to Hit the Road",
-    "restrictions": [
-      "G"
-    ],
-    "directors": [
-      "Josh Cooley"
-    ],
-    "writers": [
-      "John Lasseter (original story by)",
-      "Andrew Stanton (original story by)",
-      "Josh Cooley (original story by)",
-      "Valerie LaPointe (original story by)",
-      "Rashida Jones (original story by)",
-      "Will McCormack (original story by)",
-      "Martin Hynes (original story by)",
-      "Stephany Folsom (original story by)",
-      "Andrew Stanton (screenplay by)",
-      "Stephany Folsom (screenplay by)",
-      "Josh Cooley (additional screenplay material by)"
-    ],
-    "actors": [
-      "Tom Hanks",
-      "Tim Allen",
-      "Annie Potts",
-      "Tony Hale"
-    ],
-    "awards": "Won 1 Oscar. Another 49 wins & 50 nominations.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTYzMDM4NzkxOV5BMl5BanBnXkFtZTgwNzM1Mzg2NzM@._V1_SX300.jpg",
-    "imdb_rating": "7.8",
-    "type": "movie",
-    "box_office": ""
-  },
-  {
-    "imdb_id": "tt7286456",
-    "api_id": 475557,
-    "api_name": "themoviedb",
-    "title": "Joker",
-    "original_title": "Joker",
-    "genres": [
-      {
-        "id": 80,
-        "name": "Crime"
-      },
-      {
-        "id": 53,
-        "name": "Thriller"
-      },
-      {
-        "id": 18,
-        "name": "Drama"
-      }
-    ],
-    "release_date": "2019-10-02",
-    "valid": true,
-    "budget": 55000000,
-    "website": "http://www.jokermovie.net/",
-    "production_companies": [
-      {
-        "id": 9993,
-        "logo_path": "/2Tc1P3Ac8M479naPp1kYT3izLS5.png",
-        "name": "DC Entertainment",
-        "origin_country": "US"
-      },
-      {
-        "id": 174,
-        "logo_path": "/IuAlhI9eVC9Z8UQWOIDdWRKSEJ.png",
-        "name": "Warner Bros. Pictures",
-        "origin_country": "US"
-      },
-      {
-        "id": 429,
-        "logo_path": "/2Tc1P3Ac8M479naPp1kYT3izLS5.png",
-        "name": "DC Comics",
-        "origin_country": "US"
-      },
-      {
-        "id": 83036,
-        "logo_path": null,
-        "name": "Joint Effort",
-        "origin_country": "US"
-      },
-      {
-        "id": 79,
-        "logo_path": "/tpFpsqbleCzEE2p5EgvUq6ozfCA.png",
-        "name": "Village Roadshow Pictures",
-        "origin_country": "US"
-      },
-      {
-        "id": 13240,
-        "logo_path": "/aTc07YaNHo8WNgkQSnvLmG6w4nW.png",
-        "name": "Bron Studios",
-        "origin_country": "CA"
-      },
-      {
-        "id": 53152,
-        "logo_path": "/shr6ZcOMI3WFQo1q6J4E4yk0PZe.png",
-        "name": "Creative Wealth Media Finance",
-        "origin_country": "CA"
-      },
-      {
-        "id": 128064,
-        "logo_path": null,
-        "name": "DC Films",
-        "origin_country": "US"
-      }
-    ],
-    "production_countries": [
-      {
-        "iso_3166_1": "CA",
-        "name": "Canada"
-      },
-      {
-        "iso_3166_1": "US",
-        "name": "United States of America"
-      }
-    ],
-    "revenue": 1071884607,
-    "length": 122,
-    "original_language": "en",
-    "spoken_languages": [
-      {
-        "iso_639_1": "en",
-        "name": "English"
-      }
-    ],
-    "status": "Released",
-    "overview": "During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure.",
-    "plot_line": "Put on a happy face.",
-    "restrictions": [
-      "R"
-    ],
-    "directors": [
-      "Todd Phillips"
-    ],
-    "writers": [
-      "Todd Phillips",
-      "Scott Silver",
-      "Bob Kane (based on characters created by)",
-      "Bill Finger (based on characters created by)",
-      "Jerry Robinson (based on characters created by)"
-    ],
-    "actors": [
-      "Joaquin Phoenix",
-      "Robert De Niro",
-      "Zazie Beetz",
-      "Frances Conroy"
-    ],
-    "awards": "Won 2 Oscars. Another 84 wins & 190 nominations.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
-    "imdb_rating": "8.6",
-    "type": "movie",
-    "box_office": ""
   },
   {
     "imdb_id": "tt0435761",
@@ -6681,115 +6376,6 @@
     "box_office": "$264,317,903"
   },
   {
-    "imdb_id": "tt1270797",
-    "api_id": 335983,
-    "api_name": "themoviedb",
-    "title": "Venom",
-    "original_title": "Venom",
-    "genres": [
-      {
-        "id": 878,
-        "name": "Science Fiction"
-      },
-      {
-        "id": 28,
-        "name": "Action"
-      }
-    ],
-    "release_date": "2018-09-28",
-    "valid": true,
-    "budget": 116000000,
-    "website": "http://www.venom.movie/site/",
-    "production_companies": [
-      {
-        "id": 31828,
-        "logo_path": null,
-        "name": "Avi Arad Productions",
-        "origin_country": "US"
-      },
-      {
-        "id": 53462,
-        "logo_path": null,
-        "name": "Matt Tolmach Productions",
-        "origin_country": "US"
-      },
-      {
-        "id": 84041,
-        "logo_path": "/XmHMPGzdI5c4WGX1YlxU4s2v7T.png",
-        "name": "Pascal Pictures",
-        "origin_country": "US"
-      },
-      {
-        "id": 7505,
-        "logo_path": "/837VMM4wOkODc1idNxGT0KQJlej.png",
-        "name": "Marvel Entertainment",
-        "origin_country": "US"
-      },
-      {
-        "id": 81620,
-        "logo_path": "/gNp4dfuBOXmVWdGKb63NfbFNbFi.png",
-        "name": "Tencent Pictures",
-        "origin_country": "CN"
-      }
-    ],
-    "production_countries": [
-      {
-        "iso_3166_1": "CN",
-        "name": "China"
-      },
-      {
-        "iso_3166_1": "US",
-        "name": "United States of America"
-      }
-    ],
-    "revenue": 855013954,
-    "length": 112,
-    "original_language": "en",
-    "spoken_languages": [
-      {
-        "iso_639_1": "zh",
-        "name": "普通话"
-      },
-      {
-        "iso_639_1": "en",
-        "name": "English"
-      },
-      {
-        "iso_639_1": "ms",
-        "name": "Bahasa melayu"
-      }
-    ],
-    "status": "Released",
-    "overview": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
-    "plot_line": "The world has enough Superheroes.",
-    "restrictions": [
-      "PG-13"
-    ],
-    "directors": [
-      "Ruben Fleischer"
-    ],
-    "writers": [
-      "Jeff Pinkner (screenplay by)",
-      "Scott Rosenberg (screenplay by)",
-      "Kelly Marcel (screenplay by)",
-      "Jeff Pinkner (screen story by)",
-      "Scott Rosenberg (screen story by)",
-      "Todd McFarlane (Marvel's Venom Character created by)",
-      "David Michelinie (Marvel's Venom Character created by)"
-    ],
-    "actors": [
-      "Tom Hardy",
-      "Michelle Williams",
-      "Riz Ahmed",
-      "Scott Haze"
-    ],
-    "awards": "3 wins & 9 nominations.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNzAwNzUzNjY4MV5BMl5BanBnXkFtZTgwMTQ5MzM0NjM@._V1_SX300.jpg",
-    "imdb_rating": "6.7",
-    "type": "movie",
-    "box_office": ""
-  },
-  {
     "imdb_id": "tt3501632",
     "api_id": 284053,
     "api_name": "themoviedb",
@@ -7685,101 +7271,6 @@
     "imdb_rating": "7.3",
     "type": "movie",
     "box_office": "$234,018,657"
-  },
-  {
-    "imdb_id": "tt2380307",
-    "api_id": 354912,
-    "api_name": "themoviedb",
-    "title": "Coco",
-    "original_title": "Coco",
-    "genres": [
-      {
-        "id": 16,
-        "name": "Animation"
-      },
-      {
-        "id": 10751,
-        "name": "Family"
-      },
-      {
-        "id": 35,
-        "name": "Comedy"
-      },
-      {
-        "id": 12,
-        "name": "Adventure"
-      },
-      {
-        "id": 14,
-        "name": "Fantasy"
-      }
-    ],
-    "release_date": "2017-10-27",
-    "valid": true,
-    "budget": 175000000,
-    "website": "https://www.pixar.com/feature-films/coco",
-    "production_companies": [
-      {
-        "id": 3,
-        "logo_path": "/1TjvGVDMYsj6JBxOAkUHpPEwLf7.png",
-        "name": "Pixar",
-        "origin_country": "US"
-      },
-      {
-        "id": 2,
-        "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
-        "name": "Walt Disney Pictures",
-        "origin_country": "US"
-      }
-    ],
-    "production_countries": [
-      {
-        "iso_3166_1": "US",
-        "name": "United States of America"
-      }
-    ],
-    "revenue": 800526015,
-    "length": 105,
-    "original_language": "en",
-    "spoken_languages": [
-      {
-        "iso_639_1": "en",
-        "name": "English"
-      },
-      {
-        "iso_639_1": "es",
-        "name": "Español"
-      }
-    ],
-    "status": "Released",
-    "overview": "Despite his family’s baffling generations-old ban on music, Miguel dreams of becoming an accomplished musician like his idol, Ernesto de la Cruz. Desperate to prove his talent, Miguel finds himself in the stunning and colorful Land of the Dead following a mysterious chain of events. Along the way, he meets charming trickster Hector, and together, they set off on an extraordinary journey to unlock the real story behind Miguel's family history.",
-    "plot_line": "The celebration of a lifetime",
-    "restrictions": [
-      "PG"
-    ],
-    "directors": [
-      "Lee Unkrich",
-      "Adrian Molina(co-director)"
-    ],
-    "writers": [
-      "Lee Unkrich (original story by)",
-      "Jason Katz (original story by)",
-      "Matthew Aldrich (original story by)",
-      "Adrian Molina (original story by)",
-      "Adrian Molina (screenplay by)",
-      "Matthew Aldrich (screenplay by)"
-    ],
-    "actors": [
-      "Anthony Gonzalez",
-      "Gael García Bernal",
-      "Benjamin Bratt",
-      "Alanna Ubach"
-    ],
-    "awards": "Won 2 Oscars. Another 108 wins & 37 nominations.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BYjQ5NjM0Y2YtNjZkNC00ZDhkLWJjMWItN2QyNzFkMDE3ZjAxXkEyXkFqcGdeQXVyODIxMzk5NjA@._V1_SX300.jpg",
-    "imdb_rating": "8.4",
-    "type": "movie",
-    "box_office": "$208,487,719"
   },
   {
     "imdb_id": "tt0413267",
@@ -8999,5 +8490,519 @@
     "type": "movie",
     "box_office": null,
     "updated": "2020-05-17T19:42:09.161Z"
+  },
+  {
+    "imdb_id": "tt2380307",
+    "api_id": 354912,
+    "api_name": "themoviedb",
+    "title": "Coco",
+    "original_title": "Coco",
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animation"
+      },
+      {
+        "id": 10751,
+        "name": "Family"
+      },
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 12,
+        "name": "Adventure"
+      },
+      {
+        "id": 14,
+        "name": "Fantasy"
+      }
+    ],
+    "release_date": "2017-10-27",
+    "valid": true,
+    "budget": 175000000,
+    "website": "https://www.pixar.com/feature-films/coco",
+    "production_companies": [
+      {
+        "id": 3,
+        "logo_path": "/1TjvGVDMYsj6JBxOAkUHpPEwLf7.png",
+        "name": "Pixar",
+        "origin_country": "US"
+      },
+      {
+        "id": 2,
+        "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+        "name": "Walt Disney Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 800526015,
+    "length": 105,
+    "original_language": "en",
+    "spoken_languages": [
+      {
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "overview": "Despite his family’s baffling generations-old ban on music, Miguel dreams of becoming an accomplished musician like his idol, Ernesto de la Cruz. Desperate to prove his talent, Miguel finds himself in the stunning and colorful Land of the Dead following a mysterious chain of events. Along the way, he meets charming trickster Hector, and together, they set off on an extraordinary journey to unlock the real story behind Miguel's family history.",
+    "plot_line": "The celebration of a lifetime",
+    "restrictions": [
+      "PG"
+    ],
+    "directors": [
+      "Lee Unkrich",
+      "Adrian Molina(co-director)"
+    ],
+    "writers": [
+      "Lee Unkrich (original story by)",
+      "Jason Katz (original story by)",
+      "Matthew Aldrich (original story by)",
+      "Adrian Molina (original story by)",
+      "Adrian Molina (screenplay by)",
+      "Matthew Aldrich (screenplay by)"
+    ],
+    "actors": [
+      "Anthony Gonzalez",
+      "Gael García Bernal",
+      "Benjamin Bratt",
+      "Alanna Ubach"
+    ],
+    "awards": "Won 2 Oscars. Another 107 wins & 35 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjQ5NjM0Y2YtNjZkNC00ZDhkLWJjMWItN2QyNzFkMDE3ZjAxXkEyXkFqcGdeQXVyODIxMzk5NjA@._V1_SX300.jpg",
+    "imdb_rating": "8.4",
+    "type": "movie",
+    "box_office": null,
+    "updated": "2020-05-18T14:53:24.271Z"
+  },
+  {
+    "imdb_id": "tt1270797",
+    "api_id": 335983,
+    "api_name": "themoviedb",
+    "title": "Venom",
+    "original_title": "Venom",
+    "genres": [
+      {
+        "id": 878,
+        "name": "Science Fiction"
+      },
+      {
+        "id": 28,
+        "name": "Action"
+      }
+    ],
+    "release_date": "2018-09-28",
+    "valid": true,
+    "budget": 116000000,
+    "website": "http://www.venom.movie/site/",
+    "production_companies": [
+      {
+        "id": 31828,
+        "logo_path": null,
+        "name": "Avi Arad Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 53462,
+        "logo_path": null,
+        "name": "Matt Tolmach Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 84041,
+        "logo_path": "/XmHMPGzdI5c4WGX1YlxU4s2v7T.png",
+        "name": "Pascal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 7505,
+        "logo_path": "/837VMM4wOkODc1idNxGT0KQJlej.png",
+        "name": "Marvel Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 81620,
+        "logo_path": "/gNp4dfuBOXmVWdGKb63NfbFNbFi.png",
+        "name": "Tencent Pictures",
+        "origin_country": "CN"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "CN",
+        "name": "China"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 855013954,
+    "length": 112,
+    "original_language": "en",
+    "spoken_languages": [
+      {
+        "iso_639_1": "zh",
+        "name": "普通话"
+      },
+      {
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "iso_639_1": "ms",
+        "name": "Bahasa melayu"
+      }
+    ],
+    "status": "Released",
+    "overview": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
+    "plot_line": "The world has enough Superheroes.",
+    "restrictions": [
+      "PG-13"
+    ],
+    "directors": [
+      "Ruben Fleischer"
+    ],
+    "writers": [
+      "Jeff Pinkner (screenplay by)",
+      "Scott Rosenberg (screenplay by)",
+      "Kelly Marcel (screenplay by)",
+      "Jeff Pinkner (screen story by)",
+      "Scott Rosenberg (screen story by)",
+      "Todd McFarlane (Marvel's Venom Character created by)",
+      "David Michelinie (Marvel's Venom Character created by)"
+    ],
+    "actors": [
+      "Tom Hardy",
+      "Michelle Williams",
+      "Riz Ahmed",
+      "Scott Haze"
+    ],
+    "awards": "3 wins & 9 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzAwNzUzNjY4MV5BMl5BanBnXkFtZTgwMTQ5MzM0NjM@._V1_SX300.jpg",
+    "imdb_rating": "6.7",
+    "type": "movie",
+    "box_office": null,
+    "updated": "2020-05-18T16:54:35.328Z"
+  },
+  {
+    "imdb_id": "tt4520988",
+    "api_id": 330457,
+    "api_name": "themoviedb",
+    "title": "Frozen II",
+    "original_title": "Frozen II",
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animation"
+      },
+      {
+        "id": 10751,
+        "name": "Family"
+      },
+      {
+        "id": 10402,
+        "name": "Music"
+      },
+      {
+        "id": 12,
+        "name": "Adventure"
+      }
+    ],
+    "release_date": "2019-11-20",
+    "valid": true,
+    "budget": 33000000,
+    "website": "https://movies.disney.com/frozen-2",
+    "production_companies": [
+      {
+        "id": 6125,
+        "logo_path": "/tVPmo07IHhBs4HuilrcV0yujsZ9.png",
+        "name": "Walt Disney Animation Studios",
+        "origin_country": "US"
+      },
+      {
+        "id": 2,
+        "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+        "name": "Walt Disney Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 1330764959,
+    "length": 104,
+    "original_language": "en",
+    "spoken_languages": [
+      {
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "overview": "Elsa, Anna, Kristoff and Olaf head far into the forest to learn the truth about an ancient mystery of their kingdom.",
+    "plot_line": "The past is not what it seems.",
+    "restrictions": [
+      "PG"
+    ],
+    "directors": [
+      "Chris Buck",
+      "Jennifer Lee"
+    ],
+    "writers": [
+      "Jennifer Lee (screenplay by)",
+      "Hans Christian Andersen (story inspired by \"The Snow Queen\" by)",
+      "Jennifer Lee (story by)",
+      "Chris Buck (story by)",
+      "Kristen Anderson-Lopez (story by)",
+      "Robert Lopez (story by)",
+      "Marc Smith (story by)",
+      "Allison Schroeder (additional screenplay material by)"
+    ],
+    "actors": [
+      "Kristen Bell",
+      "Idina Menzel",
+      "Josh Gad",
+      "Jonathan Groff"
+    ],
+    "awards": "Nominated for 1 Oscar. Another 4 wins & 69 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA0YjYyZGMtN2U0Ni00YmY4LWJkZTItYTMyMjY3NGYyMTJkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+    "imdb_rating": "7.2",
+    "type": "movie",
+    "box_office": null,
+    "updated": "2020-05-18T16:54:35.381Z"
+  },
+  {
+    "imdb_id": "tt1979376",
+    "api_id": 301528,
+    "api_name": "themoviedb",
+    "title": "Toy Story 4",
+    "original_title": "Toy Story 4",
+    "genres": [
+      {
+        "id": 12,
+        "name": "Adventure"
+      },
+      {
+        "id": 16,
+        "name": "Animation"
+      },
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 10751,
+        "name": "Family"
+      },
+      {
+        "id": 14,
+        "name": "Fantasy"
+      }
+    ],
+    "release_date": "2019-06-19",
+    "valid": true,
+    "budget": 175000000,
+    "website": "https://www.pixar.com/feature-films-toy-story-4",
+    "production_companies": [
+      {
+        "id": 2,
+        "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+        "name": "Walt Disney Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 3,
+        "logo_path": "/1TjvGVDMYsj6JBxOAkUHpPEwLf7.png",
+        "name": "Pixar",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 1073394593,
+    "length": 100,
+    "original_language": "en",
+    "spoken_languages": [
+      {
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "overview": "Woody has always been confident about his place in the world and that his priority is taking care of his kid, whether that's Andy or Bonnie. But when Bonnie adds a reluctant new toy called \"Forky\" to her room, a road trip adventure alongside old and new friends will show Woody how big the world can be for a toy.",
+    "plot_line": "Get Ready to Hit the Road",
+    "restrictions": [
+      "G"
+    ],
+    "directors": [
+      "Josh Cooley"
+    ],
+    "writers": [
+      "John Lasseter (original story by)",
+      "Andrew Stanton (original story by)",
+      "Josh Cooley (original story by)",
+      "Valerie LaPointe (original story by)",
+      "Rashida Jones (original story by)",
+      "Will McCormack (original story by)",
+      "Martin Hynes (original story by)",
+      "Stephany Folsom (original story by)",
+      "Andrew Stanton (screenplay by)",
+      "Stephany Folsom (screenplay by)",
+      "Josh Cooley (additional screenplay material by)"
+    ],
+    "actors": [
+      "Tom Hanks",
+      "Tim Allen",
+      "Annie Potts",
+      "Tony Hale"
+    ],
+    "awards": "Nominated for 2 Oscars. Another 48 wins & 48 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTYzMDM4NzkxOV5BMl5BanBnXkFtZTgwNzM1Mzg2NzM@._V1_SX300.jpg",
+    "imdb_rating": "7.9",
+    "type": "movie",
+    "box_office": null,
+    "updated": "2020-05-18T17:05:28.248Z"
+  },
+  {
+    "imdb_id": "tt7286456",
+    "api_id": 475557,
+    "api_name": "themoviedb",
+    "title": "Joker",
+    "original_title": "Joker",
+    "genres": [
+      {
+        "id": 80,
+        "name": "Crime"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "release_date": "2019-10-02",
+    "valid": true,
+    "budget": 55000000,
+    "website": "http://www.jokermovie.net/",
+    "production_companies": [
+      {
+        "id": 9993,
+        "logo_path": "/2Tc1P3Ac8M479naPp1kYT3izLS5.png",
+        "name": "DC Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 174,
+        "logo_path": "/IuAlhI9eVC9Z8UQWOIDdWRKSEJ.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 429,
+        "logo_path": "/2Tc1P3Ac8M479naPp1kYT3izLS5.png",
+        "name": "DC Comics",
+        "origin_country": "US"
+      },
+      {
+        "id": 83036,
+        "logo_path": null,
+        "name": "Joint Effort",
+        "origin_country": "US"
+      },
+      {
+        "id": 79,
+        "logo_path": "/tpFpsqbleCzEE2p5EgvUq6ozfCA.png",
+        "name": "Village Roadshow Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 13240,
+        "logo_path": "/aTc07YaNHo8WNgkQSnvLmG6w4nW.png",
+        "name": "Bron Studios",
+        "origin_country": "CA"
+      },
+      {
+        "id": 53152,
+        "logo_path": "/shr6ZcOMI3WFQo1q6J4E4yk0PZe.png",
+        "name": "Creative Wealth Media Finance",
+        "origin_country": "CA"
+      },
+      {
+        "id": 128064,
+        "logo_path": null,
+        "name": "DC Films",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "CA",
+        "name": "Canada"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 1071884607,
+    "length": 122,
+    "original_language": "en",
+    "spoken_languages": [
+      {
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "overview": "During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure.",
+    "plot_line": "Put on a happy face.",
+    "restrictions": [
+      "R"
+    ],
+    "directors": [
+      "Todd Phillips"
+    ],
+    "writers": [
+      "Todd Phillips",
+      "Scott Silver",
+      "Bob Kane (based on characters created by)",
+      "Bill Finger (based on characters created by)",
+      "Jerry Robinson (based on characters created by)"
+    ],
+    "actors": [
+      "Joaquin Phoenix",
+      "Robert De Niro",
+      "Zazie Beetz",
+      "Frances Conroy"
+    ],
+    "awards": "Won 2 Oscars. Another 57 wins & 163 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+    "imdb_rating": "8.6",
+    "type": "movie",
+    "box_office": null,
+    "updated": "2020-05-18T17:05:58.596Z"
   }
 ]

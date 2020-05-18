@@ -21,6 +21,7 @@ const {
   autoUpdateMovie,
   deleteAllRepeatedAssociations,
   updateRevenues,
+  bulkUpdate
 } = require('./src/routes/movies')
 const { deleteOrphans } = require('./src/controllers/Associations');
 const { allGenres, allMoviesGenres } = require('./src/routes/genres')
@@ -116,6 +117,7 @@ app.post('/api/movies/:id/update', updateMovieEndpoint)
 app.post('/api/movies/autoUpdate', autoUpdateMovie)
 app.post('api/movies/updateRevenues', updateRevenues)
 app.post('/api/people/updateDetails', updatePeopleDetailsEndpoint)
+app.post('/api/movies/bulkUpdate', bulkUpdate)
 
 
 app.post('/api/deleteRepeatedAssociations', deleteAllRepeatedAssociations)

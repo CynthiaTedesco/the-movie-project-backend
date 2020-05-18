@@ -8,10 +8,28 @@ const {
   deleteRepeatedAssociations,
 } = require('../controllers/Associations')
 const { updatePoster } = require('../controllers/Poster')
+const { updateSerie } = require('../controllers/Serie')
+const { updateCinematography } = require('../controllers/Cinematography')
+const { updateUniverse } = require('../controllers/Universe')
 const { updateStoryOrigin } = require('../controllers/StoryOrigin')
 const { fetchFullMovieFromAPIS, updateJSON } = require('../services/movies')
 const { getMergedMovie } = require('../helpers')
 const { updatePeopleDetails } = require('../routes/people')
+
+const bulkUpdate = async function(req, res){
+  
+  let updatedMovies = [];
+  await Promise.all(
+    Object.entries(req.body).map(async (entry) => {
+      const movieId = entry[0]
+      const changes = entry[1]
+      if (movieId) {
+        updatedMovies.push(await updateMovie({ id: movieId }, changes))
+      }
+    }))
+
+    return res.status(200).send({ message: 'Successful update', updatedMovies })
+}
 
 const toggleValidity = async function (req, res) {
   await models['movie']
@@ -399,7 +417,7 @@ const updateSimpleField = (movie, update) => {
   }
 }
 
-const asyncSwitchCase = (movie, updates) => {
+const asyncSwitch = (movie, updates) => {
   const noSingleFields = [
     'genres',
     'production_companies',
@@ -416,38 +434,42 @@ const asyncSwitchCase = (movie, updates) => {
     'subsFileName',
   ].concat(noSingleFields)
 
+  const objectSingleFields = [
+    { attr: 'story_origin', fn: updateStoryOrigin },
+    { attr: 'universe', fn: updateUniverse },
+    { attr: 'cinematography', fn: updateCinematography },
+    { attr: 'serie', fn: updateSerie },
+  ]
+
   let updated = false
   return new Promise((resolve) => {
     Object.entries(updates).forEach(async (entry, index, arr) => {
-      switch (entry[0]) {
-        case 'poster': {
+      if (toIgnore.indexOf(entry[0]) === -1) {
+        if (entry[0] === 'poster') {
           //TODO check what happens when we delete the poster
           const poster = await updatePoster(movie, updates.poster)
           if (updates.poster.new && poster.id) {
             movie.poster_id = poster.id
             updated = true
           }
-          break
-        }
-        case 'story_origin': {
-          if (!updates.story_origin) {
+        } else if (objectSingleFields.findIndex(osf => osf.attr === entry[0]) > -1){
+          const objectField = objectSingleFields.find(osf => osf.attr === entry[0])
+          const attrId = `${entry[0]}_id`;
+          
+          if (!updates[entry[0]]) {
             //it has been deleted!
-            movie.story_origin_id = null
+            movie[attrId] = null
             updated = true
           } else {
-            const origin = await updateStoryOrigin(movie, updates.story_origin)
-            if (movie.story_origin_id !== origin.id) {
-              movie.story_origin_id = origin.id
+            const obj = await objectField.fn(movie, updates[entry[0]])
+            if (movie[attrId] !== obj.id) {
+              movie[attrId] = obj.id
               updated = true
             }
           }
-          break
-        }
-        default: {
-          if (toIgnore.indexOf(entry[0]) === -1) {
-            const hasBeenUpdated = updateSimpleField(movie, entry)
-            updated = updated || hasBeenUpdated
-          }
+        } else {
+          const hasBeenUpdated = updateSimpleField(movie, entry)
+          updated = updated || hasBeenUpdated
         }
       }
 
@@ -458,7 +480,7 @@ const asyncSwitchCase = (movie, updates) => {
   })
 }
 const updateSimpleFields = async (movie, updates, fullMovie) => {
-  const updated = await asyncSwitchCase(movie, updates)
+  const updated = await asyncSwitch(movie, updates)
 
   //TODO check if tmdb_id is being updated even with this lines commented
   // if (fullMovie && fullMovie.tmdb_id && !movie.tmdb_id) {
@@ -496,9 +518,7 @@ const autoUpdateMovie = async (req, res) => {
       .send({ message: 'Successful autoupdate', updated: movie_fromAPIS })
   }
 }
-const updateRevenues = async (req, res) => {
-
-}
+const updateRevenues = async (req, res) => {}
 module.exports = {
   toggleValidity,
   fullMovie,
@@ -514,5 +534,6 @@ module.exports = {
   deleteAllRepeatedAssociations,
   updateMovieEndpoint,
   autoUpdateMovie,
-  updateRevenues
+  updateRevenues,
+  bulkUpdate
 }
