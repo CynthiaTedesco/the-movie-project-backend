@@ -26,17 +26,16 @@ const toBeMerged_object = [
 ]
 const toBeMerged_list = [
   'genres',
-  'producers',
   'languages',
-  'characters',
+  { db: 'characters', json: 'actors', api: 'actors' },
   'restrictions',
   'directors',
-  'writers',
-  'production_companies',
-  'production_countries',
-  'original_language',
-  'spoken_languages',
-  'actors',
+  // 'producers',
+  // 'writers',
+  // 'production_companies',
+  // 'production_countries',
+  // 'original_language',
+  // 'spoken_languages',
 ]
 /**
  *
@@ -161,34 +160,52 @@ function getMergedMovie(old, newm, origin, target = 'db', updates = {}) {
   })
 
   toBeMerged_list.forEach((attr) => {
+    let old_attr_name
+    let new_attr_name
+    let oldValue
+    let newValue
+
+    if (typeof attr === 'object') {
+      old_attr_name = attr[origin]
+      new_attr_name = attr[target]
+      oldValue = old[old_attr_name]
+      newValue = newm[new_attr_name]
+    } else {
+      old_attr_name = attr
+      new_attr_name = attr
+      oldValue = old[old_attr_name]
+      newValue = newm[new_attr_name]
+    }
+
     if (origin === 'db') {
-      if (attr in newm && attr in old.dataValues) {
-        const dbAttrList = old.dataValues[attr]
+      if (new_attr_name in newm && old_attr_name in old.dataValues) {
+        const dbAttrList = old.dataValues[old_attr_name]
         if (target === 'api') {
           // api collection will be e.g directors: ['James Cameron']
 
-          // if(attr === 'characters'){
-          //TODO check if from API come characters or actors!!!
-          // }
           let toMap
-          if (newm[attr].length && typeof newm[attr][0] === 'object') {
-            toMap = newm[attr].map((a) => a.name)
+          if (
+            newm[new_attr_name].length &&
+            typeof newm[new_attr_name][0] === 'object'
+          ) {
+            toMap = newm[new_attr_name].map((a) => a.name)
           } else {
-            toMap = newm[attr]
+            toMap = newm[new_attr_name]
           }
 
           toMap.map((u) => {
             const isPresent = dbAttrList.find((a) => {
+              //TODO split u into name and details when processing writers
               if (a.dataValues && a.dataValues.name === u) {
                 return true
               }
               return false
             })
             if (!isPresent) {
-              if (!updatedFields[attr]) {
-                updatedFields[attr] = []
+              if (!updatedFields[old_attr_name]) {
+                updatedFields[old_attr_name] = []
               }
-              updatedFields[attr].push({
+              updatedFields[old_attr_name].push({
                 name: u,
               })
             }

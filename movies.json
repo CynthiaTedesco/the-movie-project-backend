@@ -2039,96 +2039,6 @@
     "box_office": "$352,358,779"
   },
   {
-    "imdb_id": "tt0167260",
-    "api_id": 122,
-    "api_name": "themoviedb",
-    "title": "The Lord of the Rings: The Return of the King",
-    "original_title": "The Lord of the Rings: The Return of the King",
-    "genres": [
-      {
-        "id": 12,
-        "name": "Adventure"
-      },
-      {
-        "id": 14,
-        "name": "Fantasy"
-      },
-      {
-        "id": 28,
-        "name": "Action"
-      }
-    ],
-    "release_date": "2003-12-01",
-    "valid": true,
-    "budget": 94000000,
-    "website": "http://www.lordoftherings.net",
-    "production_companies": [
-      {
-        "id": 12,
-        "logo_path": "/iaYpEp3LQmb8AfAtmTvpqd4149c.png",
-        "name": "New Line Cinema",
-        "origin_country": "US"
-      },
-      {
-        "id": 11,
-        "logo_path": "/6FAuASQHybRkZUk08p9PzSs9ezM.png",
-        "name": "WingNut Films",
-        "origin_country": "NZ"
-      },
-      {
-        "id": 5237,
-        "logo_path": null,
-        "name": "The Saul Zaentz Company",
-        "origin_country": "US"
-      }
-    ],
-    "production_countries": [
-      {
-        "iso_3166_1": "NZ",
-        "name": "New Zealand"
-      },
-      {
-        "iso_3166_1": "US",
-        "name": "United States of America"
-      }
-    ],
-    "revenue": 1118888979,
-    "length": 201,
-    "original_language": "en",
-    "spoken_languages": [
-      {
-        "iso_639_1": "en",
-        "name": "English"
-      }
-    ],
-    "status": "Released",
-    "overview": "Aragorn is revealed as the heir to the ancient kings as he, Gandalf and the other members of the broken fellowship struggle to save Gondor from Sauron's forces. Meanwhile, Frodo and Sam take the ring closer to the heart of Mordor, the dark lord's realm.",
-    "plot_line": "The eye of the enemy is moving.",
-    "restrictions": [
-      "PG-13"
-    ],
-    "directors": [
-      "Peter Jackson"
-    ],
-    "writers": [
-      "J.R.R. Tolkien (novel)",
-      "Fran Walsh (screenplay)",
-      "Philippa Boyens (screenplay)",
-      "Peter Jackson (screenplay)"
-    ],
-    "actors": [
-      "Noel Appleby",
-      "Ali Astin",
-      "Sean Astin",
-      "David Aston"
-    ],
-    "awards": "Won 11 Oscars. Another 199 wins & 122 nominations.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
-    "imdb_rating": "8.9",
-    "type": "movie",
-    "box_office": "$364,000,000"
-  },
-  {
     "imdb_id": "tt1074638",
     "api_id": 37724,
     "api_name": "themoviedb",
@@ -2623,69 +2533,6 @@
     "imdb_rating": "7.3",
     "type": "movie",
     "box_office": "$423,032,628"
-  },
-  {
-    "imdb_id": "tt2527338",
-    "api_id": 181812,
-    "api_name": "themoviedb",
-    "title": "Star Wars: The Rise of Skywalker",
-    "original_title": "Star Wars: The Rise of Skywalker",
-    "genres": [
-      {
-        "id": 28,
-        "name": "Action"
-      },
-      {
-        "id": 12,
-        "name": "Adventure"
-      },
-      {
-        "id": 878,
-        "name": "Science Fiction"
-      }
-    ],
-    "release_date": "2019-12-18",
-    "valid": true,
-    "budget": 250000000,
-    "website": "https://www.starwars.com/films/star-wars-episode-ix-the-rise-of-skywalker",
-    "production_companies": [
-      {
-        "id": 1,
-        "logo_path": "/o86DbpburjxrqAzEDhXZcyE8pDb.png",
-        "name": "Lucasfilm",
-        "origin_country": "US"
-      },
-      {
-        "id": 11461,
-        "logo_path": "/p9FoEt5shEKRWRKVIlvFaEmRnun.png",
-        "name": "Bad Robot",
-        "origin_country": "US"
-      },
-      {
-        "id": 2,
-        "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
-        "name": "Walt Disney Pictures",
-        "origin_country": "US"
-      }
-    ],
-    "production_countries": [
-      {
-        "iso_3166_1": "US",
-        "name": "United States of America"
-      }
-    ],
-    "revenue": 1058056021,
-    "length": 142,
-    "original_language": "en",
-    "spoken_languages": [
-      {
-        "iso_639_1": "en",
-        "name": "English"
-      }
-    ],
-    "status": "Released",
-    "overview": "The surviving Resistance faces the First Order once again as the journey of Rey, Finn and Poe Dameron continues. With the power and knowledge of generations behind them, the final battle begins.",
-    "plot_line": "Every generation has a legend"
   },
   {
     "imdb_id": "tt3748528",
@@ -4728,98 +4575,6 @@
     "imdb_rating": "6.2",
     "type": "movie",
     "box_office": "$336,530,303"
-  },
-  {
-    "imdb_id": "tt1080016",
-    "api_id": 8355,
-    "api_name": "themoviedb",
-    "title": "Ice Age: Dawn of the Dinosaurs",
-    "original_title": "Ice Age: Dawn of the Dinosaurs",
-    "genres": [
-      {
-        "id": 16,
-        "name": "Animation"
-      },
-      {
-        "id": 35,
-        "name": "Comedy"
-      },
-      {
-        "id": 10751,
-        "name": "Family"
-      },
-      {
-        "id": 12,
-        "name": "Adventure"
-      }
-    ],
-    "release_date": "2009-06-29",
-    "valid": true,
-    "budget": 90000000,
-    "website": "http://www.iceagemovies.com/films/ice-age-dawn-of-the-dinosaurs",
-    "production_companies": [
-      {
-        "id": 9383,
-        "logo_path": "/ppeMh4iZJQUMm1nAjRALeNhWDfU.png",
-        "name": "Blue Sky Studios",
-        "origin_country": "US"
-      },
-      {
-        "id": 11749,
-        "logo_path": "/5AzTeZkSCFhiGZ86g2nz8SAHtgy.png",
-        "name": "20th Century Fox Animation",
-        "origin_country": "US"
-      },
-      {
-        "id": 25,
-        "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
-        "name": "20th Century Fox",
-        "origin_country": "US"
-      }
-    ],
-    "production_countries": [
-      {
-        "iso_3166_1": "US",
-        "name": "United States of America"
-      }
-    ],
-    "revenue": 886686817,
-    "length": 94,
-    "original_language": "en",
-    "spoken_languages": [
-      {
-        "iso_639_1": "en",
-        "name": "English"
-      }
-    ],
-    "status": "Released",
-    "overview": "Times are changing for Manny the moody mammoth, Sid the motor mouthed sloth and Diego the crafty saber-toothed tiger. Life heats up for our heroes when they meet some new and none-too-friendly neighbors – the mighty dinosaurs.",
-    "plot_line": "You Won't Believe Your Ice!",
-    "restrictions": [
-      "PG"
-    ],
-    "directors": [
-      "Carlos Saldanha",
-      "Mike Thurmeier(co-director)"
-    ],
-    "writers": [
-      "Michael Berg (screenplay by)",
-      "Peter Ackerman (screenplay by)",
-      "Mike Reiss (screenplay by)",
-      "Yoni Brenner (screenplay by)",
-      "Jason Carter Eaton (story by)"
-    ],
-    "actors": [
-      "Eunice Cho",
-      "Karen Disher",
-      "Harrison Fahn",
-      "Maile Flanagan"
-    ],
-    "awards": "3 wins & 13 nominations.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTMzNDkzMTcyOV5BMl5BanBnXkFtZTcwNDIzMjM2MQ@@._V1_SX300.jpg",
-    "imdb_rating": "6.9",
-    "type": "movie",
-    "box_office": "$124,605,432"
   },
   {
     "imdb_id": "tt2379713",
@@ -7082,73 +6837,6 @@
     "valid": false
   },
   {
-    "imdb_id": "tt2527336",
-    "api_id": 181808,
-    "api_name": "themoviedb",
-    "title": "Star Wars: The Last Jedi",
-    "original_title": "Pirates of the Caribbean: Dead Men Tell No Tales",
-    "genres": [
-      {
-        "id": 14,
-        "name": "Fantasy"
-      },
-      {
-        "id": 12,
-        "name": "Adventure"
-      },
-      {
-        "id": 878,
-        "name": "Science Fiction"
-      },
-      {
-        "id": 28,
-        "name": "Action"
-      }
-    ],
-    "release_date": "2017-12-13",
-    "valid": true,
-    "budget": "200000000",
-    "website": "https://www.starwars.com/films/star-wars-episode-viii-the-last-jedi",
-    "production_companies": [
-      {
-        "id": 1,
-        "logo_path": "/o86DbpburjxrqAzEDhXZcyE8pDb.png",
-        "name": "Lucasfilm",
-        "origin_country": "US"
-      }
-    ],
-    "production_countries": [
-      {
-        "iso_3166_1": "US",
-        "name": "United States of America"
-      }
-    ],
-    "revenue": "1332459537",
-    "length": 152,
-    "original_language": "en",
-    "spoken_languages": [
-      {
-        "iso_639_1": "en",
-        "name": "English"
-      }
-    ],
-    "status": "Released",
-    "overview": "Rey develops her newly discovered abilities with the guidance of Luke Skywalker, who is unsettled by the strength of her powers. Meanwhile, the Resistance prepares to do battle with the First Order.",
-    "plot_line": "Darkness rises... and light to meet it",
-    "updated": "2020-05-10T21:12:36.951Z",
-    "imdb_rating": null,
-    "box_office": null,
-    "subsFileName": "./subtitles/Pirates_of_the_Caribbean:_Dead_Men_Tell_No_Tales.srt",
-    "word_count": null,
-    "most_used_word": null,
-    "tmdb_id": null,
-    "awards": null,
-    "story_origin": {
-      "id": 6,
-      "name": "Novel"
-    }
-  },
-  {
     "imdb_id": "tt1790809",
     "api_id": 166426,
     "api_name": "themoviedb",
@@ -9016,5 +8704,320 @@
     "type": "movie",
     "box_office": null,
     "updated": "2020-05-21T13:56:52.822Z"
+  },
+  {
+    "imdb_id": "tt2527336",
+    "api_id": 181808,
+    "api_name": "themoviedb",
+    "title": "Star Wars: The Last Jedi",
+    "original_title": "Pirates of the Caribbean: Dead Men Tell No Tales",
+    "genres": [
+      {
+        "id": 14,
+        "name": "Fantasy"
+      },
+      {
+        "id": 12,
+        "name": "Adventure"
+      },
+      {
+        "id": 878,
+        "name": "Science Fiction"
+      },
+      {
+        "id": 28,
+        "name": "Action"
+      }
+    ],
+    "release_date": "2017-12-13",
+    "valid": true,
+    "budget": "200000000",
+    "website": "https://www.starwars.com/films/star-wars-episode-viii-the-last-jedi",
+    "production_companies": [
+      {
+        "id": 1,
+        "logo_path": "/o86DbpburjxrqAzEDhXZcyE8pDb.png",
+        "name": "Lucasfilm",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": "1332539889",
+    "length": 152,
+    "original_language": "en",
+    "spoken_languages": [
+      {
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "overview": "Rey develops her newly discovered abilities with the guidance of Luke Skywalker, who is unsettled by the strength of her powers. Meanwhile, the Resistance prepares to do battle with the First Order.",
+    "plot_line": "Darkness rises... and light to meet it",
+    "updated": "2020-05-21T21:25:19.025Z",
+    "imdb_rating": "7.0",
+    "box_office": "",
+    "subsFileName": "./subtitles/Pirates_of_the_Caribbean:_Dead_Men_Tell_No_Tales.srt",
+    "word_count": 7954,
+    "most_used_word": "the",
+    "tmdb_id": 181808,
+    "awards": "Nominated for 4 Oscars. Another 22 wins & 88 nominations.",
+    "story_origin": {
+      "id": 6,
+      "name": "Novel"
+    }
+  },
+  {
+    "imdb_id": "tt2527338",
+    "api_id": 181812,
+    "api_name": "themoviedb",
+    "title": "Star Wars: The Rise of Skywalker",
+    "original_title": "Star Wars: The Rise of Skywalker",
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 12,
+        "name": "Adventure"
+      },
+      {
+        "id": 878,
+        "name": "Science Fiction"
+      }
+    ],
+    "release_date": "2019-12-18",
+    "valid": true,
+    "budget": 250000000,
+    "website": "https://www.starwars.com/films/star-wars-episode-ix-the-rise-of-skywalker",
+    "production_companies": [
+      {
+        "id": 1,
+        "logo_path": "/o86DbpburjxrqAzEDhXZcyE8pDb.png",
+        "name": "Lucasfilm",
+        "origin_country": "US"
+      },
+      {
+        "id": 11461,
+        "logo_path": "/p9FoEt5shEKRWRKVIlvFaEmRnun.png",
+        "name": "Bad Robot",
+        "origin_country": "US"
+      },
+      {
+        "id": 2,
+        "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+        "name": "Walt Disney Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": "1074144248",
+    "length": 142,
+    "original_language": "en",
+    "spoken_languages": [
+      {
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "overview": "The surviving Resistance faces the First Order once again as the journey of Rey, Finn and Poe Dameron continues. With the power and knowledge of generations behind them, the final battle begins.",
+    "plot_line": "Every generation has a legend",
+    "updated": "2020-05-21T21:58:44.944Z"
+  },
+  {
+    "imdb_id": "tt1080016",
+    "api_id": 8355,
+    "api_name": "themoviedb",
+    "title": "Ice Age: Dawn of the Dinosaurs",
+    "original_title": "Ice Age: Dawn of the Dinosaurs",
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animation"
+      },
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 10751,
+        "name": "Family"
+      },
+      {
+        "id": 12,
+        "name": "Adventure"
+      }
+    ],
+    "release_date": "2009-06-29",
+    "valid": true,
+    "budget": 90000000,
+    "website": "http://www.iceagemovies.com/films/ice-age-dawn-of-the-dinosaurs",
+    "production_companies": [
+      {
+        "id": 9383,
+        "logo_path": "/ppeMh4iZJQUMm1nAjRALeNhWDfU.png",
+        "name": "Blue Sky Studios",
+        "origin_country": "US"
+      },
+      {
+        "id": 11749,
+        "logo_path": "/5AzTeZkSCFhiGZ86g2nz8SAHtgy.png",
+        "name": "20th Century Fox Animation",
+        "origin_country": "US"
+      },
+      {
+        "id": 25,
+        "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+        "name": "20th Century Fox",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 886686817,
+    "length": 94,
+    "original_language": "en",
+    "spoken_languages": [
+      {
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "overview": "Times are changing for Manny the moody mammoth, Sid the motor mouthed sloth and Diego the crafty saber-toothed tiger. Life heats up for our heroes when they meet some new and none-too-friendly neighbors – the mighty dinosaurs.",
+    "plot_line": "You Won't Believe Your Ice!",
+    "restrictions": [
+      "PG"
+    ],
+    "directors": [
+      "Carlos Saldanha",
+      "Mike Thurmeier(co-director)"
+    ],
+    "writers": [
+      "Michael Berg (screenplay by)",
+      "Peter Ackerman (screenplay by)",
+      "Mike Reiss (screenplay by)",
+      "Yoni Brenner (screenplay by)",
+      "Jason Carter Eaton (story by)"
+    ],
+    "actors": [
+      "Eunice Cho",
+      "Karen Disher",
+      "Harrison Fahn",
+      "Maile Flanagan"
+    ],
+    "awards": "3 wins & 13 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTMzNDkzMTcyOV5BMl5BanBnXkFtZTcwNDIzMjM2MQ@@._V1_SX300.jpg",
+    "imdb_rating": "6.9",
+    "type": "movie",
+    "box_office": "",
+    "updated": "2020-05-21T21:59:40.211Z"
+  },
+  {
+    "imdb_id": "tt0167260",
+    "api_id": 122,
+    "api_name": "themoviedb",
+    "title": "The Lord of the Rings: The Return of the King",
+    "original_title": "The Lord of the Rings: The Return of the King",
+    "genres": [
+      {
+        "id": 12,
+        "name": "Adventure"
+      },
+      {
+        "id": 14,
+        "name": "Fantasy"
+      },
+      {
+        "id": 28,
+        "name": "Action"
+      }
+    ],
+    "release_date": "2003-12-01",
+    "valid": true,
+    "budget": 94000000,
+    "website": "http://www.lordoftherings.net",
+    "production_companies": [
+      {
+        "id": 12,
+        "logo_path": "/iaYpEp3LQmb8AfAtmTvpqd4149c.png",
+        "name": "New Line Cinema",
+        "origin_country": "US"
+      },
+      {
+        "id": 11,
+        "logo_path": "/6FAuASQHybRkZUk08p9PzSs9ezM.png",
+        "name": "WingNut Films",
+        "origin_country": "NZ"
+      },
+      {
+        "id": 5237,
+        "logo_path": null,
+        "name": "The Saul Zaentz Company",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "NZ",
+        "name": "New Zealand"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 1118888979,
+    "length": 201,
+    "original_language": "en",
+    "spoken_languages": [
+      {
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "overview": "Aragorn is revealed as the heir to the ancient kings as he, Gandalf and the other members of the broken fellowship struggle to save Gondor from Sauron's forces. Meanwhile, Frodo and Sam take the ring closer to the heart of Mordor, the dark lord's realm.",
+    "plot_line": "The eye of the enemy is moving.",
+    "restrictions": [
+      "PG-13"
+    ],
+    "directors": [
+      "Peter Jackson"
+    ],
+    "writers": [
+      "J.R.R. Tolkien (novel)",
+      "Fran Walsh (screenplay)",
+      "Philippa Boyens (screenplay)",
+      "Peter Jackson (screenplay)"
+    ],
+    "actors": [
+      "Noel Appleby",
+      "Ali Astin",
+      "Sean Astin",
+      "David Aston"
+    ],
+    "awards": "Won 11 Oscars. Another 199 wins & 122 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "imdb_rating": "8.9",
+    "type": "movie",
+    "box_office": null,
+    "updated": "2020-05-21T22:24:03.119Z"
   }
 ]

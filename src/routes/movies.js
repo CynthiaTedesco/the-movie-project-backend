@@ -507,7 +507,6 @@ const autoUpdateMovie = async (req, res) => {
     'db',
     'api'
   )
-
   if (updatedFields && Object.keys(updatedFields).length) {
     await updateMovie(
       { imdb_id: movie_fromDB.imdb_id },
@@ -518,6 +517,10 @@ const autoUpdateMovie = async (req, res) => {
     return res
       .status(200)
       .send({ message: 'Successful autoupdate', updated: movie_fromAPIS })
+  } else {
+    return res
+      .status(200)
+      .send({ message: 'Nothing to update', updated: movie_fromAPIS })
   }
 }
 const updateRevenues = async (req, res) => {}
