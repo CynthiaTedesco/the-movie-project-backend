@@ -122,6 +122,20 @@ const updatePeopleDetailsEndpoint = (req, res) => {
     })
 }
 
+const allMoviesDirectors = (req, res) => {
+  models.movies_directors
+    .findAll()
+    .then((results) => res.status(200).send(results))
+    .catch(console.log)
+}
+
+const allMoviesCharacters = (req, res) => {
+  models.movies_characters
+    .findAll()
+    .then((results) => res.status(200).send(results))
+    .catch(console.log)
+}
+
 module.exports = {
   updatePeopleDetailsEndpoint,
   updatePeopleDetails,
@@ -129,4 +143,6 @@ module.exports = {
   allWriters,
   allCharacters,
   allCharacterTypes,
+  allMoviesDirectors,
+  allMoviesCharacters
 }

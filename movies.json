@@ -1,106 +1,5 @@
 [
   {
-    "imdb_id": "tt0499549",
-    "api_id": 19995,
-    "api_name": "themoviedb",
-    "title": "Avatar",
-    "original_title": "Avatar",
-    "genres": [
-      {
-        "id": 28,
-        "name": "Action"
-      },
-      {
-        "id": 12,
-        "name": "Adventure"
-      },
-      {
-        "id": 14,
-        "name": "Fantasy"
-      },
-      {
-        "id": 878,
-        "name": "Science Fiction"
-      }
-    ],
-    "release_date": "2009-12-10",
-    "valid": true,
-    "budget": 237000000,
-    "website": "http://www.avatarmovie.com/",
-    "production_companies": [
-      {
-        "id": 444,
-        "logo_path": "/42UPdZl6B2cFXgNUASR8hSt9mpS.png",
-        "name": "Dune Entertainment",
-        "origin_country": "US"
-      },
-      {
-        "id": 574,
-        "logo_path": "/iB6GjNVHs5hOqcEYt2rcjBqIjki.png",
-        "name": "Lightstorm Entertainment",
-        "origin_country": "US"
-      },
-      {
-        "id": 25,
-        "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
-        "name": "20th Century Fox",
-        "origin_country": "US"
-      },
-      {
-        "id": 290,
-        "logo_path": "/Q8mw2AOQQc8Qg0uNwLWq86DVZv.png",
-        "name": "Ingenious Media",
-        "origin_country": "GB"
-      }
-    ],
-    "production_countries": [
-      {
-        "iso_3166_1": "US",
-        "name": "United States of America"
-      },
-      {
-        "iso_3166_1": "GB",
-        "name": "United Kingdom"
-      }
-    ],
-    "revenue": 2787965087,
-    "length": 162,
-    "original_language": "en",
-    "spoken_languages": [
-      {
-        "iso_639_1": "en",
-        "name": "English"
-      },
-      {
-        "iso_639_1": "es",
-        "name": "Español"
-      }
-    ],
-    "status": "Released",
-    "overview": "In the 22nd century, a paraplegic Marine is dispatched to the moon Pandora on a unique mission, but becomes torn between following orders and protecting an alien civilization.",
-    "plot_line": "Enter the World of Pandora.",
-    "restrictions": [
-      "PG-13"
-    ],
-    "directors": [
-      "James Cameron"
-    ],
-    "writers": [
-      "James Cameron"
-    ],
-    "actors": [
-      "Sam Worthington",
-      "Zoe Saldana",
-      "Sigourney Weaver",
-      "Stephen Lang"
-    ],
-    "awards": "Won 3 Oscars. Another 86 wins & 129 nominations.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTYwOTEwNjAzMl5BMl5BanBnXkFtZTcwODc5MTUwMw@@._V1_SX300.jpg",
-    "imdb_rating": "7.8",
-    "type": "movie",
-    "box_office": "$749,700,000"
-  },
-  {
     "imdb_id": null,
     "api_id": 650395,
     "api_name": "themoviedb",
@@ -9015,5 +8914,107 @@
     "type": "movie",
     "box_office": null,
     "updated": "2020-05-21T10:24:42.241Z"
+  },
+  {
+    "imdb_id": "tt0499549",
+    "api_id": 19995,
+    "api_name": "themoviedb",
+    "title": "Avatar",
+    "original_title": "Avatar",
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 12,
+        "name": "Adventure"
+      },
+      {
+        "id": 14,
+        "name": "Fantasy"
+      },
+      {
+        "id": 878,
+        "name": "Science Fiction"
+      }
+    ],
+    "release_date": "2009-12-10",
+    "valid": true,
+    "budget": 237000000,
+    "website": "http://www.avatarmovie.com/",
+    "production_companies": [
+      {
+        "id": 444,
+        "logo_path": "/42UPdZl6B2cFXgNUASR8hSt9mpS.png",
+        "name": "Dune Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 574,
+        "logo_path": "/iB6GjNVHs5hOqcEYt2rcjBqIjki.png",
+        "name": "Lightstorm Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 25,
+        "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+        "name": "20th Century Fox",
+        "origin_country": "US"
+      },
+      {
+        "id": 290,
+        "logo_path": "/Q8mw2AOQQc8Qg0uNwLWq86DVZv.png",
+        "name": "Ingenious Media",
+        "origin_country": "GB"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      },
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      }
+    ],
+    "revenue": 2787965087,
+    "length": 162,
+    "original_language": "en",
+    "spoken_languages": [
+      {
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "overview": "In the 22nd century, a paraplegic Marine is dispatched to the moon Pandora on a unique mission, but becomes torn between following orders and protecting an alien civilization.",
+    "plot_line": "Enter the World of Pandora.",
+    "restrictions": [
+      "PG-13"
+    ],
+    "directors": [
+      "James Cameron"
+    ],
+    "writers": [
+      "James Cameron"
+    ],
+    "actors": [
+      "Sam Worthington",
+      "Zoe Saldana",
+      "Sigourney Weaver",
+      "Stephen Lang"
+    ],
+    "awards": "Won 3 Oscars. Another 86 wins & 129 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTYwOTEwNjAzMl5BMl5BanBnXkFtZTcwODc5MTUwMw@@._V1_SX300.jpg",
+    "imdb_rating": "7.8",
+    "type": "movie",
+    "box_office": null,
+    "updated": "2020-05-21T13:56:52.822Z"
   }
 ]
