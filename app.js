@@ -112,7 +112,7 @@ app.post('/api/signUp', signUp)
 app.post('/api/login', login)
 
 app.get('/api/movies/:id', fullMovie)
-app.delete('/api/movies/:id', deleteMovie) //TODO create soft delete
+app.delete('/api/movies/:id', deleteMovie)
 app.post('/api/movies/:id/update', updateMovieEndpoint)
 app.post('/api/movies/autoUpdate', autoUpdateMovie)
 app.post('api/movies/updateRevenues', updateRevenues)

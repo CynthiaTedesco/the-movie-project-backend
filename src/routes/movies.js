@@ -16,9 +16,8 @@ const { fetchFullMovieFromAPIS, updateJSON } = require('../services/movies')
 const { getMergedMovie } = require('../helpers')
 const { updatePeopleDetails } = require('../routes/people')
 
-const bulkUpdate = async function(req, res){
-  
-  let updatedMovies = [];
+const bulkUpdate = async function (req, res) {
+  let updatedMovies = []
   await Promise.all(
     Object.entries(req.body).map(async (entry) => {
       const movieId = entry[0]
@@ -26,9 +25,10 @@ const bulkUpdate = async function(req, res){
       if (movieId) {
         updatedMovies.push(await updateMovie({ id: movieId }, changes))
       }
-    }))
+    })
+  )
 
-    return res.status(200).send({ message: 'Successful update', updatedMovies })
+  return res.status(200).send({ message: 'Successful update', updatedMovies })
 }
 
 const toggleValidity = async function (req, res) {
@@ -281,9 +281,7 @@ const allMovies = (req, res) => {
 
 const deleteMovie = (req, res) => {
   models.movie
-    .destroy({
-      where: { id: req.params.id },
-    })
+    .update({ deletedAt: new Date() }, { where: { id: req.params.id } })
     .then(() => res.status(200).send('Successful delete'))
     .catch(console.log)
 }
@@ -452,10 +450,14 @@ const asyncSwitch = (movie, updates) => {
             movie.poster_id = poster.id
             updated = true
           }
-        } else if (objectSingleFields.findIndex(osf => osf.attr === entry[0]) > -1){
-          const objectField = objectSingleFields.find(osf => osf.attr === entry[0])
-          const attrId = `${entry[0]}_id`;
-          
+        } else if (
+          objectSingleFields.findIndex((osf) => osf.attr === entry[0]) > -1
+        ) {
+          const objectField = objectSingleFields.find(
+            (osf) => osf.attr === entry[0]
+          )
+          const attrId = `${entry[0]}_id`
+
           if (!updates[entry[0]]) {
             //it has been deleted!
             movie[attrId] = null
@@ -535,5 +537,5 @@ module.exports = {
   updateMovieEndpoint,
   autoUpdateMovie,
   updateRevenues,
-  bulkUpdate
+  bulkUpdate,
 }

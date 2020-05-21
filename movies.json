@@ -4563,97 +4563,6 @@
     "box_office": "$301,920,409"
   },
   {
-    "imdb_id": "tt0167261",
-    "api_id": 121,
-    "api_name": "themoviedb",
-    "title": "The Lord of the Rings: The Two Towers",
-    "original_title": "The Lord of the Rings: The Two Towers",
-    "genres": [
-      {
-        "id": 12,
-        "name": "Adventure"
-      },
-      {
-        "id": 14,
-        "name": "Fantasy"
-      },
-      {
-        "id": 28,
-        "name": "Action"
-      }
-    ],
-    "release_date": "2002-12-18",
-    "valid": true,
-    "budget": 79000000,
-    "website": "http://www.lordoftherings.net/",
-    "production_companies": [
-      {
-        "id": 12,
-        "logo_path": "/iaYpEp3LQmb8AfAtmTvpqd4149c.png",
-        "name": "New Line Cinema",
-        "origin_country": "US"
-      },
-      {
-        "id": 11,
-        "logo_path": "/6FAuASQHybRkZUk08p9PzSs9ezM.png",
-        "name": "WingNut Films",
-        "origin_country": "NZ"
-      },
-      {
-        "id": 5237,
-        "logo_path": null,
-        "name": "The Saul Zaentz Company",
-        "origin_country": "US"
-      }
-    ],
-    "production_countries": [
-      {
-        "iso_3166_1": "NZ",
-        "name": "New Zealand"
-      },
-      {
-        "iso_3166_1": "US",
-        "name": "United States of America"
-      }
-    ],
-    "revenue": 926287400,
-    "length": 179,
-    "original_language": "en",
-    "spoken_languages": [
-      {
-        "iso_639_1": "en",
-        "name": "English"
-      }
-    ],
-    "status": "Released",
-    "overview": "Frodo and Sam are trekking to Mordor to destroy the One Ring of Power while Gimli, Legolas and Aragorn search for the orc-captured Merry and Pippin. All along, nefarious wizard Saruman awaits the Fellowship members at the Orthanc Tower in Isengard.",
-    "plot_line": "A New Power Is Rising.",
-    "restrictions": [
-      "PG-13"
-    ],
-    "directors": [
-      "Peter Jackson"
-    ],
-    "writers": [
-      "J.R.R. Tolkien (novel)",
-      "Fran Walsh (screenplay)",
-      "Philippa Boyens (screenplay)",
-      "Stephen Sinclair (screenplay)",
-      "Peter Jackson (screenplay)"
-    ],
-    "actors": [
-      "Bruce Allpress",
-      "Sean Astin",
-      "John Bach",
-      "Sala Baker"
-    ],
-    "awards": "Won 2 Oscars. Another 123 wins & 137 nominations.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BNGE5MzIyNTAtNWFlMC00NDA2LWJiMjItMjc4Yjg1OWM5NzhhXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
-    "imdb_rating": "8.7",
-    "type": "movie",
-    "box_office": "$339,700,000"
-  },
-  {
     "imdb_id": "tt0120915",
     "api_id": 1893,
     "api_name": "themoviedb",
@@ -4729,188 +4638,6 @@
     "imdb_rating": "6.5",
     "type": "movie",
     "box_office": "$431,000,000"
-  },
-  {
-    "imdb_id": "tt0107290",
-    "api_id": 329,
-    "api_name": "themoviedb",
-    "title": "Jurassic Park",
-    "original_title": "Jurassic Park",
-    "genres": [
-      {
-        "id": 12,
-        "name": "Adventure"
-      },
-      {
-        "id": 878,
-        "name": "Science Fiction"
-      }
-    ],
-    "release_date": "1993-06-11",
-    "valid": true,
-    "budget": 63000000,
-    "website": "http://www.jurassicpark.com/",
-    "production_companies": [
-      {
-        "id": 33,
-        "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
-        "name": "Universal Pictures",
-        "origin_country": "US"
-      },
-      {
-        "id": 56,
-        "logo_path": "/cEaxANEisCqeEoRvODv2dO1I0iI.png",
-        "name": "Amblin Entertainment",
-        "origin_country": "US"
-      }
-    ],
-    "production_countries": [
-      {
-        "iso_3166_1": "US",
-        "name": "United States of America"
-      }
-    ],
-    "revenue": 920100000,
-    "length": 127,
-    "original_language": "en",
-    "spoken_languages": [
-      {
-        "iso_639_1": "en",
-        "name": "English"
-      },
-      {
-        "iso_639_1": "es",
-        "name": "Español"
-      }
-    ],
-    "status": "Released",
-    "overview": "A wealthy entrepreneur secretly creates a theme park featuring living dinosaurs drawn from prehistoric DNA. Before opening day, he invites a team of experts and his two eager grandchildren to experience the park and help calm anxious investors. However, the park is anything but amusing as the security systems go off-line and the dinosaurs escape.",
-    "plot_line": "An adventure 65 million years in the making.",
-    "restrictions": [
-      "PG-13"
-    ],
-    "directors": [
-      "Steven Spielberg"
-    ],
-    "writers": [
-      "Michael Crichton (novel)",
-      "Michael Crichton (screenplay)",
-      "David Koepp (screenplay)"
-    ],
-    "actors": [
-      "Sam Neill",
-      "Laura Dern",
-      "Jeff Goldblum",
-      "Richard Attenborough"
-    ],
-    "awards": "Won 3 Oscars. Another 39 wins & 27 nominations.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_SX300.jpg",
-    "imdb_rating": "8.1",
-    "type": "movie",
-    "box_office": "$45,299,680"
-  },
-  {
-    "imdb_id": "tt0298148",
-    "api_id": 809,
-    "api_name": "themoviedb",
-    "title": "Shrek 2",
-    "original_title": "Shrek 2",
-    "genres": [
-      {
-        "id": 12,
-        "name": "Adventure"
-      },
-      {
-        "id": 16,
-        "name": "Animation"
-      },
-      {
-        "id": 35,
-        "name": "Comedy"
-      },
-      {
-        "id": 10751,
-        "name": "Family"
-      },
-      {
-        "id": 14,
-        "name": "Fantasy"
-      }
-    ],
-    "release_date": "2004-05-19",
-    "valid": true,
-    "budget": 150000000,
-    "website": "http://www.shrek2.com/",
-    "production_companies": [
-      {
-        "id": 521,
-        "logo_path": "/kP7t6RwGz2AvvTkvnI1uteEwHet.png",
-        "name": "DreamWorks Animation",
-        "origin_country": "US"
-      },
-      {
-        "id": 520,
-        "logo_path": "/pU7YTI9FfrICurXpl5V9TfCO0oJ.png",
-        "name": "Pacific Data Images",
-        "origin_country": "US"
-      },
-      {
-        "id": 7,
-        "logo_path": "/vru2SssLX3FPhnKZGtYw00pVIS9.png",
-        "name": "DreamWorks Pictures",
-        "origin_country": "US"
-      }
-    ],
-    "production_countries": [
-      {
-        "iso_3166_1": "US",
-        "name": "United States of America"
-      }
-    ],
-    "revenue": 919838758,
-    "length": 93,
-    "original_language": "en",
-    "spoken_languages": [
-      {
-        "iso_639_1": "en",
-        "name": "English"
-      }
-    ],
-    "status": "Released",
-    "overview": "Shrek, Fiona and Donkey set off to Far, Far Away to meet Fiona's mother and father. But not everyone is happy. Shrek and the King find it hard to get along, and there's tension in the marriage. The fairy godmother discovers that Shrek has married Fiona instead of her Son Prince Charming and sets about destroying their marriage.",
-    "plot_line": "Once upon another time...",
-    "restrictions": [
-      "PG"
-    ],
-    "directors": [
-      "Andrew Adamson",
-      "Kelly Asbury",
-      "Conrad Vernon"
-    ],
-    "writers": [
-      "William Steig (based upon the book by)",
-      "Andrew Adamson (story by)",
-      "Andrew Adamson (screenplay by)",
-      "Joe Stillman (screenplay by)",
-      "J. David Stem (screenplay by)",
-      "David N. Weiss (screenplay by)",
-      "Cody Cameron (additional dialogue)",
-      "Walt Dohrn (additional dialogue)",
-      "Chris Miller (additional dialogue)",
-      "David P. Smith (additional dialogue)",
-      "Conrad Vernon (additional dialogue)"
-    ],
-    "actors": [
-      "Mike Myers",
-      "Eddie Murphy",
-      "Cameron Diaz",
-      "Julie Andrews"
-    ],
-    "awards": "Nominated for 2 Oscars. Another 18 wins & 50 nominations.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMDJhMGRjN2QtNDUxYy00NGM3LThjNGQtMmZiZTRhNjM4YzUxL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
-    "imdb_rating": "7.2",
-    "type": "movie",
-    "box_office": "$436,471,036"
   },
   {
     "imdb_id": "tt0330373",
@@ -5003,109 +4730,6 @@
     "imdb_rating": "7.7",
     "type": "movie",
     "box_office": "$289,994,397"
-  },
-  {
-    "imdb_id": "tt1727824",
-    "api_id": 424694,
-    "api_name": "themoviedb",
-    "title": "Bohemian Rhapsody",
-    "original_title": "Bohemian Rhapsody",
-    "genres": [
-      {
-        "id": 18,
-        "name": "Drama"
-      },
-      {
-        "id": 10402,
-        "name": "Music"
-      }
-    ],
-    "release_date": "2018-10-24",
-    "valid": true,
-    "budget": 52000000,
-    "website": "http://bohemianrhapsody.com",
-    "production_companies": [
-      {
-        "id": 3281,
-        "logo_path": "/8tMybAieh64uzvm8knSjXOFX8Qc.png",
-        "name": "GK Films",
-        "origin_country": "GB"
-      },
-      {
-        "id": 508,
-        "logo_path": "/7PzJdsLGlR7oW4J0J5Xcd0pHGRg.png",
-        "name": "Regency Enterprises",
-        "origin_country": "US"
-      },
-      {
-        "id": 90995,
-        "logo_path": null,
-        "name": "Queen Films",
-        "origin_country": "GB"
-      },
-      {
-        "id": 11391,
-        "logo_path": null,
-        "name": "Tribeca Productions",
-        "origin_country": "US"
-      },
-      {
-        "id": 10104,
-        "logo_path": "/hNuGhsKVlmhnwSRcmOejDBDjh6w.png",
-        "name": "New Regency Pictures",
-        "origin_country": "US"
-      },
-      {
-        "id": 25,
-        "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
-        "name": "20th Century Fox",
-        "origin_country": "US"
-      }
-    ],
-    "production_countries": [
-      {
-        "iso_3166_1": "GB",
-        "name": "United Kingdom"
-      },
-      {
-        "iso_3166_1": "US",
-        "name": "United States of America"
-      }
-    ],
-    "revenue": 894027543,
-    "length": 135,
-    "original_language": "en",
-    "spoken_languages": [
-      {
-        "iso_639_1": "en",
-        "name": "English"
-      }
-    ],
-    "status": "Released",
-    "overview": "Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guitarist John Deacon take the music world by storm when they form the rock 'n' roll band Queen in 1970. Hit songs become instant classics. When Mercury's increasingly wild lifestyle starts to spiral out of control, Queen soon faces its greatest challenge yet – finding a way to keep the band together amid the success and excess.",
-    "plot_line": "Fearless lives forever",
-    "restrictions": [
-      "PG-13"
-    ],
-    "directors": [
-      "Bryan Singer"
-    ],
-    "writers": [
-      "Anthony McCarten (story by)",
-      "Peter Morgan (story by)",
-      "Anthony McCarten (screenplay by)"
-    ],
-    "actors": [
-      "Rami Malek",
-      "Lucy Boynton",
-      "Gwilym Lee",
-      "Ben Hardy"
-    ],
-    "awards": "Won 4 Oscars. Another 38 wins & 76 nominations.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTA2NDc3Njg5NDVeQTJeQWpwZ15BbWU4MDc1NDcxNTUz._V1_SX300.jpg",
-    "imdb_rating": "8.0",
-    "type": "movie",
-    "box_office": ""
   },
   {
     "imdb_id": "tt0413300",
@@ -5917,96 +5541,6 @@
     "imdb_rating": "6.5",
     "type": "movie",
     "box_office": "$293,792,936"
-  },
-  {
-    "imdb_id": "tt0120737",
-    "api_id": 120,
-    "api_name": "themoviedb",
-    "title": "The Lord of the Rings: The Fellowship of the Ring",
-    "original_title": "The Lord of the Rings: The Fellowship of the Ring",
-    "genres": [
-      {
-        "id": 12,
-        "name": "Adventure"
-      },
-      {
-        "id": 14,
-        "name": "Fantasy"
-      },
-      {
-        "id": 28,
-        "name": "Action"
-      }
-    ],
-    "release_date": "2001-12-18",
-    "valid": true,
-    "budget": 93000000,
-    "website": "http://www.lordoftherings.net/",
-    "production_companies": [
-      {
-        "id": 12,
-        "logo_path": "/iaYpEp3LQmb8AfAtmTvpqd4149c.png",
-        "name": "New Line Cinema",
-        "origin_country": "US"
-      },
-      {
-        "id": 11,
-        "logo_path": "/6FAuASQHybRkZUk08p9PzSs9ezM.png",
-        "name": "WingNut Films",
-        "origin_country": "NZ"
-      },
-      {
-        "id": 5237,
-        "logo_path": null,
-        "name": "The Saul Zaentz Company",
-        "origin_country": "US"
-      }
-    ],
-    "production_countries": [
-      {
-        "iso_3166_1": "NZ",
-        "name": "New Zealand"
-      },
-      {
-        "iso_3166_1": "US",
-        "name": "United States of America"
-      }
-    ],
-    "revenue": 871368364,
-    "length": 178,
-    "original_language": "en",
-    "spoken_languages": [
-      {
-        "iso_639_1": "en",
-        "name": "English"
-      }
-    ],
-    "status": "Released",
-    "overview": "Young hobbit Frodo Baggins, after inheriting a mysterious ring from his uncle Bilbo, must leave his home in order to keep it from falling into the hands of its evil creator. Along the way, a fellowship is formed to protect the ringbearer and make sure that the ring arrives at its final destination: Mt. Doom, the only place where it can be destroyed.",
-    "plot_line": "One ring to rule them all",
-    "restrictions": [
-      "PG-13"
-    ],
-    "directors": [
-      "Peter Jackson"
-    ],
-    "writers": [
-      "J.R.R. Tolkien (novel)",
-      "Fran Walsh (screenplay)",
-      "Philippa Boyens (screenplay)",
-      "Peter Jackson (screenplay)"
-    ],
-    "actors": [
-      "Alan Howard",
-      "Noel Appleby",
-      "Sean Astin",
-      "Sala Baker"
-    ],
-    "awards": "Won 4 Oscars. Another 115 wins & 124 nominations.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_SX300.jpg",
-    "imdb_rating": "8.8",
-    "type": "movie",
-    "box_office": "$314,000,000"
   },
   {
     "imdb_id": "tt7131870",
@@ -7551,405 +7085,6 @@
     "box_office": "$249,358,727"
   },
   {
-    "imdb_id": "tt1905041",
-    "api_id": 82992,
-    "api_name": "themoviedb",
-    "title": "Fast & Furious 6",
-    "original_title": "Fast & Furious 6",
-    "genres": [
-      {
-        "id": 28,
-        "name": "Action"
-      },
-      {
-        "id": 53,
-        "name": "Thriller"
-      },
-      {
-        "id": 80,
-        "name": "Crime"
-      }
-    ],
-    "release_date": "2013-05-21",
-    "valid": true,
-    "budget": 160000000,
-    "website": "http://www.thefastandthefurious.com/",
-    "production_companies": [
-      {
-        "id": 33,
-        "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
-        "name": "Universal Pictures",
-        "origin_country": "US"
-      },
-      {
-        "id": 7295,
-        "logo_path": "/5MYE96QiE5a5oFhXxFb4y8ILSpw.png",
-        "name": "Relativity Media",
-        "origin_country": "US"
-      },
-      {
-        "id": 333,
-        "logo_path": "/5xUJfzPZ8jWJUDzYtIeuPO4qPIa.png",
-        "name": "Original Film",
-        "origin_country": "US"
-      },
-      {
-        "id": 1225,
-        "logo_path": null,
-        "name": "One Race",
-        "origin_country": "US"
-      },
-      {
-        "id": 3341,
-        "logo_path": "/dTG5dXE1kU2mpmL9BNnraffckLU.png",
-        "name": "Fuji Television Network",
-        "origin_country": "JP"
-      },
-      {
-        "id": 48499,
-        "logo_path": null,
-        "name": "F & F VI Productions A.I.E",
-        "origin_country": ""
-      },
-      {
-        "id": 1778,
-        "logo_path": "/69xm6sF3JxugGVjfZfm1YY6d7EE.png",
-        "name": "Dentsu",
-        "origin_country": "JP"
-      }
-    ],
-    "production_countries": [
-      {
-        "iso_3166_1": "US",
-        "name": "United States of America"
-      }
-    ],
-    "revenue": 788679850,
-    "length": 131,
-    "original_language": "en",
-    "spoken_languages": [
-      {
-        "iso_639_1": "en",
-        "name": "English"
-      },
-      {
-        "iso_639_1": "ru",
-        "name": "Pусский"
-      },
-      {
-        "iso_639_1": "es",
-        "name": "Español"
-      }
-    ],
-    "status": "Released",
-    "overview": "Hobbs has Dominic and Brian reassemble their crew to take down a team of mercenaries: Dominic unexpectedly gets convoluted also facing his presumed deceased girlfriend, Letty.",
-    "plot_line": "All roads lead to this",
-    "restrictions": [
-      "PG-13"
-    ],
-    "directors": [
-      "Justin Lin"
-    ],
-    "writers": [
-      "Chris Morgan",
-      "Gary Scott Thompson (characters)"
-    ],
-    "actors": [
-      "Vin Diesel",
-      "Paul Walker",
-      "Dwayne Johnson",
-      "Jordana Brewster"
-    ],
-    "awards": "10 wins & 22 nominations.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTM3NTg2NDQzOF5BMl5BanBnXkFtZTcwNjc2NzQzOQ@@._V1_SX300.jpg",
-    "imdb_rating": "7.1",
-    "type": "movie",
-    "box_office": "$238,700,000"
-  },
-  {
-    "imdb_id": "tt0367882",
-    "api_id": 217,
-    "api_name": "themoviedb",
-    "title": "Indiana Jones and the Kingdom of the Crystal Skull",
-    "original_title": "Indiana Jones and the Kingdom of the Crystal Skull",
-    "genres": [
-      {
-        "id": 12,
-        "name": "Adventure"
-      },
-      {
-        "id": 28,
-        "name": "Action"
-      }
-    ],
-    "release_date": "2008-05-21",
-    "valid": true,
-    "budget": 185000000,
-    "website": "http://www.indianajones.com/site/index.html",
-    "production_companies": [
-      {
-        "id": 4,
-        "logo_path": "/fycMZt242LVjagMByZOLUGbCvv3.png",
-        "name": "Paramount",
-        "origin_country": "US"
-      },
-      {
-        "id": 1,
-        "logo_path": "/o86DbpburjxrqAzEDhXZcyE8pDb.png",
-        "name": "Lucasfilm",
-        "origin_country": "US"
-      }
-    ],
-    "production_countries": [
-      {
-        "iso_3166_1": "US",
-        "name": "United States of America"
-      }
-    ],
-    "revenue": 786636033,
-    "length": 122,
-    "original_language": "en",
-    "spoken_languages": [
-      {
-        "iso_639_1": "en",
-        "name": "English"
-      },
-      {
-        "iso_639_1": "de",
-        "name": "Deutsch"
-      },
-      {
-        "iso_639_1": "ru",
-        "name": "Pусский"
-      }
-    ],
-    "status": "Released",
-    "overview": "Set during the Cold War, the Soviets – led by sword-wielding Irina Spalko – are in search of a crystal skull which has supernatural powers related to a mystical Lost City of Gold. After being captured and then escaping from them, Indy is coerced to head to Peru at the behest of a young man whose friend – and Indy's colleague – Professor Oxley has been captured for his knowledge of the skull's whereabouts.",
-    "plot_line": "The adventure continues . . .",
-    "restrictions": [
-      "PG-13"
-    ],
-    "directors": [
-      "Steven Spielberg"
-    ],
-    "writers": [
-      "David Koepp (screenplay)",
-      "George Lucas (story)",
-      "Jeff Nathanson (story)",
-      "George Lucas (characters)",
-      "Philip Kaufman (characters)"
-    ],
-    "actors": [
-      "Harrison Ford",
-      "Cate Blanchett",
-      "Karen Allen",
-      "Shia LaBeouf"
-    ],
-    "awards": "Nominated for 1 BAFTA Film Award. Another 10 wins & 41 nominations.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTIxNDUxNzcyMl5BMl5BanBnXkFtZTcwNTgwOTI3MQ@@._V1_SX300.jpg",
-    "imdb_rating": "6.1",
-    "type": "movie",
-    "box_office": "$316,957,122"
-  },
-  {
-    "imdb_id": "tt0316654",
-    "api_id": 558,
-    "api_name": "themoviedb",
-    "title": "Spider-Man 2",
-    "original_title": "Spider-Man 2",
-    "genres": [
-      {
-        "id": 28,
-        "name": "Action"
-      },
-      {
-        "id": 12,
-        "name": "Adventure"
-      },
-      {
-        "id": 14,
-        "name": "Fantasy"
-      }
-    ],
-    "release_date": "2004-06-25",
-    "valid": true,
-    "budget": 200000000,
-    "website": "http://www.sonypictures.com/movies/spider-man2/",
-    "production_companies": [
-      {
-        "id": 5,
-        "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
-        "name": "Columbia Pictures",
-        "origin_country": "US"
-      },
-      {
-        "id": 326,
-        "logo_path": null,
-        "name": "Laura Ziskin Productions",
-        "origin_country": ""
-      },
-      {
-        "id": 19551,
-        "logo_path": "/2WpWp9b108hizjHKdA107hFmvQ5.png",
-        "name": "Marvel Enterprises",
-        "origin_country": "US"
-      },
-      {
-        "id": 34,
-        "logo_path": "/GagSvqWlyPdkFHMfQ3pNq6ix9P.png",
-        "name": "Sony Pictures",
-        "origin_country": "US"
-      }
-    ],
-    "production_countries": [
-      {
-        "iso_3166_1": "US",
-        "name": "United States of America"
-      }
-    ],
-    "revenue": 783766341,
-    "length": 127,
-    "original_language": "en",
-    "spoken_languages": [
-      {
-        "iso_639_1": "en",
-        "name": "English"
-      },
-      {
-        "iso_639_1": "ru",
-        "name": "Pусский"
-      },
-      {
-        "iso_639_1": "zh",
-        "name": "普通话"
-      }
-    ],
-    "status": "Released",
-    "overview": "Peter Parker is going through a major identity crisis. Burned out from being Spider-Man, he decides to shelve his superhero alter ego, which leaves the city suffering in the wake of carnage left by the evil Doc Ock. In the meantime, Parker still can't act on his feelings for Mary Jane Watson, a girl he's loved since childhood.",
-    "plot_line": "There's a hero in all of us.",
-    "restrictions": [
-      "PG-13"
-    ],
-    "directors": [
-      "Sam Raimi"
-    ],
-    "writers": [
-      "Stan Lee (comic book)",
-      "Steve Ditko (comic book)",
-      "Alfred Gough (screen story)",
-      "Miles Millar (screen story)",
-      "Michael Chabon (screen story)",
-      "Alvin Sargent (screenplay)"
-    ],
-    "actors": [
-      "Tobey Maguire",
-      "Kirsten Dunst",
-      "James Franco",
-      "Alfred Molina"
-    ],
-    "awards": "Won 1 Oscar. Another 24 wins & 60 nominations.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMzY2ODk4NmUtOTVmNi00ZTdkLTlmOWYtMmE2OWVhNTU2OTVkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
-    "imdb_rating": "7.3",
-    "type": "movie",
-    "box_office": "$373,377,893"
-  },
-  {
-    "imdb_id": "tt1431045",
-    "api_id": 293660,
-    "api_name": "themoviedb",
-    "title": "Deadpool",
-    "original_title": "Deadpool",
-    "genres": [
-      {
-        "id": 28,
-        "name": "Action"
-      },
-      {
-        "id": 12,
-        "name": "Adventure"
-      },
-      {
-        "id": 35,
-        "name": "Comedy"
-      }
-    ],
-    "release_date": "2016-02-09",
-    "valid": true,
-    "budget": 58000000,
-    "website": "http://www.foxmovies.com/movies/deadpool",
-    "production_companies": [
-      {
-        "id": 7505,
-        "logo_path": "/837VMM4wOkODc1idNxGT0KQJlej.png",
-        "name": "Marvel Entertainment",
-        "origin_country": "US"
-      },
-      {
-        "id": 22213,
-        "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
-        "name": "TSG Entertainment",
-        "origin_country": "US"
-      },
-      {
-        "id": 25,
-        "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
-        "name": "20th Century Fox",
-        "origin_country": "US"
-      },
-      {
-        "id": 28788,
-        "logo_path": null,
-        "name": "Genre Films",
-        "origin_country": "US"
-      },
-      {
-        "id": 431,
-        "logo_path": null,
-        "name": "The Donners' Company",
-        "origin_country": "US"
-      }
-    ],
-    "production_countries": [
-      {
-        "iso_3166_1": "US",
-        "name": "United States of America"
-      }
-    ],
-    "revenue": 783100000,
-    "length": 108,
-    "original_language": "en",
-    "spoken_languages": [
-      {
-        "iso_639_1": "en",
-        "name": "English"
-      }
-    ],
-    "status": "Released",
-    "overview": "Deadpool tells the origin story of former Special Forces operative turned mercenary Wade Wilson, who after being subjected to a rogue experiment that leaves him with accelerated healing powers, adopts the alter ego Deadpool. Armed with his new abilities and a dark, twisted sense of humor, Deadpool hunts down the man who nearly destroyed his life.",
-    "plot_line": "Witness the beginning of a happy ending",
-    "restrictions": [
-      "R"
-    ],
-    "directors": [
-      "Tim Miller"
-    ],
-    "writers": [
-      "Rhett Reese",
-      "Paul Wernick"
-    ],
-    "actors": [
-      "Ryan Reynolds",
-      "Karan Soni",
-      "Ed Skrein",
-      "Michael Benyaer"
-    ],
-    "awards": "Nominated for 2 Golden Globes. Another 28 wins & 75 nominations.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BYzE5MjY1ZDgtMTkyNC00MTMyLThhMjAtZGI5OTE1NzFlZGJjXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
-    "imdb_rating": "8.0",
-    "type": "movie",
-    "box_office": "$328,674,489"
-  },
-  {
     "imdb_id": "tt0076759",
     "api_id": 11,
     "api_name": "themoviedb",
@@ -8046,88 +7181,6 @@
     "overview": "",
     "poster_path": "/q2Eq8C5sa9rWVYoRIaIrnigfU7C.jpg",
     "valid": false
-  },
-  {
-    "imdb_id": "tt2015381",
-    "api_id": 118340,
-    "api_name": "themoviedb",
-    "title": "Guardians of the Galaxy",
-    "original_title": "Guardians of the Galaxy",
-    "genres": [
-      {
-        "id": 28,
-        "name": "Action"
-      },
-      {
-        "id": 878,
-        "name": "Science Fiction"
-      },
-      {
-        "id": 12,
-        "name": "Adventure"
-      }
-    ],
-    "release_date": "2014-07-30",
-    "valid": true,
-    "budget": 170000000,
-    "website": "http://marvel.com/guardians",
-    "production_companies": [
-      {
-        "id": 420,
-        "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
-        "name": "Marvel Studios",
-        "origin_country": "US"
-      }
-    ],
-    "production_countries": [
-      {
-        "iso_3166_1": "US",
-        "name": "United States of America"
-      }
-    ],
-    "revenue": 772776600,
-    "length": 121,
-    "original_language": "en",
-    "spoken_languages": [
-      {
-        "iso_639_1": "en",
-        "name": "English"
-      }
-    ],
-    "status": "Released",
-    "overview": "Light years from Earth, 26 years after being abducted, Peter Quill finds himself the prime target of a manhunt after discovering an orb wanted by Ronan the Accuser.",
-    "plot_line": "All heroes start somewhere.",
-    "restrictions": [
-      "PG-13"
-    ],
-    "directors": [
-      "James Gunn"
-    ],
-    "writers": [
-      "James Gunn",
-      "Nicole Perlman",
-      "Dan Abnett (based on the Marvel comics by)",
-      "Andy Lanning (based on the Marvel comics by)",
-      "Bill Mantlo (character created by: Rocket Raccoon)",
-      "Keith Giffen (character created by: Rocket Raccoon)",
-      "Jim Starlin (characters created by: Drax the Destroyer",
-      " Gamora & Thanos)",
-      "Steve Englehart (character created by: Star-Lord)",
-      "Steve Gan (character created by: Star-Lord)",
-      "Steve Gerber (character created by: Howard the Duck)",
-      "Val Mayerik (character created by: Howard the Duck)"
-    ],
-    "actors": [
-      "Chris Pratt",
-      "Zoe Saldana",
-      "Dave Bautista",
-      "Vin Diesel"
-    ],
-    "awards": "Nominated for 2 Oscars. Another 52 wins & 100 nominations.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTAwMjU5OTgxNjZeQTJeQWpwZ15BbWU4MDUxNDYxODEx._V1_SX300.jpg",
-    "imdb_rating": "8.0",
-    "type": "movie",
-    "box_office": "$270,592,504"
   },
   {
     "imdb_id": "tt2527336",
@@ -8301,103 +7354,6 @@
     "original_title": "Pirates of the Caribbean: Dead Men Tell No Tales",
     "status": "Released",
     "subsFileName": "./subtitles/Pirates_of_the_Caribbean:_Dead_Men_Tell_No_Tales.srt"
-  },
-  {
-    "imdb_id": "tt4154796",
-    "api_id": 299534,
-    "api_name": "themoviedb",
-    "title": "Avengers: Endgame",
-    "original_title": "Avengers: Endgame",
-    "genres": [
-      {
-        "id": 12,
-        "name": "Adventure"
-      },
-      {
-        "id": 878,
-        "name": "Science Fiction"
-      },
-      {
-        "id": 28,
-        "name": "Action"
-      }
-    ],
-    "release_date": "2019-04-24",
-    "valid": true,
-    "budget": 356000000,
-    "website": "https://www.marvel.com/movies/avengers-endgame",
-    "production_companies": [
-      {
-        "id": 420,
-        "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
-        "name": "Marvel Studios",
-        "origin_country": "US"
-      }
-    ],
-    "production_countries": [
-      {
-        "iso_3166_1": "US",
-        "name": "United States of America"
-      }
-    ],
-    "revenue": 2797800564,
-    "length": 181,
-    "original_language": "en",
-    "spoken_languages": [
-      {
-        "iso_639_1": "en",
-        "name": "English"
-      },
-      {
-        "iso_639_1": "ja",
-        "name": "日本語"
-      },
-      {
-        "iso_639_1": "xh",
-        "name": ""
-      }
-    ],
-    "status": "Released",
-    "overview": "993After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.",
-    "plot_line": "Part of the journey is the end.",
-    "restrictions": [
-      "PG-13"
-    ],
-    "directors": [
-      "Anthony Russo",
-      "Joe Russo"
-    ],
-    "writers": [
-      "Christopher Markus (screenplay by)",
-      "Stephen McFeely (screenplay by)",
-      "Stan Lee (based on the Marvel comics by)",
-      "Jack Kirby (based on the Marvel comics by)",
-      "Joe Simon (Captain America created by)",
-      "Jack Kirby (Captain America created by)",
-      "Steve Englehart (Star-Lord created by)",
-      "Steve Gan (Star-Lord created by)",
-      "Bill Mantlo (Rocket Raccoon created by)",
-      "Keith Giffen (Rocket Raccoon created by)",
-      "Jim Starlin (Thanos",
-      " Gamora & Drax created by)",
-      "Stan Lee (Groot created by)",
-      "Larry Lieber (Groot created by)",
-      "Jack Kirby (Groot created by)",
-      "Steve Englehart (Mantis created by)",
-      "Don Heck (Mantis created by)"
-    ],
-    "actors": [
-      "Robert Downey Jr.",
-      "Chris Evans",
-      "Mark Ruffalo",
-      "Chris Hemsworth"
-    ],
-    "awards": "Nominated for 1 Oscar. Another 46 wins & 97 nominations.",
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_SX300.jpg",
-    "imdb_rating": "8.5",
-    "type": "movie",
-    "box_office": null,
-    "updated": "2020-05-17T19:42:09.161Z"
   },
   {
     "imdb_id": "tt2380307",
@@ -9005,5 +7961,1059 @@
     "type": "movie",
     "box_office": null,
     "updated": "2020-05-18T21:00:33.039Z"
+  },
+  {
+    "imdb_id": "tt4154796",
+    "api_id": 299534,
+    "api_name": "themoviedb",
+    "title": "Avengers: Endgame",
+    "original_title": "Avengers: Endgame",
+    "genres": [
+      {
+        "id": 12,
+        "name": "Adventure"
+      },
+      {
+        "id": 878,
+        "name": "Science Fiction"
+      },
+      {
+        "id": 28,
+        "name": "Action"
+      }
+    ],
+    "release_date": "2019-04-24",
+    "valid": true,
+    "budget": 356000000,
+    "website": "https://www.marvel.com/movies/avengers-endgame",
+    "production_companies": [
+      {
+        "id": 420,
+        "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
+        "name": "Marvel Studios",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 2797800564,
+    "length": 181,
+    "original_language": "en",
+    "spoken_languages": [
+      {
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "iso_639_1": "ja",
+        "name": "日本語"
+      },
+      {
+        "iso_639_1": "xh",
+        "name": ""
+      }
+    ],
+    "status": "Released",
+    "overview": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.",
+    "plot_line": "Part of the journey is the end.",
+    "restrictions": [
+      "PG-13"
+    ],
+    "directors": [
+      "Anthony Russo",
+      "Joe Russo"
+    ],
+    "writers": [
+      "Christopher Markus (screenplay by)",
+      "Stephen McFeely (screenplay by)",
+      "Stan Lee (based on the Marvel comics by)",
+      "Jack Kirby (based on the Marvel comics by)",
+      "Joe Simon (Captain America created by)",
+      "Jack Kirby (Captain America created by)",
+      "Steve Englehart (Star-Lord created by)",
+      "Steve Gan (Star-Lord created by)",
+      "Bill Mantlo (Rocket Raccoon created by)",
+      "Keith Giffen (Rocket Raccoon created by)",
+      "Jim Starlin (Thanos",
+      " Gamora & Drax created by)",
+      "Stan Lee (Groot created by)",
+      "Larry Lieber (Groot created by)",
+      "Jack Kirby (Groot created by)",
+      "Steve Englehart (Mantis created by)",
+      "Don Heck (Mantis created by)"
+    ],
+    "actors": [
+      "Robert Downey Jr.",
+      "Chris Evans",
+      "Mark Ruffalo",
+      "Chris Hemsworth"
+    ],
+    "awards": "Nominated for 1 Oscar. Another 46 wins & 97 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_SX300.jpg",
+    "imdb_rating": "8.5",
+    "type": "movie",
+    "box_office": null,
+    "updated": "2020-05-21T10:09:54.744Z"
+  },
+  {
+    "imdb_id": "tt0316654",
+    "api_id": 558,
+    "api_name": "themoviedb",
+    "title": "Spider-Man 2",
+    "original_title": "Spider-Man 2",
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 12,
+        "name": "Adventure"
+      },
+      {
+        "id": 14,
+        "name": "Fantasy"
+      }
+    ],
+    "release_date": "2004-06-25",
+    "valid": true,
+    "budget": 200000000,
+    "website": "http://www.sonypictures.com/movies/spider-man2/",
+    "production_companies": [
+      {
+        "id": 5,
+        "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+        "name": "Columbia Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 326,
+        "logo_path": null,
+        "name": "Laura Ziskin Productions",
+        "origin_country": ""
+      },
+      {
+        "id": 19551,
+        "logo_path": "/2WpWp9b108hizjHKdA107hFmvQ5.png",
+        "name": "Marvel Enterprises",
+        "origin_country": "US"
+      },
+      {
+        "id": 34,
+        "logo_path": "/GagSvqWlyPdkFHMfQ3pNq6ix9P.png",
+        "name": "Sony Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 783766341,
+    "length": 127,
+    "original_language": "en",
+    "spoken_languages": [
+      {
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "iso_639_1": "ru",
+        "name": "Pусский"
+      },
+      {
+        "iso_639_1": "zh",
+        "name": "普通话"
+      }
+    ],
+    "status": "Released",
+    "overview": "Peter Parker is going through a major identity crisis. Burned out from being Spider-Man, he decides to shelve his superhero alter ego, which leaves the city suffering in the wake of carnage left by the evil Doc Ock. In the meantime, Parker still can't act on his feelings for Mary Jane Watson, a girl he's loved since childhood.",
+    "plot_line": "There's a hero in all of us.",
+    "restrictions": [
+      "PG-13"
+    ],
+    "directors": [
+      "Sam Raimi"
+    ],
+    "writers": [
+      "Stan Lee (comic book)",
+      "Steve Ditko (comic book)",
+      "Alfred Gough (screen story)",
+      "Miles Millar (screen story)",
+      "Michael Chabon (screen story)",
+      "Alvin Sargent (screenplay)"
+    ],
+    "actors": [
+      "Tobey Maguire",
+      "Kirsten Dunst",
+      "James Franco",
+      "Alfred Molina"
+    ],
+    "awards": "Won 1 Oscar. Another 23 wins & 60 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzY2ODk4NmUtOTVmNi00ZTdkLTlmOWYtMmE2OWVhNTU2OTVkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "imdb_rating": "7.3",
+    "type": "movie",
+    "box_office": null,
+    "updated": "2020-05-21T10:11:27.036Z"
+  },
+  {
+    "imdb_id": "tt1905041",
+    "api_id": 82992,
+    "api_name": "themoviedb",
+    "title": "Fast & Furious 6",
+    "original_title": "Fast & Furious 6",
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 53,
+        "name": "Thriller"
+      },
+      {
+        "id": 80,
+        "name": "Crime"
+      }
+    ],
+    "release_date": "2013-05-21",
+    "valid": true,
+    "budget": 160000000,
+    "website": "http://www.thefastandthefurious.com/",
+    "production_companies": [
+      {
+        "id": 33,
+        "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 7295,
+        "logo_path": "/5MYE96QiE5a5oFhXxFb4y8ILSpw.png",
+        "name": "Relativity Media",
+        "origin_country": "US"
+      },
+      {
+        "id": 333,
+        "logo_path": "/5xUJfzPZ8jWJUDzYtIeuPO4qPIa.png",
+        "name": "Original Film",
+        "origin_country": "US"
+      },
+      {
+        "id": 1225,
+        "logo_path": null,
+        "name": "One Race",
+        "origin_country": "US"
+      },
+      {
+        "id": 3341,
+        "logo_path": "/dTG5dXE1kU2mpmL9BNnraffckLU.png",
+        "name": "Fuji Television Network",
+        "origin_country": "JP"
+      },
+      {
+        "id": 48499,
+        "logo_path": null,
+        "name": "F & F VI Productions A.I.E",
+        "origin_country": ""
+      },
+      {
+        "id": 1778,
+        "logo_path": "/69xm6sF3JxugGVjfZfm1YY6d7EE.png",
+        "name": "Dentsu",
+        "origin_country": "JP"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 788679850,
+    "length": 131,
+    "original_language": "en",
+    "spoken_languages": [
+      {
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "iso_639_1": "ru",
+        "name": "Pусский"
+      },
+      {
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "overview": "Hobbs has Dominic and Brian reassemble their crew to take down a team of mercenaries: Dominic unexpectedly gets convoluted also facing his presumed deceased girlfriend, Letty.",
+    "plot_line": "All roads lead to this",
+    "restrictions": [
+      "PG-13"
+    ],
+    "directors": [
+      "Justin Lin"
+    ],
+    "writers": [
+      "Chris Morgan",
+      "Gary Scott Thompson (characters)"
+    ],
+    "actors": [
+      "Vin Diesel",
+      "Paul Walker",
+      "Dwayne Johnson",
+      "Jordana Brewster"
+    ],
+    "awards": "10 wins & 22 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTM3NTg2NDQzOF5BMl5BanBnXkFtZTcwNjc2NzQzOQ@@._V1_SX300.jpg",
+    "imdb_rating": "7.1",
+    "type": "movie",
+    "box_office": null,
+    "updated": "2020-05-21T10:12:40.861Z"
+  },
+  {
+    "imdb_id": "tt0107290",
+    "api_id": 329,
+    "api_name": "themoviedb",
+    "title": "Jurassic Park",
+    "original_title": "Jurassic Park",
+    "genres": [
+      {
+        "id": 12,
+        "name": "Adventure"
+      },
+      {
+        "id": 878,
+        "name": "Science Fiction"
+      }
+    ],
+    "release_date": "1993-06-11",
+    "valid": true,
+    "budget": 63000000,
+    "website": "http://www.jurassicpark.com/",
+    "production_companies": [
+      {
+        "id": 33,
+        "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 56,
+        "logo_path": "/cEaxANEisCqeEoRvODv2dO1I0iI.png",
+        "name": "Amblin Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 920100000,
+    "length": 127,
+    "original_language": "en",
+    "spoken_languages": [
+      {
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "overview": "A wealthy entrepreneur secretly creates a theme park featuring living dinosaurs drawn from prehistoric DNA. Before opening day, he invites a team of experts and his two eager grandchildren to experience the park and help calm anxious investors. However, the park is anything but amusing as the security systems go off-line and the dinosaurs escape.",
+    "plot_line": "An adventure 65 million years in the making.",
+    "restrictions": [
+      "PG-13"
+    ],
+    "directors": [
+      "Steven Spielberg"
+    ],
+    "writers": [
+      "Michael Crichton (novel)",
+      "Michael Crichton (screenplay)",
+      "David Koepp (screenplay)"
+    ],
+    "actors": [
+      "Sam Neill",
+      "Laura Dern",
+      "Jeff Goldblum",
+      "Richard Attenborough"
+    ],
+    "awards": "Won 3 Oscars. Another 38 wins & 26 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_SX300.jpg",
+    "imdb_rating": "8.1",
+    "type": "movie",
+    "box_office": null,
+    "updated": "2020-05-21T10:17:38.907Z"
+  },
+  {
+    "imdb_id": "tt1727824",
+    "api_id": 424694,
+    "api_name": "themoviedb",
+    "title": "Bohemian Rhapsody",
+    "original_title": "Bohemian Rhapsody",
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10402,
+        "name": "Music"
+      }
+    ],
+    "release_date": "2018-10-24",
+    "valid": true,
+    "budget": 52000000,
+    "website": "http://bohemianrhapsody.com",
+    "production_companies": [
+      {
+        "id": 3281,
+        "logo_path": "/8tMybAieh64uzvm8knSjXOFX8Qc.png",
+        "name": "GK Films",
+        "origin_country": "GB"
+      },
+      {
+        "id": 508,
+        "logo_path": "/7PzJdsLGlR7oW4J0J5Xcd0pHGRg.png",
+        "name": "Regency Enterprises",
+        "origin_country": "US"
+      },
+      {
+        "id": 90995,
+        "logo_path": null,
+        "name": "Queen Films",
+        "origin_country": "GB"
+      },
+      {
+        "id": 11391,
+        "logo_path": null,
+        "name": "Tribeca Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 10104,
+        "logo_path": "/hNuGhsKVlmhnwSRcmOejDBDjh6w.png",
+        "name": "New Regency Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 25,
+        "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+        "name": "20th Century Fox",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 894027543,
+    "length": 135,
+    "original_language": "en",
+    "spoken_languages": [
+      {
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "overview": "Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guitarist John Deacon take the music world by storm when they form the rock 'n' roll band Queen in 1970. Hit songs become instant classics. When Mercury's increasingly wild lifestyle starts to spiral out of control, Queen soon faces its greatest challenge yet – finding a way to keep the band together amid the success and excess.",
+    "plot_line": "Fearless lives forever",
+    "restrictions": [
+      "PG-13"
+    ],
+    "directors": [
+      "Bryan Singer"
+    ],
+    "writers": [
+      "Anthony McCarten (story by)",
+      "Peter Morgan (story by)",
+      "Anthony McCarten (screenplay by)"
+    ],
+    "actors": [
+      "Rami Malek",
+      "Lucy Boynton",
+      "Gwilym Lee",
+      "Ben Hardy"
+    ],
+    "awards": "Won 4 Oscars. Another 37 wins & 76 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTA2NDc3Njg5NDVeQTJeQWpwZ15BbWU4MDc1NDcxNTUz._V1_SX300.jpg",
+    "imdb_rating": "8.0",
+    "type": "movie",
+    "box_office": null,
+    "updated": "2020-05-21T10:17:38.930Z"
+  },
+  {
+    "imdb_id": "tt0167261",
+    "api_id": 121,
+    "api_name": "themoviedb",
+    "title": "The Lord of the Rings: The Two Towers",
+    "original_title": "The Lord of the Rings: The Two Towers",
+    "genres": [
+      {
+        "id": 12,
+        "name": "Adventure"
+      },
+      {
+        "id": 14,
+        "name": "Fantasy"
+      },
+      {
+        "id": 28,
+        "name": "Action"
+      }
+    ],
+    "release_date": "2002-12-18",
+    "valid": true,
+    "budget": 79000000,
+    "website": "http://www.lordoftherings.net/",
+    "production_companies": [
+      {
+        "id": 12,
+        "logo_path": "/iaYpEp3LQmb8AfAtmTvpqd4149c.png",
+        "name": "New Line Cinema",
+        "origin_country": "US"
+      },
+      {
+        "id": 11,
+        "logo_path": "/6FAuASQHybRkZUk08p9PzSs9ezM.png",
+        "name": "WingNut Films",
+        "origin_country": "NZ"
+      },
+      {
+        "id": 5237,
+        "logo_path": null,
+        "name": "The Saul Zaentz Company",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "NZ",
+        "name": "New Zealand"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 926287400,
+    "length": 179,
+    "original_language": "en",
+    "spoken_languages": [
+      {
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "overview": "Frodo and Sam are trekking to Mordor to destroy the One Ring of Power while Gimli, Legolas and Aragorn search for the orc-captured Merry and Pippin. All along, nefarious wizard Saruman awaits the Fellowship members at the Orthanc Tower in Isengard.",
+    "plot_line": "A New Power Is Rising.",
+    "restrictions": [
+      "PG-13"
+    ],
+    "directors": [
+      "Peter Jackson"
+    ],
+    "writers": [
+      "J.R.R. Tolkien (novel)",
+      "Fran Walsh (screenplay)",
+      "Philippa Boyens (screenplay)",
+      "Stephen Sinclair (screenplay)",
+      "Peter Jackson (screenplay)"
+    ],
+    "actors": [
+      "Bruce Allpress",
+      "Sean Astin",
+      "John Bach",
+      "Sala Baker"
+    ],
+    "awards": "Won 2 Oscars. Another 123 wins & 137 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGE5MzIyNTAtNWFlMC00NDA2LWJiMjItMjc4Yjg1OWM5NzhhXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "imdb_rating": "8.7",
+    "type": "movie",
+    "box_office": null,
+    "updated": "2020-05-21T10:17:51.365Z"
+  },
+  {
+    "imdb_id": "tt0298148",
+    "api_id": 809,
+    "api_name": "themoviedb",
+    "title": "Shrek 2",
+    "original_title": "Shrek 2",
+    "genres": [
+      {
+        "id": 12,
+        "name": "Adventure"
+      },
+      {
+        "id": 16,
+        "name": "Animation"
+      },
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 10751,
+        "name": "Family"
+      },
+      {
+        "id": 14,
+        "name": "Fantasy"
+      }
+    ],
+    "release_date": "2004-05-19",
+    "valid": true,
+    "budget": 150000000,
+    "website": "http://www.shrek2.com/",
+    "production_companies": [
+      {
+        "id": 521,
+        "logo_path": "/kP7t6RwGz2AvvTkvnI1uteEwHet.png",
+        "name": "DreamWorks Animation",
+        "origin_country": "US"
+      },
+      {
+        "id": 520,
+        "logo_path": "/pU7YTI9FfrICurXpl5V9TfCO0oJ.png",
+        "name": "Pacific Data Images",
+        "origin_country": "US"
+      },
+      {
+        "id": 7,
+        "logo_path": "/vru2SssLX3FPhnKZGtYw00pVIS9.png",
+        "name": "DreamWorks Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 919838758,
+    "length": 93,
+    "original_language": "en",
+    "spoken_languages": [
+      {
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "overview": "Shrek, Fiona and Donkey set off to Far, Far Away to meet Fiona's mother and father. But not everyone is happy. Shrek and the King find it hard to get along, and there's tension in the marriage. The fairy godmother discovers that Shrek has married Fiona instead of her Son Prince Charming and sets about destroying their marriage.",
+    "plot_line": "Once upon another time...",
+    "restrictions": [
+      "PG"
+    ],
+    "directors": [
+      "Andrew Adamson",
+      "Kelly Asbury",
+      "Conrad Vernon"
+    ],
+    "writers": [
+      "William Steig (based upon the book by)",
+      "Andrew Adamson (story by)",
+      "Andrew Adamson (screenplay by)",
+      "Joe Stillman (screenplay by)",
+      "J. David Stem (screenplay by)",
+      "David N. Weiss (screenplay by)",
+      "Cody Cameron (additional dialogue)",
+      "Walt Dohrn (additional dialogue)",
+      "Chris Miller (additional dialogue)",
+      "David P. Smith (additional dialogue)",
+      "Conrad Vernon (additional dialogue)"
+    ],
+    "actors": [
+      "Mike Myers",
+      "Eddie Murphy",
+      "Cameron Diaz",
+      "Julie Andrews"
+    ],
+    "awards": "Nominated for 2 Oscars. Another 18 wins & 50 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDJhMGRjN2QtNDUxYy00NGM3LThjNGQtMmZiZTRhNjM4YzUxL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "imdb_rating": "7.2",
+    "type": "movie",
+    "box_office": null,
+    "updated": "2020-05-21T10:17:51.385Z"
+  },
+  {
+    "imdb_id": "tt1431045",
+    "api_id": 293660,
+    "api_name": "themoviedb",
+    "title": "Deadpool",
+    "original_title": "Deadpool",
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 12,
+        "name": "Adventure"
+      },
+      {
+        "id": 35,
+        "name": "Comedy"
+      }
+    ],
+    "release_date": "2016-02-09",
+    "valid": true,
+    "budget": 58000000,
+    "website": "http://www.foxmovies.com/movies/deadpool",
+    "production_companies": [
+      {
+        "id": 7505,
+        "logo_path": "/837VMM4wOkODc1idNxGT0KQJlej.png",
+        "name": "Marvel Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 22213,
+        "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
+        "name": "TSG Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 25,
+        "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+        "name": "20th Century Fox",
+        "origin_country": "US"
+      },
+      {
+        "id": 28788,
+        "logo_path": null,
+        "name": "Genre Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 431,
+        "logo_path": null,
+        "name": "The Donners' Company",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": "750100000",
+    "length": 108,
+    "original_language": "en",
+    "spoken_languages": [
+      {
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "overview": "Deadpool tells the origin story of former Special Forces operative turned mercenary Wade Wilson, who after being subjected to a rogue experiment that leaves him with accelerated healing powers, adopts the alter ego Deadpool. Armed with his new abilities and a dark, twisted sense of humor, Deadpool hunts down the man who nearly destroyed his life.",
+    "plot_line": "Witness the beginning of a happy ending",
+    "restrictions": [
+      "R"
+    ],
+    "directors": [
+      "Tim Miller"
+    ],
+    "writers": [
+      "Rhett Reese",
+      "Paul Wernick"
+    ],
+    "actors": [
+      "Ryan Reynolds",
+      "Karan Soni",
+      "Ed Skrein",
+      "Michael Benyaer"
+    ],
+    "awards": "Nominated for 2 Golden Globes. Another 28 wins & 75 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzE5MjY1ZDgtMTkyNC00MTMyLThhMjAtZGI5OTE1NzFlZGJjXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "imdb_rating": "8.0",
+    "type": "movie",
+    "box_office": null,
+    "updated": "2020-05-21T10:20:18.618Z"
+  },
+  {
+    "imdb_id": "tt2015381",
+    "api_id": 118340,
+    "api_name": "themoviedb",
+    "title": "Guardians of the Galaxy",
+    "original_title": "Guardians of the Galaxy",
+    "genres": [
+      {
+        "id": 28,
+        "name": "Action"
+      },
+      {
+        "id": 878,
+        "name": "Science Fiction"
+      },
+      {
+        "id": 12,
+        "name": "Adventure"
+      }
+    ],
+    "release_date": "2014-07-30",
+    "valid": true,
+    "budget": 170000000,
+    "website": "http://marvel.com/guardians",
+    "production_companies": [
+      {
+        "id": 420,
+        "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
+        "name": "Marvel Studios",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 772776600,
+    "length": 121,
+    "original_language": "en",
+    "spoken_languages": [
+      {
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "overview": "Light years from Earth, 26 years after being abducted, Peter Quill finds himself the prime target of a manhunt after discovering an orb wanted by Ronan the Accuser.",
+    "plot_line": "All heroes start somewhere.",
+    "restrictions": [
+      "PG-13"
+    ],
+    "directors": [
+      "James Gunn"
+    ],
+    "writers": [
+      "James Gunn",
+      "Nicole Perlman",
+      "Dan Abnett (based on the Marvel comics by)",
+      "Andy Lanning (based on the Marvel comics by)",
+      "Bill Mantlo (character created by: Rocket Raccoon)",
+      "Keith Giffen (character created by: Rocket Raccoon)",
+      "Jim Starlin (characters created by: Drax the Destroyer",
+      " Gamora & Thanos)",
+      "Steve Englehart (character created by: Star-Lord)",
+      "Steve Gan (character created by: Star-Lord)",
+      "Steve Gerber (character created by: Howard the Duck)",
+      "Val Mayerik (character created by: Howard the Duck)"
+    ],
+    "actors": [
+      "Chris Pratt",
+      "Zoe Saldana",
+      "Dave Bautista",
+      "Vin Diesel"
+    ],
+    "awards": "Nominated for 2 Oscars. Another 52 wins & 99 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTAwMjU5OTgxNjZeQTJeQWpwZ15BbWU4MDUxNDYxODEx._V1_SX300.jpg",
+    "imdb_rating": "8.0",
+    "type": "movie",
+    "box_office": null,
+    "updated": "2020-05-21T10:22:23.982Z"
+  },
+  {
+    "imdb_id": "tt0367882",
+    "api_id": 217,
+    "api_name": "themoviedb",
+    "title": "Indiana Jones and the Kingdom of the Crystal Skull",
+    "original_title": "Indiana Jones and the Kingdom of the Crystal Skull",
+    "genres": [
+      {
+        "id": 12,
+        "name": "Adventure"
+      },
+      {
+        "id": 28,
+        "name": "Action"
+      }
+    ],
+    "release_date": "2008-05-21",
+    "valid": true,
+    "budget": 185000000,
+    "website": "http://www.indianajones.com/site/index.html",
+    "production_companies": [
+      {
+        "id": 4,
+        "logo_path": "/fycMZt242LVjagMByZOLUGbCvv3.png",
+        "name": "Paramount",
+        "origin_country": "US"
+      },
+      {
+        "id": 1,
+        "logo_path": "/o86DbpburjxrqAzEDhXZcyE8pDb.png",
+        "name": "Lucasfilm",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 786636033,
+    "length": 122,
+    "original_language": "en",
+    "spoken_languages": [
+      {
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "iso_639_1": "de",
+        "name": "Deutsch"
+      },
+      {
+        "iso_639_1": "ru",
+        "name": "Pусский"
+      }
+    ],
+    "status": "Released",
+    "overview": "Set during the Cold War, the Soviets – led by sword-wielding Irina Spalko – are in search of a crystal skull which has supernatural powers related to a mystical Lost City of Gold. After being captured and then escaping from them, Indy is coerced to head to Peru at the behest of a young man whose friend – and Indy's colleague – Professor Oxley has been captured for his knowledge of the skull's whereabouts.",
+    "plot_line": "The adventure continues . . .",
+    "restrictions": [
+      "PG-13"
+    ],
+    "directors": [
+      "Steven Spielberg"
+    ],
+    "writers": [
+      "David Koepp (screenplay)",
+      "George Lucas (story)",
+      "Jeff Nathanson (story)",
+      "George Lucas (characters)",
+      "Philip Kaufman (characters)"
+    ],
+    "actors": [
+      "Harrison Ford",
+      "Cate Blanchett",
+      "Karen Allen",
+      "Shia LaBeouf"
+    ],
+    "awards": "Nominated for 1 BAFTA Film Award. Another 10 wins & 41 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTIxNDUxNzcyMl5BMl5BanBnXkFtZTcwNTgwOTI3MQ@@._V1_SX300.jpg",
+    "imdb_rating": "6.1",
+    "type": "movie",
+    "box_office": null,
+    "updated": "2020-05-21T10:23:34.039Z"
+  },
+  {
+    "imdb_id": "tt0120737",
+    "api_id": 120,
+    "api_name": "themoviedb",
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "original_title": "The Lord of the Rings: The Fellowship of the Ring",
+    "genres": [
+      {
+        "id": 12,
+        "name": "Adventure"
+      },
+      {
+        "id": 14,
+        "name": "Fantasy"
+      },
+      {
+        "id": 28,
+        "name": "Action"
+      }
+    ],
+    "release_date": "2001-12-18",
+    "valid": true,
+    "budget": 93000000,
+    "website": "http://www.lordoftherings.net/",
+    "production_companies": [
+      {
+        "id": 12,
+        "logo_path": "/iaYpEp3LQmb8AfAtmTvpqd4149c.png",
+        "name": "New Line Cinema",
+        "origin_country": "US"
+      },
+      {
+        "id": 11,
+        "logo_path": "/6FAuASQHybRkZUk08p9PzSs9ezM.png",
+        "name": "WingNut Films",
+        "origin_country": "NZ"
+      },
+      {
+        "id": 5237,
+        "logo_path": null,
+        "name": "The Saul Zaentz Company",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "NZ",
+        "name": "New Zealand"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 871368364,
+    "length": 178,
+    "original_language": "en",
+    "spoken_languages": [
+      {
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "overview": "Young hobbit Frodo Baggins, after inheriting a mysterious ring from his uncle Bilbo, must leave his home in order to keep it from falling into the hands of its evil creator. Along the way, a fellowship is formed to protect the ringbearer and make sure that the ring arrives at its final destination: Mt. Doom, the only place where it can be destroyed.",
+    "plot_line": "One ring to rule them all",
+    "restrictions": [
+      "PG-13"
+    ],
+    "directors": [
+      "Peter Jackson"
+    ],
+    "writers": [
+      "J.R.R. Tolkien (novel)",
+      "Fran Walsh (screenplay)",
+      "Philippa Boyens (screenplay)",
+      "Peter Jackson (screenplay)"
+    ],
+    "actors": [
+      "Alan Howard",
+      "Noel Appleby",
+      "Sean Astin",
+      "Sala Baker"
+    ],
+    "awards": "Won 4 Oscars. Another 115 wins & 124 nominations.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_SX300.jpg",
+    "imdb_rating": "8.8",
+    "type": "movie",
+    "box_office": null,
+    "updated": "2020-05-21T10:24:42.241Z"
   }
 ]
