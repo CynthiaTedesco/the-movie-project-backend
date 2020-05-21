@@ -23,14 +23,14 @@ const allWriters = async (req, res) => {
 
 const allCharacters = async (req, res) => {
   const ids = await models.movies_characters.findAll({
-    attributes: ['id'],
+    attributes: ['person_id'],
     raw: true,
   })
   models.person
     .findAll({
       where: {
         id: {
-          [Op.in]: ids.map((a) => a.id),
+          [Op.in]: ids.map((a) => a.person_id),
         },
       },
     })
