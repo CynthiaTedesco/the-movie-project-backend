@@ -19,6 +19,7 @@ const {
   deleteMovie,
   updateMovieEndpoint,
   autoUpdateMovie,
+  autoUpdateAll,
   deleteAllRepeatedAssociations,
   updateRevenues,
   bulkUpdate
@@ -121,6 +122,7 @@ app.get('/api/movies/:id', fullMovie)
 app.delete('/api/movies/:id', deleteMovie)
 app.post('/api/movies/:id/update', updateMovieEndpoint)
 app.post('/api/movies/autoUpdate', autoUpdateMovie)
+app.post('/api/movies/autoUpdateAll', autoUpdateAll)
 app.post('api/movies/updateRevenues', updateRevenues)
 app.post('/api/people/updateDetails', updatePeopleDetailsEndpoint)
 app.post('/api/movies/bulkUpdate', bulkUpdate)
