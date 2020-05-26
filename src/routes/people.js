@@ -5,7 +5,7 @@ const { processPeople } = require('../services/themoviedb')
 
 const allWriters = async (req, res) => {
   const ids = await models.movies_writers.findAll({
-    attributes: ['id'],
+    attributes: ['person_id'],
     raw: true,
   })
 
@@ -13,7 +13,7 @@ const allWriters = async (req, res) => {
     .findAll({
       where: {
         id: {
-          [Op.in]: ids.map((a) => a.id),
+          [Op.in]: ids.map((a) => a.person_id),
         },
       },
     })
@@ -47,14 +47,14 @@ const allCharacterTypes = (req, res) => {
 
 const allDirectors = async (req, res) => {
   const ids = await models['movies_directors'].findAll({
-    attributes: ['id'],
+    attributes: ['person_id'],
     raw: true,
   })
   models.person
     .findAll({
       where: {
         id: {
-          [Op.in]: ids.map((a) => a.id),
+          [Op.in]: ids.map((a) => a.person_id),
         },
       },
     })
