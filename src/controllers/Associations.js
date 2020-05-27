@@ -84,6 +84,10 @@ async function updateGenres(movie, list) {
   await deleteRepeatedAssociations("genre_id", "movies_genres", movie.id);
   updateAssociations(movie, list, "genre_id", "movies_genres");
 }
+async function updateProducers(movie, list){
+  await deleteRepeatedAssociations("producer_id", "movies_producers", movie.id);
+  updateAssociations(movie, list, "producer_id", "movies_producers");
+}
 async function updateWriters(movie, list) {
   await deleteRepeatedAssociations(
     "person_id",
@@ -354,6 +358,7 @@ module.exports = {
   updateDirectors,
   updateRestrictions,
   updateWriters,
+  updateProducers,
   deleteRepeatedAssociations,
   deleteOrphans,
 };

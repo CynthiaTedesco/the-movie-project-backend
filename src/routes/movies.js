@@ -2,6 +2,7 @@ const models = require("../../models");
 const {
   updateGenres,
   updateRestrictions,
+  updateProducers,
   updateCharacters,
   updateDirectors,
   updateWriters,
@@ -499,11 +500,11 @@ const autoUpdateMovieFn = async (id) => {
   const movie_fromAPIS = await fetchFullMovieFromAPIS(id);
   const movie_fromDB = await fetchFullMovieFromDB(id);
   const updatedFields = getMergedMovie(
-    movie_fromDB,
-    movie_fromAPIS,
-    "db",
-    "api"
-  );
+      movie_fromDB,
+      movie_fromAPIS,
+      "db",
+      "api"
+    );
   if (updatedFields && Object.keys(updatedFields).length) {
     await updateMovie(
       { imdb_id: movie_fromDB.imdb_id },

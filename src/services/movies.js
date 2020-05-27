@@ -76,6 +76,7 @@ async function fetchFullMovieFromAPIS(id) {
     movie.awards = omdb_.Awards
     movie.poster = omdb_.Poster
     movie.imdb_rating = omdb_.imdbRating
+    movie.country = omdb_.Country,
     movie.type = omdb_.Type
     movie.box_office =
     omdb_.BoxOffice !== 'N/A' ? getNumber(omdb_.BoxOffice) : ''
