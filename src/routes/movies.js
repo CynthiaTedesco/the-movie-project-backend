@@ -518,9 +518,9 @@ const autoUpdateMovieFn = async (id) => {
   }
 };
 const autoUpdateAll = async (req, res) => {
-  models.movie.findAll({ attributes: ["id"], raw: true }).then(async (movies) => {
+  return models.movie.findAll({ attributes: ["imdb_id"], raw: true }).then(async (movies) => {
     await Promise.all(movies.map(movie=>{
-      const id = {id: movie.id};
+      const id = {imdb_id: movie.imdb_id};
       return autoUpdateMovieFn(id);
     }))
 
@@ -528,7 +528,6 @@ const autoUpdateAll = async (req, res) => {
         .status(200)
         .send({ message: "Successful autoupdate" });
   });
-  res.status(200);
 };
 const autoUpdateMovie = (req, res) => {
   const id = req.body.tmdb_id

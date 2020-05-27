@@ -232,7 +232,7 @@ function getMergedMovie(old, newm, origin, target = "db", updates = {}) {
                 //for languages
                 if (a.dataValues.code && u.name) {
                   return (
-                    a.dataValues.code.toLowercase() === u.name.toLowercase()
+                    a.dataValues.code.toLowerCase() === u.name.toLowerCase()
                   );
                 } else {
                   return false;
