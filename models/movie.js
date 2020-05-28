@@ -57,6 +57,7 @@ module.exports = (sequelize, DataTypes) => {
       country: DataTypes.STRING,
       deletedAt: DataTypes.DATE,
       tmdb_id: DataTypes.INTEGER,
+      subtitles: DataTypes.BLOB
     },
     {}
   )
