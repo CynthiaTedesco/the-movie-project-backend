@@ -57,7 +57,13 @@ module.exports = (sequelize, DataTypes) => {
       country: DataTypes.STRING,
       deletedAt: DataTypes.DATE,
       tmdb_id: DataTypes.INTEGER,
-      subtitles: DataTypes.BLOB
+      subtitles: {
+        type: DataTypes.BLOB,
+        get() {
+          return this.getDataValue('subtitles') ? this.getDataValue('subtitles').toString('utf8') : '';
+          // or whatever encoding is right
+        },
+      }
     },
     {}
   )
