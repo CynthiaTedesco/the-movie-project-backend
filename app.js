@@ -45,6 +45,7 @@ const { allOrigins } = require("./src/routes/origins");
 const { allCinematographies } = require("./src/routes/cinematographies");
 const { allUniverses } = require("./src/routes/universes");
 const { allSeries } = require("./src/routes/series");
+const { allDistributionCompanies } = require('./src/routes/distribution_companies');
 const { uploadSubs } = require("./src/routes/subs");
 const {
   allRestrictions,
@@ -95,6 +96,8 @@ app.get("/api/origins", allOrigins);
 app.get("/api/cinematographies", allCinematographies);
 //series
 app.get("/api/series", allSeries);
+//distribution companies
+app.get("/api/distribution_companies", allDistributionCompanies);
 //universes
 app.get("/api/universes", allUniverses);
 // //times
