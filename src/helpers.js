@@ -278,7 +278,28 @@ function getMergedMovie(old, newm, origin, target = "db", updates = {}) {
 function getNumber(string) {
   return parseFloat(string.replace("$", "").replace(/,/g, ""));
 }
+
+const movie_fields = [
+  "id",
+  "title",
+  "universe_id",
+  "distribution_company_id",
+  "serie_id",
+  "release_date",
+  "budget",
+  "revenue",
+  "imdb_id",
+  "title",
+  "length",
+  "overview",
+  "word_count",
+  "valid",
+  "country",
+  "poster_id",
+];
+
 module.exports = {
+  movie_fields,
   getMergedMovie,
   getNumber,
 };

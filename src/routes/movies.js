@@ -14,7 +14,7 @@ const { updateCinematography } = require("../controllers/Cinematography");
 const { updateUniverse } = require("../controllers/Universe");
 const { updateStoryOrigin } = require("../controllers/StoryOrigin");
 const { fetchFullMovieFromAPIS, updateJSON } = require("../services/movies");
-const { getMergedMovie } = require("../helpers");
+const { getMergedMovie, movie_fields } = require("../helpers");
 const { updatePeopleDetails } = require("../routes/people");
 
 const bulkUpdate = async function(req, res) {
@@ -56,11 +56,10 @@ const fetchFullMovieFromDB = async (where) => {
       { model: models.universe, as: "universe" },
       { model: models.cinematography, as: "cinematography" },
       { model: models.serie, as: "serie" },
+      { model: models.distribution_company, as: "distribution_company" },
       { model: models.story_origin, as: "story_origin" },
-      { model: models.movie_type, as: "type" },
-      { model: models.place, as: "set_in_place" },
-      { model: models.time, as: "set_in_time" },
     ],
+    attributes: movie_fields
   });
 
   const id = movie.id;
@@ -267,14 +266,21 @@ const allMovies = (req, res) => {
   models.movie
     .findAll({
       include: [
-        { model: models.poster, as: "poster" },
+        {
+          model: models.poster,
+          as: "poster",
+          include: [{
+            model: models.poster_type,
+            as: 'poster_type',
+          }]
+        },
         { model: models.universe, as: "universe" },
         { model: models.cinematography, as: "cinematography" },
         { model: models.serie, as: "serie" },
-        { model: models.time, as: "set_in_time" },
-        { model: models.place, as: "set_in_place" },
+        { model: models.distribution_company, as: "distribution_company" },
         { model: models.story_origin, as: "story_origin" },
       ],
+      attributes: movie_fields
     })
     .then((movies) => res.status(200).send(movies))
     .catch(console.log);
