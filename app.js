@@ -27,7 +27,7 @@ const {
 const { deleteOrphans } = require("./src/controllers/Associations");
 const { allGenres, allMoviesGenres } = require("./src/routes/genres");
 const { allLanguages, allMoviesLanguages } = require("./src/routes/languages");
-const { allProducers, allMoviesProducers } = require("./src/routes/producers");
+const { allProducers, allMoviesProducers, allProductionCountries } = require("./src/routes/producers");
 // const { allMovieTypes } = require('./src/routes/movieTypes')
 const { allPosterTypes } = require("./src/routes/poster");
 const {
@@ -45,7 +45,9 @@ const { allOrigins } = require("./src/routes/origins");
 const { allCinematographies } = require("./src/routes/cinematographies");
 const { allUniverses } = require("./src/routes/universes");
 const { allSeries } = require("./src/routes/series");
-const { allDistributionCompanies } = require('./src/routes/distribution_companies');
+const {
+  allDistributionCompanies,
+} = require("./src/routes/distribution_companies");
 const { uploadSubs } = require("./src/routes/subs");
 const {
   allRestrictions,
@@ -87,6 +89,7 @@ app.get("/api/movies-directors", allMoviesDirectors);
 // //producers
 // app.get('/api/producers', allProducers)
 app.get("/api/producers", allProducers);
+app.get("/api/production_countries", allProductionCountries);
 app.get("/api/movies-producers", allMoviesProducers);
 //origins
 app.get("/api/origins", allOrigins);

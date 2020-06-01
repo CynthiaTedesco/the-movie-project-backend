@@ -1,4 +1,6 @@
 const models = require("../../models");
+const Sequelize = require("sequelize");
+const Op = Sequelize.Op;
 
 const allProducers = (req, res) => {
   models.producer
@@ -14,7 +16,27 @@ const allMoviesProducers = (req, res) => {
     .catch(console.log);
 };
 
+const allProductionCountries = (req, res) => {
+  models.producer
+    .findAll({
+      attributes: [
+        [
+          models.sequelize.fn("DISTINCT", models.sequelize.col("country")),
+          "country",
+        ],
+      ],
+      where: {
+        country: {
+          [Op.not]: null,
+          [Op.not]: "",
+        },
+      },
+    })
+    .then((results) => res.status(200).send(results))
+    .catch(console.log);
+};
 module.exports = {
   allProducers,
   allMoviesProducers,
+  allProductionCountries,
 };
