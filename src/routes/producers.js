@@ -22,7 +22,7 @@ const allProductionCountries = (req, res) => {
       attributes: [
         [
           models.sequelize.fn("DISTINCT", models.sequelize.col("country")),
-          "country",
+          "name",
         ],
       ],
       where: {
