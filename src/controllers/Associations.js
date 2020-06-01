@@ -84,9 +84,11 @@ async function updateGenres(movie, list) {
   await deleteRepeatedAssociations("genre_id", "movies_genres", movie.id);
   updateAssociations(movie, list, "genre_id", "movies_genres");
 }
-async function updateProducers(movie, list){
+async function updateProducers(movie, list) {
   await deleteRepeatedAssociations("producer_id", "movies_producers", movie.id);
   updateAssociations(movie, list, "producer_id", "movies_producers");
+
+  updateProducer(movie, list);
 }
 async function updateWriters(movie, list) {
   await deleteRepeatedAssociations(
@@ -137,6 +139,47 @@ async function updateCharacters(movie, list) {
     "characters"
   );
   updatePeople(movie, list);
+}
+async function updateProducer(movie, list) {
+  const currentAssoc = await models["movies_producers"].findAll({
+    where: { movie_id: movie.id },
+    attributes: ["id", "producer_id", "movie_id"],
+    raw: true,
+  });
+
+  const currentProducers = await models.producer.findAll({
+    where: {
+      id: {
+        [Op.in]: currentAssoc.map((ca) => ca.producer_id),
+      },
+    },
+    attributes: ["id", "name", "country"],
+  });
+
+  currentProducers.forEach((currentProducerRecord) => {
+    const currentProducer = currentProducerRecord.dataValues;
+
+    const updatedProducer = list.find((item) => {
+      return parseInt(item.id) === parseInt(currentProducer.id);
+    });
+
+    if (updatedProducer) {
+      let isUpdated = false;
+
+      if (currentProducer.name != updatedProducer.name) {
+        currentProducerRecord.name = updatedProducer.name;
+        isUpdated = true;
+      }
+
+      if (currentProducer.country != updatedProducer.country) {
+        currentProducerRecord.country = updatedProducer.country;
+        isUpdated = true;
+      }
+      if (isUpdated) {
+        return currentProducerRecord.save();
+      }
+    }
+  });
 }
 
 async function updatePeople(movie, list) {
