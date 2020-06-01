@@ -11,6 +11,9 @@ const {
 const { updatePoster } = require("../controllers/Poster");
 const { updateSerie } = require("../controllers/Serie");
 const { updateCinematography } = require("../controllers/Cinematography");
+const {
+  updateDistibutionCompany,
+} = require("../controllers/DistributionCompany");
 const { updateUniverse } = require("../controllers/Universe");
 const { updateStoryOrigin } = require("../controllers/StoryOrigin");
 const { fetchFullMovieFromAPIS, updateJSON } = require("../services/movies");
@@ -59,7 +62,7 @@ const fetchFullMovieFromDB = async (where) => {
       { model: models.distribution_company, as: "distribution_company" },
       { model: models.story_origin, as: "story_origin" },
     ],
-    attributes: movie_fields
+    attributes: movie_fields,
   });
 
   const id = movie.id;
@@ -269,10 +272,12 @@ const allMovies = (req, res) => {
         {
           model: models.poster,
           as: "poster",
-          include: [{
-            model: models.poster_type,
-            as: 'poster_type',
-          }]
+          include: [
+            {
+              model: models.poster_type,
+              as: "poster_type",
+            },
+          ],
         },
         { model: models.universe, as: "universe" },
         { model: models.cinematography, as: "cinematography" },
@@ -280,7 +285,7 @@ const allMovies = (req, res) => {
         { model: models.distribution_company, as: "distribution_company" },
         { model: models.story_origin, as: "story_origin" },
       ],
-      attributes: movie_fields
+      attributes: movie_fields,
     })
     .then((movies) => res.status(200).send(movies))
     .catch(console.log);
@@ -399,7 +404,7 @@ const updateLists = async (movie, updates) => {
     await updateCharacters(movie.dataValues, updates.characters);
   }
   if (updates.directors) {
-    console.log('----------- UPDATE DIRECTORS');
+    console.log("----------- UPDATE DIRECTORS");
     await updateDirectors(movie.dataValues, updates.directors);
   }
   if (updates.writers) {
@@ -444,6 +449,7 @@ const asyncSwitch = (movie, updates) => {
     { attr: "story_origin", fn: updateStoryOrigin },
     { attr: "universe", fn: updateUniverse },
     { attr: "cinematography", fn: updateCinematography },
+    { attr: "distibution_company", fn: updateDistibutionCompany },
     { attr: "serie", fn: updateSerie },
   ];
 
@@ -506,11 +512,11 @@ const autoUpdateMovieFn = async (id) => {
   const movie_fromAPIS = await fetchFullMovieFromAPIS(id);
   const movie_fromDB = await fetchFullMovieFromDB(id);
   const updatedFields = getMergedMovie(
-      movie_fromDB,
-      movie_fromAPIS,
-      "db",
-      "api"
-    );
+    movie_fromDB,
+    movie_fromAPIS,
+    "db",
+    "api"
+  );
   if (updatedFields && Object.keys(updatedFields).length) {
     await updateMovie(
       { imdb_id: movie_fromDB.imdb_id },
@@ -524,16 +530,18 @@ const autoUpdateMovieFn = async (id) => {
   }
 };
 const autoUpdateAll = async (req, res) => {
-  return models.movie.findAll({ attributes: ["imdb_id"], raw: true }).then(async (movies) => {
-    await Promise.all(movies.map(movie=>{
-      const id = {imdb_id: movie.imdb_id};
-      return autoUpdateMovieFn(id);
-    }))
+  return models.movie
+    .findAll({ attributes: ["imdb_id"], raw: true })
+    .then(async (movies) => {
+      await Promise.all(
+        movies.map((movie) => {
+          const id = { imdb_id: movie.imdb_id };
+          return autoUpdateMovieFn(id);
+        })
+      );
 
-    res
-        .status(200)
-        .send({ message: "Successful autoupdate" });
-  });
+      res.status(200).send({ message: "Successful autoupdate" });
+    });
 };
 const autoUpdateMovie = (req, res) => {
   const id = req.body.tmdb_id
