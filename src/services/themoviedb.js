@@ -128,7 +128,7 @@ theMovieDb.common = {
   },
 }
 
-const THE_MOVIE_DB_X_RATE = 40 //TODO check the new themoviedb's no-limit policy :)
+const THE_MOVIE_DB_X_RATE = 50 //TODO remove this! themoviedb api has changed their no-limit policy :)
 const THE_MOVIE_DB_X_RATE_TIMEOUT = 12 * 1000
 
 function markUnlikelyMovies(initial) {
@@ -155,9 +155,8 @@ async function getMoviesDetails(blockbusters) {
     const chunks = getChunks(blockbusters)
 
     let results = []
-    return new Promise((resolve) => {
+    return new Promise(async (resolve) => {
       for (let i = 0; i < chunks.length; i++) {
-        setTimeout(async () => {
           const chunk = chunks[i]
 
           const chunkMoviesPromises = chunk.map((movie) => {
@@ -169,7 +168,7 @@ async function getMoviesDetails(blockbusters) {
           if (i === chunks.length - 1) {
             resolve(results)
           }
-        }, (i + 1) * THE_MOVIE_DB_X_RATE_TIMEOUT)
+
       }
     })
   } else {
@@ -353,9 +352,8 @@ function processPeople(list) {
   const chunks = getChunks(list)
 
   let results = []
-  return new Promise((resolve) => {
+  return new Promise(async (resolve) => {
     for (let i = 0; i < chunks.length; i++) {
-      setTimeout(async () => {
         const chunk = chunks[i]
 
         const chunkPeopleSearchPromises = chunk.map((person) => {
@@ -382,7 +380,7 @@ function processPeople(list) {
         if (i === chunks.length - 1) {
           resolve(results)
         }
-      }, (i + 1) * THE_MOVIE_DB_X_RATE_TIMEOUT)
+
     }
   })
 }
@@ -391,5 +389,6 @@ module.exports = {
   processPeople,
   getMovieDetails,
   getMovieDetails_byImdbId,
+  discoverMovies,
   data,
 }

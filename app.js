@@ -15,7 +15,6 @@ const {
   movieLanguages,
   movieProducers,
   movieRestrictions,
-  movieWriters,
   deleteMovie,
   updateMovieEndpoint,
   autoUpdateMovie,
@@ -31,7 +30,6 @@ const { allProducers, allMoviesProducers, allProductionCountries } = require("./
 // const { allMovieTypes } = require('./src/routes/movieTypes')
 const { allPosterTypes } = require("./src/routes/poster");
 const {
-  allWriters,
   allDirectors,
   allMoviesDirectors,
   allCharacters,
@@ -80,21 +78,17 @@ app.get("/", (req, res) => {
 app.get("/api/genres", allGenres);
 app.get("/api/movies-genres", allMoviesGenres);
 //people
-app.get("/api/writers", allWriters);
 app.get("/api/characters", allCharacters);
 app.get("/api/movies-characters", allMoviesCharacters);
 app.get("/api/character_types", allCharacterTypes);
 app.get("/api/directors", allDirectors);
 app.get("/api/movies-directors", allMoviesDirectors);
-// //producers
-// app.get('/api/producers', allProducers)
+// producers
 app.get("/api/producers", allProducers);
 app.get("/api/production_countries", allProductionCountries);
 app.get("/api/movies-producers", allMoviesProducers);
 //origins
 app.get("/api/origins", allOrigins);
-// //places
-// app.get('/api/places', allPlaces)
 //cinematographies
 app.get("/api/cinematographies", allCinematographies);
 //series
@@ -103,13 +97,9 @@ app.get("/api/series", allSeries);
 app.get("/api/distribution_companies", allDistributionCompanies);
 //universes
 app.get("/api/universes", allUniverses);
-// //times
-// app.get('/api/times', allTimes)
 //languages
 app.get("/api/languages", allLanguages);
 app.get("/api/movies-languages", allMoviesLanguages);
-// //movie types
-// app.get('/api/movie_types', allMovieTypes)
 //poster types
 app.get("/api/poster_types", allPosterTypes);
 //restrictions
@@ -121,7 +111,6 @@ app.get("/api/movies", allMovies);
 app.get("/api/movies/:id/genres", movieGenres);
 app.get("/api/movies/:id/characters", movieCharacters);
 app.get("/api/movies/:id/directors", movieDirectors);
-app.get("/api/movies/:id/writers", movieWriters);
 app.get("/api/movies/:id/restrictions", movieRestrictions);
 app.get("/api/movies/:id/languages", movieLanguages);
 app.get("/api/movies/:id/producers", movieProducers);
@@ -135,7 +124,8 @@ app.delete("/api/movies/:id", deleteMovie);
 app.post("/api/movies/:id/update", updateMovieEndpoint);
 app.post("/api/movies/autoUpdate", autoUpdateMovie);
 app.post("/api/movies/autoUpdateAll", autoUpdateAll);
-app.post("api/movies/updateRevenues", updateRevenues);
+app.post("/api/movies/updateRevenues", updateRevenues);
+
 app.post("/api/people/updateDetails", updatePeopleDetailsEndpoint);
 app.post("/api/movies/bulkUpdate", bulkUpdate);
 

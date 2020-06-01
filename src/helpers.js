@@ -299,8 +299,50 @@ const movie_fields = [
   "deletedAt"
 ];
 
+function updateJSON(newMovie, dataFromAPIS, updates) {
+  //TODO FIX: it breaks when autoUpdateAll --> origin:json, poster is string
+  // console.log('UPDATE JSON', 'updates', updates);
+  // const oldFileContent = fs.readFileSync('movies.json')
+  // let jsonMovies = JSON.parse(oldFileContent)
+  // let merged
+  // let updatedFields
+  // const oldMovie = jsonMovies.find((jm) => jm.imdb_id === newMovie.imdb_id)
+  // if (oldMovie) {
+  //   //remove it
+  //   jsonMovies = jsonMovies.filter((jm) => jm.imdb_id !== newMovie.imdb_id)
+  //   //update it
+  //   if (dataFromAPIS) {
+  //     getMergedMovie(newMovie, dataFromAPIS, 'db', 'api', updates)
+  //   }
+  //   updatedFields = getMergedMovie(oldMovie, newMovie, 'json', 'db', updates)
+  //   // console.log('~~~~~~~~~~~~~~~~` MERGED', oldMovie.subsFileName)
+  //   //re add it
+  //   jsonMovies.push(oldMovie)
+  // }
+  // if (
+  //   updatedFields &&
+  //   Object.keys(updatedFields).length
+  //   //JSON.stringify(merged) != JSON.stringify(oldMovie)
+  // ) {
+  //   //save to file
+  //   try {
+  //     const newFileContent = JSON.stringify(jsonMovies, null, 2)
+  //     fs.writeFileSync('movies.json', newFileContent, () => {
+  //       console.log('movies.json has been succesfuly updated!')
+  //     })
+  //     return true
+  //   } catch (e) {
+  //     console.log('error while saving the file!!!!!!')
+  //     return false
+  //   }
+  // } else {
+  //   return false
+  // }
+}
+
 module.exports = {
   movie_fields,
   getMergedMovie,
   getNumber,
+  updateJSON
 };
