@@ -378,7 +378,7 @@ const updateMovie = (where, updates, dataFromAPIS) => {
 
         const updatedMovieFromDB = await fetchFullMovieFromDB({ id: movie.id });
 
-        await updatePeopleDetails(updatedMovieFromDB);
+        updatePeopleDetails(updatedMovieFromDB);
         updateJSON(updatedMovieFromDB, dataFromAPIS, updates);
         return updatedMovieFromDB;
       } else {
