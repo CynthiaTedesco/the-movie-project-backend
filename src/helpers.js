@@ -296,6 +296,7 @@ const movie_fields = [
   "valid",
   "country",
   "poster_id",
+  "deletedAt"
 ];
 
 module.exports = {
