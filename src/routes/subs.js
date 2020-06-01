@@ -1,7 +1,7 @@
 const multer = require("multer");
 const storage = multer.memoryStorage();
 const upload = multer({ storage: storage });
-const parseSRT = require("parse-srt");
+const subsrt = require("subsrt");
 const models = require('../../models')
 const {processSubtitles} = require('../subs');
 
@@ -24,12 +24,12 @@ const uploadSubs = async (req, res) => {
       .then(() => {
         models.movie
           .findOne({
-            where: { id: req.body.movieId }
-            // attributes: ["id", "title", "subtitles"],
+            where: { id: req.body.movieId },
+            attributes: ["id", "title", "subtitles"],
           })
           .then(async (movie) => {
             const buffer = movie.dataValues.subtitles;
-            const updated = processSubtitles(movie, parseSRT(buffer.toString()));
+            const updated = processSubtitles(movie, subsrt.parse(buffer.toString(), {}));
 
             await updated.save();
             return res.status(200).send({message: 'success', updated})
