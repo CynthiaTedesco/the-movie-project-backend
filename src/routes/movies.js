@@ -12,7 +12,7 @@ const { updatePoster } = require("../controllers/Poster");
 const { updateSerie } = require("../controllers/Serie");
 const { updateCinematography } = require("../controllers/Cinematography");
 const {
-  updateDistibutionCompany,
+  updateDistributionCompany,
 } = require("../controllers/DistributionCompany");
 const { updateUniverse } = require("../controllers/Universe");
 const { updateStoryOrigin } = require("../controllers/StoryOrigin");
@@ -383,7 +383,7 @@ const updateMovie = (where, updates, dataFromAPIS) => {
 
         const updatedMovieFromDB = await fetchFullMovieFromDB({ id: movie.id });
 
-        updatePeopleDetails(updatedMovieFromDB);
+        // updatePeopleDetails(updatedMovieFromDB);
         updateJSON(updatedMovieFromDB, dataFromAPIS, updates);
         return updatedMovieFromDB;
       } else {
@@ -449,7 +449,7 @@ const asyncSwitch = (movie, updates) => {
     { attr: "story_origin", fn: updateStoryOrigin },
     { attr: "universe", fn: updateUniverse },
     { attr: "cinematography", fn: updateCinematography },
-    { attr: "distibution_company", fn: updateDistibutionCompany },
+    { attr: "distribution_company", fn: updateDistributionCompany },
     { attr: "serie", fn: updateSerie },
   ];
 
@@ -460,7 +460,7 @@ const asyncSwitch = (movie, updates) => {
         if (entry[0] === "poster") {
           //TODO check what happens when we delete the poster
           const poster = await updatePoster(movie, updates.poster);
-          if (updates.poster.new && poster.id) {
+          if (poster.id) {
             movie.poster_id = poster.id;
             updated = true;
           }
