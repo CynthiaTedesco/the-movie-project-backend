@@ -1,22 +1,22 @@
 // const models = require('./models');
-import Sequelize from "sequelize";
-import MovieModel from "../models/movie";
-import GenreModel from "../models/genre";
-import LanguageModel from "../models/language";
-import ProducerModel from "../models/producer";
-import RestrictionModel from "../models/restriction";
-import PosterModel from "../models/poster";
-import MovieTypeModel from "../models/movie_type";
-import StoryOriginModel from "../models/story_origin";
-import PersonModel from "../models/person";
+const Sequelize = require("sequelize");
+const MovieModel = require("../models/movie");
+const GenreModel = require("../models/genre");
+const LanguageModel = require("../models/language");
+const ProducerModel = require("../models/producer");
+const RestrictionModel = require("../models/restriction");
+const PosterModel = require("../models/poster");
+const MovieTypeModel = require("../models/movie_type");
+const StoryOriginModel = require("../models/story_origin");
+const PersonModel = require("../models/person");
 
-import MovieGenreModel from "../models/movies_genres";
-import MovieLanguageModel from "../models/movies_languages";
-import MovieProducerModel from "../models/movies_producers";
-import MovieRestrictionModel from "../models/movies_restrictions";
-import MovieWriterModel from "../models/movies_writers";
-import MovieCharacterModel from "../models/movies_characters";
-import MovieDirectorModel from "../models/movies_directors";
+const MovieGenreModel = require("../models/movies_genres");
+const MovieLanguageModel = require("../models/movies_languages");
+const MovieProducerModel = require("../models/movies_producers");
+const MovieRestrictionModel = require("../models/movies_restrictions");
+const MovieWriterModel = require("../models/movies_writers");
+const MovieCharacterModel = require("../models/movies_characters");
+const MovieDirectorModel = require("../models/movies_directors");
 
 const Op = Sequelize.Op;
 
