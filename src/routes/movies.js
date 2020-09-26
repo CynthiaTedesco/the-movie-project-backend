@@ -195,6 +195,8 @@ const autoUpdateAll = async (req, res) => {
       );
 
       res.status(200).send({ message: "Successful autoupdate" });
+    }).error(e=>{
+      res.status(500).send({ message: "Error while trying autoUpdateAll", e });
     });
 };
 const autoUpdateMovie = (req, res) => {
@@ -203,6 +205,7 @@ const autoUpdateMovie = (req, res) => {
     : { imdb_id: req.body.imdb_id };
 
   autoUpdateMovieFn(id).then(({ updated, movie_fromAPIS }) => {
+
     if (updated) {
       res
         .status(200)

@@ -120,7 +120,6 @@ async function updateRestrictions(movie, list) {
   );
 
   updateAssociations(movie, list, "restriction_id", "movies_restrictions");
-  updatePeople(movie, list);
 }
 
 async function updateCharacters(movie, list) {
@@ -305,7 +304,7 @@ async function updateAssociations(movie, list, itemKey, assocTable, people) {
   console.log("--- toDelete", toDelete);
 
   const toUpdate = [];
-  current.map((assoc) => {
+  current.map((assoc, index, array) => {
     const updated = list.find((item) => item.id == assoc[itemKey]);
     if (updated) {
       if (people === "characters") {
@@ -329,15 +328,15 @@ async function updateAssociations(movie, list, itemKey, assocTable, people) {
           }
         }
       } else {
-        if (updated[assocTable].primary !== assoc.primary) {
-          //check if it has been already added
+        if (updated[assocTable].primary !== assoc.primary || array.length === 1) {
+          //check if it has been already added to the upcoming updates list
           const alreadyAdded =
             toUpdate.findIndex((tu) => tu[itemKey] === assoc[itemKey]) != -1;
           if (!alreadyAdded) {
             toUpdate.push({
               id: assoc.id,
               key: assoc[itemKey],
-              primary: updated[assocTable].primary,
+              primary: updated[assocTable].primary || array.length === 1, //if there is only one element we assume it is the primary
             });
           }
         }

@@ -109,26 +109,11 @@ function getMergedMovie(old, newm, origin, target = "db", updates = {}) {
               updatedFields[attr] = updates[attr];
             }
           } else {
-            // if (!old.dataValues[attr]) {
-            //   const alternativeAttr = `${attr}_id`
-            //   console.log(
-            //     'ALGO UNDEFINED',
-            //     attr,
-            //     old.dataValues,
-            //     alternativeAttr
-            //   )
-            //   if (old.dataValues[alternativeAttr] && newm[attr]) {
-            //     if (old.dataValues[alternativeAttr] !== newm[attr].id) {
-            //       console.log('HA CAMBIADO')
-            //     }
-            //   }
-            // } else {
             if (old.dataValues[attr].dataValues[inner] !== newm[attr]) {
               updatedFields[attr] = {};
               updatedFields[attr]["id"] = old.dataValues[attr].dataValues["id"];
               updatedFields[attr][inner] = newm[attr];
             }
-            // }
           }
         } else {
           console.log(`${attr}_id is null`);
@@ -225,49 +210,78 @@ function getMergedMovie(old, newm, origin, target = "db", updates = {}) {
               break;
             }
           }
-          toMap.map((u) => {
-            const isPresent = dbAttrList.find((a) => {
-              //TODO split u into name and details when processing writers
-              const isCode = () => {
-                //for languages
-                if (a.dataValues.code && u.name) {
-                  return (
-                    a.dataValues.code.toLowerCase() === u.name.toLowerCase()
-                  );
-                } else {
-                  return false;
-                }
-              };
-              if (a.dataValues && (a.dataValues.name === u.name || isCode())) {
-                return true;
-              }
-              return false;
-            });
-            if (!isPresent) {
-              if (!updatedFields[old_attr_name]) {
-                updatedFields[old_attr_name] = [];
-              }
-              let toPush = {
-                name: u.name,
-              };
-              if (u.country) {
-                toPush.country = u.country;
-              }
-              updatedFields[old_attr_name].push(toPush);
-            } else {
-              if (old_attr_name === "producers") {
-                if (isPresent.dataValues.country !== u.country) {
-                  if (!updatedFields[old_attr_name]) {
-                    updatedFields[old_attr_name] = [];
+
+          const assocTable = `movies_${old_attr_name}`;
+          if (old_attr_name === "producers") {
+            toMap.map((u) => {
+              const isPresent = dbAttrList.find((a) => {
+                //TODO split u into name and details when processing writers
+                const isCode = () => {
+                  //for languages
+                  if (a.dataValues.code && u.name) {
+                    return (
+                      a.dataValues.code.toLowerCase() === u.name.toLowerCase()
+                    );
+                  } else {
+                    return false;
                   }
-                  updatedFields[old_attr_name].push({
-                    name: u.name,
-                    country: u.country,
-                  });
+                };
+                if (
+                  a.dataValues &&
+                  (a.dataValues.name === u.name || isCode())
+                ) {
+                  return true;
+                }
+                return false;
+              });
+              if (isPresent) {
+                if (!updatedFields[old_attr_name]) {
+                  updatedFields[old_attr_name] = [];
+                }
+
+                let toPush = {
+                  name: u.name,
+                }
+
+                if(isPresent.dataValues.country !== u.country){
+                  toPush.country = u.country || isPresent.dataValues.country;
+                }
+
+                if(isPresent.dataValues[assocTable].dataValues.primary){
+                  toPush[assocTable] = {primary:true};
+                }
+                updatedFields[old_attr_name].push(toPush);
+              }
+            });
+          } else {
+            // If there is a primary item from DB it means that has been added manually. We need to keep it
+
+            //update with data added manually (if already in db)
+            toMap = toMap.map((item)=>{
+              const fromDB = old.dataValues[old_attr_name].find(
+                ({ dataValues }) => dataValues.name === item.name
+              );
+              if(fromDB){
+                if(fromDB.dataValues.date_of_birth){
+                  item.date_of_birth = fromDB.dataValues.date_of_birth;
+                }
+                if(fromDB.dataValues.gender){
+                  item.gender = fromDB.dataValues.gender;
+                }
+
+                if(fromDB.dataValues[assocTable].main){
+                  item[assocTable] = {main: true};
+                }
+                if(fromDB.dataValues[assocTable].primary){
+                  item[assocTable] = {primary: true};
                 }
               }
-            }
-          });
+
+              return item;
+            });
+
+            updatedFields[old_attr_name] = toMap;
+          }
         }
       }
     }
@@ -296,7 +310,8 @@ const movie_fields = [
   "valid",
   "country",
   "poster_id",
-  "deletedAt"
+  "deletedAt",
+  "website",
 ];
 
 function updateJSON(newMovie, dataFromAPIS, updates) {
@@ -344,5 +359,5 @@ module.exports = {
   movie_fields,
   getMergedMovie,
   getNumber,
-  updateJSON
+  updateJSON,
 };

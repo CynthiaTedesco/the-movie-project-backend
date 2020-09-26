@@ -188,13 +188,16 @@ const updateMovie = (where, updates, dataFromAPIS) => {
 async function autoUpdateMovieFn(id) {
   const movie_fromAPIS = await fetchFullMovieFromAPIS(id);
   const movie_fromDB = await fetchFullMovieFromDB(id);
+
   const updatedFields = getMergedMovie(
     movie_fromDB,
     movie_fromAPIS,
     "db",
     "api"
   );
+
   if (updatedFields && Object.keys(updatedFields).length) {
+
     await updateMovie(
       { imdb_id: movie_fromDB.imdb_id },
       updatedFields,
