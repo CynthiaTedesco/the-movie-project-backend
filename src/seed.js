@@ -20,7 +20,7 @@ const MovieDirectorModel = require("../models/movies_directors");
 
 const Op = Sequelize.Op;
 
-export default async function populate(list, db) {
+module.exports = async function populate(list, db) {
   console.log("populating data. with e.g. ----> ", list[0].title);
 
   const Movie = MovieModel(db, Sequelize);
