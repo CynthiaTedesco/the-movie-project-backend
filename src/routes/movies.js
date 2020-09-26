@@ -31,14 +31,14 @@ const bulkUpdate = async function(req, res) {
 
 const toggleValidity = async function(req, res) {
   await models["movie"]
-    .update(
-      { valid: models.sequelize.literal("NOT valid") },
-      {
-        where: {
-          id: req.params.id,
-        },
-      }
-    )
+    .findOne({
+      where: { id: req.params.id },
+    })
+    .then((movie) => {
+      const wasValid = movie.valid;
+      movie.valid = wasValid === null ? true : !wasValid;
+      movie.save();
+    })
     .then(() => res.status(200).send("success"))
     .catch((err) => {
       console.log(err);
@@ -195,7 +195,8 @@ const autoUpdateAll = async (req, res) => {
       );
 
       res.status(200).send({ message: "Successful autoupdate" });
-    }).error(e=>{
+    })
+    .error((e) => {
       res.status(500).send({ message: "Error while trying autoUpdateAll", e });
     });
 };
@@ -205,7 +206,6 @@ const autoUpdateMovie = (req, res) => {
     : { imdb_id: req.body.imdb_id };
 
   autoUpdateMovieFn(id).then(({ updated, movie_fromAPIS }) => {
-
     if (updated) {
       res
         .status(200)
