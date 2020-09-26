@@ -4,11 +4,14 @@ const models = require("../../models");
 const { getSubsFileName, processSubtitles } = require("../subs");
 const { successCB, errorCB } = require("./common");
 const { getNumber } = require("../helpers");
+const populate = require("../seed").default;
 
 const fs = require("fs");
 var subsrt = require("subsrt");
 
 const movieQty = 100;
+
+let brandNew = [];
 
 async function list(db) {
   console.log("---------- LIST", movieQty);
@@ -86,6 +89,7 @@ async function fetchFullMovieFromAPIS(id) {
       omdb_.BoxOffice !== "N/A" ? getNumber(omdb_.BoxOffice) : "";
   }
 
+  movie.valid = !(!movie.release_date || movie.vote_count < 1000);
   movie.subsFileName = await getSubsFileName(movie);
   const updatedMovie = await processSubtitles(movie);
 
@@ -99,7 +103,6 @@ async function updatedList() {
     errorCB
   );
   const discoveredPromises = discovered.map((d) => {
-    console.log(d);
     return themoviedb.getMovieDetails({ id: d.id }).then((r) => {
       if (!r.id) {
         return null;
@@ -114,25 +117,34 @@ async function updatedList() {
     return updateRevenue(tmdb_movie);
   });
 
-  return Promise.all(fetchMoviesPromises);
-}
+  const done = await Promise.all(fetchMoviesPromises);
 
+  const added = brandNew;
+  brandNew = [];
+  return { done, added };
+}
+/**
+ * Updates the revenue of the given movie  or creates the movie if it does not exists
+ * @param  movie
+ */
 function updateRevenue(movie) {
   return models.movie
     .findOne({ where: { imdb_id: movie.imdb_id } })
     .then((movieDB) => {
       if (movieDB) {
-        if (movie.revenue !== movie.revenue) {
+        if (movieDB.revenue !== movie.revenue) {
           movieDB.revenue = movie.revenue;
-          return movie.save();
+          return movieDB.save();
         }
         return movieDB;
       } else {
-        console.log(
-          "NEW ONE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! LETS CREATE IT!!!!!",
-          movie.title,
-          movie.imdb_id
-        );
+        brandNew.push(movie);
+        fetchFullMovieFromAPIS({
+          imdb_id: movie.imdb_id,
+          tmdb_id: movie.id,
+        }).then((fullMovie) => {
+          populate([fullMovie], models.sequelize);
+        });
       }
     });
 }

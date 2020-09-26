@@ -388,7 +388,8 @@ function processSubtitles(movie, parsed) {
         const sanitizedLine = parsed ? line : line.text
           .replace(/<\/?[^>]+(>|$)/g, "") //removes html tags
           .replace(/\r?\n|\r/g, " ") //removes new lines
-          .replace(/ *\([^)]*\) */g, ""); //removes parenthesis
+          .replace(/ *\([^)]*\) */g, "") //removes parenthesis
+          .replace(/(\/r\/n)*/g, ""); //removes breaklines
 
         const lineWords = sanitizedLine.split(" ");
 
@@ -397,8 +398,10 @@ function processSubtitles(movie, parsed) {
           let sanitizedWord = word
             .replace(",", "")
             .replace(".", "")
+            .replace(";", "")
             .replace("?", "")
             .replace("!", "")
+            .replace(/^(- )/, "") //removes dialog hyphen
             .toUpperCase();
 
           if (words.findIndex((w) => w.sanitizedWord === sanitizedWord) > -1) {
