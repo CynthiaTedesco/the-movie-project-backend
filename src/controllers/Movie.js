@@ -197,16 +197,15 @@ async function autoUpdateMovieFn(id) {
   );
 
   if (updatedFields && Object.keys(updatedFields).length) {
-
-    await updateMovie(
+    return updateMovie(
       { imdb_id: movie_fromDB.imdb_id },
       updatedFields,
       movie_fromAPIS
-    );
-
-    return { updated: true, movie_fromAPIS };
+    ).then(movie_fromDB=>{
+      return { isUpdated: true, updatedMovie: movie_fromDB };
+    });
   } else {
-    return { updated: false, movie_fromAPIS };
+    return { isUpdated: false };
   }
 }
 

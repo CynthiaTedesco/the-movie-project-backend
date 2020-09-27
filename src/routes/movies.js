@@ -205,15 +205,15 @@ const autoUpdateMovie = (req, res) => {
     ? { tmdb_id: req.body.tmdb_id }
     : { imdb_id: req.body.imdb_id };
 
-  autoUpdateMovieFn(id).then(({ updated, movie_fromAPIS }) => {
-    if (updated) {
+  autoUpdateMovieFn(id).then(({ isUpdated, updatedMovie }) => {
+    if (isUpdated) {
       res
         .status(200)
-        .send({ message: "Successful autoupdate", updated: movie_fromAPIS });
+        .send({ message: "Successful autoupdate", updated: updatedMovie });
     } else {
       res
         .status(200)
-        .send({ message: "Nothing to update", updated: movie_fromAPIS });
+        .send({ message: "Nothing to update", updated: false});
     }
   });
 };
