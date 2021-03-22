@@ -18,11 +18,11 @@ const MovieWriterModel = require("../models/movies_writers");
 const MovieCharacterModel = require("../models/movies_characters");
 const MovieDirectorModel = require("../models/movies_directors");
 
+const fs = require("fs");
+
 const Op = Sequelize.Op;
 
 module.exports = async function populate(list, db) {
-  console.log("populating data. with e.g. ----> ", list[0].title);
-
   const Movie = MovieModel(db, Sequelize);
   const Genre = GenreModel(db, Sequelize);
   const Language = LanguageModel(db, Sequelize);
@@ -405,6 +405,10 @@ function movieDBObject(movie, dbPosters) {
       : null;
   }
 
+  if(movie.subsFileName && fs.existsSync(movie.subsFileName)) {
+    movie.subtitles = fs.readFileSync(movie.subsFileName);
+  }
+
   return {
     imdb_id: movie.imdb_id,
     title: movie.title,
@@ -421,6 +425,7 @@ function movieDBObject(movie, dbPosters) {
     imdb_rating: movie.imdb_rating,
     rated: movie.rated,
     poster_id: movie.poster,
+    subtitles: movie.subtitles
   };
 }
 

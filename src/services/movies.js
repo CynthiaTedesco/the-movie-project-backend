@@ -54,13 +54,13 @@ async function list(db) {
           omdb_movie.BoxOffice !== "N/A" ? getNumber(omdb_movie.BoxOffice) : "";
       }
 
+      movie.subsFileName = await getSubsFileName(movie);
+
       return movie;
     })
   );
-  // const moviesWithSubtitlesFiles = await addSubsFileNames(consolidatedAPIs);
-  const moviesWithSubtitlesFiles = consolidatedAPIs;
 
-  return moviesWithSubtitlesFiles.map(processSubtitles);
+  return consolidatedAPIs.map(movie => processSubtitles(movie));
 }
 async function fetchFullMovieFromAPIS(id) {
   let tmdb;

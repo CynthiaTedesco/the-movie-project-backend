@@ -205,7 +205,7 @@ async function getMovieDetails(options, success, error) {
   success = success || successCB
   error = error || errorCB
 
-  theMovieDb.common.validateRequired(arguments, 1, options, ['id'])
+  theMovieDb.common.validateRequired([options], 1, options, ['id'])
   theMovieDb.common.validateCallbacks(success, error)
 
   const theMovieDbResponse = await theMovieDb.common.client(
