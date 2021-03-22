@@ -8,6 +8,9 @@ let db
 export async function connectDB() {
   const options = {
     ...config,
+    ssl: {
+      rejectUnauthorized: false
+    },
     pool: {
       max: 10,
       min: 0,
@@ -15,7 +18,7 @@ export async function connectDB() {
       idle: 10000
     }
   }
-  
+
   if (config.use_env_variable) {
     db = new Sequelize(process.env[config.use_env_variable], options)
   } else {
@@ -26,7 +29,7 @@ export async function connectDB() {
       config
       )
     }
-    
+
   return db
 }
 
