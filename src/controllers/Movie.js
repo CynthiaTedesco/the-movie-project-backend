@@ -17,6 +17,7 @@ const {
 } = require("./Associations");
 
 const fetchFullMovieFromDB = async (where) => {
+
   const movie = await models.movie.findOne({
     where: where,
     include: [
@@ -30,24 +31,26 @@ const fetchFullMovieFromDB = async (where) => {
     attributes: movie_fields,
   });
 
-  const id = movie.id;
-  const genresAssoc = await genres(id);
-  movie.dataValues.genres = genresAssoc.dataValues.genres;
+  if (movie) {
+    const id = movie.id;
+    const genresAssoc = await genres(id);
+    movie.dataValues.genres = genresAssoc.dataValues.genres;
 
-  const producersAssoc = await producers(id);
-  movie.dataValues.producers = producersAssoc.dataValues.producers;
+    const producersAssoc = await producers(id);
+    movie.dataValues.producers = producersAssoc.dataValues.producers;
 
-  const languagesAssoc = await languages(id);
-  movie.dataValues.languages = languagesAssoc.dataValues.languages;
+    const languagesAssoc = await languages(id);
+    movie.dataValues.languages = languagesAssoc.dataValues.languages;
 
-  const restrictionsAssoc = await restrictions(id);
-  movie.dataValues.restrictions = restrictionsAssoc.dataValues.restrictions;
+    const restrictionsAssoc = await restrictions(id);
+    movie.dataValues.restrictions = restrictionsAssoc.dataValues.restrictions;
 
-  const charactersAssoc = await characters(id);
-  movie.dataValues.characters = charactersAssoc.dataValues.characters;
+    const charactersAssoc = await characters(id);
+    movie.dataValues.characters = charactersAssoc.dataValues.characters;
 
-  const directorsAssoc = await directors(id);
-  movie.dataValues.directors = directorsAssoc.dataValues.directors;
+    const directorsAssoc = await directors(id);
+    movie.dataValues.directors = directorsAssoc.dataValues.directors;
+  }
 
   return movie;
 };
@@ -160,7 +163,6 @@ const updateLists = async (movie, updates) => {
 };
 
 const updateMovie = (where, updates, dataFromAPIS) => {
-  console.log("UPDATE MOVIE, updates", updates);
   return models.movie
     .findOne({
       where: where,
@@ -187,18 +189,22 @@ const updateMovie = (where, updates, dataFromAPIS) => {
 
 async function autoUpdateMovieFn(id) {
   const movie_fromAPIS = await fetchFullMovieFromAPIS(id);
+  const imdbID = movie_fromAPIS.imdb_id
+  let updatedFields = movie_fromAPIS
+
   const movie_fromDB = await fetchFullMovieFromDB(id);
 
-  const updatedFields = getMergedMovie(
-    movie_fromDB,
-    movie_fromAPIS,
-    "db",
-    "api"
-  );
-
+  if(movie_fromDB){
+    updatedFields = getMergedMovie(
+      movie_fromDB,
+      movie_fromAPIS,
+      "db",
+      "api"
+      );
+  }
   if (updatedFields && Object.keys(updatedFields).length) {
     return updateMovie(
-      { imdb_id: movie_fromDB.imdb_id },
+      { imdb_id: imdbID },
       updatedFields,
       movie_fromAPIS
     ).then(movie_fromDB=>{

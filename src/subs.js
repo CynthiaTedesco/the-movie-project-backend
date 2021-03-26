@@ -95,7 +95,7 @@ function getSubtitleFileName(title, year, lang) {
         resolve(fileName === "no results" ? "" : fileName);
       })
       .catch((error) => {
-        console.log("++++error with movie", title, error);
+        console.log("error while processing subs of movie", title, error);
         reject(error);
       });
   });
@@ -201,8 +201,7 @@ function findPath(title, year, language) {
       }
     })
     .catch((error) => {
-      console.log(
-        "++++++ error while getting searchByPath",
+      console.log("error while getting searchByPath",
         error.response ? error.response.config.data : error
       );
       return "no results";
@@ -340,7 +339,6 @@ function addSubsFileNames(moviesList) {
 
 function subsPromise(movie) {
   return new Promise((resolve) => {
-    console.log(" ");
     console.log(movie.title, "0. !!!!!! Started subsPromise");
 
     if (movie.subsFileName) {
@@ -425,8 +423,7 @@ function processSubtitles(movie, parsed) {
           (w1, w2) => -w1.count + w2.count
         )[0].word;
       } else {
-        console.log(
-          "---------------------------- movie without words:",
+        console.log("movie without words:",
           movie.title
         );
       }

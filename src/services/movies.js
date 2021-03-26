@@ -7,14 +7,12 @@ const { getNumber } = require("../helpers");
 const populate = require("../seed").default;
 
 const fs = require("fs");
-var subsrt = require("subsrt");
 
 const movieQty = 100;
 
 let brandNew = [];
 
 async function list(db) {
-  console.log("---------- LIST", movieQty);
   const theMovieDB_data = await themoviedb.data(movieQty);
   fs.writeFileSync(
     "themoviedb_movies.json",
@@ -25,7 +23,7 @@ async function list(db) {
   // const theMovieDB_data = JSON.parse(data)
 
   // const Movie = MovieModel(db, Sequelize);
-  // const localMovies = await Movie.findAll();
+  const localMovies = await Movie.findAll();
 
   const movies = theMovieDB_data || localMovies;
 
@@ -71,9 +69,10 @@ async function fetchFullMovieFromAPIS(id) {
       imdb_id: id.imdb_id,
       external_source: "imdb_id",
     });
-    tmdb.tmdb_id = tmdb.id;
-    delete tmdb.id;
   }
+  tmdb.tmdb_id = tmdb.id;
+  delete tmdb.id;
+
   const omdb_ = tmdb.imdb_id ? await omdb.findByIMDB(tmdb.imdb_id) : null;
   let movie = tmdb;
   if (omdb_) {

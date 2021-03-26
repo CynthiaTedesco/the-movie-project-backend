@@ -224,12 +224,6 @@ async function discoverMovies(options, success, error) {
   theMovieDb.common.validateRequired(arguments, 3, '', '', true)
   theMovieDb.common.validateCallbacks(success, error)
 
-  console.log(
-    'generating URL with options',
-    options,
-    theMovieDb.common.generateQuery(options)
-  )
-
   const baseURL =
     'discover/movie' +
     theMovieDb.common.generateQuery(options) +
@@ -286,6 +280,7 @@ async function data(qty = 50, success = successCB, error = errorCB) {
         if (detail) {
           return {
             imdb_id: detail.imdb_id,
+            tmdb_id: b.id,
             api_id: b.id,
             api_name: 'themoviedb',
             title: b.title,

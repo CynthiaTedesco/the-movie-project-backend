@@ -22,9 +22,7 @@ function findByTitle(title) {
         return null
       }
     })
-    .catch((error) => {
-      console.log(error)
-    })
+    .catch(console.log)
 }
 function findByIMDB(imdb_id) {
   const url = 'http://www.omdbapi.com/?i=' + imdb_id + '&apikey=' + API_KEY

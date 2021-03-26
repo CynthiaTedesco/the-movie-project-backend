@@ -262,7 +262,6 @@ async function getObjectList(list = [], itemKey, assocTable, people) {
 }
 async function updateAssociations(movie, list, itemKey, assocTable, people) {
   list = await getObjectList(list, itemKey, assocTable, people);
-  console.log("-----> updateAssociations list", list);
   let attributes = ["id", itemKey, "movie_id"];
   if (people) {
     if (people === "characters") {
@@ -287,7 +286,7 @@ async function updateAssociations(movie, list, itemKey, assocTable, people) {
 
   const toAdd = list.filter(
     (l) => current.findIndex((c) => c[itemKey] == l.id) === -1
-  );
+  ).filter(a=>a);
   console.log("--- toAdd", toAdd);
 
   const toDelete = current

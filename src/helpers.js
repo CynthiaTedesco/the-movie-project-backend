@@ -15,6 +15,7 @@ const toBeMerged_plain = [
   "word_count",
   "most_used_word",
   "tmdb_id",
+  "imdb_id",
   "country",
   // "awards",
 ];
@@ -168,8 +169,6 @@ function getMergedMovie(old, newm, origin, target = "db", updates = {}) {
         const dbAttrList = old.dataValues[old_attr_name];
         if (target === "api") {
           let toMap;
-          console.log("old_attr_name");
-          console.log(old_attr_name);
           switch (old_attr_name) {
             case "genres": {
               toMap = newm[new_attr_name].map((a) => {
@@ -315,8 +314,7 @@ const movie_fields = [
 ];
 
 function updateJSON(newMovie, dataFromAPIS, updates) {
-  //TODO FIX: it breaks when autoUpdateAll --> origin:json, poster is string
-  // console.log('UPDATE JSON', 'updates', updates);
+  //FIXME: it breaks when autoUpdateAll --> origin:json, poster is string
   // const oldFileContent = fs.readFileSync('movies.json')
   // let jsonMovies = JSON.parse(oldFileContent)
   // let merged
@@ -330,7 +328,6 @@ function updateJSON(newMovie, dataFromAPIS, updates) {
   //     getMergedMovie(newMovie, dataFromAPIS, 'db', 'api', updates)
   //   }
   //   updatedFields = getMergedMovie(oldMovie, newMovie, 'json', 'db', updates)
-  //   // console.log('~~~~~~~~~~~~~~~~` MERGED', oldMovie.subsFileName)
   //   //re add it
   //   jsonMovies.push(oldMovie)
   // }
