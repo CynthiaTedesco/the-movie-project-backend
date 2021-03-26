@@ -32,7 +32,7 @@ Steps
   HEROKU_DB_URL = postgres://egnbfvcpcibicf:4450df54c1476399d83a7fc5759605ffba0f481580878a0c7305dc6e78b2aed0@ec2-54-246-89-234.eu-west-1.compute.amazonaws.com:5432/db1bbm34ruejn6
   ```
 
-2. npm install
+2. ```npm install```
 
 3. generate database
 
@@ -43,3 +43,4 @@ Steps
   npm run populate
   ```
 
+4. Run server with ```npm run dev```
