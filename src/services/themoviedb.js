@@ -366,6 +366,7 @@ function processPeople(list) {
                   return person.save()
                 })
               }
+              return null;
             }
           )
         })
